@@ -1,0 +1,299 @@
+# VTLIGH_1.SCP - 98 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x3de|chars=56]
+Franco: Entao finalmente\ncomecou a criar animais, hein?
+
+[1|off=0x45a|chars=109]
+Franco: Sabia que os robos criadores\ncomo o Cluck-o-Matic tambem sao\ninvencoes do Dr. Hope?
+
+[2|off=0x540|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatizado, mas naquela epoca usar\nrobos era uma ideia revolucionaria.
+
+[3|off=0x62c|chars=61]
+Franco: Ouvi que eles ainda os\nusam bastante no exterior.
+
+[4|off=0x6b2|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido novamente\nentre essas
+
+[5|off=0x752|chars=90]
+Moonlight: Tenho certeza que a\nforca vital deles ira revitalizar\nessa terra e a natureza!
+
+[6|off=0x812|chars=72]
+Franco: Uau!\nVoce tem sorte!\nGanhar um buggy assim de presente!
+
+[7|off=0x8ae|chars=89]
+Franco: Se eu tivesse um buggy\ndesses, levaria a Rose num passeio\nque ela nunca
+
+[8|off=0x96c|chars=11]
+Moonlight:
+
+[9|off=0x984|chars=52]
+P! Vi que voce ganhou\num presente do Dr. Hope.
+
+[10|off=0x9f8|chars=63]
+Moonlight: Num buggy desse voce\npode ir a praticamente\nqualquer
+
+[11|off=0xa82|chars=60]
+Franco: Nao acredito que o Marco\ncometeu um erro tao grande.
+
+[12|off=0xb06|chars=73]
+Franco: Quando era jovem, todos\nlevavam seus namorados\naquella caverna.
+
+[13|off=0xba4|chars=11]
+Moonlight:
+
+[14|off=0xbbc|chars=57]
+P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
+
+[15|off=0xc3a|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
+
+[16|off=0xce0|chars=49]
+Franco: Ouvi que voce plantou\nalgunas
+
+[17|off=0xd4e|chars=120]
+Franco: Se voce conseguir enviar\nbastante ate a vespera do\nNatal, podem usar para\ndecorar a cidade!
+
+[18|off=0xe4a|chars=21]
+Franco: Mal posso
+
+[19|off=0xe80|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[20|off=0xede|chars=96]
+Franco: Sei que voce deve estar\npreocupado com ele, mas voce tem\num trabalho importante a fazer.
+
+[21|off=0xfaa|chars=89]
+Franco: Tenho certeza que a melhor\ncoisa para o Dr. Hope e ver\nvoce trabalhando duro.
+
+[22|off=0x1068|chars=52]
+Moonlight: Nunca soube que o\nDr. Hope estava tao
+
+[23|off=0x10dc|chars=86]
+Moonlight: Suponho que e por isso\nque ele estava com tanta pressa\nde terminar o
+
+[24|off=0x1194|chars=42]
+Franco: Sei que voce ta triste\npelo Dr.
+
+[25|off=0x11ea|chars=12]
+P. Eu
+
+[26|off=0x120e|chars=31]
+Franco: Ele era um bom amigo...
+
+[27|off=0x1258|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[28|off=0x12c4|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do que\naparenta!
+
+[29|off=0x1364|chars=91]
+Moonlight: O que estou tentando\ndizer e... Tenho certeza que o\nDr. Hope sempre velara por
+
+[30|off=0x142c|chars=62]
+Franco: Quem e aquele homem estranho\nque mora no novo quarto?
+
+[31|off=0x14b4|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
+
+[32|off=0x1582|chars=61]
+Franco: Bom, acho que nao devemos\nnos preocupar tanto com
+
+[33|off=0x1608|chars=43]
+Franco: Um extraterrestre mora\nno novo
+
+[34|off=0x166a|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
+
+[35|off=0x1738|chars=61]
+Franco: Bom, acho que nao devemos\nnos preocupar tanto com
+
+[36|off=0x17be|chars=11]
+Moonlight:
+
+[37|off=0x17d6|chars=76]
+P!\nVi uma coisa estranha parecendo\num bicho de pelucia no novo quarto.
+
+[38|off=0x187a|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!
+
+[39|off=0x18ec|chars=13]
+*: Meow meow.
+
+[40|off=0x1912|chars=8]
+*: Hiss!
+
+[41|off=0x192e|chars=11]
+*: Meeeeow.
+
+[42|off=0x1950|chars=8]
+*: Meow.
+
+[43|off=0x196c|chars=58]
+Liberta: Gosto de passar minhas\ntardes fora da vinicola.
+
+[44|off=0x19ec|chars=108]
+Liberta: Se voce nao sabe o que\nacontece no mundo la fora, tambem\nnao pode ser um bom julgador de vinho.
+
+[45|off=0x1ad0|chars=75]
+Big: Adultos sao estupidos de verdade.\nAcham que adivinacao\nfunciona.
+
+[46|off=0x1b72|chars=114]
+Big: Voce viu o episodio desta semana\nde Miss Cute? Acho que o diretor de\narte foi diferente desta vez...
+
+[47|off=0x1c62|chars=75]
+Big: Adultos sao estupidos de verdade.\nAcham que adivinacao\nfunciona.
+
+[48|off=0x1d04|chars=114]
+Big: Voce viu o episodio desta semana\nde Bosque Melancolico? Nao entendo\nmas ainda assim assisto.
+
+[49|off=0x1df4|chars=75]
+Big: Adultos sao estupidos de verdade.\nAcham que adivinacao\nfunciona.
+
+[50|off=0x1e96|chars=71]
+Big: A proposito, nao exagere\nnesse seu novo buggy.
+
+[51|off=0x1f30|chars=30]
+Big: Corra, nao dirija.
+
+[52|off=0x1f78|chars=75]
+Big: Adultos sao estupidos de verdade.\nAcham que adivinacao\nfunciona.
+
+[53|off=0x201a|chars=57]
+Big: Voce nao acha o tal de Neo\num pouco suspeito?
+
+[54|off=0x2098|chars=64]
+Liberta: Hm. Um garoto, eh...?\nVoce e filho do Dr. Hope,\nnao e?
+
+[55|off=0x2124|chars=75]
+Liberta: ...Hm.\nSeu rosto parece jovem,\nmas seus olhos sao de sabio...
+
+[56|off=0x21c6|chars=82]
+Liberta: ...Hm.\nVou te dar este Dicionario\nque eu, Liberta, compilei para voce!
+
+[57|off=0x2276|chars=24]
+Liberta: Aqui, tome.
+
+[58|off=0x22b6|chars=96]
+Liberta: Hm? Suas maos estao cheias...\nEntao, farei trazer\nate voce mais tarde no canteiro.
+
+[59|off=0x2382|chars=95]
+Liberta: Ainda nao terminei,\nmas as palavras amadurecerao\nquando o garoto ver o mundo.
+
+[60|off=0x244c|chars=76]
+Liberta: Vejamos...\nPor que nao vem me ver\nquando a nova estacao chegar?
+
+[61|off=0x24f0|chars=12]
+Liberta: Se
+
+[62|off=0x250a|chars=92]
+P trabalhar muito,\ntalvez tenha palavras para\no meu Dicionario quando estiver pronto.
+
+[63|off=0x25ce|chars=19]
+Liberta: E voce,
+
+[64|off=0x25f6|chars=34]
+P.\nUsando meu Dicionario...?
+
+[65|off=0x2646|chars=113]
+Liberta: Ho, ho. Seu mundo de aventuras\nse expande. Ja completou o envio\ndas Verduras de Primavera...!
+
+[66|off=0x2734|chars=98]
+Liberta: Hm. Voce esta trabalhando\nduro! Ja completou o envio\ndas Verduras de Verao...!
+
+[67|off=0x2804|chars=80]
+Liberta: Oh! Ja completou o envio\ndas Verduras de Outono...\nMuito bom...!
+
+[68|off=0x28b0|chars=94]
+Liberta: Oh, lembrei...\nOuvi que voce foi uma grande ajuda\nquando Million se casou!
+
+[69|off=0x2978|chars=92]
+Liberta: Vejo... Voce entende\ndas Artes. Voce viu as obras\nque Moonlight criou, certo?
+
+[70|off=0x2a3c|chars=90]
+Liberta: Bom, voce e um gourmet de verdade.\nJa completou\nas listas de menu, certo?
+
+[71|off=0x2afc|chars=87]
+Liberta: Que otimo!\nFinalmente voce conseguiu\nenviar flores e ervas de todo tipo...!
+
+[72|off=0x2bb6|chars=72]
+Liberta: E verdade que\nvoce parou os extraterrestres? Isso e o\n
+
+[73|off=0x2c48|chars=25]
+P que sei, devo dizer...
+
+[74|off=0x2c86|chars=102]
+Liberta: VIVA! Voce finalmente enviou\ntoda a Vegetacao Nativa que\npode conseguir nesta ilha....!
+
+[75|off=0x2d5e|chars=114]
+Liberta: Incrivel! Voce dominou espiritos,\ndominou habilidades\ne fez uma fortuna, certo?
+
+[76|off=0x2e4e|chars=89]
+Liberta: Oh...! Na verdade, eu estava\ncoletando possiveis palavras\nnesse meio tempo.
+
+[77|off=0x2f0c|chars=106]
+Liberta: Essas palavras amadurecerao como vinho.\nEncherao ainda mais o\narmazem da sua inteligencia...
+
+[78|off=0x2fe8|chars=55]
+Nova palavra registrada\nno Dicionario da Liberta!
+
+[79|off=0x3062|chars=20]
+Liberta: Muito bem,
+
+[80|off=0x308c|chars=58]
+P.\nImpressionate. E a Vida\nInocente amada do Dr. Hope!
+
+[81|off=0x310c|chars=72]
+Liberta: Meu Dicionario\natingiu o auge.\nEu devo isso a voce.
+
+[82|off=0x31a8|chars=64]
+Liberta: Hm....\nNao seria ruim compartilhar\nessa alegria com
+
+[83|off=0x323a|chars=55]
+Liberta: Certo! Vou te dar\nquatro Joias Negras Maduras.
+
+[84|off=0x32b2|chars=30]
+P recebeu quatro Joias Negras.
+
+[85|off=0x32fe|chars=95]
+Liberta: Hm? Suas maos estao cheias...\nEntao, farei trazer mais\ntarde ate voce nas ruinas.
+
+[86|off=0x33c8|chars=79]
+Liberta: ...Pensei que era tudo,\nmas parece que ha mais coisas que\n
+
+[87|off=0x3468|chars=19]
+P acumulou feitos.
+
+[88|off=0x349a|chars=70]
+Liberta: Ate palavras comuns\nescondem infinitas\npossibilidades.
+
+[89|off=0x3532|chars=81]
+Liberta: E como um bom vinho.\nAmor e tempo,\ne isso que leva ao amadurecimento.
+
+[90|off=0x35e0|chars=20]
+Liberta: Muito bem,
+
+[91|off=0x360a|chars=58]
+P.\nImpressionate. E a Vida\nInocente amada do Dr. Hope!
+
+[92|off=0x368a|chars=72]
+Liberta: Meu Dicionario\natingiu o auge.\nEu devo isso a voce.
+
+[93|off=0x3726|chars=15]
+*: Gaga meeoow.
+
+[94|off=0x3750|chars=14]
+*: Gaga purrr.
+
+[95|off=0x3778|chars=14]
+*: Gaga purrr.
+
+[96|off=0x37a0|chars=16]
+Liberta: Ga! Ga!
+
+[97|off=0x37cc|chars=28]
+Big: Gagaga gaga gagagagaga!

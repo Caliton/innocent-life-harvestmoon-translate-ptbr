@@ -1,0 +1,137 @@
+# VTANA2.SCP - 44 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x24e|chars=56]
+Franco: Entao finalmente\ncomecou a criar animais, hein?
+
+[1|off=0x2ca|chars=109]
+Franco: Sabia que os robos criadores\ncomo o Cluck-o-Matic tambem sao\ninvencoes do Dr. Hope?
+
+[2|off=0x3b0|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatizado, mas naquela epoca usar\nrobos era uma ideia revolucionaria.
+
+[3|off=0x49c|chars=61]
+Franco: Ouvi que eles ainda os\nusam bastante no exterior.
+
+[4|off=0x522|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido novamente\nentre essas
+
+[5|off=0x5c2|chars=90]
+Moonlight: Tenho certeza que a\nforca vital deles ira revitalizar\nessa terra e a natureza!
+
+[6|off=0x682|chars=72]
+Franco: Uau!\nVoce tem sorte!\nGanhar um buggy assim de presente!
+
+[7|off=0x71e|chars=89]
+Franco: Se eu tivesse um buggy\ndesses, levaria a Rose num passeio\nque ela nunca
+
+[8|off=0x7dc|chars=11]
+Moonlight:
+
+[9|off=0x7f4|chars=52]
+P! Vi que voce ganhou\num presente do Dr. Hope.
+
+[10|off=0x868|chars=63]
+Moonlight: Num buggy desse voce\npode ir a praticamente\nqualquer
+
+[11|off=0x8f2|chars=60]
+Franco: Nao acredito que o Marco\ncometeu um erro tao grande.
+
+[12|off=0x976|chars=73]
+Franco: Quando era jovem, todos\nlevavam seus namorados\naquella caverna.
+
+[13|off=0xa14|chars=11]
+Moonlight:
+
+[14|off=0xa2c|chars=57]
+P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
+
+[15|off=0xaaa|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
+
+[16|off=0xb50|chars=49]
+Franco: Ouvi que voce plantou\nalgunas
+
+[17|off=0xbbe|chars=120]
+Franco: Se voce conseguir enviar\nbastante ate a vespera do\nNatal, podem usar para\ndecorar a cidade!
+
+[18|off=0xcba|chars=21]
+Franco: Mal posso
+
+[19|off=0xcf0|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[20|off=0xd4e|chars=96]
+Franco: Sei que voce deve estar\npreocupado com ele, mas voce tem\num trabalho importante a fazer.
+
+[21|off=0xe1a|chars=89]
+Franco: Tenho certeza que a melhor\ncoisa para o Dr. Hope e ver\nvoce trabalhando duro.
+
+[22|off=0xed8|chars=52]
+Moonlight: Nunca soube que o\nDr. Hope estava tao
+
+[23|off=0xf4c|chars=86]
+Moonlight: Suponho que e por isso\nque ele estava com tanta pressa\nde terminar o
+
+[24|off=0x1004|chars=42]
+Franco: Sei que voce ta triste\npelo Dr.
+
+[25|off=0x105a|chars=12]
+P. Eu
+
+[26|off=0x107e|chars=31]
+Franco: Ele era um bom amigo...
+
+[27|off=0x10c8|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[28|off=0x1134|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do que\naparenta!
+
+[29|off=0x11d4|chars=91]
+Moonlight: O que estou tentando\ndizer e... Tenho certeza que o\nDr. Hope sempre velara por
+
+[30|off=0x129c|chars=62]
+Franco: Quem e aquele homem estranho\nque mora no novo quarto?
+
+[31|off=0x1324|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
+
+[32|off=0x13f2|chars=61]
+Franco: Bom, acho que nao devemos\nnos preocupar tanto com
+
+[33|off=0x1478|chars=43]
+Franco: Um extraterrestre mora\nno novo
+
+[34|off=0x14da|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
+
+[35|off=0x15a8|chars=61]
+Franco: Bom, acho que nao devemos\nnos preocupar tanto com
+
+[36|off=0x162e|chars=11]
+Moonlight:
+
+[37|off=0x1646|chars=76]
+P!\nVi uma coisa estranha parecendo\num bicho de pelucia no novo quarto.
+
+[38|off=0x16ea|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!
+
+[39|off=0x1758|chars=45]
+O gas toxico parece ter sumido\nda caverna.
+
+[40|off=0x17be|chars=75]
+Marco: Nunca vou entender. Por que\na maquina nao funcionou como planejei?
+
+[41|off=0x1860|chars=68]
+Marco: E aquele gas vazando\ndaquela forma. E tudo muito\nestranha...
+
+[42|off=0x18f4|chars=100]
+Marco: Usamos toda a tecnologia\nde ponta. Nao podia ter\nhaviddo erros... Espera um minuto.......
+
+[43|off=0x19c8|chars=34]
+Marco: E claro!\nDeve ser isso!

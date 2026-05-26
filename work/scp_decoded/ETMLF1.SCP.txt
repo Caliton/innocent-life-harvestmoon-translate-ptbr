@@ -1,0 +1,275 @@
+# ETMLF1.SCP - 90 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x39e|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x41a|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x500|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x5ec|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[4|off=0x672|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x712|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x7d2|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x86e|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0x92c|chars=11]
+Moonlight: 
+
+[9|off=0x944|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0x9b8|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[11|off=0xa42|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0xac6|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0xb64|chars=11]
+Moonlight: 
+
+[14|off=0xb7c|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[15|off=0xbfa|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xca0|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0xd0e|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[18|off=0xe0a|chars=21]
+Franco: I can't wait!
+
+[19|off=0xe40|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[20|off=0xe9e|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0xf6a|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0x1028|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0x109c|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x1154|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x11aa|chars=12]
+P. I am too.
+
+[26|off=0x11ce|chars=31]
+Franco: He was a good friend...
+
+[27|off=0x1218|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[28|off=0x1284|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x1324|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x13ec|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x1474|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x1542|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x15c8|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[34|off=0x162a|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x16f8|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x177e|chars=11]
+Moonlight: 
+
+[37|off=0x1796|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x183a|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x18a8|chars=57]
+This item is sold out.\nPlease wait until it is restocked.
+
+[40|off=0x1922|chars=57]
+This item is sold out.\nPlease wait until it is restocked.
+
+[41|off=0x199c|chars=69]
+Welcome! And thank you for using\nthis Shop-a-Million vending machine!
+
+[42|off=0x1a2e|chars=69]
+Welcome! And thank you for using\nthis Shop-a-Million vending machine!
+
+[43|off=0x1ac0|chars=5]
+This 
+
+[44|off=0x1acc|chars=8]
+I costs\n
+
+[45|off=0x1ade|chars=33]
+KG.\nYou do not have enough money.
+
+[46|off=0x1b28|chars=5]
+This 
+
+[47|off=0x1b34|chars=8]
+I costs\n
+
+[48|off=0x1b46|chars=33]
+KG.\nYou do not have enough money.
+
+[49|off=0x1b90|chars=25]
+Thank you and come again.
+
+[50|off=0x1bca|chars=25]
+Thank you and come again.
+
+[51|off=0x1c04|chars=37]
+Would you like to purchase this item?
+
+[52|off=0x1c56|chars=37]
+Would you like to purchase this item?
+
+[53|off=0x1ca8|chars=37]
+Okay! One will be sent to\nyour farm, 
+
+[54|off=0x1d00|chars=25]
+Thank you and come again.
+
+[55|off=0x1d3a|chars=25]
+Thank you and come again.
+
+[56|off=0x1d74|chars=24]
+How many would you like?
+
+[57|off=0x1dbc|chars=18]
+L of them will be 
+
+[58|off=0x1df0|chars=38]
+Thank you very much for\nyour purchase!
+
+[59|off=0x1e44|chars=38]
+Thank you very much for\nyour purchase!
+
+[60|off=0x1e98|chars=37]
+The items will be sent to\nyour farm, 
+
+[61|off=0x1ef8|chars=71]
+KG\nCan gather a number at a time. Plant\nthem early to make more profit.
+
+[62|off=0x1f96|chars=54]
+KG\nA 4-piece set of curved rails.\nUse them for curves.
+
+[63|off=0x2012|chars=76]
+KG\nYou won't know what color it is until\nit blooms. Blooms again if watered.
+
+[64|off=0x20ba|chars=65]
+KG\nA fragrant herb. Can be picked\nagain if watered after harvest.
+
+[65|off=0x214c|chars=65]
+KG\nA fragrant herb. Can be picked\nagain if watered after harvest.
+
+[66|off=0x21de|chars=65]
+KG\nA fragrant herb. Can be picked\nagain if watered after harvest.
+
+[67|off=0x2270|chars=65]
+KG\nA fragrant herb. Can be picked\nagain if watered after harvest.
+
+[68|off=0x2302|chars=76]
+KG\nCan gather a number at a time. Plant\nthem early to make the most of them.
+
+[69|off=0x23aa|chars=48]
+KG\nSweet and delicious.\nRelatively easy to grow.
+
+[70|off=0x241a|chars=66]
+KG\nGrows again if watered after harvest.\nCan be repeatedly picked.
+
+[71|off=0x24ae|chars=74]
+KG\nA popular flower during the summer.\nPlant seeds again after harvesting.
+
+[72|off=0x2552|chars=76]
+KG\nWill bloom in various colors. White\nis the most challenging to cultivate!
+
+[73|off=0x25fa|chars=65]
+KG\nGrow high-quality melons on your own\nfarm! Takes time to grow.
+
+[74|off=0x268c|chars=77]
+KG\nCan gather many from a single tree.\nGrows fast and is ideal for beginners.
+
+[75|off=0x2736|chars=80]
+KG\nWill bear fruit again if watered after\npicking. Plant them early for profits.
+
+[76|off=0x27e6|chars=72]
+KG\nA popular flower during the fall.\nPlant seeds again after harvesting.
+
+[77|off=0x2886|chars=69]
+KG\nA flower loved by cats. Will bloom again\nif watered after cutting.
+
+[78|off=0x2920|chars=75]
+KG\nA popular vegetable during the fall.\nPlant seeds again after harvesting.
+
+[79|off=0x29c6|chars=81]
+KG\nIrresistible when warmed up on a cold\nday. Plant seeds again after harvesting.
+
+[80|off=0x2a78|chars=76]
+KG\nCan gather a number at a time. Plant\nthem early to make the most of them.
+
+[81|off=0x2b20|chars=70]
+KG\nA necessity for curry and stew.\nPlant seeds again after harvesting.
+
+[82|off=0x2bbc|chars=82]
+KG\nCan gather a large quantity at a time.\nBeneficial if planted at an early stage.
+
+[83|off=0x2c70|chars=76]
+KG\nCan gather a number at a time. Plant\nthem early to make the most of them.
+
+[84|off=0x2d18|chars=78]
+KG\nThe only vegetable that can be grown in\nthe winter. High nutritional value.
+
+[85|off=0x2dc4|chars=65]
+KG\nThe only flower that grows in\nwinter. Blooms again if watered.
+
+[86|off=0x2e56|chars=61]
+KG\nA 20-piece set of straight rails.\nConnect together to use.
+
+[87|off=0x2ee0|chars=56]
+KG\nA rail motor from Bas&Ket Inc.\nThe fastest model yet!
+
+[88|off=0x2f58|chars=6]
+Yes\nNo
+
+[89|off=0x2f6c|chars=6]
+Yes\nNo

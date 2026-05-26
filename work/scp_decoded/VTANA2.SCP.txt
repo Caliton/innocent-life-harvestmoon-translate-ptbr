@@ -1,0 +1,137 @@
+# VTANA2.SCP - 44 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x24e|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x2ca|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x3b0|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x49c|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[4|off=0x522|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x5c2|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x682|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x71e|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0x7dc|chars=11]
+Moonlight: 
+
+[9|off=0x7f4|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0x868|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[11|off=0x8f2|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0x976|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0xa14|chars=11]
+Moonlight: 
+
+[14|off=0xa2c|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[15|off=0xaaa|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xb50|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0xbbe|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[18|off=0xcba|chars=21]
+Franco: I can't wait!
+
+[19|off=0xcf0|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[20|off=0xd4e|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0xe1a|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0xed8|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0xf4c|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x1004|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x105a|chars=12]
+P. I am too.
+
+[26|off=0x107e|chars=31]
+Franco: He was a good friend...
+
+[27|off=0x10c8|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[28|off=0x1134|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x11d4|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x129c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x1324|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x13f2|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x1478|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[34|off=0x14da|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x15a8|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x162e|chars=11]
+Moonlight: 
+
+[37|off=0x1646|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x16ea|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x1758|chars=45]
+The noxious gas seems to be gone\nin the cave.
+
+[40|off=0x17be|chars=75]
+Marco: I'll never understand it. Why\ndidn't my machine work like I planned?
+
+[41|off=0x1860|chars=68]
+Marco: And that gas leaking the way it\ndid. It's all very strange...
+
+[42|off=0x18f4|chars=100]
+Marco: We used all the latest\ntechnology. There can't have been\nany mistakes... Wait a minute.......
+
+[43|off=0x19c8|chars=34]
+Marco: Of course!\nThat must be it!

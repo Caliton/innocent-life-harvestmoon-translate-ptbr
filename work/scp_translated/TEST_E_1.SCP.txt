@@ -1,0 +1,185 @@
+# TEST_E_1.SCP - 60 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x2ce|chars=56]
+Franco: Entao voce finalmente\ncriou animais, hein?      
+
+[1|off=0x34a|chars=109]
+Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?            
+
+[2|off=0x430|chars=112]
+Franco: Hoje tudo na fazenda\ne automatizado. Mas usar robos\nera uma ideia bem revolucionaria.                   
+
+[3|off=0x51c|chars=61]
+Franco: Ouvi que la fora\nainda os usam bastante.             
+
+[4|off=0x5a2|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnestas ruinas!    
+
+[5|off=0x642|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar\nestas terras e a natureza!            
+
+[6|off=0x702|chars=72]
+Franco: Uau!\nVoce tem muita sorte!\nGanhou um buggy assim de presente!   
+
+[7|off=0x79e|chars=89]
+Franco: Se eu tivesse um buggy,\nlevaria a Rose num passeio\ninesquecivel!                 
+
+[8|off=0x85c|chars=11]
+Moonlight: 
+
+[9|off=0x874|chars=52]
+P! Que belo presente\ndo Dr. Hope voce ganhou.       
+
+[10|off=0x8e8|chars=63]
+Moonlight: Com buggy assim\nvoce pode ir a quase qualquer lugar!
+
+[11|off=0x972|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.  
+
+[12|off=0x9f6|chars=73]
+Franco: Quando era jovem, todo mundo\nlevava seus pares a aquela caverna. 
+
+[13|off=0xa94|chars=11]
+Moonlight: 
+
+[14|off=0xaac|chars=57]
+P!\nOuvi que tiveram problemas na\ncaverna de Volcano Town.
+
+[15|off=0xb2a|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar ao\nestado original disso.
+
+[16|off=0xbd0|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.  
+
+[17|off=0xc3e|chars=120]
+Franco: Se mandar bastante ate a\nvespera do Natal, podem\nusar para decorar a cidade toda.                               
+
+[18|off=0xd3a|chars=21]
+Franco: Que animacao!
+
+[19|off=0xd70|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...  
+
+[20|off=0xdce|chars=96]
+Franco: Sei que esta preocupado,\nmas voce tem um trabalho\nimportante a terminar.                
+
+[21|off=0xe9a|chars=89]
+Franco: Tenho certeza que a\nmelhor coisa pro Dr. Hope agora\ne ver o quanto voce trabalha.
+
+[22|off=0xf58|chars=52]
+Moonlight: Nao sabia que\nDr. Hope estava doente...  
+
+[23|off=0xfcc|chars=86]
+Moonlight: Imagino que por isso\nele corria tanto para terminar\no trabalho com voce... 
+
+[24|off=0x1084|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[25|off=0x10da|chars=12]
+P. Eu tambem
+
+[26|off=0x10fe|chars=31]
+Franco: Era um bom amigo...    
+
+[27|off=0x1148|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!      
+
+[28|off=0x11b4|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do\nque aparece!           
+
+[29|off=0x1254|chars=91]
+Moonlight: O que tento dizer e...\nTenho certeza que o Dr. Hope\nestara olhando por voce,    
+
+[30|off=0x131c|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?         
+
+[31|off=0x13a4|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[32|off=0x1472|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[33|off=0x14f8|chars=43]
+Franco: Um alien mora\nno novo quarto?      
+
+[34|off=0x155a|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[35|off=0x1628|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[36|off=0x16ae|chars=11]
+Moonlight: 
+
+[37|off=0x16c6|chars=76]
+P!\nVi uma coisa estranha parecida\ncom bicho de pelucia no novo quarto.      
+
+[38|off=0x176a|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!    
+
+[39|off=0x17d8|chars=4]
+Life
+
+[40|off=0x17e8|chars=5]
+Forte
+
+[41|off=0x17fa|chars=7]
+Chocobi
+
+[42|off=0x1810|chars=5]
+Cocoa
+
+[43|off=0x1822|chars=4]
+Yogi
+
+[44|off=0x1832|chars=5]
+Cow 1
+
+[45|off=0x1844|chars=5]
+Cow 2
+
+[46|off=0x1856|chars=5]
+Cow 3
+
+[47|off=0x1868|chars=5]
+Cow 4
+
+[48|off=0x187a|chars=5]
+Cow 5
+
+[49|off=0x188c|chars=7]
+Sheep 1
+
+[50|off=0x18a2|chars=7]
+Sheep 2
+
+[51|off=0x18b8|chars=7]
+Sheep 3
+
+[52|off=0x18ce|chars=7]
+Sheep 4
+
+[53|off=0x18e4|chars=7]
+Sheep 5
+
+[54|off=0x18fa|chars=9]
+Chicken 1
+
+[55|off=0x1914|chars=9]
+Chicken 2
+
+[56|off=0x192e|chars=9]
+Chicken 3
+
+[57|off=0x1948|chars=9]
+Chicken 4
+
+[58|off=0x1962|chars=9]
+Chicken 5
+
+[59|off=0x197c|chars=4]
+Yogi

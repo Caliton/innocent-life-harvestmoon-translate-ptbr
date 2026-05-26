@@ -1,0 +1,152 @@
+# TEST_W.SCP - 49 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x276|chars=56]
+Franco: Entao voce finalmente\ncriou animais, hein?      
+
+[1|off=0x2f2|chars=109]
+Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?            
+
+[2|off=0x3d8|chars=112]
+Franco: Hoje tudo na fazenda\ne automatizado. Mas usar robos\nera uma ideia bem revolucionaria.                   
+
+[3|off=0x4c4|chars=61]
+Franco: Ouvi que la fora\nainda os usam bastante.             
+
+[4|off=0x54a|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnestas ruinas!    
+
+[5|off=0x5ea|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar\nestas terras e a natureza!            
+
+[6|off=0x6aa|chars=72]
+Franco: Uau!\nVoce tem muita sorte!\nGanhou um buggy assim de presente!   
+
+[7|off=0x746|chars=89]
+Franco: Se eu tivesse um buggy,\nlevaria a Rose num passeio\ninesquecivel!                 
+
+[8|off=0x804|chars=11]
+Moonlight: 
+
+[9|off=0x81c|chars=52]
+P! Que belo presente\ndo Dr. Hope voce ganhou.       
+
+[10|off=0x890|chars=63]
+Moonlight: Com buggy assim\nvoce pode ir a quase qualquer lugar!
+
+[11|off=0x91a|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.  
+
+[12|off=0x99e|chars=73]
+Franco: Quando era jovem, todo mundo\nlevava seus pares a aquela caverna. 
+
+[13|off=0xa3c|chars=11]
+Moonlight: 
+
+[14|off=0xa54|chars=57]
+P!\nOuvi que tiveram problemas na\ncaverna de Volcano Town.
+
+[15|off=0xad2|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar ao\nestado original disso.
+
+[16|off=0xb78|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.  
+
+[17|off=0xbe6|chars=120]
+Franco: Se mandar bastante ate a\nvespera do Natal, podem\nusar para decorar a cidade toda.                               
+
+[18|off=0xce2|chars=21]
+Franco: Que animacao!
+
+[19|off=0xd18|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...  
+
+[20|off=0xd76|chars=96]
+Franco: Sei que esta preocupado,\nmas voce tem um trabalho\nimportante a terminar.                
+
+[21|off=0xe42|chars=89]
+Franco: Tenho certeza que a\nmelhor coisa pro Dr. Hope agora\ne ver o quanto voce trabalha.
+
+[22|off=0xf00|chars=52]
+Moonlight: Nao sabia que\nDr. Hope estava doente...  
+
+[23|off=0xf74|chars=86]
+Moonlight: Imagino que por isso\nele corria tanto para terminar\no trabalho com voce... 
+
+[24|off=0x102c|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[25|off=0x1082|chars=12]
+P. Eu tambem
+
+[26|off=0x10a6|chars=31]
+Franco: Era um bom amigo...    
+
+[27|off=0x10f0|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!      
+
+[28|off=0x115c|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do\nque aparece!           
+
+[29|off=0x11fc|chars=91]
+Moonlight: O que tento dizer e...\nTenho certeza que o Dr. Hope\nestara olhando por voce,    
+
+[30|off=0x12c4|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?         
+
+[31|off=0x134c|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[32|off=0x141a|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[33|off=0x14a0|chars=43]
+Franco: Um alien mora\nno novo quarto?      
+
+[34|off=0x1502|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[35|off=0x15d0|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[36|off=0x1656|chars=11]
+Moonlight: 
+
+[37|off=0x166e|chars=76]
+P!\nVi uma coisa estranha parecida\ncom bicho de pelucia no novo quarto.      
+
+[38|off=0x1712|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!    
+
+[39|off=0x1780|chars=66]
+Suas atividades do dia\nanterior aumentaram seu\nNivel Humano!      
+
+[40|off=0x180c|chars=21]
+Desafio aumentou!\n   
+
+[41|off=0x184c|chars=21]
+Desafio aumentou!\n   
+
+[42|off=0x188c|chars=16]
+Amor aumentou!\n 
+
+[43|off=0x18c2|chars=24]
+Inteligencia aumentou!\n 
+
+[44|off=0x1908|chars=19]
+Culinaria subiu!\n  
+
+[45|off=0x1944|chars=22]
+Criatividade aumentou!
+
+[46|off=0x1986|chars=22]
+Criatividade aumentou!
+
+[47|off=0x19c8|chars=17]
+Humor aumentou!\n 
+
+[48|off=0x1a00|chars=17]
+Humor aumentou!\n 

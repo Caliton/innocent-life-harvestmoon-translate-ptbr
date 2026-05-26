@@ -1,0 +1,416 @@
+# VTGYF2.SCP - 137 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x502|chars=68]
+Nao va sem dizer algo\na Gayak ou Marlene...
+
+[1|off=0x596|chars=56]
+Franco: Entao voce comecou\na criar animais, hein?
+
+[2|off=0x612|chars=109]
+Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem\nsao invencoes do Dr. Hope?
+
+[3|off=0x6f8|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatico, mas na epoca usar\nrobos era ideia revolucionaria.
+
+[4|off=0x7e4|chars=61]
+Franco: Ouvi que ainda os usam\nbastante no exterior.
+
+[5|off=0x86a|chars=74]
+Moonlight: O balido dos animais\nse ouve novamente\nnestas ruinas!
+
+[6|off=0x90a|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar esta terra\ne a natureza!
+
+[7|off=0x9ca|chars=72]
+Franco: Uau!\nQue sortudo!\nGanhar um buggy desses de presente!
+
+[8|off=0xa66|chars=89]
+Franco: Se eu tivesse um buggy,\nlevava a Rose num passeio\nque ela nunca esqueceria!
+
+[9|off=0xb24|chars=11]
+Moonlight: 
+
+[10|off=0xb3c|chars=52]
+P! Que presente bonito\ndo Dr. Hope que voce ganhou.
+
+[11|off=0xbb0|chars=63]
+Moonlight: Com um buggy assim\nvoce vai a qualquer lugar!
+
+[12|off=0xc3a|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.
+
+[13|off=0xcbe|chars=73]
+Franco: Quando jovem, todos iam\ncurtir naquela caverna\ncom as namoradas.
+
+[14|off=0xd5c|chars=11]
+Moonlight: 
+
+[15|off=0xd74|chars=57]
+P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
+
+[16|off=0xdf2|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar\nao estado original.
+
+[17|off=0xe98|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.
+
+[18|off=0xf06|chars=120]
+Franco: Se mandar bastante ate\na vespera do Natal, podem usar\npra decorar a cidade.
+
+[19|off=0x1002|chars=21]
+Franco: Nao aguento!
+
+[20|off=0x1038|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[21|off=0x1096|chars=96]
+Franco: Sei que esta preocupado,\nmas tem trabalho importante\na terminar.
+
+[22|off=0x1162|chars=89]
+Franco: O melhor pro Dr. Hope\nagora e ver o quanto\nvoce esta se dedicando.
+
+[23|off=0x1220|chars=52]
+Moonlight: Nao sabia que o\nDr. Hope estava doente...
+
+[24|off=0x1294|chars=86]
+Moonlight: Suponho que por isso\nele corria para terminar\no trabalho com voce...
+
+[25|off=0x134c|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[26|off=0x13a2|chars=12]
+P. Eu sinto.
+
+[27|off=0x13c6|chars=31]
+Franco: Era um bom amigo...
+
+[28|off=0x1410|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[29|off=0x147c|chars=74]
+Moonlight: Disse que ha muito\nmais neste mundo do que\nos olhos veem!
+
+[30|off=0x151c|chars=91]
+Moonlight: O que quero dizer...\nCerteza que o Dr. Hope sempre\nestara velando por voce, 
+
+[31|off=0x15e4|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?
+
+[32|off=0x166c|chars=97]
+Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+
+[33|off=0x173a|chars=61]
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
+
+[34|off=0x17c0|chars=43]
+Franco: Um alien mora\nno novo quarto?
+
+[35|off=0x1822|chars=97]
+Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+
+[36|off=0x18f0|chars=61]
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
+
+[37|off=0x1976|chars=11]
+Moonlight: 
+
+[38|off=0x198e|chars=76]
+P!\nVi algo estranho parecendo\num bicho de pelucia no novo quarto.
+
+[39|off=0x1a32|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!
+
+[40|off=0x1aa4|chars=98]
+Marlene: Marcia vai ficar esta\nnoite, entao preciso deixar\ntudo limpo.
+
+[41|off=0x1b74|chars=95]
+Marcia: Me sinto tao bem\nnesta casa. Nunca quero\nir embora quando venho aqui.
+
+[42|off=0x1c3e|chars=23]
+Marcia: Zzzz... Zzzz...
+
+[43|off=0x1c78|chars=66]
+Marlene: Quando Marcia vai embora,\nsempre fico um pouco sozinha.
+
+[44|off=0x1d08|chars=13]
+Marlene: Ga-?
+
+[45|off=0x1d2e|chars=15]
+Marcia: Gagaga?
+
+[46|off=0x1d58|chars=22]
+Marcia: Gaga... Zzz...
+
+[47|off=0x1d8c|chars=44]
+Este guarda-roupa parece\nmuito caro...
+
+[48|off=0x1dec|chars=31]
+Ha pratos enfileirados aqui.
+
+[49|off=0x1e32|chars=27]
+Voce tenta lavar as maos.
+
+[50|off=0x1e70|chars=30]
+Esta pia e facil de usar.
+
+[51|off=0x1eb4|chars=25]
+Suas maos estao limpas.
+
+[52|off=0x1eee|chars=24]
+Mas sem sabonete...
+
+[53|off=0x1f26|chars=40]
+Pressao da agua um\npouco baixa...
+
+[54|off=0x1f7e|chars=48]
+Que maos sujas!\nSurpreendente.
+
+[55|off=0x1fe6|chars=43]
+Agua espirrou por\ntoda a pia!
+
+[56|off=0x2044|chars=24]
+Voce limpa a area.
+
+[57|off=0x207c|chars=26]
+Saiu agua morna...
+
+[58|off=0x20b8|chars=49]
+O ralo parece estar\nentupido...
+
+[59|off=0x2122|chars=41]
+Saiu agua quente\ncom forca incrivel!
+
+[60|off=0x217c|chars=44]
+Um cheiro agradavel\nem volta do sabonete...
+
+[61|off=0x21dc|chars=55]
+Voce lava o rosto.\nSente-se um pouco\nrefrescado.
+
+[62|off=0x2252|chars=42]
+Ha muitas coisas\nnas prateleiras...
+
+[63|off=0x22ae|chars=19]
+Ha vinho aqui.
+
+[64|off=0x22dc|chars=23]
+Voce olha para o vaso.
+
+[65|off=0x2312|chars=32]
+Parece que alguem\ndescarregou...
+
+[66|off=0x235a|chars=21]
+Esta reluzente!
+
+[67|off=0x238c|chars=28]
+Voce aperta\n"Descarregar".
+
+[68|off=0x23cc|chars=30]
+Ha um bilhete no vaso.
+
+[69|off=0x2410|chars=20]
+"Mantenha limpo!"
+
+[70|off=0x2440|chars=70]
+Parece ter um assento\nque sobe e desce\nautomaticamente.
+
+[71|off=0x24d4|chars=68]
+Ha um adesivo da Banks\nCorporation no lado\ndo assento.
+
+[72|off=0x2564|chars=53]
+Cheiro de oleo aromatico\nflutua pelo banheiro...
+
+[73|off=0x25d6|chars=29]
+Banheira automatica.
+
+[74|off=0x2618|chars=62]
+Voce abriu a gaveta.\nHa muitas coisas\nla dentro.
+
+[75|off=0x269c|chars=64]
+E um guarda-roupa.\nNada muito incomum\nla dentro.
+
+[76|off=0x2724|chars=38]
+Ha muitos livros\nna estante.
+
+[77|off=0x2778|chars=45]
+Mas voce nao precisa\nler nenhum deles...
+
+[78|off=0x27da|chars=26]
+Voce abre a geladeira.
+
+[79|off=0x2816|chars=65]
+Mas fecha rapido para\nnao estragar a comida.
+
+[80|off=0x28a0|chars=75]
+"Serpente Arco-iris"\n  Leva pela floresta\nou pela tentacao?
+
+[81|off=0x293e|chars=86]
+"Arvores Sussurrantes"\n  Vozes distantes. Vozes proximas.\nEcos do ceu. Som do lago.
+
+[82|off=0x29f2|chars=63]
+"Lua do Deserto"\n  As estrelas viram areia\ne voltam a terra.
+
+[83|off=0x2a78|chars=50]
+"Valsa"\n  Visitantes do mar. Gira gira\ngira...
+
+[84|off=0x2ae4|chars=71]
+"Constelacao do Sul"\n  Veja o Centauro. Escultura\ne pintura.
+
+[85|off=0x2b7a|chars=39]
+"Aqui e Ali"\n  Onde estou neste mundo?
+
+[86|off=0x2bd0|chars=39]
+"Em Frente: Caverna Sul\nHeartflame"
+
+[87|off=0x2c26|chars=30]
+"Em Frente: Ruinas Easter"
+
+[88|off=0x2c6a|chars=45]
+"Em Frente: Margem Sudeste\ndo Lago Leste"
+
+[89|off=0x2ccc|chars=23]
+"Leste: Fl. Cogumelo"
+
+[90|off=0x2d02|chars=45]
+"Em Frente: Margem Sudoeste\ndo Lago Leste"
+
+[91|off=0x2d64|chars=37]
+"Perigo! Arvores Caidas.\nNao Entre."
+
+[92|off=0x2db6|chars=25]
+"Leste: Des. Heartflame"
+
+[93|off=0x2df0|chars=18]
+"Dunas Heartflame"
+
+[94|off=0x2e1c|chars=26]
+"Norte: Plan. Heartflame"
+
+[95|off=0x2e58|chars=19]
+"Plan. Heartflame"
+
+[96|off=0x2e86|chars=32]
+"Margem Sudeste Lago Sereia"
+
+[97|off=0x2ece|chars=14]
+"Lago Sereia"
+
+[98|off=0x2ef2|chars=24]
+"Sul: Fl. Cogumelo"
+
+[99|off=0x2f2a|chars=32]
+"Margem Sudoeste Lago Sereia"
+
+[100|off=0x2f72|chars=11]
+"L. Leste"
+
+[101|off=0x2f90|chars=54]
+Achei uma grade de TV\nentre revistas molhadas.
+
+[102|off=0x3004|chars=73]
+Seg. Qua. Sex.\n"Cade Minha Mamae? A Jornada,"\n"Final Z Rangers,"
+
+[103|off=0x309e|chars=70]
+Ter. Qui. "Bosque Melancolico,"\nSab&Dom. "Srta. Cute, Bruxa,"
+
+[104|off=0x3134|chars=28]
+Como jogar com Trilhos,
+
+[105|off=0x316e|chars=7]
+ ~Rails
+
+[106|off=0x3184|chars=57]
+Primeiro, coloque trilhos e\nprepare os Trilhos Pod.
+
+[107|off=0x31fe|chars=113]
+Pode fazer o trem circular\nou ir e voltar entre dois pontos.\nOnde ha trilho, ha caminho.
+
+[108|off=0x32ec|chars=28]
+Como jogar com Trilhos,
+
+[109|off=0x3326|chars=8]
+ ~Motors
+
+[110|off=0x333e|chars=102]
+Motores funcionam como locomotivas.\nSe colocar nos trilhos,\npode mover vagoes juntos.
+
+[111|off=0x3412|chars=96]
+Controle o motor pelo\nMenu de Comando, ou diretamente\nno monitor com o 
+
+[112|off=0x34d4|chars=8]
+ botao.
+
+[113|off=0x34ec|chars=38]
+"Como jogar com Trilhos," ~ Vagoes
+
+[114|off=0x3540|chars=118]
+Vagoes funcionam como carga e passageiros.\nCom Motores, correm nos trilhos\ncarregando carga ou pessoas.
+
+[115|off=0x3634|chars=62]
+Voce pode ser motorista\noperando Motores\nnum Vagao.
+
+[116|off=0x36b8|chars=40]
+"Como jogar com Trilhos," ~Envio
+
+[117|off=0x3710|chars=95]
+Ao comprar Unidades Auto, serao\ncolocadas automaticamente entre\nduas Caixas de Envio.
+
+[118|off=0x37d6|chars=120]
+Coloque Trilhos pela Praca da\nUnidade Auto. Itens no Vagao\nserao enviados. Pratico.
+
+[119|off=0x38d0|chars=22]
+Fisiocracy e Magia,
+
+[120|off=0x38fe|chars=21]
+\n~or "Book of Spirit"
+
+[121|off=0x3930|chars=69]
+Com Agua Sagrada e\num Regador Mistico,\nvoce pode derreter neve.
+
+[122|off=0x39c2|chars=75]
+So pode usar o Regador Mistico\nse trabalhou duro na fazenda...
+
+[123|off=0x3a60|chars=59]
+E um livro de Contos de Fadas\npara educacao infantil.
+
+[124|off=0x3ade|chars=91]
+Parei numa pagina com\numa ilustracao de boneco de\nmadeira engolido por uma baleia...
+
+[125|off=0x3b9c|chars=28]
+O coracao aperta...\nPor que?
+
+[126|off=0x3bdc|chars=44]
+Livro de Haiku\nda Diretora Rose.
+
+[127|off=0x3c3c|chars=68]
+Ha mais Haikus sobre amor\ndo que sobre paisagem ou vida...
+
+[128|off=0x3ccc|chars=69]
+Como ler o diario de outra pessoa.\nMe sinto um pouco culpado...
+
+[129|off=0x3d60|chars=30]
+Conto: Cavaleiro Amor & Arco,
+
+[130|off=0x3d9e|chars=7]
+ Vol. 1
+
+[131|off=0x3db4|chars=63]
+Cavalheiro: P-pega este arco!\nPrincesa: ... sou eu que quer?
+
+[132|off=0x3e3a|chars=108]
+Nao havia mais hesitacao.\nEle tomou coragem e deu um presente.\nO por do sol corou seu rosto...
+
+[133|off=0x3f1c|chars=30]
+Conto: Cavaleiro Amor & Arco,
+
+[134|off=0x3f5a|chars=7]
+ Vol. 2
+
+[135|off=0x3f70|chars=73]
+Princesa: Tenho algo pra voce,\nCavalh.: I-isso e... um alfinete!?
+
+[136|off=0x400a|chars=106]
+Eles se apaixonaram.\nEstavam 100 pixels mais perto\nquando a escuridao os cobriu.

@@ -1,0 +1,491 @@
+# F07SEN_1.SCP - 162 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x5ce|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x64a|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x730|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x81c|chars=61]
+Franco: Ouvi thnoy ainda usar them\nbastante muito overseas.
+
+[4|off=0x8a2|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x942|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0xa02|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0xa9e|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0xb5c|chars=11]
+Moonlight: 
+
+[9|off=0xb74|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0xbe8|chars=63]
+Moonlight: You can ir so about\nanyonde in a buggy gostar esse!
+
+[11|off=0xc72|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0xcf6|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0xd94|chars=11]
+Moonlight: 
+
+[14|off=0xdac|chars=57]
+P!\nOuvi they had alguns trouble na\nVolcano Town gruta.
+
+[15|off=0xe2a|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xed0|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0xf3e|chars=120]
+Franco: If you can homemage to ship muito\ndam pelo dia antes Christmas Eve,\nthey can usar them to decorate the cidade.
+
+[18|off=0x103a|chars=21]
+Franco: Mal posso esp
+
+[19|off=0x1070|chars=41]
+Franco: Ouvi esse Dr. Hope\ncollapsed...
+
+[20|off=0x10ce|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0x119a|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0x1258|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0x12cc|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x1384|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x13da|chars=12]
+P. Eu tambem
+
+[26|off=0x13fe|chars=31]
+Franco: Era um bom amigo...
+
+[27|off=0x1448|chars=48]
+Moonlight: Ouvid the voice da\nFire Spirit!
+
+[28|off=0x14b4|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x1554|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x161c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x16a4|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x1772|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x17f8|chars=43]
+Franco: An alien is living na novo\nquarto?
+
+[34|off=0x185a|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x1928|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x19ae|chars=11]
+Moonlight: 
+
+[37|off=0x19c6|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x1a6a|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x1adc|chars=8]
+*: Meow.
+
+[40|off=0x1af8|chars=55]
+Hermit: Are you looking for the hermit\nof Mermaid Lake?
+
+[41|off=0x1b72|chars=28]
+Hermit: Well, you found sua.
+
+[42|off=0x1bb6|chars=61]
+Hermit: It's nice and warm around here.\nThat's why I like it.
+
+[43|off=0x1c3c|chars=91]
+Hermit: It's been more than 150 years\nsince I first saw this\narea and decided to live here.
+
+[44|off=0x1cfe|chars=98]
+Hermit: You'd better hurry on to\nondever it is voce e iring antes\nthe same thing happens to you.
+
+[45|off=0x1dce|chars=77]
+Hermit: Let me open up the forest path\nto the southwest of Easter Hot Spring.
+
+[46|off=0x1e74|chars=30]
+Hermit: The lindo mermaid?
+
+[47|off=0x1ebc|chars=111]
+Hermit: The mermaid lives in a small\ninlet. It can be found if you follow\nthe bank of Mermaid Lake to the west.
+
+[48|off=0x1fa6|chars=101]
+Hermit: But it's a long journey and you\ncould get lost. You probably don't need\nto go there just yet.
+
+[49|off=0x207c|chars=59]
+Hermit: Oh, it's you again.\nThe forest path opened\nfor you.
+
+[50|off=0x20fe|chars=62]
+Hermit: You didn't bring a gift for\nthe one who opened it? Me?
+
+[51|off=0x2186|chars=57]
+Hermit: What kind of gift, you ask?\nIt should be obvious.
+
+[52|off=0x2204|chars=118]
+Hermit: After all, I live by a lake and\nam here surrounded by blue jewels. It\nmust be something to do with water, yes?
+
+[53|off=0x22fc|chars=47]
+Hermit: Oh! It's the Crest da\nWater Spirit!
+
+[54|off=0x2366|chars=85]
+Hermit: It looks like you're serious\nabout wanting to save the people\non this island.
+
+[55|off=0x241c|chars=14]
+Hermit: Hmm...
+
+[56|off=0x2444|chars=88]
+Hermit: Very well entao. Take tseu Crest\nda Forest Spirit and dar it to\nthe mermaid.
+
+[57|off=0x2500|chars=63]
+Hermit: In exchange, Eu will pegar the\nCrest da Water Spirit.
+
+[58|off=0x258a|chars=85]
+Hermit: It looks like you're serious\nabout wanting to save the people\non this island.
+
+[59|off=0x2640|chars=14]
+Hermit: Hmm...
+
+[60|off=0x2668|chars=102]
+Hermit: This island is in danger of\nbeing destroyed by the angry\nFire Spirit, but there is still hope.
+
+[61|off=0x2740|chars=113]
+Hermit: If the Water Spirit awakes and\nputs the Fire Spirit's Crest on the\nAltar of Ice,\nthe eruption might stop.
+
+[62|off=0x282e|chars=52]
+Hermit: The first step is to rouse the\nGiant Forest.
+
+[63|off=0x28a2|chars=111]
+Hermit: The tower in Mermaid Lake onde\nthe Crest da Water Spirit must ir\nis connected para o Giant Forest.
+
+[64|off=0x298c|chars=84]
+Hermit: It's just as I thought.\nThe Nature Sprite of Memory\nwill not show himself...
+
+[65|off=0x2a40|chars=87]
+Hermit: It'll take something major to\nget him to appear once again, after\nwhat I did...
+
+[66|off=0x2afa|chars=66]
+Hermit: The only thing we can do is wait\nfor him to show his face.
+
+[67|off=0x2b8a|chars=120]
+Hermit: Still, Nature Sprites are like\nchildren.\nThey're more likely to\napproach if they see people\nenjoying themselves.
+
+[68|off=0x2c86|chars=19]
+Hermit: Now then...
+
+[69|off=0x2cb8|chars=55]
+Hermit: I will be waiting in the tower\nat Mermaid Lake.
+
+[70|off=0x2d32|chars=15]
+*: Gaga meeoow.
+
+[71|off=0x2d58|chars=44]
+This is a very expensive looking\nwardrobe...
+
+[72|off=0x2db8|chars=31]
+Tsuae are dishes lined up suae.
+
+[73|off=0x2dfe|chars=27]
+You try washing your hands.
+
+[74|off=0x2e3c|chars=30]
+This sink is very easy to use.
+
+[75|off=0x2e80|chars=25]
+Your hands are now clean.
+
+[76|off=0x2eba|chars=24]
+But tsuae was no soap...
+
+[77|off=0x2ef2|chars=40]
+The water pressure seems a little\nlow...
+
+[78|off=0x2f4a|chars=48]
+You were surprised at how dirty\nyour hands were.
+
+[79|off=0x2fb2|chars=43]
+There's water splashed all around\nthe sink!
+
+[80|off=0x3010|chars=24]
+You wipe the area clean.
+
+[81|off=0x3048|chars=26]
+Lukewarm water came out...
+
+[82|off=0x3084|chars=49]
+The drain doesn't seem to be\nworking very well...
+
+[83|off=0x30ee|chars=41]
+Hot agua came out with\nincredible force!
+
+[84|off=0x3148|chars=44]
+A very nice smell surrounds the\nsoap here...
+
+[85|off=0x31a8|chars=55]
+You try washing your face.\nYou feel somewhat refreshed.
+
+[86|off=0x321e|chars=42]
+Tsuae are lots of things no\nshelves...
+
+[87|off=0x327a|chars=19]
+There is wine here.
+
+[88|off=0x32a8|chars=23]
+You olhar no toilet.
+
+[89|off=0x32de|chars=32]
+It verms to have been flushed...
+
+[90|off=0x3326|chars=21]
+It's sparkling clean!
+
+[91|off=0x3358|chars=28]
+You push the "Flush" button.
+
+[92|off=0x3398|chars=30]
+Tsuae is a note no toilet.
+
+[93|off=0x33dc|chars=20]
+"Please keep clean!"
+
+[94|off=0x340c|chars=70]
+It appears to have a toilet seat\nthat raises and lowers automatically.
+
+[95|off=0x34a0|chars=68]
+Tsuae is a Banks Corporation\nsticker no side da toilet\nsvirr.
+
+[96|off=0x3530|chars=53]
+The scent of aromatic oil floats\naround the toilet...
+
+[97|off=0x35a2|chars=29]
+This is an automatic bathtub.
+
+[98|off=0x35e4|chars=62]
+You opened the drawer.\nThere are many different things\ninside.
+
+[99|off=0x3668|chars=64]
+This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+
+[100|off=0x36f0|chars=38]
+Tsuae are homemy books na\nbookshelf.
+
+[101|off=0x3744|chars=45]
+But ha no reafilho for you to\nread them...
+
+[102|off=0x37a6|chars=26]
+You open the refrigerator.
+
+[103|off=0x37e2|chars=65]
+But you quickly close it again\nto prevent the food from spoiling.
+
+[104|off=0x386c|chars=75]
+"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+
+[105|off=0x390a|chars=86]
+"Wseupering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound da lake.
+
+[106|off=0x39be|chars=63]
+"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+
+[107|off=0x3a44|chars=50]
+"Waltz"\n  Visitors da sea. Turn turn\nturn...
+
+[108|off=0x3ab0|chars=71]
+"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+
+[109|off=0x3b46|chars=39]
+"Here and There"\n  Where on earth am I?
+
+[110|off=0x3b9c|chars=39]
+"Straight Ahead: South Heartflame\nCave"
+
+[111|off=0x3bf2|chars=30]
+"Straight Ahead: Easter Ruins"
+
+[112|off=0x3c36|chars=45]
+"Straight Ahead: Southeast Bank\nof East Lake"
+
+[113|off=0x3c98|chars=23]
+"East: Cogumelo Forest"
+
+[114|off=0x3cce|chars=45]
+"Straight Ahead: Southwest Bank\nof East Lake"
+
+[115|off=0x3d30|chars=37]
+"Danger! Fallen Trees.\nDo Not Enter."
+
+[116|off=0x3d82|chars=25]
+"East: Heartflame Desert"
+
+[117|off=0x3dbc|chars=18]
+"Heartflame Dunes"
+
+[118|off=0x3de8|chars=26]
+"North: Heartflame Plains"
+
+[119|off=0x3e24|chars=19]
+"Heartflame Plains"
+
+[120|off=0x3e52|chars=32]
+"Southeast Bank of Mermaid Lake"
+
+[121|off=0x3e9a|chars=14]
+"Mermaid Lake"
+
+[122|off=0x3ebe|chars=24]
+"South: Cogumelo Forest"
+
+[123|off=0x3ef6|chars=32]
+"Southwest Bank of Mermaid Lake"
+
+[124|off=0x3f3e|chars=11]
+"East Lake"
+
+[125|off=0x3f5c|chars=54]
+I found a TV schedule wedged\nbetween sodden magazines.
+
+[126|off=0x3fd0|chars=73]
+Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+
+[127|off=0x406a|chars=70]
+Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+
+[128|off=0x4100|chars=28]
+How to play with Cart Rails,
+
+[129|off=0x413a|chars=7]
+ ~Rails
+
+[130|off=0x4150|chars=57]
+First, lay rails and\nprepare conditions to use Pod Rails.
+
+[131|off=0x41ca|chars=113]
+You can let the train correr in a circle,\nor back and forth between two points.\nWsuae ha a rail, ha a caminho.
+
+[132|off=0x42b8|chars=28]
+How to play with Cart Rails,
+
+[133|off=0x42f2|chars=8]
+ ~Motors
+
+[134|off=0x430a|chars=102]
+Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+
+[135|off=0x43de|chars=96]
+You can control the motor da\nComhomemd Menu, or directly control\nit no monitor com o 
+
+[136|off=0x44a0|chars=8]
+ button.
+
+[137|off=0x44b8|chars=38]
+"How to play with Cart Rails," ~ Carts
+
+[138|off=0x450c|chars=118]
+Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+
+[139|off=0x4600|chars=62]
+You can be a driver\nif you operate Motors\nwhile riding a Cart.
+
+[140|off=0x4684|chars=40]
+"How to play with Cart Rails," ~Shipping
+
+[141|off=0x46dc|chars=95]
+If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+
+[142|off=0x47a2|chars=120]
+Place Cart Rails to pass Square in front\nof Auto Unit. Items na Cart will be\nautomaticoally shipped. It's convenient.
+
+[143|off=0x489c|chars=22]
+Physiocracy and Magic,
+
+[144|off=0x48ca|chars=21]
+\n~or "Book of Spirit"
+
+[145|off=0x48fc|chars=69]
+If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+
+[146|off=0x498e|chars=75]
+You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+
+[147|off=0x4a2c|chars=59]
+It's a book with Fairy Tales\nfor early childhood education.
+
+[148|off=0x4aaa|chars=91]
+I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+
+[149|off=0x4b68|chars=28]
+My heart is twinging...\nWhy?
+
+[150|off=0x4ba8|chars=44]
+It's a Haiku Book\nwritten by Principle Rose.
+
+[151|off=0x4c08|chars=68]
+There are more Haikus about love\nthan about scenery or daily life...
+
+[152|off=0x4c98|chars=69]
+It's like reading someone else's diary.\nI feel a little bit guilty...
+
+[153|off=0x4d2c|chars=30]
+Tale da Love & Bow Knoite,
+
+[154|off=0x4d6a|chars=7]
+ Vol. 1
+
+[155|off=0x4d80|chars=63]
+Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+
+[156|off=0x4e06|chars=108]
+There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+
+[157|off=0x4ee8|chars=30]
+Tale da Love & Bow Knoite,
+
+[158|off=0x4f26|chars=7]
+ Vol. 2
+
+[159|off=0x4f3c|chars=73]
+Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+
+[160|off=0x4fd6|chars=106]
+They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+
+[161|off=0x50b2|chars=6]
+Yes\nNo

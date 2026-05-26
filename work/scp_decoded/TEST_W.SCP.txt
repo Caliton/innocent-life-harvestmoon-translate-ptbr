@@ -1,0 +1,152 @@
+# TEST_W.SCP - 49 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x276|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x2f2|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x3d8|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x4c4|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[4|off=0x54a|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x5ea|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x6aa|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x746|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0x804|chars=11]
+Moonlight: 
+
+[9|off=0x81c|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0x890|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[11|off=0x91a|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0x99e|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0xa3c|chars=11]
+Moonlight: 
+
+[14|off=0xa54|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[15|off=0xad2|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xb78|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0xbe6|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[18|off=0xce2|chars=21]
+Franco: I can't wait!
+
+[19|off=0xd18|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[20|off=0xd76|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0xe42|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0xf00|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0xf74|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x102c|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x1082|chars=12]
+P. I am too.
+
+[26|off=0x10a6|chars=31]
+Franco: He was a good friend...
+
+[27|off=0x10f0|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[28|off=0x115c|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x11fc|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x12c4|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x134c|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x141a|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x14a0|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[34|off=0x1502|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x15d0|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x1656|chars=11]
+Moonlight: 
+
+[37|off=0x166e|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x1712|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x1780|chars=66]
+Your activities from the previous\nday increased your Human\nStatus!
+
+[40|off=0x180c|chars=21]
+Challenge increased!\n
+
+[41|off=0x184c|chars=21]
+Challenge increased!\n
+
+[42|off=0x188c|chars=16]
+Love increased!\n
+
+[43|off=0x18c2|chars=24]
+Intelligence increased!\n
+
+[44|off=0x1908|chars=19]
+Cooking increased!\n
+
+[45|off=0x1944|chars=22]
+Creativity increased!\n
+
+[46|off=0x1986|chars=22]
+Creativity increased!\n
+
+[47|off=0x19c8|chars=17]
+Humor increased!\n
+
+[48|off=0x1a00|chars=17]
+Humor increased!\n

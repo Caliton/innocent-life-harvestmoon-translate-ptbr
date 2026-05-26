@@ -1,0 +1,263 @@
+# D05F1B.SCP - 86 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x38a|chars=76]
+Esta e sua cama...\nMas nao pode dormir agora.\nFranco esta esperando.        
+
+[1|off=0x42e|chars=56]
+Franco: Entao voce finalmente\ncriou animais, hein?      
+
+[2|off=0x4aa|chars=109]
+Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?            
+
+[3|off=0x590|chars=112]
+Franco: Hoje tudo na fazenda\ne automatizado. Mas usar robos\nera uma ideia bem revolucionaria.                   
+
+[4|off=0x67c|chars=61]
+Franco: Ouvi que la fora\nainda os usam bastante.             
+
+[5|off=0x702|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnestas ruinas!    
+
+[6|off=0x7a2|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar\nestas terras e a natureza!            
+
+[7|off=0x862|chars=72]
+Franco: Uau!\nVoce tem muita sorte!\nGanhou um buggy assim de presente!   
+
+[8|off=0x8fe|chars=89]
+Franco: Se eu tivesse um buggy,\nlevaria a Rose num passeio\ninesquecivel!                 
+
+[9|off=0x9bc|chars=11]
+Moonlight: 
+
+[10|off=0x9d4|chars=52]
+P! Que belo presente\ndo Dr. Hope voce ganhou.       
+
+[11|off=0xa48|chars=63]
+Moonlight: Com buggy assim\nvoce pode ir a quase qualquer lugar!
+
+[12|off=0xad2|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.  
+
+[13|off=0xb56|chars=73]
+Franco: Quando era jovem, todo mundo\nlevava seus pares a aquela caverna. 
+
+[14|off=0xbf4|chars=11]
+Moonlight: 
+
+[15|off=0xc0c|chars=57]
+P!\nOuvi que tiveram problemas na\ncaverna de Volcano Town.
+
+[16|off=0xc8a|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar ao\nestado original disso.
+
+[17|off=0xd30|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.  
+
+[18|off=0xd9e|chars=120]
+Franco: Se mandar bastante ate a\nvespera do Natal, podem\nusar para decorar a cidade toda.                               
+
+[19|off=0xe9a|chars=21]
+Franco: Que animacao!
+
+[20|off=0xed0|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...  
+
+[21|off=0xf2e|chars=96]
+Franco: Sei que esta preocupado,\nmas voce tem um trabalho\nimportante a terminar.                
+
+[22|off=0xffa|chars=89]
+Franco: Tenho certeza que a\nmelhor coisa pro Dr. Hope agora\ne ver o quanto voce trabalha.
+
+[23|off=0x10b8|chars=52]
+Moonlight: Nao sabia que\nDr. Hope estava doente...  
+
+[24|off=0x112c|chars=86]
+Moonlight: Imagino que por isso\nele corria tanto para terminar\no trabalho com voce... 
+
+[25|off=0x11e4|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[26|off=0x123a|chars=12]
+P. Eu tambem
+
+[27|off=0x125e|chars=31]
+Franco: Era um bom amigo...    
+
+[28|off=0x12a8|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!      
+
+[29|off=0x1314|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do\nque aparece!           
+
+[30|off=0x13b4|chars=91]
+Moonlight: O que tento dizer e...\nTenho certeza que o Dr. Hope\nestara olhando por voce,    
+
+[31|off=0x147c|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?         
+
+[32|off=0x1504|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[33|off=0x15d2|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[34|off=0x1658|chars=43]
+Franco: Um alien mora\nno novo quarto?      
+
+[35|off=0x16ba|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[36|off=0x1788|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[37|off=0x180e|chars=11]
+Moonlight: 
+
+[38|off=0x1826|chars=76]
+P!\nVi uma coisa estranha parecida\ncom bicho de pelucia no novo quarto.      
+
+[39|off=0x18ca|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!    
+
+[40|off=0x193c|chars=72]
+*: Sou o Espirito\ndo Conhecimento.\nUm dos 3 Espiritos da Natureza.      
+
+[41|off=0x19d8|chars=89]
+*: Quem e voce?\nSe pode entrar nesta floresta,\ndeve ser amigo da sereia.                 
+
+[42|off=0x1a96|chars=108]
+*: Entao talvez saiba onde o\nEspirito da Floresta dorme.\nEstamos perdidos e nao achamos.                    
+
+[43|off=0x1b7a|chars=75]
+*: O Espirito da Memoria sumiu\ne sem ele nao conseguimos\nnos lembrar...    
+
+[44|off=0x1c1c|chars=109]
+*: O Espirito da Memoria e o\nunico que sabe o caminho de volta\naonde o Espirito da Floresta dorme.           
+
+[45|off=0x1d02|chars=30]
+*: E nossa memoria, afinal.   
+
+[46|off=0x1d4a|chars=73]
+*: Sou o Espirito da Natureza\nda Amizade. Um dos 3\nEspiritos da Natureza.
+
+[47|off=0x1de8|chars=94]
+*: Quem e voce? Se pode entrar\nnesta floresta, deve ser amigo\ndo Espirito da Agua.            
+
+[48|off=0x1eb0|chars=79]
+*: Entao talvez saiba por que o\nEspirito da Memoria nao voltou\npara nos...     
+
+[49|off=0x1f5a|chars=76]
+*: Suas memorias tristes foram\ndemais e ele foi para\num lugar distante.     
+
+[50|off=0x1ffe|chars=102]
+*: O Espirito da Memoria adora\nflores. Sei porque eu tambem\namo, e estamos conectados.                
+
+[51|off=0x20d6|chars=106]
+*: Gosto especialmente de flores\nde inverno. Adoro ver muitas\npoinsettias na neve branca...               
+
+[52|off=0x21b6|chars=123]
+*: Nos tres Espiritos somos\nparte de um todo.\nCom o Emblema do Espirito\nda Floresta, poderemos nos\nunir de novo.           
+
+[53|off=0x22b8|chars=83]
+*: Ele voltou. Voltou!\nSe o Espirito da Memoria\nestivesse aqui, poderiamos ir.     
+
+[54|off=0x236a|chars=65]
+*: Hm? Nao tem com voce?\nEntao por favor volte com ele.          
+
+[55|off=0x23f8|chars=30]
+*: Estava esperando voce,\n    
+
+[56|off=0x2436|chars=46]
+P. Tem o\nEmblema do Espirito da Floresta?     
+
+[57|off=0x249e|chars=30]
+*: Estava esperando voce,\n    
+
+[58|off=0x24dc|chars=46]
+P. Tem o\nEmblema do Espirito da Floresta?     
+
+[59|off=0x2544|chars=97]
+*: Obrigado. Agora posso usar\nminha memoria para ir aonde\no Espirito da Floresta dorme.          
+
+[60|off=0x2612|chars=97]
+*: Obrigado. Agora posso usar\nminha memoria para ir aonde\no Espirito da Floresta dorme.          
+
+[61|off=0x26dc|chars=28]
+Devia ser um sonho...       
+
+[62|off=0x271e|chars=58]
+P tentou dormir,\nmas nao para de sentir\nque esqueceu algo 
+
+[63|off=0x279c|chars=32]
+Antes que perceba,\namanheceu... 
+
+[64|off=0x27e6|chars=43]
+R esta esperando!\nTalvez fale com ele.     
+
+[65|off=0x2844|chars=60]
+Ouviu uma voz parecida\ncom a de Max por perto...            
+
+[66|off=0x28c4|chars=66]
+Suas atividades do dia\nanterior aumentaram seu\nNivel Humano!      
+
+[67|off=0x2950|chars=59]
+Quer ir para cama e\ndormir o resto do dia?                 
+
+[68|off=0x29ce|chars=58]
+Quer acordar mais cedo\nque o normal amanha?               
+
+[69|off=0x2a4a|chars=58]
+Quer acordar mais cedo\nque o normal amanha?               
+
+[70|off=0x2ac6|chars=36]
+Quer dormir aqui hoje?              
+
+[71|off=0x2b16|chars=76]
+Entao quer usar o teleporte\nda barraca para voltar\nao seu proprio quarto?   
+
+[72|off=0x2bb6|chars=44]
+Nao tem lugar para\narmar sua barraca!       
+
+[73|off=0x2c16|chars=6]
+Sim\nNa
+
+[74|off=0x2c2a|chars=6]
+Sim\nNa
+
+[75|off=0x2c3e|chars=6]
+Sim\nNa
+
+[76|off=0x2c52|chars=6]
+Sim\nNa
+
+[77|off=0x2c66|chars=57]
+Salvar e dormir.\nDormir sem salvar.\nCancelar.            
+
+[78|off=0x2ce0|chars=21]
+Desafio aumentou!\n   
+
+[79|off=0x2d20|chars=21]
+Desafio aumentou!\n   
+
+[80|off=0x2d60|chars=16]
+Amor aumentou!\n 
+
+[81|off=0x2d96|chars=24]
+Inteligencia aumentou!\n 
+
+[82|off=0x2ddc|chars=19]
+Culinaria subiu!\n  
+
+[83|off=0x2e18|chars=22]
+Criatividade aumentou!
+
+[84|off=0x2e5a|chars=17]
+Humor aumentou!\n 
+
+[85|off=0x2e92|chars=58]
+Voce nao foi ao Dr. Hope\npara sua manutencao hoje!        

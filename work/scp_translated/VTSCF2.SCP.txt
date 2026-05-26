@@ -1,0 +1,587 @@
+# VTSCF2.SCP - 193 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x696|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x712|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x7f8|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x8e4|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[4|off=0x96a|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0xa0a|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0xaca|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0xb66|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0xc24|chars=11]
+Moonlight: 
+
+[9|off=0xc3c|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0xcb0|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[11|off=0xd3a|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0xdbe|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0xe5c|chars=11]
+Moonlight: 
+
+[14|off=0xe74|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[15|off=0xef2|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xf98|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0x1006|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[18|off=0x1102|chars=21]
+Franco: I can't wait!
+
+[19|off=0x1138|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[20|off=0x1196|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0x1262|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0x1320|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0x1394|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x144c|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x14a2|chars=12]
+P. I am too.
+
+[26|off=0x14c6|chars=31]
+Franco: He was a good friend...
+
+[27|off=0x1510|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[28|off=0x157c|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x161c|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x16e4|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x176c|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x183a|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x18c0|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[34|off=0x1922|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x19f0|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x1a76|chars=11]
+Moonlight: 
+
+[37|off=0x1a8e|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x1b32|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x1ba4|chars=28]
+Sharon: Well, good morning,\n
+
+[40|off=0x1bde|chars=55]
+P!  Don't you just love taking\na stroll in the morning?
+
+[41|off=0x1c58|chars=49]
+Sharon: Even my dog Polo is in a good\nmood today!
+
+[42|off=0x1cc6|chars=87]
+Sharon: Oh, what should I do? Maybe I\nshould put this one back and get\nthe other one...
+
+[43|off=0x1d80|chars=99]
+Bobby: Hm? I don't remember seeing you\naround here before. Oh, Dr. Hope\ninvited you? Hi, I'm Bobby.
+
+[44|off=0x1e52|chars=68]
+Bobby: I teach at the Volcano School.\nFeel free to stop by any time.
+
+[45|off=0x1ee2|chars=16]
+Polo: Bark bark!
+
+[46|off=0x1f0a|chars=16]
+Polo: Bark bark!
+
+[47|off=0x1f36|chars=8]
+Sharon: 
+
+[48|off=0x1f48|chars=44]
+P! You came.\nHow nice.\nFeel free to join in.
+
+[49|off=0x1fac|chars=15]
+Sharon: Lalala!
+
+[50|off=0x1fcc|chars=22]
+\nI'm a little lost cat
+
+[51|off=0x1ffa|chars=23]
+\nCaught out in the rain
+
+[52|off=0x2036|chars=90]
+Sharon: Oh, you scared me.\nShould you be out at this hour?\nThe doctor is probably worried.
+
+[53|off=0x20f2|chars=24]
+Polo: Yaaaawn...\nZzzz...
+
+[54|off=0x212e|chars=101]
+Sharon: Marcia comes and plays with Polo\nwhen I can't take him out for a\nwalk. It really helps a lot.
+
+[55|off=0x2204|chars=28]
+Marcia: Come on, Polo!\nHeel!
+
+[56|off=0x2244|chars=15]
+Polo: Hooooowl!
+
+[57|off=0x226e|chars=44]
+Marcia: Nature Sprites? Yes, I've seen them.
+
+[58|off=0x22d2|chars=62]
+Marcia: Marlene told me that they live\nup in the Giant Forest.
+
+[59|off=0x235a|chars=78]
+Marcia: Isn't that funny? They're so\nsmall, but they live in the Giant\nForest!
+
+[60|off=0x2402|chars=18]
+Sharon: Oh, hello 
+
+[61|off=0x2428|chars=64]
+P.\nActually, I have a little something that\nI'd like to ask you.
+
+[62|off=0x24b4|chars=102]
+Sharon: My dog Polo used to be a truffle\nsniffing dog, and apparently he's\ndug up some Black Truffles.
+
+[63|off=0x258c|chars=101]
+Sharon: I can't go get them myself, so I\nwas wondering if you wouldn't mind\ngoing to get them for me.
+
+[64|off=0x2662|chars=102]
+Sharon: It's a little far away, I'm\nafraid. It's in the Mushroom Forest, to\nthe south of Mermaid Lake.
+
+[65|off=0x273a|chars=98]
+Sharon: If I could get some of those\nBlack Truffles, I'm sure to win the\nMushroom Cooking Contest.
+
+[66|off=0x280a|chars=50]
+Sharon: Let's see... I think 50g should\nbe enough.
+
+[67|off=0x287a|chars=8]
+Sharon: 
+
+[68|off=0x288c|chars=40]
+P! Did you bring me\nsome Black Truffles?
+
+[69|off=0x28e8|chars=54]
+Sharon: I'll just take them then.\nThank you very much!
+
+[70|off=0x2960|chars=105]
+Sharon: I appreciate the effort, but I'm\nafraid that isn't quite enough. I\ncould really use at least 50g.
+
+[71|off=0x2a3e|chars=106]
+Sharon: It's funny how motivated you can\nget when you think you might\nactually have a chance of winning...
+
+[72|off=0x2b1e|chars=73]
+Sharon: Please take this with my thanks.\nIt's something that Polo dug up.
+
+[73|off=0x2bbc|chars=75]
+Sharon: I think it's called an Orange\nJewel. I'll send it to your Item Box.
+
+[74|off=0x2c5e|chars=8]
+Sharon: 
+
+[75|off=0x2c70|chars=40]
+P! Did you bring me\nsome Black Truffles?
+
+[76|off=0x2ccc|chars=110]
+Sharon: Whenever I see a sunset like\nthis, I'm reminded of a lot of things...\nLike the place I used to live...
+
+[77|off=0x2db4|chars=78]
+Sharon: Vanessa is too kind. I'm really\njust a rookie teacher compared\nto her.
+
+[78|off=0x2e58|chars=27]
+Polo: Arf arf! Arf-arf-arf!
+
+[79|off=0x2e9a|chars=55]
+Sharon: You've been all over this\nisland, haven't you, 
+
+[80|off=0x2f1a|chars=82]
+Sharon: So you must have met all kinds\nof people. I wonder...\nHave you ever met...
+
+[81|off=0x2fca|chars=39]
+Sharon: Oh, it's nothing.\nNever mind...
+
+[82|off=0x3024|chars=28]
+Marcia: Is something wrong,\n
+
+[83|off=0x305e|chars=68]
+P?  If you're looking for\nSharon, she's at Vanessa's painting class.
+
+[84|off=0x30f2|chars=86]
+Bobby: That Sharon...\nI just fixed this thing for her and\nnow its not working again...
+
+[85|off=0x31aa|chars=45]
+Sharon: I'm just not very good with\nmachines.
+
+[86|off=0x3210|chars=76]
+Sharon: Whenever I see a sunset like\nthis I'm reminded of a lot of things...
+
+[87|off=0x32b4|chars=76]
+Sharon: Whenever I see a sunset like\nthis I'm reminded of a lot of things...
+
+[88|off=0x3358|chars=37]
+Sharon: Like people I used to know...
+
+[89|off=0x33ae|chars=37]
+Sharon: Like people I used to know...
+
+[90|off=0x3404|chars=106]
+Sharon: I think it's wonderful that you\nhave time to spend on self improvement\neven after getting married.
+
+[91|off=0x34e4|chars=86]
+Sharon: Darn. I can't get online.\nI'll have to ask Bobby to look at my\ncomputer again.
+
+[92|off=0x359c|chars=52]
+Bobby: Sharon would be helpless without\nme. Heheh...
+
+[93|off=0x3610|chars=63]
+Sharon: Bobby always comes when I call.\nHe's been a great help.
+
+[94|off=0x369a|chars=20]
+Sharon: Gaga gagaaa!
+
+[95|off=0x36ca|chars=15]
+Polo: Gaga arf!
+
+[96|off=0x36f4|chars=15]
+Marcia: Gagaga?
+
+[97|off=0x371e|chars=15]
+Marcia: Gagaga?
+
+[98|off=0x3744|chars=15]
+Polo: Gaga arf!
+
+[99|off=0x376a|chars=15]
+Polo: Gaga arf!
+
+[100|off=0x3790|chars=15]
+Polo: Gaga arf!
+
+[101|off=0x37ba|chars=22]
+Bobby: Ga- gagagagaga!
+
+[102|off=0x37ee|chars=15]
+Polo: Zzz ga...
+
+[103|off=0x3814|chars=44]
+This is a very expensive looking\nwardrobe...
+
+[104|off=0x3874|chars=31]
+Ha pratos enfileirados aqui.
+
+[105|off=0x38ba|chars=27]
+Voce tenta lavar as maos.
+
+[106|off=0x38f8|chars=30]
+This sink is very easy to use.
+
+[107|off=0x393c|chars=25]
+Suas maos estao limpas.
+
+[108|off=0x3976|chars=24]
+Mas nao havia sabao...
+
+[109|off=0x39ae|chars=40]
+The water pressure seems a little\nlow...
+
+[110|off=0x3a06|chars=48]
+You were surprised at how dirty\nyour hands were.
+
+[111|off=0x3a6e|chars=43]
+There's water splashed all around\nthe sink!
+
+[112|off=0x3acc|chars=24]
+Voce limpa o local.
+
+[113|off=0x3b04|chars=26]
+Saiu agua morna...
+
+[114|off=0x3b40|chars=49]
+The drain doesn't seem to be\nworking very well...
+
+[115|off=0x3baa|chars=41]
+Hot water came out with\nincredible force!
+
+[116|off=0x3c04|chars=44]
+A very nice smell surrounds the\nsoap here...
+
+[117|off=0x3c64|chars=55]
+You try washing your face.\nYou feel somewhat refreshed.
+
+[118|off=0x3cda|chars=42]
+There are lots of things on the\nshelves...
+
+[119|off=0x3d36|chars=19]
+Ha vinho aqui.
+
+[120|off=0x3d64|chars=23]
+Voce olha para o vaso.
+
+[121|off=0x3d9a|chars=32]
+It seems to have been flushed...
+
+[122|off=0x3de2|chars=21]
+It's sparkling clean!
+
+[123|off=0x3e14|chars=28]
+You push the "Flush" button.
+
+[124|off=0x3e54|chars=30]
+Ha um bilhete no vaso.
+
+[125|off=0x3e98|chars=20]
+"Please keep clean!"
+
+[126|off=0x3ec8|chars=70]
+It appears to have a toilet seat\nthat raises and lowers automatically.
+
+[127|off=0x3f5c|chars=68]
+There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+
+[128|off=0x3fec|chars=53]
+The scent of aromatic oil floats\naround the toilet...
+
+[129|off=0x405e|chars=29]
+This is an automatic bathtub.
+
+[130|off=0x40a0|chars=62]
+You opened the drawer.\nThere are many different things\ninside.
+
+[131|off=0x4124|chars=64]
+This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+
+[132|off=0x41ac|chars=38]
+There are many books in the\nbookshelf.
+
+[133|off=0x4200|chars=45]
+But there's no reason for you to\nread them...
+
+[134|off=0x4262|chars=26]
+Voce abre a geladeira.
+
+[135|off=0x429e|chars=65]
+But you quickly close it again\nto prevent the food from spoiling.
+
+[136|off=0x4328|chars=75]
+"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+
+[137|off=0x43c6|chars=86]
+"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+
+[138|off=0x447a|chars=63]
+"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+
+[139|off=0x4500|chars=50]
+"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+
+[140|off=0x456c|chars=71]
+"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+
+[141|off=0x4602|chars=39]
+"Here and There"\n  Where on earth am I?
+
+[142|off=0x4658|chars=39]
+"Straight Ahead: South Heartflame\nCave"
+
+[143|off=0x46ae|chars=30]
+"Em Frente: Ruinas
+de Pascoa"
+
+[144|off=0x46f2|chars=45]
+"Straight Ahead: Southeast Bank\nof East Lake"
+
+[145|off=0x4754|chars=23]
+"East: Mushroom Forest"
+
+[146|off=0x478a|chars=45]
+"Straight Ahead: Southwest Bank\nof East Lake"
+
+[147|off=0x47ec|chars=37]
+"Danger! Fallen Trees.\nDo Not Enter."
+
+[148|off=0x483e|chars=25]
+"East: Heartflame Desert"
+
+[149|off=0x4878|chars=18]
+"Heartflame Dunes"
+
+[150|off=0x48a4|chars=26]
+"North: Heartflame Plains"
+
+[151|off=0x48e0|chars=19]
+"Heartflame Plains"
+
+[152|off=0x490e|chars=32]
+"Margem SE do Lago
+da Sereia"
+
+[153|off=0x4956|chars=14]
+"Mermaid Lake"
+
+[154|off=0x497a|chars=24]
+"South: Mushroom Forest"
+
+[155|off=0x49b2|chars=32]
+"Margem SO do Lago
+da Sereia"
+
+[156|off=0x49fa|chars=11]
+"East Lake"
+
+[157|off=0x4a18|chars=54]
+I found a TV schedule wedged\nbetween sodden magazines.
+
+[158|off=0x4a8c|chars=73]
+Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+
+[159|off=0x4b26|chars=70]
+Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+
+[160|off=0x4bbc|chars=28]
+Como jogar com Trilhos,
+
+[161|off=0x4bf6|chars=7]
+ ~Rails
+
+[162|off=0x4c0c|chars=57]
+First, lay rails and\nprepare conditions to use Pod Rails.
+
+[163|off=0x4c86|chars=113]
+You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+
+[164|off=0x4d74|chars=28]
+Como jogar com Trilhos,
+
+[165|off=0x4dae|chars=8]
+ ~Motors
+
+[166|off=0x4dc6|chars=102]
+Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+
+[167|off=0x4e9a|chars=96]
+You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+
+[168|off=0x4f5c|chars=8]
+ botao.
+
+[169|off=0x4f74|chars=38]
+"Como jogar com Trilhos," ~ Vagoes
+
+[170|off=0x4fc8|chars=118]
+Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+
+[171|off=0x50bc|chars=62]
+You can be a driver\nif you operate Motors\nwhile riding a Cart.
+
+[172|off=0x5140|chars=40]
+"Como jogar com Trilhos," ~Envio
+
+[173|off=0x5198|chars=95]
+If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+
+[174|off=0x525e|chars=120]
+Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+
+[175|off=0x5358|chars=22]
+Fisiocracia e Magia,
+
+[176|off=0x5386|chars=21]
+\n~or "Book of Spirit"
+
+[177|off=0x53b8|chars=69]
+If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+
+[178|off=0x544a|chars=75]
+You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+
+[179|off=0x54e8|chars=59]
+It's a book with Fairy Tales\nfor early childhood education.
+
+[180|off=0x5566|chars=91]
+I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+
+[181|off=0x5624|chars=28]
+My heart is twinging...\nWhy?
+
+[182|off=0x5664|chars=44]
+It's a Haiku Book\nwritten by Principle Rose.
+
+[183|off=0x56c4|chars=68]
+There are more Haikus about love\nthan about scenery or daily life...
+
+[184|off=0x5754|chars=69]
+It's like reading someone else's diary.\nI feel a little bit guilty...
+
+[185|off=0x57e8|chars=30]
+Tale of the Love & Bow Knight,
+
+[186|off=0x5826|chars=7]
+ Vol. 1
+
+[187|off=0x583c|chars=63]
+Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+
+[188|off=0x58c2|chars=108]
+There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+
+[189|off=0x59a4|chars=30]
+Tale of the Love & Bow Knight,
+
+[190|off=0x59e2|chars=7]
+ Vol. 2
+
+[191|off=0x59f8|chars=73]
+Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+
+[192|off=0x5a92|chars=106]
+They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.

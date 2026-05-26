@@ -1,0 +1,1550 @@
+# VTMLF1A.SCP - 515 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0xece|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0xf4a|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x1030|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x111c|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[4|off=0x11a2|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x1242|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x1302|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x139e|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0x145c|chars=11]
+Moonlight: 
+
+[9|off=0x1474|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0x14e8|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[11|off=0x1572|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0x15f6|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0x1694|chars=11]
+Moonlight: 
+
+[14|off=0x16ac|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[15|off=0x172a|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0x17d0|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0x183e|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[18|off=0x193a|chars=21]
+Franco: I can't wait!
+
+[19|off=0x1970|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[20|off=0x19ce|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0x1a9a|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0x1b58|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0x1bcc|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x1c84|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x1cda|chars=12]
+P. I am too.
+
+[26|off=0x1cfe|chars=31]
+Franco: He was a good friend...
+
+[27|off=0x1d48|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[28|off=0x1db4|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x1e54|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x1f1c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x1fa4|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x2072|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x20f8|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[34|off=0x215a|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x2228|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x22ae|chars=11]
+Moonlight: 
+
+[37|off=0x22c6|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x236a|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x23dc|chars=28]
+Sharon: Well, good morning,\n
+
+[40|off=0x2416|chars=55]
+P!  Don't you just love taking\na stroll in the morning?
+
+[41|off=0x2490|chars=49]
+Sharon: Even my dog Polo is in a good\nmood today!
+
+[42|off=0x24fe|chars=35]
+*: Hm? Who're you?\nOh wait, you're 
+
+[43|off=0x2546|chars=9]
+P, right?
+
+[44|off=0x2564|chars=61]
+Jonathan: I'm Jonathan Branch.\nI run the farm up on the hill.
+
+[45|off=0x25ea|chars=99]
+Jonathan: I've heard about you. Very\nimpressive! Growing crops in the\nEaster Ruins all by yourself!
+
+[46|off=0x26bc|chars=102]
+Jonathan: If you ever decide you want\nto raise some livestock, come and\nsee me. I can teach you a lot.
+
+[47|off=0x2794|chars=111]
+Jonathan: Our entire farm is automated,\nincluding the livestock, so we don't\nreally have to do much for them...
+
+[48|off=0x287e|chars=97]
+Jonathan: But I feel that raising\nanimals helps remind us of our place\nin nature as human beings.
+
+[49|off=0x294c|chars=54]
+Jonathan: We have a responsibility to\ntreat them well.
+
+[50|off=0x29c4|chars=36]
+*: Hm? Who are you?\nOh wait, you're 
+
+[51|off=0x2a0e|chars=9]
+P, right?
+
+[52|off=0x2a2c|chars=61]
+Jonathan: I'm Jonathan Branch.\nI run the farm up on the hill.
+
+[53|off=0x2ab2|chars=99]
+Jonathan: I've heard about you. Very\nimpressive! Growing crops in the\nEaster Ruins all by yourself!
+
+[54|off=0x2b84|chars=102]
+Jonathan: If you ever decide you want to\nraise some livestock, come and see\nme. I can teach you a lot.
+
+[55|off=0x2c5c|chars=89]
+Jonathan: When people drink, they always\nseem to go back to the same old\nconversations...
+
+[56|off=0x2d1a|chars=21]
+Million: Well hello, 
+
+[57|off=0x2d46|chars=33]
+P.\nI'm afraid we're not open yet.
+
+[58|off=0x2d94|chars=75]
+Million: I've been having the strangest\nfeeling recently. I just can't get\n
+
+[59|off=0x2e2c|chars=17]
+N out of my mind.
+
+[60|off=0x2e5a|chars=92]
+Million: But earlier I used to think\nthat Sharon was the most\nbeautiful woman I'd ever seen.
+
+[61|off=0x2f1e|chars=40]
+Million: Hm? Are those Cool Pins for\nme?
+
+[62|off=0x2f7a|chars=47]
+Million: Wow, I didn't expect a gift\nfrom you, 
+
+[63|off=0x2fda|chars=16]
+P! Thanks a lot!
+
+[64|off=0x3006|chars=21]
+Million: Oh... Sorry.
+
+[65|off=0x303c|chars=13]
+Million: Hi, 
+
+[66|off=0x3058|chars=77]
+P. Thanks to you,\nI'm now married, but I\nstill feel like something's missing.
+
+[67|off=0x30fe|chars=92]
+Million: Is that just the way it is when\nyou're married? I don't know, but I\ndon't think so.
+
+[68|off=0x31c2|chars=21]
+Lenny: Oh, it's you, 
+
+[69|off=0x31ee|chars=75]
+P. If you\nhave enough time to hang around\nbefore we open, why not pitch in?
+
+[70|off=0x3290|chars=87]
+Million: I'm sorry, but you have to go\naround to the front of the cash\nregister to pay.
+
+[71|off=0x334a|chars=87]
+Million: I'm sorry, but you have to go\naround to the front of the cash\nregister to pay.
+
+[72|off=0x3404|chars=16]
+Million: Hello, 
+
+[73|off=0x3426|chars=76]
+P. I'm sorry,\nbut I have a customer now. Could\nyou come back in the morning?
+
+[74|off=0x34ca|chars=41]
+Lenny: Hanging up posters sure is\nboring.
+
+[75|off=0x3528|chars=116]
+Vanessa: It's so wonderful that\nyou're still working even after\ngetting married.\nI have my painting class,\nmyself...
+
+[76|off=0x361c|chars=94]
+Nana: But my husband gets up so early\nevery day. Our lifestyles don't\ngo together very well...
+
+[77|off=0x36e4|chars=16]
+Million: Hello, 
+
+[78|off=0x3706|chars=76]
+P. I'm sorry,\nbut I'm a little busy now. Could\nyou come back in the morning?
+
+[79|off=0x37aa|chars=87]
+Lenny: Ugh.. Can't you go around to\nthe front of the cash register like\neverybody else?
+
+[80|off=0x3864|chars=90]
+Lenny: I'm busy with a customer right\nnow. Can't you find somebody else to\nplay with, kid?
+
+[81|off=0x3924|chars=87]
+Sharon: Oh, what should I do? Maybe I\nshould put this one back and get\nthe other one...
+
+[82|off=0x39de|chars=99]
+Emma: I always come around this time\nto deliver the wine. Of course, you're\ntoo young to have any, 
+
+[83|off=0x3ab6|chars=16]
+Emma: Oh, hello 
+
+[84|off=0x3ad8|chars=20]
+P.\nAre you shopping?
+
+[85|off=0x3b0c|chars=25]
+Emma: I see.\nThat's nice.
+
+[86|off=0x3b4a|chars=44]
+Emma: No? What?\nIs that Angel Ribbon for me?
+
+[87|off=0x3bae|chars=84]
+Emma: A souvenir from the Easter Ruins?\nWell, thank you very much.\nI'll treasure it.
+
+[88|off=0x3c62|chars=40]
+Emma: No?\nYou're acting a little weird,\n
+
+[89|off=0x3cc4|chars=96]
+Emma: I still remember the day that the\nFire Spirit was appeased. It's\npractically a legend now.
+
+[90|off=0x3d90|chars=99]
+Bobby: Hm? I don't remember seeing you\naround here before. Oh, Dr. Hope\ninvited you? Hi, I'm Bobby.
+
+[91|off=0x3e62|chars=68]
+Bobby: I teach at the Volcano School.\nFeel free to stop by any time.
+
+[92|off=0x3ef6|chars=89]
+Bobby: Maybe I'll finally buy a Basket\nRail set... But I don't have anywhere\nto put it...
+
+[93|off=0x3fb4|chars=90]
+Bobby: Darn it. I was too slow making up\nmy mind. Now all the Basket Rails\nare sold out...
+
+[94|off=0x4070|chars=16]
+Polo: Bark bark!
+
+[95|off=0x409c|chars=34]
+Lenny: Yawn...\nUh, can I help you?
+
+[96|off=0x40ec|chars=13]
+Million: Hi, 
+
+[97|off=0x4108|chars=50]
+P. I'm afraid I'm\nbusy taking inventory right now.
+
+[98|off=0x4178|chars=60]
+Million: Would you mind coming back\nin the morning sometime?
+
+[99|off=0x41fc|chars=35]
+*: Hm? Who're you?\nOh wait, you're 
+
+[100|off=0x4244|chars=9]
+P, right?
+
+[101|off=0x4262|chars=35]
+*: Hm? Who're you?\nOh wait, you're 
+
+[102|off=0x42aa|chars=9]
+P, right?
+
+[103|off=0x42c8|chars=75]
+Jonathan: I'm Jonathan Branch.\nI run the farm and tend to the\nanimals here.
+
+[104|off=0x436a|chars=75]
+Jonathan: I'm Jonathan Branch.\nI run the farm and tend to the\nanimals here.
+
+[105|off=0x440c|chars=99]
+Jonathan: I've heard about you. Very\nimpressive! Growing crops in the Easter\nRuins all by yourself!
+
+[106|off=0x44de|chars=99]
+Jonathan: I've heard about you. Very\nimpressive! Growing crops in the Easter\nRuins all by yourself!
+
+[107|off=0x45b0|chars=102]
+Jonathan: If you ever decide you want to\nraise some livestock, come and see\nme. I can teach you a lot.
+
+[108|off=0x4688|chars=102]
+Jonathan: If you ever decide you want to\nraise some livestock, come and see\nme. I can teach you a lot.
+
+[109|off=0x4760|chars=77]
+Jonathan: Come to think of it, the\nSpring Festival is just around the\ncorner.
+
+[110|off=0x4806|chars=77]
+Jonathan: Come to think of it, the\nSpring Festival is just around the\ncorner.
+
+[111|off=0x48ac|chars=102]
+Jonathan: You're always going to Dr.\nHope's house, so you might as well\nstop by the festival then too.
+
+[112|off=0x4984|chars=102]
+Jonathan: You're always going to Dr.\nHope's house, so you might as well\nstop by the festival then too.
+
+[113|off=0x4a5c|chars=106]
+Jonathan: Of course, the people who take\npart are all older people, so it might\nnot be much fun for a kid.
+
+[114|off=0x4b3c|chars=106]
+Jonathan: Of course, the people who take\npart are all older people, so it might\nnot be much fun for a kid.
+
+[115|off=0x4c1c|chars=113]
+Jonathan: I'm very impressed. To think\nthat you're able to run a farm all\nby yourself over at the Easter Ruins...
+
+[116|off=0x4d0a|chars=113]
+Jonathan: I'm very impressed. To think\nthat you're able to run a farm all\nby yourself over at the Easter Ruins...
+
+[117|off=0x4df8|chars=102]
+Jonathan: If you ever decide you want to\nraise some livestock, come and see me.\nI can teach you a lot.
+
+[118|off=0x4ed0|chars=102]
+Jonathan: If you ever decide you want to\nraise some livestock, come and see me.\nI can teach you a lot.
+
+[119|off=0x4fa8|chars=67]
+Jonathan: So how are your animals?\nI'm sure you're doing just fine.
+
+[120|off=0x503a|chars=59]
+Jonathan: Have you ever seen the wild\nhorses on the plains?
+
+[121|off=0x50bc|chars=100]
+Jonathan: I'm talking about the wild\nhorses on the plains by the sea, way\nto the north of East Lake.
+
+[122|off=0x5190|chars=114]
+Jonathan: If I remember correctly, a guy\ncalled the Fisherman knows a special\nwhistle that can reach those horses.
+
+[123|off=0x5280|chars=8]
+Sharon: 
+
+[124|off=0x5292|chars=44]
+P! You came.\nHow nice.\nFeel free to join in.
+
+[125|off=0x52f6|chars=15]
+Sharon: Lalala!
+
+[126|off=0x5316|chars=22]
+\nI'm a little lost cat
+
+[127|off=0x5344|chars=23]
+\nCaught out in the rain
+
+[128|off=0x5380|chars=90]
+Sharon: Oh, you scared me.\nShould you be out at this hour?\nThe doctor is probably worried.
+
+[129|off=0x5440|chars=101]
+Sharon: Marcia comes and plays with Polo\nwhen I can't take him out for a\nwalk. It really helps a lot.
+
+[130|off=0x5516|chars=49]
+Nana: My, what a handsome young\nman! You must be 
+
+[131|off=0x557a|chars=18]
+P.\nMy name's Nana.
+
+[132|off=0x55aa|chars=86]
+Jonathan: So you got yourself a\nbarn, eh? Well then, let me give you my\nCluck-o-Matic!
+
+[133|off=0x5662|chars=107]
+Jonathan: Beginners like you really need\nsomething like the Cluck-o-Matic\nto help you raise chickens right.
+
+[134|off=0x5744|chars=78]
+Jonathan: Having a robot chicken\naround helps keep the other chickens\nin line.
+
+[135|off=0x57ec|chars=87]
+Jonathan: But we don't use it\nanymore, so I'll have it sent over to\nyour farm tomorrow.
+
+[136|off=0x58a6|chars=100]
+Jonathan: So you got yourself\nsome chickens, you say? Then I'll be\nsure and send you a Baabaa-matic!
+
+[137|off=0x597a|chars=113]
+Jonathan: What's that? You have sheep\nnow? You're certainly doing well. I'll\nsend you our Moo-o-Matic right away.
+
+[138|off=0x5a68|chars=66]
+Jonathan: Are you trying to drive my\nfarm out of business? Hahaha!
+
+[139|off=0x5af8|chars=111]
+Jonathan: Our entire farm is automated,\nincluding the livestock, so we\ndon't really have to do much for them...
+
+[140|off=0x5be2|chars=97]
+Jonathan: But I feel that\nraising animals helps remind us of our\nplace in nature as human beings.
+
+[141|off=0x5cb0|chars=54]
+Jonathan: We have a responsibility\nto treat them well.
+
+[142|off=0x5d28|chars=6]
+Nana: 
+
+[143|off=0x5d36|chars=71]
+P! You came at just\nthe right time! I have something I want\nto ask you.
+
+[144|off=0x5dd0|chars=109]
+Nana: I really want to win the Mushroom\nCooking Festival this year. But I\ncan't do it with my usual dishes...
+
+[145|off=0x5eb6|chars=111]
+Nana: So I wonder if you wouldn't mind\ngetting me some Porcini mushrooms.\nThey should be in season by tomorrow.
+
+[146|off=0x5fa0|chars=122]
+Nana: I'll be sure to give you a\nlittle gift if you'll do it\nfor me!\nJust put them in your Scale\nPack and bring them here.
+
+[147|off=0x60a0|chars=49]
+Nana: Let's see... I think 100g should\nbe enough.
+
+[148|off=0x610e|chars=6]
+Nana: 
+
+[149|off=0x611c|chars=52]
+P! You got some\nPorcini mushrooms for me!\nThank you!
+
+[150|off=0x6190|chars=84]
+Nana: I'll just take them then.\nI'm a cinch to win the Mushroom\nCooking Contest now.
+
+[151|off=0x6244|chars=6]
+Nana: 
+
+[152|off=0x6252|chars=41]
+P! You got some\nPorcini mushrooms for me!
+
+[153|off=0x62b0|chars=81]
+Nana: But I'm afraid this won't be\nquite enough. I could really use\n100g of them.
+
+[154|off=0x635e|chars=114]
+Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+
+[155|off=0x644e|chars=114]
+Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+
+[156|off=0x653e|chars=53]
+Nana: I guess she's a better cook than\nI am, overall.
+
+[157|off=0x65b4|chars=53]
+Nana: I guess she's a better cook than\nI am, overall.
+
+[158|off=0x662a|chars=18]
+Sharon: Oh, hello 
+
+[159|off=0x6650|chars=64]
+P.\nActually, I have a little something that\nI'd like to ask you.
+
+[160|off=0x66dc|chars=102]
+Sharon: My dog Polo used to be a truffle\nsniffing dog, and apparently he's\ndug up some Black Truffles.
+
+[161|off=0x67b4|chars=101]
+Sharon: I can't go get them myself, so I\nwas wondering if you wouldn't mind\ngoing to get them for me.
+
+[162|off=0x688a|chars=102]
+Sharon: It's a little far away, I'm\nafraid. It's in the Mushroom Forest, to\nthe south of Mermaid Lake.
+
+[163|off=0x6962|chars=98]
+Sharon: If I could get some of those\nBlack Truffles, I'm sure to win the\nMushroom Cooking Contest.
+
+[164|off=0x6a32|chars=50]
+Sharon: Let's see... I think 50g should\nbe enough.
+
+[165|off=0x6aa2|chars=8]
+Sharon: 
+
+[166|off=0x6ab4|chars=40]
+P! Did you bring me\nsome Black Truffles?
+
+[167|off=0x6b10|chars=54]
+Sharon: I'll just take them then.\nThank you very much!
+
+[168|off=0x6b88|chars=105]
+Sharon: I appreciate the effort, but I'm\nafraid that isn't quite enough. I\ncould really use at least 50g.
+
+[169|off=0x6c66|chars=106]
+Sharon: It's funny how motivated you can\nget when you think you might\nactually have a chance of winning...
+
+[170|off=0x6d46|chars=73]
+Sharon: Please take this with my thanks.\nIt's something that Polo dug up.
+
+[171|off=0x6de4|chars=75]
+Sharon: I think it's called an Orange\nJewel. I'll send it to your Item Box.
+
+[172|off=0x6e86|chars=8]
+Sharon: 
+
+[173|off=0x6e98|chars=40]
+P! Did you bring me\nsome Black Truffles?
+
+[174|off=0x6ef4|chars=110]
+Sharon: Whenever I see a sunset like\nthis, I'm reminded of a lot of things...\nLike the place I used to live...
+
+[175|off=0x6fdc|chars=80]
+Max: I'll buy anything for that little\nwife of mine! That's how much I love\nher!
+
+[176|off=0x7088|chars=54]
+Nana: What I should have my\nhubby buy me today? Hmm...
+
+[177|off=0x7100|chars=55]
+Gallion: My son should really take a\nrest now and then.
+
+[178|off=0x717a|chars=87]
+Vanessa: Just a minute, Lenny.\nYou have to separate the cold things\nand the hot things.
+
+[179|off=0x7234|chars=74]
+Becky: We have guests coming on\nSaturday, so we're making\na regular feast!
+
+[180|off=0x72d4|chars=108]
+Jonathan: Your wife certainly seems to\nbe easy prey for people selling scam\nproducts. You should be careful.
+
+[181|off=0x73b8|chars=25]
+Jonathan: Zzzz... Zzzz...
+
+[182|off=0x73f6|chars=25]
+Jonathan: Zzzz... Zzzz...
+
+[183|off=0x7434|chars=78]
+Sharon: Vanessa is too kind. I'm really\njust a rookie teacher compared\nto her.
+
+[184|off=0x74dc|chars=55]
+Sharon: You've been all over this\nisland, haven't you, 
+
+[185|off=0x755c|chars=82]
+Sharon: So you must have met all kinds\nof people. I wonder...\nHave you ever met...
+
+[186|off=0x760c|chars=39]
+Sharon: Oh, it's nothing.\nNever mind...
+
+[187|off=0x7666|chars=45]
+Sharon: I'm just not very good with\nmachines.
+
+[188|off=0x76cc|chars=14]
+Jonathan: Hey 
+
+[189|off=0x76ea|chars=62]
+P.\nYou might not be interested in\nautomating your farm, but...
+
+[190|off=0x7772|chars=50]
+Jonathan: It'd be fun to try the Pod Rail\none day.
+
+[191|off=0x77e2|chars=94]
+Jonathan: Once you get used to it,\nyou can lay tracks and\nplay with it just like model trains.
+
+[192|off=0x78aa|chars=76]
+Sharon: Whenever I see a sunset like\nthis I'm reminded of a lot of things...
+
+[193|off=0x794e|chars=76]
+Sharon: Whenever I see a sunset like\nthis I'm reminded of a lot of things...
+
+[194|off=0x79f2|chars=37]
+Sharon: Like people I used to know...
+
+[195|off=0x7a48|chars=37]
+Sharon: Like people I used to know...
+
+[196|off=0x7a9e|chars=106]
+Sharon: I think it's wonderful that you\nhave time to spend on self improvement\neven after getting married.
+
+[197|off=0x7b7e|chars=86]
+Sharon: Darn. I can't get online.\nI'll have to ask Bobby to look at my\ncomputer again.
+
+[198|off=0x7c36|chars=63]
+Sharon: Bobby always comes when I call.\nHe's been a great help.
+
+[199|off=0x7cc0|chars=123]
+Jonathan: This super high definition\nLCD TV sure is amazing.\nLeave it to the Banks\nCorporation to make something like that.
+
+[200|off=0x7dc2|chars=22]
+Becky: Huh? It's you, 
+
+[201|off=0x7df0|chars=25]
+P.\nLooking for something?
+
+[202|off=0x7e2e|chars=78]
+Becky: I heard that you're addicted to\nsome kind of weird Dictionary lately...
+
+[203|off=0x7ed6|chars=84]
+Becky: I always carry this weird book that\nI found one day.\nDo you want to read it, 
+
+[204|off=0x7f90|chars=24]
+Becky: Here, this is it.
+
+[205|off=0x7fca|chars=25]
+White Rose Story-Volume 2
+
+[206|off=0x8006|chars=52]
+Masso failed the city college\nentrance exam again...
+
+[207|off=0x8076|chars=98]
+He boarded a train to return home.\nHe lamented his misfortune to an\nold man riding the same train.
+
+[208|off=0x8142|chars=26]
+...Then the old mad said,\n
+
+[209|off=0x8178|chars=44]
+Smell this white rose,\nand rest for a while.
+
+[210|off=0x81dc|chars=38]
+The scent holds the key to your luck."
+
+[211|off=0x8230|chars=78]
+Even though Masso was suspicious,\nhe sniffed the white rose\nand fell asleep...
+
+[212|off=0x82d4|chars=111]
+One year later, Masso passed the\nentrance exam for an elite university.\nIt may be due to the scent of the rose.
+
+[213|off=0x83ba|chars=109]
+Later, he achieved great success in\nbusiness, established a happy family\nwith a beautiful wife and many kids.
+
+[214|off=0x849c|chars=55]
+His happy and affluent life continued.\nUntil one day...
+
+[215|off=0x8512|chars=30]
+An ear-piercing whistle blew!!
+
+[216|off=0x8556|chars=21]
+...and Masso woke up.
+
+[217|off=0x8588|chars=78]
+The train had just reached the last\nstop. The old man was nowhere to be\nfound.
+
+[218|off=0x862c|chars=100]
+Only the scent of white rose was\nleft, lingering in the air.\n                                The end
+
+[219|off=0x8700|chars=77]
+Becky: I think there's an old tale about\nwhite roses in this area too,\nright?
+
+[220|off=0x87a6|chars=101]
+Becky: Those who find a white rose in the\nwhite snow will have\neverlasting happiness...isn't that so?
+
+[221|off=0x887c|chars=57]
+Becky: But I wonder what kind of rose\nblooms in winter...
+
+[222|off=0x88fa|chars=66]
+Becky: I see... Let me know if you\nfeel like reading it again, OK?
+
+[223|off=0x898a|chars=27]
+Becky: Do you want to read 
+
+[224|off=0x89c2|chars=25]
+White Rose\nStory - Vol.2,
+
+[225|off=0x89f6|chars=28]
+ which I strongly recommend?
+
+[226|off=0x8a3a|chars=20]
+Sharon: Gaga gagaaa!
+
+[227|off=0x8a6e|chars=16]
+Million: Gagaga!
+
+[228|off=0x8a9a|chars=12]
+Lenny: Ga...
+
+[229|off=0x8abe|chars=16]
+Million: Gagaga!
+
+[230|off=0x8aea|chars=12]
+Lenny: Ga...
+
+[231|off=0x8b0e|chars=13]
+Vanessa: Ga-.
+
+[232|off=0x8b34|chars=16]
+Nana: Gaga gaga!
+
+[233|off=0x8b60|chars=16]
+Million: Gagaga!
+
+[234|off=0x8b8c|chars=12]
+Lenny: Ga...
+
+[235|off=0x8bb0|chars=9]
+Emma: Ga?
+
+[236|off=0x8bce|chars=22]
+Bobby: Ga- gagagagaga!
+
+[237|off=0x8c06|chars=22]
+Bobby: Ga- gagagagaga!
+
+[238|off=0x8c3a|chars=15]
+Polo: Gaga arf!
+
+[239|off=0x8c64|chars=16]
+Million: Gagaga!
+
+[240|off=0x8c90|chars=12]
+Lenny: Ga...
+
+[241|off=0x8cb4|chars=13]
+Max: Ga! Gaa!
+
+[242|off=0x8cda|chars=15]
+Gallion: Gaga-!
+
+[243|off=0x8d04|chars=13]
+Vanessa: Ga-.
+
+[244|off=0x8d2a|chars=17]
+Becky: Ga gagaga!
+
+[245|off=0x8d58|chars=17]
+Jonathan: Gagaaa!
+
+[246|off=0x8d86|chars=17]
+Jonathan: Gagaaa!
+
+[247|off=0x8db4|chars=17]
+Jonathan: Gagaaa!
+
+[248|off=0x8de2|chars=17]
+Jonathan: Gagaaa!
+
+[249|off=0x8e10|chars=17]
+Jonathan: Gagaaa!
+
+[250|off=0x8e3e|chars=17]
+Jonathan: Gagaaa!
+
+[251|off=0x8e6c|chars=25]
+Jonathan: Gaga... Zzzz...
+
+[252|off=0x8eaa|chars=25]
+Jonathan: Gaga... Zzzz...
+
+[253|off=0x8ee8|chars=16]
+Nana: Gaga gaga!
+
+[254|off=0x8f10|chars=69]
+"This item is on backorder.\nPlease come back again.\n-Manager Million"
+
+[255|off=0x8fa2|chars=8]
+Put the 
+
+[256|off=0x8fb4|chars=24]
+I\nin your shopping cart?
+
+[257|off=0x8fec|chars=8]
+Put the 
+
+[258|off=0x8ffe|chars=24]
+I\nin your shopping cart?
+
+[259|off=0x9036|chars=31]
+How many do you want to\nput in?
+
+[260|off=0x907c|chars=30]
+You put an Order Card for\nthe 
+
+[261|off=0x90ba|chars=24]
+I\nin your shopping cart!
+
+[262|off=0x90f2|chars=30]
+You put an Order Card for\nthe 
+
+[263|off=0x9130|chars=24]
+I\nin your shopping cart!
+
+[264|off=0x9168|chars=30]
+You put an Order Card for\nthe 
+
+[265|off=0x91a6|chars=24]
+I\nin your shopping cart!
+
+[266|off=0x91e6|chars=13]
+KG\nThere are 
+
+[267|off=0x9202|chars=48]
+L in your cart. Would\nyou like to put them back?
+
+[268|off=0x926a|chars=33]
+How many do you want to\nput back?
+
+[269|off=0x92bc|chars=47]
+i\nhave been erased from your\ncart's Order Card.
+
+[270|off=0x9322|chars=9]
+Add more 
+
+[271|off=0x9336|chars=24]
+i\nto your shopping cart?
+
+[272|off=0x936e|chars=31]
+How many do you want to\nput in?
+
+[273|off=0x93bc|chars=44]
+i\nhave been added to your\ncart's Order Card.
+
+[274|off=0x941c|chars=69]
+"This item is on backorder.\nPlease come back again.\n-Manager Million"
+
+[275|off=0x94b6|chars=12]
+KG\nYou have 
+
+[276|off=0x94d0|chars=54]
+L on your Order Card.\nWould you like to put some back?
+
+[277|off=0x9544|chars=33]
+How many do you want to\nput back?
+
+[278|off=0x9596|chars=47]
+i\nhave been erased from your\ncart's Order Card.
+
+[279|off=0x95fc|chars=69]
+"This item is on backorder.\nPlease come back again.\n-Manager Million"
+
+[280|off=0x9696|chars=12]
+KG\nYou have 
+
+[281|off=0x96b0|chars=54]
+L on your Order Card.\nWould you like to put some back?
+
+[282|off=0x9724|chars=4]
+The 
+
+[283|off=0x972e|chars=45]
+I\nOrder Card has been taken out\nof your cart.
+
+[284|off=0x9790|chars=72]
+If you would like to shop, return to\nthe store entrance and take a cart.
+
+[285|off=0x982c|chars=49]
+Million: Please line up at an available\nregister.
+
+[286|off=0x989a|chars=96]
+Million: We apologize. All registers are\ncurrently busy. Please wait for the\nnext available one.
+
+[287|off=0x9966|chars=35]
+Million: Welcome to Shop-a-Million!
+
+[288|off=0x99b8|chars=77]
+Million: There's nothing in your cart.\nAre you sure you're finished\nshopping?
+
+[289|off=0x9a5e|chars=65]
+Million: Well, I'll take that cart for\nyou. Come back and see us!
+
+[290|off=0x9aec|chars=48]
+Million: Well, let me know if you\nneed anything!
+
+[291|off=0x9b58|chars=82]
+Million: Umm. Sorry, but you don't have\nenough money to buy this.\nCome back again!
+
+[292|off=0x9c08|chars=67]
+Million: Hmm. You don't have enough\nmoney to purchase everything...
+
+[293|off=0x9c9a|chars=9]
+Million: 
+
+[294|off=0x9cb4|chars=4]
+KG\n 
+
+[295|off=0x9cbe|chars=19]
+L  of them will be 
+
+[296|off=0x9ce6|chars=41]
+MG.\nWould you like to make this purchase?
+
+[297|off=0x9d44|chars=18]
+Million: Alrighty!
+
+[298|off=0x9d74|chars=60]
+Million: Thank you for shopping with\nus, and come back soon!
+
+[299|off=0x9df8|chars=47]
+Million: All right, let's go over your\norder...
+
+[300|off=0x9e62|chars=9]
+Million: 
+
+[301|off=0x9e84|chars=18]
+L of them will be 
+
+[302|off=0x9ebc|chars=35]
+Million: That brings your order to\n
+
+[303|off=0x9f04|chars=25]
+KG. Will that be alright?
+
+[304|off=0x9f42|chars=74]
+Million: Thank you very much!\nAll of your items will be\nsent to your farm!
+
+[305|off=0x9fe2|chars=74]
+Million: Thank you very much!\nAll of your items will be\nsent to your farm!
+
+[306|off=0xa07e|chars=64]
+There is an Order Card in you cart!\nWould you like to check out?
+
+[307|off=0xa10a|chars=23]
+Million: There you are!
+
+[308|off=0xa144|chars=73]
+Million: Whew...\nYou sure are in a hurry! Well\nwelcome to Shop-a-Million!
+
+[309|off=0xa1e2|chars=35]
+Million: Come back and see us soon!
+
+[310|off=0xa234|chars=35]
+Million: Come back and see us soon!
+
+[311|off=0xa282|chars=34]
+You can't go in there with\na cart!
+
+[312|off=0xa2d2|chars=49]
+Lenny: Sorry, could you use that\nregister please?
+
+[313|off=0xa340|chars=35]
+Lenny: Sorry.  We're pretty busy...
+
+[314|off=0xa392|chars=15]
+Lenny: Welcome!
+
+[315|off=0xa3bc|chars=69]
+Lenny: Umm...There's nothing in your\ncart. Are you finished shopping?
+
+[316|off=0xa452|chars=52]
+Lenny: All right! Well, I'll take your\ncart for you.
+
+[317|off=0xa4c6|chars=63]
+Lenny: Come back again once you\nchoose something that\nyou want.
+
+[318|off=0xa550|chars=58]
+Lenny: Er... You don't have enough\nmoney. Come back again!
+
+[319|off=0xa5d0|chars=59]
+Lenny: Er... You don't have enough\nmoney to buy everything.
+
+[320|off=0xa652|chars=7]
+Lenny: 
+
+[321|off=0xa670|chars=18]
+L of them will be 
+
+[322|off=0xa696|chars=28]
+MG.\nDo you want to buy this?
+
+[323|off=0xa6da|chars=15]
+Lenny: Welcome!
+
+[324|off=0xa704|chars=15]
+Lenny: Welcome!
+
+[325|off=0xa72e|chars=49]
+Lenny: Thanks for shopping! Come\nback and see us!
+
+[326|off=0xa79c|chars=42]
+Lenny: All right, let's see what\nyou have.
+
+[327|off=0xa7fc|chars=7]
+Lenny: 
+
+[328|off=0xa812|chars=4]
+KG\n 
+
+[329|off=0xa81c|chars=18]
+L of them will be 
+
+[330|off=0xa854|chars=32]
+Lenny: That brings the total to\n
+
+[331|off=0xa896|chars=17]
+KG. Is that okay?
+
+[332|off=0xa8c4|chars=57]
+Lenny: Thanks! The items will be\ndelivered to your farm, 
+
+[333|off=0xa948|chars=57]
+Lenny: Thanks! The items will be\ndelivered to your farm, 
+
+[334|off=0xa9cc|chars=19]
+Lenny: Yes!\nComing!
+
+[335|off=0xa9fe|chars=85]
+Lenny: Hmph... Some customers are so\nselfish... Oh, hello!\nWelcome to Shop-a-Million!
+
+[336|off=0xaab4|chars=20]
+Lenny: Welcome back!
+
+[337|off=0xaae8|chars=20]
+Lenny: Welcome back!
+
+[338|off=0xab1c|chars=59]
+Emma: I'm sorry, could you please\nline up at that register?
+
+[339|off=0xab9e|chars=83]
+Emma: Unfortunately, no registers are\ncurrently open. Please come back\nagain later.
+
+[340|off=0xac50|chars=55]
+Emma: Nice to see you again!\nWelcome to Shop-a-Million!
+
+[341|off=0xacca|chars=68]
+Emma: Hm? There's nothing in your\ncart... Are you finished shopping?
+
+[342|off=0xad5e|chars=62]
+Emma: Well, I'll take your cart for you.\nThank you for coming!
+
+[343|off=0xade6|chars=30]
+Emma: Take your time shopping!
+
+[344|off=0xae2e|chars=98]
+Emma: I don't know how to tell you this,\nbut you don't have enough money.\nCome back again, please.
+
+[345|off=0xaefe|chars=93]
+Emma: I don't know how to tell you this,\nbut you don't have enough money\nto buy everything...
+
+[346|off=0xafc4|chars=6]
+Emma: 
+
+[347|off=0xafd8|chars=4]
+KG\n 
+
+[348|off=0xafe2|chars=19]
+L  of them will be 
+
+[349|off=0xb00a|chars=41]
+MG.\nWould you like to make this purchase?
+
+[350|off=0xb068|chars=15]
+Emma: Alrighty!
+
+[351|off=0xb092|chars=54]
+Emma: Well, thanks for shopping!\nCome back and see us!
+
+[352|off=0xb10a|chars=33]
+Emma: Let's go over your order...
+
+[353|off=0xb158|chars=6]
+Emma: 
+
+[354|off=0xb174|chars=18]
+L of them will be 
+
+[355|off=0xb1ac|chars=32]
+Emma: That brings your order to\n
+
+[356|off=0xb1ee|chars=25]
+KG. Will that be alright?
+
+[357|off=0xb22c|chars=69]
+Emma: Thanks a lot! The items will\nbe sent to your Item Box\nas usual!
+
+[358|off=0xb2c2|chars=69]
+Emma: Thanks a lot! The items will\nbe sent to your Item Box\nas usual!
+
+[359|off=0xb358|chars=36]
+Emma: Just a second!\nBe right there!
+
+[360|off=0xb3ac|chars=67]
+Emma: Whew...\nSorry to keep you waiting!\nWelcome to Shop-a-million!
+
+[361|off=0xb43e|chars=27]
+Emma: Come back and see us!
+
+[362|off=0xb480|chars=27]
+Emma: Come back and see us!
+
+[363|off=0xb4c0|chars=43]
+N: Gagagaaa!\nGo to that register. Gagaaaaa!
+
+[364|off=0xb520|chars=43]
+N: Gagagaaa!\nGo to that register. Gagaaaaa!
+
+[365|off=0xb580|chars=43]
+N: Gagagaaa!\nGo to that register. Gagaaaaa!
+
+[366|off=0xb5e0|chars=37]
+N: Gaaaa!\nPretty busy today. Gagaaa!!
+
+[367|off=0xb634|chars=37]
+N: Gaaaa!\nPretty busy today. Gagaaa!!
+
+[368|off=0xb688|chars=37]
+N: Gaaaa!\nPretty busy today. Gagaaa!!
+
+[369|off=0xb6dc|chars=37]
+N: This is Shop-a-Million!\nGagagaaa!!
+
+[370|off=0xb730|chars=37]
+N: This is Shop-a-Million!\nGagagaaa!!
+
+[371|off=0xb784|chars=37]
+N: This is Shop-a-Million!\nGagagaaa!!
+
+[372|off=0xb7d8|chars=60]
+N: There's nothing in your cart! Gaa!\nIs this a joke? Gagaa!
+
+[373|off=0xb85a|chars=60]
+N: There's nothing in your cart! Gaa!\nIs this a joke? Gagaa!
+
+[374|off=0xb8dc|chars=60]
+N: There's nothing in your cart! Gaa!\nIs this a joke? Gagaa!
+
+[375|off=0xb95e|chars=41]
+N: Return your cart! Ga!\nGood bye! Gaaa!!
+
+[376|off=0xb9ba|chars=41]
+N: Return your cart! Ga!\nGood bye! Gaaa!!
+
+[377|off=0xba16|chars=41]
+N: Return your cart! Ga!\nGood bye! Gaaa!!
+
+[378|off=0xba72|chars=25]
+N: Okay! Go shop! Gagaga!
+
+[379|off=0xbaae|chars=25]
+N: Okay! Go shop! Gagaga!
+
+[380|off=0xbaea|chars=25]
+N: Okay! Go shop! Gagaga!
+
+[381|off=0xbb26|chars=59]
+N: Gagaaa! It's too bad, you don't\nhave enough money! Gaaa!
+
+[382|off=0xbba6|chars=59]
+N: Gagaaa! It's too bad, you don't\nhave enough money! Gaaa!
+
+[383|off=0xbc26|chars=59]
+N: Gagaaa! It's too bad, you don't\nhave enough money! Gaaa!
+
+[384|off=0xbca6|chars=68]
+N: Gagaaa! You don't have enough\nmoney to buy everything. Gaaaaaaaa!
+
+[385|off=0xbd38|chars=68]
+N: Gagaaa! You don't have enough\nmoney to buy everything. Gaaaaaaaa!
+
+[386|off=0xbdca|chars=68]
+N: Gagaaa! You don't have enough\nmoney to buy everything. Gaaaaaaaa!
+
+[387|off=0xbe6a|chars=4]
+KG\n 
+
+[388|off=0xbe74|chars=18]
+L of them will be 
+
+[389|off=0xbe9a|chars=25]
+MG.\nWanna buy this? Gaaa!
+
+[390|off=0xbee4|chars=4]
+KG\n 
+
+[391|off=0xbeee|chars=18]
+L of them will be 
+
+[392|off=0xbf14|chars=25]
+MG.\nWanna buy this? Gaaa!
+
+[393|off=0xbf5e|chars=4]
+KG\n 
+
+[394|off=0xbf68|chars=18]
+L of them will be 
+
+[395|off=0xbf8e|chars=25]
+MG.\nWanna buy this? Gaaa!
+
+[396|off=0xbfca|chars=13]
+N: Okay! Gaa!
+
+[397|off=0xbfee|chars=13]
+N: Okay! Gaa!
+
+[398|off=0xc012|chars=13]
+N: Okay! Gaa!
+
+[399|off=0xc036|chars=48]
+N: Finished shopping? Gaa!\nThat's too bad! Gaaa!
+
+[400|off=0xc0a0|chars=48]
+N: Finished shopping? Gaa!\nThat's too bad! Gaaa!
+
+[401|off=0xc10a|chars=48]
+N: Finished shopping? Gaa!\nThat's too bad! Gaaa!
+
+[402|off=0xc174|chars=47]
+N: Let's go over what you have\npicked out. Gaa!
+
+[403|off=0xc1dc|chars=47]
+N: Let's go over what you have\npicked out. Gaa!
+
+[404|off=0xc244|chars=47]
+N: Let's go over what you have\npicked out. Gaa!
+
+[405|off=0xc2ba|chars=4]
+KG\n 
+
+[406|off=0xc2c4|chars=18]
+L of them will be 
+
+[407|off=0xc308|chars=4]
+KG\n 
+
+[408|off=0xc312|chars=18]
+L of them will be 
+
+[409|off=0xc356|chars=4]
+KG\n 
+
+[410|off=0xc360|chars=18]
+L of them will be 
+
+[411|off=0xc396|chars=29]
+N: That brings everything to\n
+
+[412|off=0xc3d2|chars=32]
+KG. Gaa! Is that\nalright? Gaaaa!
+
+[413|off=0xc41c|chars=29]
+N: That brings everything to\n
+
+[414|off=0xc458|chars=32]
+KG. Gaa! Is that\nalright? Gaaaa!
+
+[415|off=0xc4a2|chars=29]
+N: That brings everything to\n
+
+[416|off=0xc4de|chars=32]
+KG. Gaa! Is that\nalright? Gaaaa!
+
+[417|off=0xc528|chars=73]
+N: Thanks a lot! Gagaaa!\nEverything will be sent to your Item Box!\nGagaa!
+
+[418|off=0xc5c4|chars=73]
+N: Thanks a lot! Gagaaa!\nEverything will be sent to your Item Box!\nGagaa!
+
+[419|off=0xc660|chars=73]
+N: Thanks a lot! Gagaaa!\nEverything will be sent to your Item Box!\nGagaa!
+
+[420|off=0xc6fc|chars=73]
+N: Thanks a lot! Gagaaa!\nEverything will be sent to your Item Box!\nGagaa!
+
+[421|off=0xc798|chars=73]
+N: Thanks a lot! Gagaaa!\nEverything will be sent to your Item Box!\nGagaa!
+
+[422|off=0xc834|chars=73]
+N: Thanks a lot! Gagaaa!\nEverything will be sent to your Item Box!\nGagaa!
+
+[423|off=0xc8d0|chars=25]
+N: Be right there! Gaaaa!
+
+[424|off=0xc90c|chars=25]
+N: Be right there! Gaaaa!
+
+[425|off=0xc948|chars=25]
+N: Be right there! Gaaaa!
+
+[426|off=0xc984|chars=7]
+N: Hugh
+
+[427|off=0xc994|chars=69]
+ Hugh...\nYou don' have to yell! Gaa!\nWelcome to Shop-a-Million! Gaaa!
+
+[428|off=0xca28|chars=7]
+N: Hugh
+
+[429|off=0xca38|chars=69]
+ Hugh...\nYou don' have to yell! Gaa!\nWelcome to Shop-a-Million! Gaaa!
+
+[430|off=0xcacc|chars=7]
+N: Hugh
+
+[431|off=0xcadc|chars=69]
+ Hugh...\nYou don' have to yell! Gaa!\nWelcome to Shop-a-Million! Gaaa!
+
+[432|off=0xcb70|chars=36]
+N: Gagagaaa!\nCome back again!\nGaaaa!
+
+[433|off=0xcbc2|chars=36]
+N: Gagagaaa!\nCome back again!\nGaaaa!
+
+[434|off=0xcc14|chars=36]
+N: Gagagaaa!\nCome back again!\nGaaaa!
+
+[435|off=0xcc66|chars=36]
+N: Gagagaaa!\nCome back again!\nGaaaa!
+
+[436|off=0xccb8|chars=36]
+N: Gagagaaa!\nCome back again!\nGaaaa!
+
+[437|off=0xcd0a|chars=36]
+N: Gagagaaa!\nCome back again!\nGaaaa!
+
+[438|off=0xcd62|chars=72]
+KG\nCan be used to create many dishes.\nHarvest when flowers have bloomed.
+
+[439|off=0xce02|chars=48]
+KG\nSweet and delicious.\nRelatively easy to grow.
+
+[440|off=0xce72|chars=70]
+KG\nQuite expensive if purchased at a store.\nWhy not grow some at home?
+
+[441|off=0xcf0e|chars=80]
+KG\nWill bear fruit again if watered after\npicking. Plant them early for profits.
+
+[442|off=0xcfbe|chars=66]
+KG\nGrows again if watered after harvest.\nCan be repeatedly picked.
+
+[443|off=0xd052|chars=70]
+KG\nCan gather a number at a time. Plant\nthem early to earn more money.
+
+[444|off=0xd0ee|chars=65]
+KG\nBlooms in random colors. Grows\nagain if watered after picking.
+
+[445|off=0xd180|chars=65]
+KG\nBlooms in random colors. Grows\nagain if watered after picking.
+
+[446|off=0xd212|chars=83]
+KG\nA refreshing herb with a nice fragrance.\nHarvest again if watered after picking.
+
+[447|off=0xd2c8|chars=65]
+KG\nA fragrant herb. Can be picked\nagain if watered after harvest.
+
+[448|off=0xd35a|chars=71]
+KG\nCan gather a number at a time. Plant\nthem early to make more profit.
+
+[449|off=0xd3f8|chars=71]
+KG\nBears fruit again if watered after\npicking, so plant early for more!
+
+[450|off=0xd496|chars=75]
+KG\nQuite expensive if purchased at a store.\nMay be cheaper to grow at home.
+
+[451|off=0xd53c|chars=72]
+KG\nCan be easily grown by beginners.\nPlant seeds again after harvesting.
+
+[452|off=0xd5dc|chars=74]
+KG\nPopular for their large size and sweet\ntaste. Grow some in your garden!
+
+[453|off=0xd680|chars=84]
+KG\nCan gather a number at a time. Will bear\nfruit again if watered after harvesting!
+
+[454|off=0xd738|chars=75]
+KG\nA popular vegetable during the fall.\nPlant seeds again after harvesting.
+
+[455|off=0xd7de|chars=81]
+KG\nIrresistible when warmed up on a cold\nday. Plant seeds again after harvesting.
+
+[456|off=0xd890|chars=76]
+KG\nCan gather a number at a time. Plant\nthem early to make the most of them.
+
+[457|off=0xd938|chars=70]
+KG\nA necessity for curry and stew.\nPlant seeds again after harvesting.
+
+[458|off=0xd9d4|chars=82]
+KG\nCan gather a large quantity at a time.\nBeneficial if planted at an early stage.
+
+[459|off=0xda88|chars=76]
+KG\nCan gather a number at a time. Plant\nthem early to make the most of them.
+
+[460|off=0xdb30|chars=68]
+KG\nBig yields from a single tree.\nBears more fruit if watered again.
+
+[461|off=0xdbc8|chars=72]
+KG\nA popular flower during the fall.\nPlant seeds again after harvesting.
+
+[462|off=0xdc68|chars=78]
+KG\nThe only vegetable that can be grown in\nthe winter. High nutritional value.
+
+[463|off=0xdd14|chars=78]
+KG\nThe only flower that grows in winter.\nBlooms more if watered after picking.
+
+[464|off=0xddc0|chars=71]
+KG\nIt's smarter to grow this at home\ninstead of buying it at the store.
+
+[465|off=0xde5e|chars=71]
+KG\nIt's smarter to grow this at home\ninstead of buying it at the store.
+
+[466|off=0xdefc|chars=73]
+KG\nA child's toy. May come in handy as\na farm tool if used the right way.
+
+[467|off=0xdf9e|chars=73]
+KG\nA child's toy. May come in handy as\na farm tool if used the right way.
+
+[468|off=0xe040|chars=68]
+KG\nA tent that pitches when thrown.\nEssential for sleeping outdoors.
+
+[469|off=0xe0d8|chars=74]
+KG\nUse for harvesting wild plants and\nfruit. Conveniently displays weight.
+
+[470|off=0xe17c|chars=76]
+KG\nA normal hammer that can be used by\nanyone. Use it to crush small stones.
+
+[471|off=0xe224|chars=81]
+KG\nA normal axe that can be used by anyone.\nCut fallen branches to create lumber.
+
+[472|off=0xe2d6|chars=75]
+KG\nA normal sickle that can be used by\nanyone. Use to cut bothersome weeds.
+
+[473|off=0xe37c|chars=76]
+KG\nCan hold up to 100 harvested crops.\nIndividually handmade by a craftsman.
+
+[474|off=0xe424|chars=80]
+KG\nExpensive, natural fertilizer that turns\nbarren wasteland into rich farmland.
+
+[475|off=0xe4d4|chars=61]
+KG\nA 20-piece set of straight rails.\nConnect together to use.
+
+[476|off=0xe55e|chars=54]
+KG\nA 4-piece set of curved rails.\nUse them for curves.
+
+[477|off=0xe5da|chars=67]
+KG\nUse to place baskets on when still.\nRuns on a rail with a motor.
+
+[478|off=0xe670|chars=61]
+KG\nA lightweight rail cart that\neasily holds harvest baskets.
+
+[479|off=0xe6fa|chars=64]
+KG\nThe latest model from Convey-R Inc.\nA fast, lightweight cart!
+
+[480|off=0xe78a|chars=67]
+KG\nA rail motor. Slow in speed,\nbut capable of pulling heavy items.
+
+[481|off=0xe820|chars=60]
+KG\nA rail motor. Faster and\nas strong as the previous model.
+
+[482|off=0xe8a8|chars=73]
+KG\nA conveyor motor. Fastest Convey-R\nInc design for pulling heavy loads.
+
+[483|off=0xe94a|chars=73]
+KG\nA lightweight basket from Bas&Ket Inc.\nCan be placed on top of a rail.
+
+[484|off=0xe9ec|chars=74]
+KG\nA basket from Bas&Ket Inc., to be used\non a conveyor from Convey-R Inc.
+
+[485|off=0xea90|chars=80]
+KG\nA basket for baskets from Bas&Ket Inc.\nA lightweight model for higher speeds.
+
+[486|off=0xeb40|chars=70]
+KG\nA rail motor from Bas&Ket Inc.\nLow in horsepower but high in speed!
+
+[487|off=0xebdc|chars=53]
+KG\nA rail motor from Bas&Ket Inc.\nFaster than the DX!
+
+[488|off=0xec56|chars=53]
+KG\nA rail motor from Bas&Ket Inc.\nFaster than the DX!
+
+[489|off=0xecd0|chars=63]
+KG\nAutomatically sets up and throws\ncontents into Shipping Bin.
+
+[490|off=0xed5e|chars=63]
+KG\nAutomatically sets up and throws\ncontents into Shipping Bin.
+
+[491|off=0xede4|chars=6]
+Yes\nNo
+
+[492|off=0xedf8|chars=6]
+Yes\nNo
+
+[493|off=0xee0c|chars=6]
+Yes\nNo
+
+[494|off=0xee20|chars=6]
+Yes\nNo
+
+[495|off=0xee34|chars=6]
+Yes\nNo
+
+[496|off=0xee48|chars=6]
+Yes\nNo
+
+[497|off=0xee5c|chars=6]
+Yes\nNo
+
+[498|off=0xee70|chars=6]
+Yes\nNo
+
+[499|off=0xee84|chars=6]
+Yes\nNo
+
+[500|off=0xee98|chars=6]
+Yes\nNo
+
+[501|off=0xeeac|chars=6]
+Yes\nNo
+
+[502|off=0xeec0|chars=6]
+Yes\nNo
+
+[503|off=0xeed4|chars=6]
+Yes\nNo
+
+[504|off=0xeee8|chars=6]
+Yes\nNo
+
+[505|off=0xeefc|chars=6]
+Yes\nNo
+
+[506|off=0xef10|chars=6]
+Yes\nNo
+
+[507|off=0xef24|chars=6]
+Yes\nNo
+
+[508|off=0xef38|chars=6]
+Yes\nNo
+
+[509|off=0xef4c|chars=6]
+Yes\nNo
+
+[510|off=0xef60|chars=6]
+Yes\nNo
+
+[511|off=0x22130|chars=7]
+Million
+
+[512|off=0x22150|chars=4]
+Emma
+
+[513|off=0x22170|chars=5]
+Lenny
+
+[514|off=0x22538|chars=7]
+Jessica

@@ -1,0 +1,611 @@
+# ETBARN.SCP - 202 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x5ae|chars=56]
+Franco: Entao voce finalmente\ncomeou a criar animais, hein?
+
+[1|off=0x62a|chars=109]
+Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem sao\ninvencoes do Dr. Hope?
+
+[2|off=0x710|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatico, mas naquela epoca usar\nrobos era uma ideia revolucionaria.
+
+[3|off=0x7fc|chars=61]
+Franco: Ouvi que eles ainda sao\nbastante usados no exterior.
+
+[4|off=0x882|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido novamente\nentre essas ruinas!
+
+[5|off=0x922|chars=90]
+Moonlight: Tenho certeza de que\na forca vital deles vai revitalizar\nesta terra e o ermo!
+
+[6|off=0x9e2|chars=72]
+Franco: Uau!\nQue sortudo voce e!\nGanhou um buggy desse como presente!
+
+[7|off=0xa7e|chars=89]
+Franco: Se eu tivesse um buggy\ndesses, levava a Rose pra um\npasseio que ela nunca esqueceria!
+
+[8|off=0xb3c|chars=11]
+Moonlight:
+
+[9|off=0xb54|chars=52]
+<06>P! Vi que voce ganhou\num belo presente do Dr. Hope.
+
+[10|off=0xbc8|chars=63]
+Moonlight: Num buggy desses\nvoce pode ir a praticamente\nqualquer lugar!
+
+[11|off=0xc52|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.
+
+[12|off=0xcd6|chars=73]
+Franco: Quando eu era jovem, todos\nlevavam seus pares aquela caverna.
+
+[13|off=0xd74|chars=11]
+Moonlight:
+
+[14|off=0xd8c|chars=57]
+<06>P!\nOuvi que houve problemas na\ncaverna de Volcano Town.
+
+[15|off=0xe0a|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
+
+[16|off=0xeb0|chars=49]
+Franco: Ouvi que voce plantou\nbicos-de-papagaio.
+
+[17|off=0xf1e|chars=120]
+Franco: Se conseguir enviar bastante\ndeles ate a vespera do Natal, podem\nusá-los para enfeitar a cidade.
+
+[18|off=0x101a|chars=21]
+Franco: Mal posso esperar!
+
+[19|off=0x1050|chars=41]
+Franco: Ouvi que o Dr. Hope\ncaiu doente...
+
+[20|off=0x10ae|chars=96]
+Franco: Sei que deve estar preocupado\ncom ele, mas voce tem um trabalho\nimportante a terminar.
+
+[21|off=0x117a|chars=89]
+Franco: Tenho certeza de que a\nmelhor coisa pro Dr. Hope agora\ne ver como voce trabalha duro.
+
+[22|off=0x1238|chars=52]
+Moonlight: Nunca soube que o\nDr. Hope estava tao doente...
+
+[23|off=0x12ac|chars=86]
+Moonlight: Suponho que era por isso\nque ele tinha tanta pressa em\nterminar o trabalho com voce...
+
+[24|off=0x1364|chars=42]
+Franco: Sei que esta triste com\no Dr. Hope,
+
+[25|off=0x13ba|chars=12]
+<06>P. Eu tambem.
+
+[26|off=0x13de|chars=31]
+Franco: Ele era um bom amigo...
+
+[27|off=0x1428|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[28|off=0x1494|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do que\naparenta aos olhos!
+
+[29|off=0x1534|chars=91]
+Moonlight: O que tento dizer e...\nTenho certeza de que o Dr. Hope\nsempre velara por voce,
+
+[30|off=0x15fc|chars=62]
+Franco: Quem e esse homem estranho\nque mora no novo quarto?
+
+[31|off=0x1684|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao era como se alguem a possuisse...
+
+[32|off=0x1752|chars=61]
+Franco: Bom, acho que nao devemos\nnos preocupar muito com isso.
+
+[33|off=0x17d8|chars=43]
+Franco: Um alien mora\nno novo quarto?
+
+[34|off=0x183a|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao era como se alguem a possuisse...
+
+[35|off=0x1908|chars=61]
+Franco: Bom, acho que nao devemos\nnos preocupar muito com isso.
+
+[36|off=0x198e|chars=11]
+Moonlight:
+
+[37|off=0x19a6|chars=76]
+<06>P!\nVi uma coisa estranha parecida com\num bicho de pelucia no novo quarto.
+
+[38|off=0x1a4a|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!
+
+[39|off=0x1ab8|chars=75]
+Quer esvaziar o Scale Pack\nno Pod de Envio?
+
+[40|off=0x1b56|chars=50]
+Voce esvaziou o Scale Pack\nno Pod de Envio.
+
+[41|off=0x1bc2|chars=65]
+Quer esvaziar as culturas\nda bolsa no Pod de Envio?
+
+[42|off=0x1c4c|chars=52]
+Qual cultura deseja colocar\nno Pod de Envio?
+
+[43|off=0x1cbc|chars=56]
+Voce esvaziou as culturas\nda bolsa no Pod de Envio!
+
+[44|off=0x1d34|chars=84]
+Este e um Pod de Envio. Os itens dentro\nsao enviados ao mercado todo dia\nas 17:30.
+
+[45|off=0x1de4|chars=84]
+Este e um Pod de Envio. Os itens dentro\nsao enviados ao mercado todo dia\nas 17:30.
+
+[46|off=0x1e94|chars=102]
+Este Pod e para culturas e alimentos.\nColoque materiais de construcao\ne minerio no pod azul.
+
+[47|off=0x1f68|chars=94]
+Este Pod e para pedras, madeira\ne minerio. Coloque culturas e\nalimentos no pod verde.
+
+[48|off=0x202c|chars=61]
+Voce esvaziou o conteudo\nda cesta no Pod de Envio!
+
+[49|off=0x20ae|chars=36]
+Nao ha nada no Pod de Envio!
+
+[50|off=0x20fe|chars=36]
+Nao ha nada no Pod de Envio!
+
+[51|off=0x214e|chars=30]
+Nao ha nada na cesta!
+
+[52|off=0x2192|chars=76]
+Quer colocar os recursos\nda bolsa no Pod de Envio?
+
+[53|off=0x2232|chars=56]
+Qual recurso deseja colocar\nno Pod de Envio?
+
+[54|off=0x22aa|chars=58]
+Voce colocou os recursos\nda bolsa no Pod de Envio!
+
+[55|off=0x2326|chars=92]
+Esta e a Caixa de Itens. Guarde\nferramentas de fazenda ou outras que\nnao puder carregar aqui.
+
+[56|off=0x23e6|chars=55]
+Para guardar ou retirar itens,\nfique de frente e pressione o
+
+[57|off=0x2456|chars=8]
+\nbotao.
+
+[58|off=0x246e|chars=71]
+Voce pode guardar ferramentas\nque nao cabem na bolsa\njoгando-as aqui.
+
+[59|off=0x2504|chars=12]
+Voce guardou
+
+[60|off=0x251e|chars=18]
+I\nna Caixa de Itens.
+
+[61|off=0x254a|chars=12]
+Guardando o/a
+
+[62|off=0x2564|chars=75]
+I na\nCaixa de Itens, sua qualidade e\nvalor cairao. Confirma?
+
+[63|off=0x2602|chars=12]
+Voce guardou
+
+[64|off=0x261c|chars=18]
+I na\nCaixa de Itens.
+
+[65|off=0x2648|chars=18]
+Nao pode guardar
+
+[66|off=0x266e|chars=20]
+I\nna Caixa de Itens!
+
+[67|off=0x269e|chars=32]
+O que deseja retirar?
+
+[68|off=0x26e6|chars=45]
+Nao ha nada na\nCaixa de Itens agora...
+
+[69|off=0x2748|chars=43]
+Nao cabe mais itens\nna sua bolsa!
+
+[70|off=0x27a6|chars=8]
+Guardou
+
+[71|off=0x27be|chars=16]
+i\nna bolsa!
+
+[72|off=0x27e6|chars=17]
+Voce retirou o/a
+
+[73|off=0x280a|chars=25]
+I\ne colocou na bolsa!
+
+[74|off=0x2844|chars=17]
+Voce retirou o/a
+
+[75|off=0x2868|chars=25]
+I\ne colocou na bolsa!
+
+[76|off=0x28a2|chars=23]
+Nao pode retirar o/a\n
+
+[77|off=0x28d2|chars=27]
+I enquanto\nesta segurando o/a
+
+[78|off=0x2916|chars=13]
+Voce pegou o/a
+
+[79|off=0x2932|chars=47]
+I\nda Caixa de Itens e\ncolocou em suas maos!
+
+[80|off=0x2998|chars=27]
+Ja esta segurando\no/a
+
+[81|off=0x29dc|chars=12]
+Guardando o/a
+
+[82|off=0x29f6|chars=87]
+J na\nCaixa de Itens, sua qualidade\ne valor de venda cairao. Confirma?
+
+[83|off=0x2aac|chars=13]
+Voce retirou
+
+[84|off=0x2ace|chars=14]
+i e colocou\no/a
+
+[85|off=0x2aec|chars=5]
+J la!
+
+[86|off=0x2afe|chars=13]
+Voce retirou
+
+[87|off=0x2b20|chars=14]
+i e colocou\no/a
+
+[88|off=0x2b3e|chars=5]
+J la!
+
+[89|off=0x2b50|chars=17]
+Voce retirou o/a
+
+[90|off=0x2b74|chars=19]
+I\ne devolveu o/a
+
+[91|off=0x2b9c|chars=16]
+J\nque estava segurando!
+
+[92|off=0x2bc4|chars=17]
+Voce retirou o/a
+
+[93|off=0x2be8|chars=19]
+I\ne devolveu o/a
+
+[94|off=0x2c10|chars=16]
+J\nque estava segurando!
+
+[95|off=0x2c38|chars=43]
+O que deseja colocar\nna Caixa de Itens?
+
+[96|off=0x2c96|chars=36]
+Nao ha nada\nna sua bolsa.
+
+[97|off=0x2ce6|chars=36]
+Nao ha nada\nna sua bolsa.
+
+[98|off=0x2d36|chars=8]
+Guardou
+
+[99|off=0x2d4e|chars=18]
+i\nna Caixa de Itens.
+
+[100|off=0x2d7a|chars=12]
+Guardando o/a
+
+[101|off=0x2d94|chars=87]
+I na\nCaixa de Itens, sua qualidade e\nvalor de venda cairao. Confirma?
+
+[102|off=0x2e4a|chars=12]
+Guardando o/a
+
+[103|off=0x2e64|chars=87]
+I na\nCaixa de Itens, sua qualidade e\nvalor de venda cairao. Confirma?
+
+[104|off=0x2f1a|chars=13]
+Voce pegou o/a
+
+[105|off=0x2f36|chars=43]
+I\nda bolsa e colocou\nna Caixa de Itens.
+
+[106|off=0x2f94|chars=13]
+Voce pegou o/a
+
+[107|off=0x2fb0|chars=43]
+I\nda bolsa e colocou\nna Caixa de Itens.
+
+[108|off=0x300e|chars=49]
+Voce pegou a Bolsa de Sementes\ne colocou na Caixa de Itens.
+
+[109|off=0x3078|chars=99]
+Ao guardar essa Bolsa de Sementes,\nas sementes irao para a Caixa\nde Sementes. Esta bem?
+
+[110|off=0x3146|chars=48]
+Voce tem estes itens\nna Caixa de Itens:
+
+[111|off=0x31ae|chars=90]
+Tudo que comprar alem de\ncestas sera enviado aqui,\nfique atento a novos itens!
+
+[112|off=0x326a|chars=30]
+Esta e a Caixa de Itens. Use\no
+
+[113|off=0x32a8|chars=25]
+ botao para ver o menu.
+
+[114|off=0x32e2|chars=72]
+Esta e a Caixa de Sementes.\nUse-a para esvaziar ou colocar\nsementes na Bolsa.
+
+[115|off=0x337a|chars=85]
+Para ver ou colocar ou retirar\nsementes da Caixa, fique de\nfrente e pressione o
+
+[116|off=0x3426|chars=8]
+ botao.
+
+[117|off=0x343e|chars=36]
+Quais sementes deseja retirar?
+
+[118|off=0x348e|chars=42]
+Nao ha sementes na\nCaixa de Sementes...
+
+[119|off=0x34ea|chars=42]
+Nao ha Bolsa de Sementes\npara essas sementes.
+
+[120|off=0x3546|chars=9]
+Guardou
+
+[121|off=0x355a|chars=19]
+K quadrados de\n
+
+[122|off=0x3582|chars=24]
+I sementes\nna Bolsa!
+
+[123|off=0x35ba|chars=13]
+Voce retirou
+
+[124|off=0x35d6|chars=19]
+K quadrados de\n
+
+[125|off=0x35fe|chars=29]
+I e colocou\nna Bolsa de Sementes!
+
+[126|off=0x3640|chars=39]
+Quais sementes deseja guardar?
+
+[127|off=0x3696|chars=51]
+Nao ha Bolsas de Sementes\ncom sementes agora...
+
+[128|off=0x3704|chars=13]
+Voce retirou
+
+[129|off=0x3720|chars=19]
+K quadrados de\n
+
+[130|off=0x3748|chars=36]
+I e guardou\nna Caixa de Sementes!
+
+[131|off=0x3798|chars=55]
+Voce guardou todas as sementes\nda bolsa na Caixa de Sementes!
+
+[132|off=0x380e|chars=53]
+Essas sementes e bulbos\nestao na Caixa de Sementes:
+
+[133|off=0x3880|chars=78]
+Esta e a lixeira. Itens descartados\nficam aqui\npor um tempo.
+
+[134|off=0x3924|chars=104]
+Para ver o conteudo ou retirar um\nitem que jogou fora, fique de\nfrente e pressione o
+
+[135|off=0x39f6|chars=8]
+ botao.
+
+[136|off=0x3a0e|chars=83]
+Itens na lixeira desaparecem\ngradualmente na ordem\nem que foram descartados.
+
+[137|off=0x3abc|chars=8]
+Jogando
+
+[138|off=0x3ace|chars=96]
+I\nna lixeira e retirando depois,\nreduzira qualidade e valor.\nJogar fora mesmo?
+
+[139|off=0x3b96|chars=14]
+Voce jogou o/a\n
+
+[140|off=0x3bb4|chars=21]
+I\nna lixeira!
+
+[141|off=0x3be6|chars=25]
+Nao pode descartar o/a\n
+
+[142|off=0x3c26|chars=32]
+O que deseja retirar?
+
+[143|off=0x3c6e|chars=45]
+Nao ha nada na\nlixeira agora...
+
+[144|off=0x3cd0|chars=45]
+Nao ha nada na\nlixeira agora...
+
+[145|off=0x3d32|chars=43]
+Nao cabe mais itens\nna sua bolsa!
+
+[146|off=0x3d90|chars=8]
+Guardou
+
+[147|off=0x3da8|chars=16]
+i\nna bolsa!
+
+[148|off=0x3dd0|chars=23]
+Nao pode retirar o/a\n
+
+[149|off=0x3e00|chars=27]
+I enquanto\nesta segurando o/a
+
+[150|off=0x3e44|chars=9]
+Retirou
+
+[151|off=0x3e58|chars=9]
+K do/a\n
+
+[152|off=0x3e6c|chars=50]
+i da\nlixeira e segurou em suas maos!
+
+[153|off=0x3ed8|chars=13]
+Voce pegou o/a
+
+[154|off=0x3ef4|chars=45]
+I\nda lixeira e segurou\nem suas maos!
+
+[155|off=0x3f56|chars=9]
+Retirou
+
+[156|off=0x3f70|chars=38]
+i\nda lixeira e jogou fora o/a\n
+
+[157|off=0x3fbe|chars=16]
+J que estava\nsegurando!
+
+[158|off=0x3fe6|chars=17]
+Voce retirou o/a
+
+[159|off=0x400a|chars=21]
+I\ne jogou fora o/a
+
+[160|off=0x4036|chars=28]
+J\nque estava segurando!
+
+[161|off=0x4076|chars=27]
+Ja esta segurando\no/a
+
+[162|off=0x40ba|chars=8]
+Jogando
+
+[163|off=0x40cc|chars=72]
+J na\nlixeira, a qualidade e valor cairao.\nJogar fora mesmo?
+
+[164|off=0x4164|chars=31]
+O que deseja jogar fora?
+
+[165|off=0x41aa|chars=13]
+Voce retirou
+
+[166|off=0x41c6|chars=9]
+K do/a\n
+
+[167|off=0x41da|chars=34]
+i e jogou\nna lixeira!
+
+[168|off=0x4226|chars=8]
+Jogando
+
+[169|off=0x4238|chars=73]
+I na\nlixeira, a qualidade e valor cairao.\nJogar fora mesmo?
+
+[170|off=0x42d2|chars=13]
+Voce pegou o/a
+
+[171|off=0x42ee|chars=48]
+I\nda bolsa e jogou\nna lixeira!
+
+[172|off=0x4356|chars=13]
+Voce pegou o/a
+
+[173|off=0x4372|chars=48]
+I\nda bolsa e jogou\nna lixeira!
+
+[174|off=0x43da|chars=25]
+Nao pode descartar o/a\n
+
+[175|off=0x441a|chars=47]
+Os seguintes itens estao\natualmente na lixeira:
+
+[176|off=0x4480|chars=60]
+Retirar um item\nJogar fora um item\nVer lixeira\nAnular
+
+[177|off=0x4500|chars=67]
+Retirar sementes\nGuardar sementes\nGuardar todas\nVer caixa\nAnular
+
+[178|off=0x458e|chars=52]
+Retirar um item\nGuardar um item\nVer caixa\nAnular
+
+[179|off=0x45fe|chars=6]
+Sim\nNao
+
+[180|off=0x4612|chars=6]
+Sim\nNao
+
+[181|off=0x4626|chars=6]
+Sim\nNao
+
+[182|off=0x463a|chars=6]
+Sim\nNao
+
+[183|off=0x464e|chars=6]
+Sim\nNao
+
+[184|off=0x4662|chars=6]
+Sim\nNao
+
+[185|off=0x4676|chars=6]
+Sim\nNao
+
+[186|off=0x468a|chars=6]
+Sim\nNao
+
+[187|off=0x469e|chars=6]
+Sim\nNao
+
+[188|off=0x46b2|chars=6]
+Sim\nNao
+
+[189|off=0x46c6|chars=6]
+Sim\nNao
+
+[190|off=0x46da|chars=73]
+Subir para a fazenda.\nSubir para o quarto.\nIr a entrada das ruinas.\nAnular.
+
+[191|off=0x4774|chars=73]
+Subir para a fazenda.\nSubir para o quarto.\nIr a entrada das ruinas.\nAnular.
+
+[192|off=0x480e|chars=23]
+Iniciar.\nVoltar. \nAnular.
+
+[193|off=0x4844|chars=51]
+Ver cesta.\nIniciar Braca Vital.\nAnular.
+
+[194|off=0x48b2|chars=55]
+Ver cesta.\nChamar Braca Vital de volta.\nAnular.
+
+[195|off=0x4928|chars=31]
+Ver cesta.\nAnular.
+
+[196|off=0x496e|chars=95]
+Este nao e um quadrado de campo,\nportanto o Braca Vital nao pode\niniciar! Mova a cesta para um campo.
+
+[197|off=0x4a34|chars=95]
+Este nao e um quadrado de campo,\nportanto o Braca Vital nao pode\niniciar! Mova a cesta para um campo.
+
+[198|off=0x4afa|chars=75]
+Este e um Pod de Envio.\nSo pode colocar coisas dentro\nque podem ser enviadas.
+
+[199|off=0x4b98|chars=75]
+Este e um Pod de Envio.\nSo pode colocar coisas dentro\nque podem ser enviadas.
+
+[200|off=0x4c36|chars=37]
+Ver o Pod de Envio.\nAnular.
+
+[201|off=0x4c88|chars=37]
+Ver o Pod de Envio.\nAnular.

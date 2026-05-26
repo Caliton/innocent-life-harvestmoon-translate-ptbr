@@ -1,0 +1,143 @@
+# ETOUT2.SCP - 46 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x24e|chars=56]
+Franco: Entao voce finalmente\ncriou animais, hein?      
+
+[1|off=0x2ca|chars=109]
+Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?            
+
+[2|off=0x3b0|chars=112]
+Franco: Hoje tudo na fazenda\ne automatizado. Mas usar robos\nera uma ideia bem revolucionaria.                   
+
+[3|off=0x49c|chars=61]
+Franco: Ouvi que la fora\nainda os usam bastante.             
+
+[4|off=0x522|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnestas ruinas!    
+
+[5|off=0x5c2|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar\nestas terras e a natureza!            
+
+[6|off=0x682|chars=72]
+Franco: Uau!\nVoce tem muita sorte!\nGanhou um buggy assim de presente!   
+
+[7|off=0x71e|chars=89]
+Franco: Se eu tivesse um buggy,\nlevaria a Rose num passeio\ninesquecivel!                 
+
+[8|off=0x7dc|chars=11]
+Moonlight: 
+
+[9|off=0x7f4|chars=52]
+P! Que belo presente\ndo Dr. Hope voce ganhou.       
+
+[10|off=0x868|chars=63]
+Moonlight: Com buggy assim\nvoce pode ir a quase qualquer lugar!
+
+[11|off=0x8f2|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.  
+
+[12|off=0x976|chars=73]
+Franco: Quando era jovem, todo mundo\nlevava seus pares a aquela caverna. 
+
+[13|off=0xa14|chars=11]
+Moonlight: 
+
+[14|off=0xa2c|chars=57]
+P!\nOuvi que tiveram problemas na\ncaverna de Volcano Town.
+
+[15|off=0xaaa|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar ao\nestado original disso.
+
+[16|off=0xb50|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.  
+
+[17|off=0xbbe|chars=120]
+Franco: Se mandar bastante ate a\nvespera do Natal, podem\nusar para decorar a cidade toda.                               
+
+[18|off=0xcba|chars=21]
+Franco: Que animacao!
+
+[19|off=0xcf0|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...  
+
+[20|off=0xd4e|chars=96]
+Franco: Sei que esta preocupado,\nmas voce tem um trabalho\nimportante a terminar.                
+
+[21|off=0xe1a|chars=89]
+Franco: Tenho certeza que a\nmelhor coisa pro Dr. Hope agora\ne ver o quanto voce trabalha.
+
+[22|off=0xed8|chars=52]
+Moonlight: Nao sabia que\nDr. Hope estava doente...  
+
+[23|off=0xf4c|chars=86]
+Moonlight: Imagino que por isso\nele corria tanto para terminar\no trabalho com voce... 
+
+[24|off=0x1004|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[25|off=0x105a|chars=12]
+P. Eu tambem
+
+[26|off=0x107e|chars=31]
+Franco: Era um bom amigo...    
+
+[27|off=0x10c8|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!      
+
+[28|off=0x1134|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do\nque aparece!           
+
+[29|off=0x11d4|chars=91]
+Moonlight: O que tento dizer e...\nTenho certeza que o Dr. Hope\nestara olhando por voce,    
+
+[30|off=0x129c|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?         
+
+[31|off=0x1324|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[32|off=0x13f2|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[33|off=0x1478|chars=43]
+Franco: Um alien mora\nno novo quarto?      
+
+[34|off=0x14da|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[35|off=0x15a8|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[36|off=0x162e|chars=11]
+Moonlight: 
+
+[37|off=0x1646|chars=76]
+P!\nVi uma coisa estranha parecida\ncom bicho de pelucia no novo quarto.      
+
+[38|off=0x16ea|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!    
+
+[39|off=0x1758|chars=41]
+Nao ha nada que possa fazer agora.       
+
+[40|off=0x17b6|chars=10]
+Dr. Hope: 
+
+[41|off=0x17cc|chars=4]
+P...
+
+[42|off=0x17e0|chars=92]
+Dr. Hope: Se esta vendo isso,\nentao claramente esta\nem apuros que nao consegue resolver.    
+
+[43|off=0x18a4|chars=107]
+Dr. Hope: Coloquei algo especial\ndentro de voce para que\ntivesse mais uma chance. Um presente.             
+
+[44|off=0x1986|chars=10]
+Dr. Hope: 
+
+[45|off=0x199c|chars=27]
+P...\nVolte a aquele dia... 

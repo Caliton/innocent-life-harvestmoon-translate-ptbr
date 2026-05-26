@@ -1,0 +1,869 @@
+# VTEVENT.SCP - 288 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x92a|chars=81]
+The year 2022. Dr. Hope\nGrain's lab on a small island\nin the southern hemisphere.
+
+[1|off=0x9d8|chars=85]
+Gayak: Hm? That's funny. I thought\nI heard... No, I guess it's just\nmy imagination...
+
+[2|off=0xa8e|chars=39]
+*: What is it? What is it?\nA new human?
+
+[3|off=0xae8|chars=58]
+*: What is it? What is it?\nIt doesn't seem like a human...
+
+[4|off=0xb68|chars=24]
+*: We'd better tell her.
+
+[5|off=0xba4|chars=37]
+*: Yes, we'd better tell the Spirits.
+
+[6|off=0xbfa|chars=45]
+Gayak: What is it?\nSome animals or something?
+
+[7|off=0xc60|chars=71]
+Gayak: Now that I think of it, I did\nhear some noises a bit ago, too...
+
+[8|off=0xcfa|chars=98]
+Gayak: It's almost spring... You don't\nsuppose a bear is out\nlooking for something to eat? Hahaha!
+
+[9|off=0xdca|chars=27]
+Gayak: ....................
+
+[10|off=0xe0c|chars=37]
+Gayak: Anyway, we'd better get going!
+
+[11|off=0xe62|chars=16]
+Gayak: Come on, 
+
+[12|off=0xe94|chars=35]
+Gayak: We're here.\nThis is my farm.
+
+[13|off=0xee6|chars=76]
+Gayak: Of course, it's covered in snow\nright now, since it's still winter...
+
+[14|off=0xf8a|chars=64]
+Gayak: But since I can't teach you how\nto farm without a farm...
+
+[15|off=0x1016|chars=13]
+Gayak: There!
+
+[16|off=0x103c|chars=69]
+Gayak: This is a Virtual Farm.\nYou can farm it just like a\nreal farm.
+
+[17|off=0x10d2|chars=90]
+Gayak: Hahaha! Did I surprise you?\nThis is another one of Dr. Hope's\ninventions, you know.
+
+[18|off=0x1192|chars=23]
+Gayak: Come over here, 
+
+[19|off=0x11d2|chars=92]
+Gayak: The first thing you'll need to\ndo is till the soil. Just use\nyour hoe to break it up.
+
+[20|off=0x1296|chars=42]
+Gayak: Here, why don't you equip\nthis hoe?
+
+[21|off=0x12f2|chars=25]
+You received an\nIron Hoe!
+
+[22|off=0x1330|chars=51]
+Gayak: Let's see now. In order to\nequip your hoe...
+
+[23|off=0x13a2|chars=92]
+Gayak: Oh yes, you need to press the\nL1 button! Choose the hoe with\nthe directional buttons!
+
+[24|off=0x1466|chars=17]
+Gayak: Now then, 
+
+[25|off=0x148a|chars=76]
+P.\nPress the L1 button to look at your inventory\nand equip the hoe with the 
+
+[26|off=0x1524|chars=8]
+ button!
+
+[27|off=0x1540|chars=17]
+Gayak: Now then, 
+
+[28|off=0x1564|chars=76]
+P.\nPress the L1 button to look at your inventory\nand equip the hoe with the 
+
+[29|off=0x15fe|chars=8]
+ button!
+
+[30|off=0x161a|chars=91]
+Gayak: Good. You equipped it.\nNow head for the field on the mat\nand swing the hoe with the 
+
+[31|off=0x16d2|chars=8]
+ button.
+
+[32|off=0x16ee|chars=91]
+Gayak: Good. You equipped it.\nNow head for the field on the mat\nand swing the hoe with the 
+
+[33|off=0x17a6|chars=8]
+ button.
+
+[34|off=0x17c2|chars=12]
+Gayak: Hey, 
+
+[35|off=0x17dc|chars=61]
+P!\nWhere do you think you're going?\nUse the hoe in the field!
+
+[36|off=0x1862|chars=41]
+Gayak: Yep! That's how you\ntill the soil!
+
+[37|off=0x18c0|chars=99]
+Gayak: Oh, I see you tried tilling a\npiece of land that's already tilled.\nThat doesn't do anything.
+
+[38|off=0x1992|chars=18]
+Gayak: Well done, 
+
+[39|off=0x19b8|chars=23]
+P!\nYou've got the idea!
+
+[40|off=0x19f2|chars=30]
+Gayak: Oh! You're doing great!
+
+[41|off=0x1a3a|chars=50]
+Gayak: Hmm! I think you're\ncut out to be a farmer!
+
+[42|off=0x1aaa|chars=80]
+Gayak: All right, that's enough.\nNext, you'll be planting seeds.\nCome over here.
+
+[43|off=0x1b56|chars=48]
+Gayak: Hmm! I think you may have\na green thumb, 
+
+[44|off=0x1bc8|chars=60]
+Gayak: Now let's plant some seeds.\nHere, take this Seed Bag.
+
+[45|off=0x1c48|chars=24]
+You received a\nSeed Bag!
+
+[46|off=0x1c84|chars=110]
+Gayak: In order to plant seeds, you need\na bag with seeds in it. This bag has\n9 squares worth of potato seeds.
+
+[47|off=0x1d6c|chars=109]
+Gayak: Equip the Seed Bag like you did\nwith the hoe and spread the seeds on\nthe soil that you tilled earlier.
+
+[48|off=0x1e52|chars=109]
+Gayak: Equip the Seed Bag like you did\nwith the hoe and spread the seeds on\nthe soil that you tilled earlier.
+
+[49|off=0x1f38|chars=12]
+Gayak: Hey, 
+
+[50|off=0x1f52|chars=65]
+P!\nWhere do you think you're going?\nPlant the seeds in the field!
+
+[51|off=0x1fe0|chars=59]
+Gayak: Yes! You did a pretty good job\nplanting those seeds!
+
+[52|off=0x2062|chars=18]
+Gayak: Well done, 
+
+[53|off=0x2088|chars=23]
+P!\nYou've got the idea!
+
+[54|off=0x20c2|chars=30]
+Gayak: Oh! You're doing great!
+
+[55|off=0x210a|chars=52]
+Gayak: Hmm! I think you were\ncut out to be a farmer!
+
+[56|off=0x217e|chars=89]
+Gayak: All right then! That's enough.\nNext, you need to water your seeds.\nCome over here.
+
+[57|off=0x223c|chars=53]
+Gayak: Dr. Hope was right about you.\nYou have talent!
+
+[58|off=0x22b2|chars=96]
+Gayak: OK! Now let's try watering the\nseeds. Let me put some water in the\nDoctor's Watering Can.
+
+[59|off=0x237a|chars=69]
+Gayak put some water from his\nthermos into the Doctor's Watering\nCan!
+
+[60|off=0x2410|chars=108]
+Gayak: This is a one-time-only thing.\nWhen you go to the Easter Ruins,\nyou'll have to get water by yourself.
+
+[61|off=0x24f4|chars=81]
+Gayak: Now equip the watering can and\nwater the soil where you planted\nthe seeds.
+
+[62|off=0x25a2|chars=81]
+Gayak: Now equip the watering can and\nwater the soil where you planted\nthe seeds.
+
+[63|off=0x2650|chars=12]
+Gayak: Hey, 
+
+[64|off=0x266a|chars=71]
+P!\nWhere do you think you're going?\nWater the soil where the seeds are!
+
+[65|off=0x2704|chars=116]
+Gayak: Yes, good job! Your watering can\nonly holds a certain amount of water,\nso only water the places that need it.
+
+[66|off=0x27f8|chars=53]
+Gayak: Hm? You didn't plant any\nseeds there, did you?
+
+[67|off=0x286e|chars=109]
+Gayak: It doesn't matter which you do\nfirst, plant the seeds or water the\nplant. Just don't waste your water.
+
+[68|off=0x2954|chars=18]
+Gayak: Well done, 
+
+[69|off=0x297a|chars=23]
+P!\nYou've got the idea!
+
+[70|off=0x29b4|chars=30]
+Gayak: Oh! You're doing great!
+
+[71|off=0x29fc|chars=50]
+Gayak: Hmm! I think you're\ncut out to be a farmer!
+
+[72|off=0x2a6c|chars=46]
+Gayak: OK! You're finished.\nCome on back here.
+
+[73|off=0x2ad4|chars=79]
+Gayak: You managed to learn most of\nwhat you need to know in just a\nsingle day.
+
+[74|off=0x2b7e|chars=101]
+Gayak: Now just water your crops every\nday and wait for the harvest.\nLet me just press this button...
+
+[75|off=0x2c54|chars=104]
+Gayak: Haha! Surprised you, did I?\nI just used this remote control to\nadvance time on this mat by 1 day!
+
+[76|off=0x2d30|chars=106]
+Gayak: Of course, these are just virtual\ncrops. Even if you harvest them, you\ncan't eat them or sell them.
+
+[77|off=0x2e10|chars=59]
+Gayak: Look! The potatoes have been\ngrowing for 3 days now!
+
+[78|off=0x2e92|chars=35]
+Gayak: Let's take a look at 5 days!
+
+[79|off=0x2ee4|chars=57]
+Gayak: And on the 6th day, they're\nready to be harvested!
+
+[80|off=0x2f62|chars=14]
+Gayak: Uh-oh!!
+
+[81|off=0x2f8a|chars=64]
+Gayak: Sorry about that, Chocola!\nD-Don't worry.\nYou'll be fine.
+
+[82|off=0x3016|chars=69]
+Gayak: We'll just keep this a secret\nfrom my wife Marlene, all right?
+
+[83|off=0x30a8|chars=13]
+Chocola: Arf!
+
+[84|off=0x30ce|chars=41]
+Gayak: Hahaha!\nI'm glad you're all right!
+
+[85|off=0x312c|chars=102]
+Gayak: Ahem! Anyway, this mat can be\na little dangerous, so don't touch\nthe remote control, all right?
+
+[86|off=0x3204|chars=50]
+Gayak: Now then, it's time for the\npotato harvest!
+
+[87|off=0x3274|chars=68]
+Gayak: Go to one of those plants with\na blooming flower and use the\n
+
+[88|off=0x32fe|chars=22]
+ button to harvest it.
+
+[89|off=0x3336|chars=68]
+Gayak: Go to one of those plants with\na blooming flower and use the\n
+
+[90|off=0x33c0|chars=22]
+ button to harvest it.
+
+[91|off=0x33f8|chars=12]
+Gayak: Hey, 
+
+[92|off=0x3412|chars=44]
+P!\nWhere do you think you're going?\nUse the 
+
+[93|off=0x346c|chars=22]
+ button to harvest it!
+
+[94|off=0x34a4|chars=43]
+Gayak: Good! That's just fine. Now use\nthe 
+
+[95|off=0x34fc|chars=64]
+ button to put it in the Shipping\nPod at the bottom of the hill.
+
+[96|off=0x3588|chars=43]
+Gayak: Good! That's just fine. Now use\nthe 
+
+[97|off=0x35e0|chars=64]
+ button to put it in the Shipping\nPod at the bottom of the hill.
+
+[98|off=0x366c|chars=12]
+Gayak: Hey, 
+
+[99|off=0x3686|chars=68]
+P!\nWhere do you think you're going?\nThe Shipping Pod isn't that way!
+
+[100|off=0x371a|chars=93]
+Gayak: You're supposed to be shipping\nthose potatoes, you know. Not putting\nthem in your bag!
+
+[101|off=0x37e0|chars=116]
+Gayak: You'll have to press the L1 button\nto look at your inventory and take it\nout of the bag to put it in the pod.
+
+[102|off=0x38d4|chars=69]
+Gayak: You can't just throw one of your\nprecious crops on the ground!
+
+[103|off=0x396a|chars=61]
+Gayak: If you don't pick it up quick,\nit'll disappear! Go on!
+
+[104|off=0x39ec|chars=49]
+You put the virtual potato\ninto the Shipping Pod.
+
+[105|off=0x3a56|chars=79]
+But because it's a virtual crop,\nit disappeared as soon as it was\nput inside...
+
+[106|off=0x3b00|chars=41]
+Gayak: All right! That's enough of that,\n
+
+[107|off=0x3b64|chars=79]
+Gayak: Now you've mastered everything\nfrom planting to harvesting and\nshipping.
+
+[108|off=0x3c0e|chars=26]
+*: Oh, hello!\nYou must be 
+
+[109|off=0x3c54|chars=35]
+Marlene: I'm Gayak's wife, Marlene.
+
+[110|off=0x3ca6|chars=124]
+Marlene: Our dog Chocola was so\nexcited that I figured my husband\nwas home.\nI see you were practicing\nworking in the fields.
+
+[111|off=0x3daa|chars=104]
+Marlene: It must have been chilly out\nthere. You should have had a nice cup\nof tea before you started...
+
+[112|off=0x3e86|chars=55]
+Gayak: Hahaha! Don't worry about us,\nMarlene. Come on, 
+
+[113|off=0x3ef6|chars=19]
+P.\nLet's go inside.
+
+[114|off=0x3f24|chars=82]
+You finished your training and\nenjoyed Gayak and Marlene's\ncompany at their house.
+
+[115|off=0x3fd0|chars=73]
+Having been invited to stay the\nnight, you went to bed and\nfell asleep...
+
+[116|off=0x406e|chars=48]
+Gayak: Hey! You can't train without\nthose seeds!
+
+[117|off=0x40da|chars=48]
+Gayak: Hey! You can't train without\nthose seeds!
+
+[118|off=0x4146|chars=98]
+Gayak: Hey! What's the big idea\nthrowing away that potato?\nYou have to put it in the Shipping Pod!
+
+[119|off=0x4216|chars=98]
+Gayak: Hey! What's the big idea\nthrowing away that potato?\nYou have to put it in the Shipping Pod!
+
+[120|off=0x42e2|chars=49]
+You can't just leave without talking\nto Dr. Hope.
+
+[121|off=0x4350|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[122|off=0x43cc|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[123|off=0x44b2|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[124|off=0x459e|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[125|off=0x4624|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[126|off=0x46c4|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[127|off=0x4784|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[128|off=0x4820|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[129|off=0x48de|chars=11]
+Moonlight: 
+
+[130|off=0x48f6|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[131|off=0x496a|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[132|off=0x49f4|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[133|off=0x4a78|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[134|off=0x4b16|chars=11]
+Moonlight: 
+
+[135|off=0x4b2e|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[136|off=0x4bac|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[137|off=0x4c52|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[138|off=0x4cc0|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[139|off=0x4dbc|chars=21]
+Franco: I can't wait!
+
+[140|off=0x4df2|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[141|off=0x4e50|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[142|off=0x4f1c|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[143|off=0x4fda|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[144|off=0x504e|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[145|off=0x5106|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[146|off=0x515c|chars=12]
+P. I am too.
+
+[147|off=0x5180|chars=31]
+Franco: He was a good friend...
+
+[148|off=0x51ca|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[149|off=0x5236|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[150|off=0x52d6|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[151|off=0x539e|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[152|off=0x5426|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[153|off=0x54f4|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[154|off=0x557a|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[155|off=0x55dc|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[156|off=0x56aa|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[157|off=0x5730|chars=11]
+Moonlight: 
+
+[158|off=0x5748|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[159|off=0x57ec|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[160|off=0x585a|chars=66]
+Your activities from the previous\nday increased your Human\nStatus!
+
+[161|off=0x58e6|chars=37]
+The door is locked.\nYou can't get in!
+
+[162|off=0x5938|chars=75]
+Do you want to empty the contents\nof your Scale Pack into the Shipping\nPod?
+
+[163|off=0x59d6|chars=50]
+You emptied your Scale Pack into\nthe Shipping Pod.
+
+[164|off=0x5a42|chars=65]
+Do you want to empty the crops\nin your bag into the Shipping Pod?
+
+[165|off=0x5acc|chars=52]
+Which crop do you want to put into\nthe Shipping Pod?
+
+[166|off=0x5b3c|chars=56]
+You emptied the crops in your bag\ninto the Shipping Pod!
+
+[167|off=0x5bb4|chars=84]
+This is a Shipping Pod. The items inside\nare sent to the market every day at\n5:30PM.
+
+[168|off=0x5c64|chars=84]
+This is a Shipping Pod. The items inside\nare sent to the market every day at\n5:30PM.
+
+[169|off=0x5d14|chars=102]
+This Shipping Pod is for crops and other\nfood items. Place building materials\nand ore in the blue pod.
+
+[170|off=0x5de8|chars=94]
+This Shipping Pod is for stone, lumber,\nand ore. Place crops and other foods\nin the green pod.
+
+[171|off=0x5eac|chars=61]
+You emptied the contents of the\nbasket into the Shipping Pod!
+
+[172|off=0x5f2e|chars=36]
+There's nothing in the Shipping Pod!
+
+[173|off=0x5f7e|chars=36]
+There's nothing in the Shipping Pod!
+
+[174|off=0x5fce|chars=30]
+There's nothing in the basket!
+
+[175|off=0x6012|chars=76]
+Do you want to put the resources\nyou have in your bag into the\nShipping Pod?
+
+[176|off=0x60b2|chars=56]
+Which resource do you want to\nput into the Shipping Pod?
+
+[177|off=0x612a|chars=58]
+You put the resources from your\nbag into the Shipping Pod!
+
+[178|off=0x61a6|chars=44]
+This is a very expensive looking\nwardrobe...
+
+[179|off=0x6206|chars=31]
+There are dishes lined up here.
+
+[180|off=0x624c|chars=27]
+You try washing your hands.
+
+[181|off=0x628a|chars=30]
+This sink is very easy to use.
+
+[182|off=0x62ce|chars=25]
+Your hands are now clean.
+
+[183|off=0x6308|chars=24]
+But there was no soap...
+
+[184|off=0x6340|chars=40]
+The water pressure seems a little\nlow...
+
+[185|off=0x6398|chars=48]
+You were surprised at how dirty\nyour hands were.
+
+[186|off=0x6400|chars=43]
+There's water splashed all around\nthe sink!
+
+[187|off=0x645e|chars=24]
+You wipe the area clean.
+
+[188|off=0x6496|chars=26]
+Lukewarm water came out...
+
+[189|off=0x64d2|chars=49]
+The drain doesn't seem to be\nworking very well...
+
+[190|off=0x653c|chars=41]
+Hot water came out with\nincredible force!
+
+[191|off=0x6596|chars=44]
+A very nice smell surrounds the\nsoap here...
+
+[192|off=0x65f6|chars=55]
+You try washing your face.\nYou feel somewhat refreshed.
+
+[193|off=0x666c|chars=42]
+There are lots of things on the\nshelves...
+
+[194|off=0x66c8|chars=19]
+There is wine here.
+
+[195|off=0x66f6|chars=23]
+You look at the toilet.
+
+[196|off=0x672c|chars=32]
+It seems to have been flushed...
+
+[197|off=0x6774|chars=21]
+It's sparkling clean!
+
+[198|off=0x67a6|chars=28]
+You push the "Flush" button.
+
+[199|off=0x67e6|chars=30]
+There is a note on the toilet.
+
+[200|off=0x682a|chars=20]
+"Please keep clean!"
+
+[201|off=0x685a|chars=70]
+It appears to have a toilet seat\nthat raises and lowers automatically.
+
+[202|off=0x68ee|chars=68]
+There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+
+[203|off=0x697e|chars=53]
+The scent of aromatic oil floats\naround the toilet...
+
+[204|off=0x69f0|chars=29]
+This is an automatic bathtub.
+
+[205|off=0x6a32|chars=62]
+You opened the drawer.\nThere are many different things\ninside.
+
+[206|off=0x6ab6|chars=64]
+This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+
+[207|off=0x6b3e|chars=38]
+There are many books in the\nbookshelf.
+
+[208|off=0x6b92|chars=45]
+But there's no reason for you to\nread them...
+
+[209|off=0x6bf4|chars=26]
+You open the refrigerator.
+
+[210|off=0x6c30|chars=65]
+But you quickly close it again\nto prevent the food from spoiling.
+
+[211|off=0x6cba|chars=75]
+"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+
+[212|off=0x6d58|chars=86]
+"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+
+[213|off=0x6e0c|chars=63]
+"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+
+[214|off=0x6e92|chars=50]
+"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+
+[215|off=0x6efe|chars=71]
+"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+
+[216|off=0x6f94|chars=39]
+"Here and There"\n  Where on earth am I?
+
+[217|off=0x6fea|chars=39]
+"Straight Ahead: South Heartflame\nCave"
+
+[218|off=0x7040|chars=30]
+"Straight Ahead: Easter Ruins"
+
+[219|off=0x7084|chars=45]
+"Straight Ahead: Southeast Bank\nof East Lake"
+
+[220|off=0x70e6|chars=23]
+"East: Mushroom Forest"
+
+[221|off=0x711c|chars=45]
+"Straight Ahead: Southwest Bank\nof East Lake"
+
+[222|off=0x717e|chars=37]
+"Danger! Fallen Trees.\nDo Not Enter."
+
+[223|off=0x71d0|chars=25]
+"East: Heartflame Desert"
+
+[224|off=0x720a|chars=18]
+"Heartflame Dunes"
+
+[225|off=0x7236|chars=26]
+"North: Heartflame Plains"
+
+[226|off=0x7272|chars=19]
+"Heartflame Plains"
+
+[227|off=0x72a0|chars=32]
+"Southeast Bank of Mermaid Lake"
+
+[228|off=0x72e8|chars=14]
+"Mermaid Lake"
+
+[229|off=0x730c|chars=24]
+"South: Mushroom Forest"
+
+[230|off=0x7344|chars=32]
+"Southwest Bank of Mermaid Lake"
+
+[231|off=0x738c|chars=11]
+"East Lake"
+
+[232|off=0x73aa|chars=54]
+I found a TV schedule wedged\nbetween sodden magazines.
+
+[233|off=0x741e|chars=73]
+Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+
+[234|off=0x74b8|chars=70]
+Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+
+[235|off=0x754e|chars=28]
+How to play with Cart Rails,
+
+[236|off=0x7588|chars=7]
+ ~Rails
+
+[237|off=0x759e|chars=57]
+First, lay rails and\nprepare conditions to use Pod Rails.
+
+[238|off=0x7618|chars=113]
+You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+
+[239|off=0x7706|chars=28]
+How to play with Cart Rails,
+
+[240|off=0x7740|chars=8]
+ ~Motors
+
+[241|off=0x7758|chars=102]
+Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+
+[242|off=0x782c|chars=96]
+You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+
+[243|off=0x78ee|chars=8]
+ button.
+
+[244|off=0x7906|chars=38]
+"How to play with Cart Rails," ~ Carts
+
+[245|off=0x795a|chars=118]
+Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+
+[246|off=0x7a4e|chars=62]
+You can be a driver\nif you operate Motors\nwhile riding a Cart.
+
+[247|off=0x7ad2|chars=40]
+"How to play with Cart Rails," ~Shipping
+
+[248|off=0x7b2a|chars=95]
+If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+
+[249|off=0x7bf0|chars=120]
+Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+
+[250|off=0x7cea|chars=22]
+Physiocracy and Magic,
+
+[251|off=0x7d18|chars=21]
+\n~or "Book of Spirit"
+
+[252|off=0x7d4a|chars=69]
+If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+
+[253|off=0x7ddc|chars=75]
+You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+
+[254|off=0x7e7a|chars=59]
+It's a book with Fairy Tales\nfor early childhood education.
+
+[255|off=0x7ef8|chars=91]
+I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+
+[256|off=0x7fb6|chars=28]
+My heart is twinging...\nWhy?
+
+[257|off=0x7ff6|chars=44]
+It's a Haiku Book\nwritten by Principle Rose.
+
+[258|off=0x8056|chars=68]
+There are more Haikus about love\nthan about scenery or daily life...
+
+[259|off=0x80e6|chars=69]
+It's like reading someone else's diary.\nI feel a little bit guilty...
+
+[260|off=0x817a|chars=30]
+Tale of the Love & Bow Knight,
+
+[261|off=0x81b8|chars=7]
+ Vol. 1
+
+[262|off=0x81ce|chars=63]
+Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+
+[263|off=0x8254|chars=108]
+There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+
+[264|off=0x8336|chars=30]
+Tale of the Love & Bow Knight,
+
+[265|off=0x8374|chars=7]
+ Vol. 2
+
+[266|off=0x838a|chars=73]
+Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+
+[267|off=0x8424|chars=106]
+They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+
+[268|off=0x8500|chars=6]
+Yes\nNo
+
+[269|off=0x8514|chars=6]
+Yes\nNo
+
+[270|off=0x8528|chars=6]
+Yes\nNo
+
+[271|off=0x853c|chars=23]
+Start.\nBack up.\nCancel.
+
+[272|off=0x8572|chars=21]
+Challenge increased!\n
+
+[273|off=0x85b2|chars=21]
+Challenge increased!\n
+
+[274|off=0x85f2|chars=16]
+Love increased!\n
+
+[275|off=0x8628|chars=24]
+Intelligence increased!\n
+
+[276|off=0x866e|chars=19]
+Cooking increased!\n
+
+[277|off=0x86aa|chars=22]
+Creativity increased!\n
+
+[278|off=0x86ec|chars=17]
+Humor increased!\n
+
+[279|off=0x8724|chars=51]
+Look inside the basket.\nStart the Life Arm.\nCancel.
+
+[280|off=0x8792|chars=55]
+Look inside the basket.\nCall the Life Arm back.\nCancel.
+
+[281|off=0x8808|chars=31]
+Look inside the basket.\nCancel.
+
+[282|off=0x884e|chars=95]
+This is not a field square, so you\ncan't start the Life Arm! Move the\nbasket to a field square.
+
+[283|off=0x8914|chars=95]
+This is not a field square, so you\ncan't start the Life Arm! Move the\nbasket to a field square.
+
+[284|off=0x89da|chars=75]
+This is a Shipping Pod.\nYou can only put things inside\nthat can be shipped.
+
+[285|off=0x8a78|chars=75]
+This is a Shipping Pod.\nYou can only put things inside\nthat can be shipped.
+
+[286|off=0x8b16|chars=37]
+Look inside the Shipping Pod.\nCancel.
+
+[287|off=0x8b68|chars=37]
+Look inside the Shipping Pod.\nCancel.

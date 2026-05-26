@@ -1,0 +1,311 @@
+# VTANA.SCP - 102 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x3ee|chars=56]
+Franco: Entao voce comecou\na criar animais, hein?
+
+[1|off=0x46a|chars=109]
+Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem\nsao invencoes do Dr. Hope?
+
+[2|off=0x550|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatico, mas na epoca usar\nrobos era ideia revolucionaria.
+
+[3|off=0x63c|chars=61]
+Franco: Ouvi que ainda os usam\nbastante no exterior.
+
+[4|off=0x6c2|chars=74]
+Moonlight: O balido dos animais\nse ouve novamente\nnestas ruinas!
+
+[5|off=0x762|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar esta terra\ne a natureza!
+
+[6|off=0x822|chars=72]
+Franco: Uau!\nQue sortudo!\nGanhar um buggy desses de presente!
+
+[7|off=0x8be|chars=89]
+Franco: Se eu tivesse um buggy,\nlevava a Rose num passeio\nque ela nunca esqueceria!
+
+[8|off=0x97c|chars=11]
+Moonlight: 
+
+[9|off=0x994|chars=52]
+P! Que presente bonito\ndo Dr. Hope que voce ganhou.
+
+[10|off=0xa08|chars=63]
+Moonlight: Com um buggy assim\nvoce vai a qualquer lugar!
+
+[11|off=0xa92|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.
+
+[12|off=0xb16|chars=73]
+Franco: Quando jovem, todos iam\ncurtir naquela caverna\ncom as namoradas.
+
+[13|off=0xbb4|chars=11]
+Moonlight: 
+
+[14|off=0xbcc|chars=57]
+P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
+
+[15|off=0xc4a|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar\nao estado original.
+
+[16|off=0xcf0|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.
+
+[17|off=0xd5e|chars=120]
+Franco: Se mandar bastante ate\na vespera do Natal, podem usar\npra decorar a cidade.
+
+[18|off=0xe5a|chars=21]
+Franco: Nao aguento!
+
+[19|off=0xe90|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[20|off=0xeee|chars=96]
+Franco: Sei que esta preocupado,\nmas tem trabalho importante\na terminar.
+
+[21|off=0xfba|chars=89]
+Franco: O melhor pro Dr. Hope\nagora e ver o quanto\nvoce esta se dedicando.
+
+[22|off=0x1078|chars=52]
+Moonlight: Nao sabia que o\nDr. Hope estava doente...
+
+[23|off=0x10ec|chars=86]
+Moonlight: Suponho que por isso\nele corria para terminar\no trabalho com voce...
+
+[24|off=0x11a4|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[25|off=0x11fa|chars=12]
+P. Eu sinto.
+
+[26|off=0x121e|chars=31]
+Franco: Era um bom amigo...
+
+[27|off=0x1268|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[28|off=0x12d4|chars=74]
+Moonlight: Disse que ha muito\nmais neste mundo do que\nos olhos veem!
+
+[29|off=0x1374|chars=91]
+Moonlight: O que quero dizer...\nCerteza que o Dr. Hope sempre\nestara velando por voce, 
+
+[30|off=0x143c|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?
+
+[31|off=0x14c4|chars=97]
+Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+
+[32|off=0x1592|chars=61]
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
+
+[33|off=0x1618|chars=43]
+Franco: Um alien mora\nno novo quarto?
+
+[34|off=0x167a|chars=97]
+Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+
+[35|off=0x1748|chars=61]
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
+
+[36|off=0x17ce|chars=11]
+Moonlight: 
+
+[37|off=0x17e6|chars=76]
+P!\nVi algo estranho parecendo\num bicho de pelucia no novo quarto.
+
+[38|off=0x188a|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!
+
+[39|off=0x18fc|chars=75]
+Marcia: Ja visitei o altar,\nentao vou esperar aqui.\nOk, 
+
+[40|off=0x19a4|chars=83]
+Marcia: Ei! Ja vai?\nTenho certeza que todos\nquerem falar com voce.
+
+[41|off=0x1a56|chars=80]
+Marcia: E a primeira vez que\ntanta gente veio ao\nFestival de Prima.
+
+[42|off=0x1b02|chars=51]
+Marcia: Normalmente so\nsomos eu, Gallion e o Avo.
+
+[43|off=0x1b74|chars=94]
+Max: Fazemos uma oferta ao\nEspirito do Fogo pela bencao\nde viver nesta ilha.
+
+[44|off=0x1c3c|chars=71]
+Max: E importante lembrarmos\nde ser gratos pelo que temos.
+
+[45|off=0x1cd6|chars=11]
+Max: Va, 
+
+[46|off=0x1cee|chars=21]
+P.\nVamos agradecer.
+
+[47|off=0x1d24|chars=41]
+Gayak: Olha nossa estrela!\nOla, 
+
+[48|off=0x1d88|chars=88]
+Gayak: Muito bem por enviar\ntodas as colheitas de prima\na tempo para o festival.
+
+[49|off=0x1e44|chars=48]
+Gayak: Seus esforcos\nimpressam a todos!
+
+[50|off=0x1eb0|chars=41]
+Gayak: Olha nossa estrela!\nOla, 
+
+[51|off=0x1f14|chars=49]
+Gayak: Voce superou\nminhas expectativas!
+
+[52|off=0x1f82|chars=83]
+Gayak: Isso vai ajudar muito\na conquistar a aceitacao\nda cidade.
+
+[53|off=0x2034|chars=14]
+Gayak: Ola, 
+
+[54|off=0x2052|chars=29]
+P!\nVoce trabalhou muito.
+
+[55|off=0x2098|chars=104]
+Gayak: Nao se preocupe por nao\nenviar os 6 tipos de colheita.\nEu cobri a diferenca.
+
+[56|off=0x2174|chars=75]
+Gayak: Isso vai ajudar muito\nos outros a te aceitarem.
+
+[57|off=0x2216|chars=14]
+Gayak: Ola, 
+
+[58|off=0x2234|chars=29]
+P!\nVoce trabalhou muito.
+
+[59|off=0x227a|chars=71]
+Gayak: Ao menos era isso\nque eu queria dizer. Mas o\nque e isso?
+
+[60|off=0x2314|chars=80]
+Gayak: Nao me engane.\nEssas morangos vieram de\numa autofazenda, nao foi?
+
+[61|off=0x23c0|chars=85]
+Gayak: As vezes acho que o Dr.\nHope e facil demais com voce\nnessa ajuda.
+
+[62|off=0x2476|chars=89]
+Gayak: Mas acho que so eu e\nGallion notamos\na diferenca.
+
+[63|off=0x2534|chars=91]
+Gayak: Acho que isso vai ajudar\nos moradores\na te aceitarem.
+
+[64|off=0x25f6|chars=58]
+Gallion: Ha anos nao\nvinha tanta gente...
+
+[65|off=0x2676|chars=17]
+Jonathan: Ola, 
+
+[66|off=0x269a|chars=94]
+P.\nO fornecedor das colheitas\ndevia estar aqui na hora...
+
+[67|off=0x2762|chars=102]
+Jonathan: A verdade -- nao conta\na ninguem -- e que eu queria\nter chegado tarde tambem.
+
+[68|off=0x283a|chars=51]
+Jonathan: O discurso do\nprefeito nao terminava...
+
+[69|off=0x28ac|chars=44]
+Charles: Qual problema\ncom autoplantio?
+
+[70|off=0x2910|chars=120]
+Charles: Ideias antiquadas assim\nafastam os jovens de eventos\ncomo este. Concorda?
+
+[71|off=0x2a0c|chars=91]
+Mayor: Devo admitir que\nfiquei surpreso que voce\nperdeu meu discurso.
+
+[72|off=0x2ace|chars=88]
+Mayor: Mas devo agradece-lo\npor enviar tantos itens\npara a oferta de prima.
+
+[73|off=0x2b8a|chars=98]
+Mayor: Vou te contar sobre\nmeu discurso quando\ntivermos um tempo depois.
+
+[74|off=0x2c5a|chars=43]
+Marco: Ocupado agora.\nNao me perturbe.
+
+[75|off=0x2cbc|chars=88]
+Marco: Planejo construir um\ntunel daqui ate as\nprofundezas da Montanha.
+
+[76|off=0x2d78|chars=84]
+Marco: Usarei meu novo\nsuper-resfriante para parar\na erupcao! Boa ideia, ne?
+
+[77|off=0x2e2c|chars=13]
+Marcia: Que, 
+
+[78|off=0x2e48|chars=37]
+P...\nParece que esta se divertindo.
+
+[79|off=0x2e9e|chars=83]
+Marcia: Voce normalmente\npare tao serio. Nunca sei\nno que esta pensando.
+
+[80|off=0x2f50|chars=71]
+Marcia: Mas quando sorri,\nvoce ate fica fofo...\nHihihi.
+
+[81|off=0x2fea|chars=48]
+Marcia: Bom, acho que\ndevemos ir pra casa.
+
+[82|off=0x3056|chars=63]
+Gayak: Ei! Pra onde vai?\nEsta ficando interessante!
+
+[83|off=0x30e0|chars=19]
+Max: E isso, 
+
+[84|off=0x3108|chars=50]
+P!\nVamos comecar a danca do\nfestival de prima!
+
+[85|off=0x3178|chars=16]
+Marcia: Ai! Nao!
+
+[86|off=0x31a0|chars=104]
+O Festival de Prima terminou\nsem incidentes e voce voltou\npara as Ruinas bem tarde.
+
+[87|off=0x3278|chars=105]
+Ao voltar, os moradores\nenviaram 2 Cestas de Colheita\ne 1 Bolsa de Sementes em gratidao.
+
+[88|off=0x3352|chars=77]
+Voce ficou exausto\ndancando e cantando\nno festival.
+
+[89|off=0x33f4|chars=85]
+Mas descobriu que trabalhar duro\ne ajudar os outros pode ser\nbem satisfatorio.
+
+[90|off=0x34a6|chars=38]
+Logo a noite virou um novo dia...
+
+[91|off=0x34fa|chars=38]
+Logo a noite virou um novo dia...
+
+[92|off=0x354e|chars=28]
+Seu Nivel Humano\naumentou!
+
+[93|off=0x358e|chars=28]
+Seu Nivel Humano\naumentou!
+
+[94|off=0x35ce|chars=66]
+Suas atividades do dia anterior\naumentaram seu Nivel\nHumano!
+
+[95|off=0x365a|chars=21]
+Challenge increased!\n
+
+[96|off=0x369a|chars=21]
+Challenge increased!\n
+
+[97|off=0x36da|chars=16]
+Love increased!\n
+
+[98|off=0x3710|chars=24]
+Intelligence increased!\n
+
+[99|off=0x3756|chars=19]
+Cooking increased!\n
+
+[100|off=0x3792|chars=22]
+Creativity increased!\n
+
+[101|off=0x37d4|chars=17]
+Humor increased!\n

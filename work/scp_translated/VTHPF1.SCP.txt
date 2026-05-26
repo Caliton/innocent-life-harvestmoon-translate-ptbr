@@ -1,0 +1,2793 @@
+# VTHPF1.SCP - 929 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x1a4e|chars=17]
+Dr. Hope: Ola,
+
+[1|off=0x1a72|chars=34]
+P.\nQue bom finalmente\nte acordar!
+
+[2|off=0x1ac2|chars=78]
+Dr. Hope: Meu nome e Hope Grain.\nA partir de hoje,\neu serei seu pai.
+
+[3|off=0x1b6a|chars=78]
+Dr. Hope: Este e meu laboratorio.\nFica na costa sul da\nIlha Heartflame.
+
+[4|off=0x1c12|chars=73]
+Dr. Hope: Enviei uma imagem da ilha\npara voce ha pouco.\nVoce a viu?
+
+[5|off=0x1cb0|chars=110]
+Dr. Hope: Bom. Como novo morador da\nilha, ha muitas coisas que\nvoce vai ter que aprender.
+
+[6|off=0x1d98|chars=79]
+Dr. Hope: Primeiro, voce vai tentar\ncultivar verduras na\nsua propria fazenda.
+
+[7|off=0x1e42|chars=79]
+Dr. Hope: Primeiro, voce vai tentar\ncultivar verduras na\nsua propria fazenda.
+
+[8|off=0x1eec|chars=89]
+Dr. Hope: Para que voce se torne\nverdadeiramente humano, tera\nque aprender o valor da vida
+
+[9|off=0x1faa|chars=89]
+Dr. Hope: Para que voce se torne\nverdadeiramente humano, tera\nque aprender o valor da vida
+
+[10|off=0x2068|chars=23]
+Dr. Hope: Vamos la,
+
+[11|off=0x2098|chars=34]
+P.\nSua jornada vai comecar.
+
+[12|off=0x20e8|chars=23]
+Dr. Hope: Vamos la,
+
+[13|off=0x2118|chars=34]
+P.\nSua jornada vai comecar.
+
+[14|off=0x2168|chars=23]
+*: Com licenca, Doutor!
+
+[15|off=0x21a2|chars=29]
+Maid: O Sr. Gayak chegou.
+
+[16|off=0x21e8|chars=38]
+Dr. Hope: Ah, ja e essa hora?
+
+[17|off=0x2240|chars=40]
+Dr. Hope: Seu prof. de fazenda chegou,\n
+
+[18|off=0x2292|chars=16]
+P. Vem comigo.
+
+[19|off=0x22be|chars=81]
+Dr. Hope: Ah, quase esqueci.\nPara falar ou examinar\nalgo, pressione o botao
+
+[20|off=0x2362|chars=8]
+ botao.
+
+[21|off=0x237e|chars=81]
+Dr. Hope: Ja esqueceu? Tudo bem.\nDeixa eu te mostrar\na ilha de novo.
+
+[22|off=0x242c|chars=90]
+Dr. Hope: E bem pequena. Tenho certeza\nque da pra dar a volta\nnela em 3 dias ou menos.
+
+[23|off=0x24ec|chars=104]
+Dr. Hope: Como novo morador da ilha,\nha muitas coisas que\nvoce vai ter que aprender aqui.
+
+[24|off=0x25c4|chars=87]
+Dr. Hope e os outros estao\nte esperando. Provavelmente\nnao va por conta propria.
+
+[25|off=0x267e|chars=32]
+Maid: Posso te chamar de\nMestre
+
+[26|off=0x26c0|chars=32]
+P? Fico\nfeliz em te conhecer.
+
+[27|off=0x270c|chars=93]
+Maid: Pressione L1 para ver seu\ninventario. Pressione R1 para\nacessar outros menus.
+
+[28|off=0x27d2|chars=13]
+Maid: Mestre
+
+[29|off=0x27ee|chars=90]
+P, pressione\nL1 para ver seu\ninventario.\nPressione R1 para acessar\noutros menus.
+
+[30|off=0x28ae|chars=19]
+Gayak: Voce deve
+
+[31|off=0x28d6|chars=48]
+P!\nJa ouvi muito sobre voce!\nMeu nome e Gayak.
+
+[32|off=0x2942|chars=68]
+Gayak: Dr. Hope me pediu para\nte ensinar a trabalhar\nna fazenda.
+
+[33|off=0x29d6|chars=93]
+Gayak: O solo aqui em Volcano\nTown nao e dos melhores, entao\nninguem cultiva a mao, mas
+
+[34|off=0x2a9c|chars=101]
+Gayak: pelo que ouvi, Dr. Hope\ncomprou um bom terreno pra voce\nno lado leste da ilha!
+
+[35|off=0x2b72|chars=48]
+Gayak: Tem bastante trabalho\npela frente, filho!
+
+[36|off=0x2bde|chars=24]
+Dr. Hope: O que foi,
+
+[37|off=0x2c10|chars=46]
+P?\nNao vai cumprimentar\nnossa visita?
+
+[38|off=0x2c78|chars=75]
+Dr. Hope: Este e Gayak.\nEle vai te ensinar a\ntrabalhar na fazenda.
+
+[39|off=0x2d1a|chars=111]
+Dr. Hope: Como Gayak disse, comprei\num terreno chamado\nRuinas do Leste\nno extremo leste\nda ilha.
+
+[40|off=0x2e04|chars=87]
+Dr. Hope: Ha muito tempo, aquela area\nera incrivelmente fertil --\nsonho de qualquer morador.
+
+[41|off=0x2ebe|chars=104]
+Dr. Hope: Mas algo aconteceu e selou\ngrande parte do terreno, e agora\nso uma pequena parte e usavel.
+
+[42|off=0x2f9a|chars=71]
+Dr. Hope: E um dos motivos pelos\nquais pude comprar pra voce.\nHa ha ha.
+
+[43|off=0x3034|chars=20]
+Dr. Hope: Entao,
+
+[44|off=0x305e|chars=75]
+P.\nQuero que Gayak te ensine\na cultivar para ter sucesso.
+
+[45|off=0x3100|chars=33]
+Dr. Hope: Tenho certeza que vai.
+
+[46|off=0x314e|chars=67]
+Dr. Hope: Fui rapido demais?\nCerto, vamos tentar de novo.
+
+[47|off=0x31e0|chars=75]
+Gayak: Muito bem entao...\nAcho que devemos ir antes\nque escurea.
+
+[48|off=0x3282|chars=17]
+Gayak: Dr. Hope,
+
+[49|off=0x32a6|chars=83]
+P deve terminar\namanha, mas se nao for bem,\ntera que repetir.
+
+[50|off=0x3358|chars=77]
+Gayak: Mas tenho certeza que qualquer\ncriacao sua vai bem. Certo\nentao,
+
+[51|off=0x33f4|chars=12]
+P! Vamos la!
+
+[52|off=0x3418|chars=62]
+Dr. Hope: Espera, Gayak!\nVoce e sempre tao impaciente...
+
+[53|off=0x34a0|chars=33]
+Dr. Hope: Tenho que dar isso\npara
+
+[54|off=0x34e4|chars=18]
+P antes de ir...
+
+[55|off=0x3514|chars=74]
+Dr. Hope: Aqui esta meu velho regador.\nVoce pode usa-lo para regar.
+
+[56|off=0x35b0|chars=39]
+Voce recebeu o\nRegador do Doutor!
+
+[57|off=0x360a|chars=56]
+Dr. Hope: A casa de Gayak nao e\nlonge. Boa sorte,
+
+[58|off=0x368c|chars=55]
+Gayak: Ate logo, Dr. Hope!\nTrarei ele de volta amanha!
+
+[59|off=0x3706|chars=23]
+Maid: Ah, ola Mestre
+
+[60|off=0x3736|chars=16]
+P.\nBem-vindo.
+
+[61|off=0x3762|chars=42]
+Maid: Ola Sr. Gayak e\nSra. Marcia.
+
+[62|off=0x37c2|chars=33]
+Marcia: Oi Vita!\nOnde esta o Doc?
+
+[63|off=0x3810|chars=94]
+Vita: O doutor esta trabalhando\nagora, mas chegara\nem breve. Por favor, venham.
+
+[64|off=0x38d8|chars=39]
+Vita: Fiquem a vontade, todos.
+
+[65|off=0x3932|chars=81]
+Vita: Nao tinhamos um jantar\ntao bom ha anos. Nao e\nverdade, Doutor?
+
+[66|off=0x39e0|chars=48]
+Dr. Hope: Sim....\nFaz tempo demais, Vita.
+
+[67|off=0x3a4c|chars=10]
+Dr. Hope:
+
+[68|off=0x3a62|chars=27]
+P vai partir\namanha.
+
+[69|off=0x3aa4|chars=80]
+Dr. Hope: Esta e uma festa de despedida,\nentao todos comam a vontade.
+
+[70|off=0x3b4c|chars=108]
+Tiveram um jantar agradavel e quando\nGayak e Marcia estavam prontos\npara ir, ja era bem tarde...
+
+[71|off=0x3c30|chars=10]
+Dr. Hope:
+
+[72|off=0x3c46|chars=92]
+P, sei que talvez\nnao entenda tudo que esta\nacontecendo, mas me ouva.
+
+[73|off=0x3d0a|chars=68]
+Dr. Hope: Ha uma quantidade incrivel\nde conhecimento nesses livros.
+
+[74|off=0x3d9e|chars=50]
+Dr. Hope: Esse conhecimento\ntambem esta em voce.
+
+[75|off=0x3e0e|chars=83]
+Dr. Hope: Mas todo conhecimento\ndo mundo nao vai te ajudar\na entender certas coisas.
+
+[76|off=0x3ec0|chars=100]
+Dr. Hope: Talvez as coisas mais dificeis\nde entender sejam o coracao\nhumano e o valor da vida.
+
+[77|off=0x3f94|chars=27]
+Dr. Hope: Nao concorda,\n
+
+[78|off=0x3fdc|chars=39]
+Dr. Hope: Sim, voce e meu filho!
+
+[79|off=0x4036|chars=167]
+Dr. Hope: Tenho certeza que ao cuidar\nda vida vegetal e animal na fazenda,\nvoce vai entender isso.\nE eventualmente ira desfazer\nos selos nas ruinas tambem.
+
+[80|off=0x4190|chars=98]
+Dr. Hope: De qualquer forma,\nsua nova aventura comeca\namanha nas Ruinas do Leste.
+
+[81|off=0x4260|chars=21]
+Dr. Hope: E tarde,
+
+[82|off=0x428c|chars=59]
+P.\nTente descansar ate\nestarem prontos pra partir.
+
+[83|off=0x430a|chars=81]
+Voce adormeceu quase\nque imediatamente apos Dr. Hope\nte levar ao Shine Pod...
+
+[84|off=0x43b6|chars=92]
+e quando acordou no dia seguinte,\nsuas habilidades aumentaram por\ncausa do que fez ontem!
+
+[85|off=0x447a|chars=46]
+Dr. Hope: Entendo. Ainda e dificil\npara voce.
+
+[86|off=0x44e2|chars=73]
+Dr. Hope: Mas se voce interagir com\nmuitos tipos de vida na\nsua fazenda..
+
+[87|off=0x4580|chars=76]
+Dr. Hope: Acho que voce vai entender\no que disse agora.
+
+[88|off=0x4624|chars=28]
+Vita: Esta acordado?\nMestre
+
+[89|off=0x465e|chars=13]
+P?\nE tarde.
+
+[90|off=0x4684|chars=55]
+Vita: O Doutor saiu para o\njardim ha pouco.
+
+[91|off=0x46fe|chars=97]
+Vita: Sua escolta as Ruinas do Leste\nainda nao chegou. Que tal ir\nver o Doutor?
+
+[92|off=0x47cc|chars=115]
+Vita: Mais uma coisa... O homem\nque vem te buscar e artista\ne um pouco esquisito...\nMas nao se preocupe.
+
+[93|off=0x48be|chars=98]
+Vita: Acho que o Doutor foi ao\ntumulo de um parente seu na\nparte oeste do jardim.
+
+[94|off=0x498a|chars=76]
+Esta e sua cama...\nMas nao da pra descansar agora.\nFranco esta esperando.
+
+[95|off=0x4a2e|chars=33]
+Dr. Hope: Vamos comecar a\n
+
+[96|off=0x4a72|chars=16]
+manutencao de P.
+
+[97|off=0x4a9e|chars=112]
+Dr. Hope: Esta e sua primeira manutencao\ndesde que foi para as Ruinas do Leste,\nentao pode demorar um pouco...
+
+[98|off=0x4b8a|chars=74]
+Dr. Hope: Espera...\nQue robo e esse que esta\ncom voce, Moonlight?
+
+[99|off=0x4c2a|chars=58]
+Moonlight: Trouxe para o senhor\ndar uma olhada, Doutor.
+
+[100|off=0x4caa|chars=90]
+Moonlight: Estava enterrado na floresta\nperto das Ruinas do Leste. Acho\nque e um Battlebot.
+
+[101|off=0x4d6a|chars=85]
+Dr. Hope: Oh...\nNao sabia que ainda existia\nalgo assim por ai!
+
+[102|off=0x4e20|chars=59]
+Dr. Hope: Hmm... Sim, isso vai\ndemorar um tempo para reparar...
+
+[103|off=0x4ea2|chars=59]
+Dr. Hope: Vai ficar esta noite,\nMoonlight?
+
+[104|off=0x4f24|chars=73]
+Moonlight: Nao, Doutor.\nReceio que tenho que voltar\npara as ruinas.
+
+[105|off=0x4fc2|chars=76]
+Moonlight: Acordei mais cedo\nque o normal e ainda nao me\nrecuperei...
+
+[106|off=0x5066|chars=103]
+Dr. Hope: Que pena. Bom, o minimo\nque pode fazer e deixar Vita\npreparar algo pra comer.
+
+[107|off=0x5140|chars=96]
+Moonlight: Oh! Vita e uma artista\nculinaria! Adoraria provar\numa das suas criacoes!
+
+[108|off=0x520c|chars=37]
+Dr. Hope: Desculpe a demora,\n
+
+[109|off=0x5268|chars=72]
+Dr. Hope: Sua primeira tentativa\nna fazenda das Ruinas\ncorreu bem?
+
+[110|off=0x5304|chars=66]
+Dr. Hope: Entendo. Parece que\nas coisas vao bem para voce.
+
+[111|off=0x5394|chars=85]
+Dr. Hope: Vamos ver como seu\ncorpo esta indo. Sera sua\nprimeira manutencao.
+
+[112|off=0x544a|chars=85]
+Dr. Hope: Vamos ver como seu\ncorpo esta indo. Sera sua\nprimeira manutencao.
+
+[113|off=0x5500|chars=50]
+Dr. Hope: Entao, entre no\nShine Pod, por favor.
+
+[114|off=0x5570|chars=50]
+Dr. Hope: Entao, entre no\nShine Pod, por favor.
+
+[115|off=0x55e0|chars=38]
+Dr. Hope: Nao esta indo bem?
+
+[116|off=0x5638|chars=95]
+Dr. Hope: Bom, faca o melhor.\nSe tiver problemas, tente\npedir conselho ao Franco.
+
+[117|off=0x56fe|chars=77]
+Ao entrar no Shine Pod, voce\nsente energia percorrendo\nseu corpo.
+
+[118|off=0x57a0|chars=61]
+E quase como se voce sentisse\no afeto do Dr. Hope por voce...
+
+[119|off=0x5822|chars=90]
+Dr. Hope usou os dados em sua\nmemoria para ver como estao\nas coisas na sua fazenda.
+
+[120|off=0x58de|chars=81]
+A primeira manutencao demorou\nmuito e voce acabou\nadormecendo...
+
+[121|off=0x598c|chars=20]
+Dr. Hope: Entao,
+
+[122|off=0x59b6|chars=50]
+P.\nVita cozinha muito bem,\naproveite.
+
+[123|off=0x5a26|chars=91]
+Dr. Hope: Ja chegou. Vita, diz\na Million que espere\num momento, por favor?
+
+[124|off=0x5ae8|chars=18]
+Vita: Sim, Doutor.
+
+[125|off=0x5b18|chars=55]
+Dr. Hope: Voce ainda nao viu\nVolcano Town, nao e,
+
+[126|off=0x5b98|chars=75]
+Dr. Hope: Bom, Million gentilmente\nse ofereceu para te mostrar\na cidade.
+
+[127|off=0x5c3a|chars=75]
+Dr. Hope: Million cuida do mercado\naqui na cidade. E um bom\njovem.
+
+[128|off=0x5cdc|chars=57]
+Dr. Hope: Ah, e Marcia deve estar\ncom ele tambem.
+
+[129|off=0x5d5a|chars=103]
+Dr. Hope: Ja que Moonlight nao pode\nvir hoje, Marcia disse que\nte levaria de volta as Ruinas.
+
+[130|off=0x5e34|chars=25]
+Dr. Hope: Se cuide agora.
+
+[131|off=0x5e72|chars=81]
+Dr. Hope: E nao esqueca de agradecer\na Million e Marcia. Ah, mais\numa coisa...
+
+[132|off=0x5f20|chars=70]
+Dr. Hope: Nao esqueca de vir aqui\ntodo domingo para a\nmanutencao.
+
+[133|off=0x5fb8|chars=79]
+Dr. Hope: Na proxima vez,\nprovavelmente ja tera\ncolhido mais plantacoes.
+
+[134|off=0x6062|chars=55]
+Dr. Hope: Estou ansioso para ver\nseu progresso,
+
+[135|off=0x60e2|chars=62]
+Vita: Sra. Marcia e Sr. Million\nestao esperando la fora.
+
+[136|off=0x616a|chars=31]
+Vita: Divirta-se,\nMestre
+
+[137|off=0x61ba|chars=56]
+Franco: Entao finalmente comecou\na criar animais, hein?
+
+[138|off=0x6236|chars=109]
+Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem sao\ninvencao do Dr. Hope?
+
+[139|off=0x631c|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatizado, mas na epoca usar robos\nera uma ideia bastante revolucionaria.
+
+[140|off=0x6408|chars=61]
+Franco: Ouvi que ainda os usam\nbastante no exterior.
+
+[141|off=0x648e|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido novamente\nentre estas ruinas!
+
+[142|off=0x652e|chars=90]
+Moonlight: Tenho certeza que sua\nforca vital vai revitalizar\nesta terra e a natureza!
+
+[143|off=0x65ee|chars=72]
+Franco: Nossa!\nVoce tem sorte!\nGanhou um buggy de presente!
+
+[144|off=0x668a|chars=89]
+Franco: Com um buggy desse,\nlevaria a Rose num passeio\nque ela nunca esqueceria!
+
+[145|off=0x6748|chars=11]
+Moonlight:
+
+[146|off=0x6760|chars=52]
+P! Vi que\nganhou um otimo presente do Dr. Hope!
+
+[147|off=0x67d4|chars=63]
+Moonlight: Voce pode ir a quase\nqualquer lugar num buggy desse!
+
+[148|off=0x685e|chars=60]
+Franco: Nao acredito que Marco\npudesse cometer um erro tao grande.
+
+[149|off=0x68e2|chars=73]
+Franco: Quando era jovem, todo mundo\nlevava suas parceiras aquela gruta.
+
+[150|off=0x6980|chars=11]
+Moonlight:
+
+[151|off=0x6998|chars=57]
+P!\nOuvi que teve problemas na\ngruta de Volcano Town.
+
+[152|off=0x6a16|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
+
+[153|off=0x6abc|chars=49]
+Franco: Ouvi que voce plantou\numas bico-de-papagaio.
+
+[154|off=0x6b2a|chars=120]
+Franco: Se conseguir enviar bastante\nantes da vespera de Natal, podem\nusa-las para decorar a cidade.
+
+[155|off=0x6c26|chars=21]
+Franco: Mal posso esperar!
+
+[156|off=0x6c5c|chars=41]
+Franco: Ouvi que Dr. Hope\ndesmaiou...
+
+[157|off=0x6cba|chars=96]
+Franco: Sei que voce deve estar\npreocupado com ele, mas tem\ntrabalho importante a fazer.
+
+[158|off=0x6d86|chars=89]
+Franco: A melhor coisa pro Dr.\nHope agora e ver o quanto\nvoce esta trabalhando.
+
+[159|off=0x6e44|chars=52]
+Moonlight: Nao sabia que Dr. Hope\nestava tao doente...
+
+[160|off=0x6eb8|chars=86]
+Moonlight: Suponho que e por isso\nque ele tinha tanta pressa\ncom o trabalho com voce..
+
+[161|off=0x6f70|chars=42]
+Franco: Sei que esta triste com\nDr. Hope,
+
+[162|off=0x6fc6|chars=12]
+P. Eu tambem.
+
+[163|off=0x6fea|chars=31]
+Franco: Ele era um bom amigo...
+
+[164|off=0x7034|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[165|off=0x70a0|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do que\naparenta!
+
+[166|off=0x7140|chars=91]
+Moonlight: O que quero dizer e...\nTenho certeza que Dr. Hope\nsempre estara te guardando,
+
+[167|off=0x7208|chars=62]
+Franco: Quem e esse homem estranho\nque mora no novo quarto?
+
+[168|off=0x7290|chars=97]
+Franco: Claro, aquela area ficou\nselada por muito tempo, entao\nnao e como se fosse de alguem...
+
+[169|off=0x735e|chars=61]
+Franco: Bom, acho que nao devemos\nnos preocupar muito com isso.
+
+[170|off=0x73e4|chars=43]
+Franco: Um alien mora no\nnovo quarto?
+
+[171|off=0x7446|chars=97]
+Franco: Claro, aquela area ficou\nselada por muito tempo, entao\nnao e como se fosse de alguem...
+
+[172|off=0x7514|chars=61]
+Franco: Bom, acho que nao devemos\nnos preocupar muito com isso.
+
+[173|off=0x759a|chars=11]
+Moonlight:
+
+[174|off=0x75b2|chars=76]
+P!\nVi uma coisa estranha parecendo\num bicho de pelucia no novo quarto.
+
+[175|off=0x7656|chars=51]
+Moonlight: Voce fez isso?\nE muito impressionante!
+
+[176|off=0x76c8|chars=24]
+Dr. Hope: Bom dia,
+
+[177|off=0x76fa|chars=44]
+P.\nSente-se ali e tome\ncafe da manha.
+
+[178|off=0x775a|chars=58]
+O cafe da manha que Vita\npreparou estava incrivelmente bom.
+
+[179|off=0x77da|chars=73]
+Dr. Hope: Vita sempre se dedica\nao maximo no cafe quando\nvoce esta aqui.
+
+[180|off=0x7878|chars=20]
+Dr. Hope: Ah, ola
+
+[181|off=0x78a2|chars=25]
+P.\nVoce chegou cedo?
+
+[182|off=0x78e0|chars=102]
+Dr. Hope: Se esta aqui antes do\ndia de manutencao, significa\nque tem muito tempo livre?
+
+[183|off=0x79b8|chars=41]
+Dr. Hope: Ou so queria\nme ver?
+
+[184|off=0x7a16|chars=73]
+Dr. Hope: Entendo. Entendo.\nEntao aprendeu como e\nsentir saudade.
+
+[185|off=0x7ab4|chars=73]
+Dr. Hope: Entendo. Entendo.\nEntao aprendeu como e\nsentir saudade.
+
+[186|off=0x7b52|chars=20]
+Dr. Hope: Ah, ola
+
+[187|off=0x7b7c|chars=27]
+P.\nNao chegou cedo?
+
+[188|off=0x7bbe|chars=51]
+Dr. Hope: Esta preocupado\ncom algo, talvez?
+
+[189|off=0x7c30|chars=91]
+Dr. Hope: E a Montanha do Fogo?\nSuponho que ouviu os rumores\nde que vai entrar em erupcao.
+
+[190|off=0x7cf2|chars=73]
+Dr. Hope: Pra dizer a verdade,\nestou um pouco preocupado\ncom isso tambem.
+
+[191|off=0x7d90|chars=90]
+Dr. Hope: Acho que chegou a hora\nde voce ajudar o povo\ndesta ilha.
+
+[192|off=0x7e50|chars=80]
+Dr. Hope: E o Espirito do Fogo que\nesta fazendo a Montanha\nse comportar assim.
+
+[193|off=0x7efc|chars=80]
+Dr. Hope: E o Espirito do Fogo que\nesta fazendo a Montanha\nse comportar assim.
+
+[194|off=0x7fa8|chars=90]
+Dr. Hope: A unica coisa que pode\naplacar a ira do Fogo\ne o Espirito da Agua.
+
+[195|off=0x8068|chars=90]
+Dr. Hope: A unica coisa que pode\naplacar a ira do Fogo\ne o Espirito da Agua.
+
+[196|off=0x8128|chars=119]
+Dr. Hope: Para encontrar o Espirito da\nAgua, va pelo deserto a nordeste e\npelas planices ate o Lago Sereia.
+
+[197|off=0x8222|chars=119]
+Dr. Hope: Para encontrar o Espirito da\nAgua, va pelo deserto a nordeste e\npelas planices ate o Lago Sereia.
+
+[198|off=0x831c|chars=84]
+Dr. Hope: Ha uma mulher idosa vivendo\nna margem do Lago Sereia\nque vai te ajudar.
+
+[199|off=0x83d0|chars=84]
+Dr. Hope: Ha uma mulher idosa vivendo\nna margem do Lago Sereia\nque vai te ajudar.
+
+[200|off=0x8484|chars=57]
+Dr. Hope: Entendo. Acho que\nso estava imaginando, entao..
+
+[201|off=0x8502|chars=20]
+Dr. Hope: Ah, ola
+
+[202|off=0x852c|chars=56]
+P.\nEsta se acostumando a vida\nnas Ruinas do Leste?
+
+[203|off=0x85a8|chars=20]
+Dr. Hope: Ah, ola
+
+[204|off=0x85d2|chars=86]
+P. Desculpe,\nmas estou escrevendo um artigo agora.\nPode falar comigo amanha de manha?
+
+[205|off=0x868a|chars=10]
+*: Miau...
+
+[206|off=0x86aa|chars=13]
+Vita: Mestre
+
+[207|off=0x86c6|chars=40]
+P!\nO que esta fazendo aqui\na esta hora?
+
+[208|off=0x8722|chars=13]
+Vita: Mestre
+
+[209|off=0x873e|chars=40]
+P!\nO que esta fazendo aqui\na esta hora?
+
+[210|off=0x879a|chars=115]
+Vita: Se esta com dificuldade pra\ndormir, um pouquinho de leite\nquente... Bom, isso oferto a humanos.
+
+[211|off=0x888c|chars=115]
+Vita: Se esta com dificuldade pra\ndormir, um pouquinho de leite\nquente... Bom, isso oferto a humanos.
+
+[212|off=0x897e|chars=30]
+Vita: O que vamos fazer?
+
+[213|off=0x89c6|chars=30]
+Vita: O que vamos fazer?
+
+[214|off=0x8a0a|chars=26]
+Vita parece estar dormindo...
+
+[215|off=0x8a4a|chars=83]
+Vita: Voce tem que deixar as plantas\ncultivadas em casa pegarem sol\nou vao morrer.
+
+[216|off=0x8afc|chars=83]
+Vita: Voce tem que deixar as plantas\ncultivadas em casa pegarem sol\nou vao morrer.
+
+[217|off=0x8bae|chars=70]
+Vita: A luz solar e uma coisa\nincrivel. Me pergunto quem\na criou.
+
+[218|off=0x8c46|chars=70]
+Vita: A luz solar e uma coisa\nincrivel. Me pergunto quem\na criou.
+
+[219|off=0x8cde|chars=6]
+Nana:
+
+[220|off=0x8cec|chars=71]
+P! Voce veio\nna hora certa! Tenho algo\nque quero te perguntar.
+
+[221|off=0x8d86|chars=109]
+Nana: Quero muito ganhar o Festival\nde Culinaria de Cogumelo este ano.\nMas nao consigo com meus pratos...
+
+[222|off=0x8e6c|chars=111]
+Nana: Sera que nao se importa de\npegar uns cogumelos Porcini pra mim?\nDevem estar na epoca amanha.
+
+[223|off=0x8f56|chars=122]
+Nana: Vou dar um presentinho\nse fizer isso pra mim!\nSo coloque-os na sua\nBolsa e traga aqui.
+
+[224|off=0x9056|chars=49]
+Nana: Veja... Acho que 100g\ndevem ser suficientes.
+
+[225|off=0x90c4|chars=6]
+Nana:
+
+[226|off=0x90d2|chars=52]
+P! Pegou\ncogumelos Porcini pra mim!\nObrigada!
+
+[227|off=0x9146|chars=84]
+Nana: Vou pega-los entao.\nVou ganhar o Festival de\nCulinaria de Cogumelo agora.
+
+[228|off=0x91fa|chars=6]
+Nana:
+
+[229|off=0x9208|chars=41]
+P! Pegou\ncogumelos Porcini pra mim!
+
+[230|off=0x9266|chars=81]
+Nana: Mas receio que nao sera\nsuficiente. Precisava mesmo\nde 100g deles.
+
+[231|off=0x9314|chars=114]
+Nana: Se nao fizer um tipo especial\nde Bife Salisbury, Dorothy vai ganhar\no Festival de Culinaria de novo.
+
+[232|off=0x9404|chars=114]
+Nana: Se nao fizer um tipo especial\nde Bife Salisbury, Dorothy vai ganhar\no Festival de Culinaria de novo.
+
+[233|off=0x94f4|chars=53]
+Nana: Acho que ela cozinha\nmelhor que eu, no geral.
+
+[234|off=0x956a|chars=53]
+Nana: Acho que ela cozinha\nmelhor que eu, no geral.
+
+[235|off=0x95e0|chars=37]
+Vita: Os Life Arms estao funcionando?
+
+[236|off=0x9636|chars=89]
+Vita: As cestas e caixas que receber\ndaqui pra frente virao equipadas\ncom Life Arms.
+
+[237|off=0x96f4|chars=56]
+Vita: No entanto, ha apenas\n14 Life Arms no total.
+
+[238|off=0x9770|chars=50]
+Vita: Eles pulam de uma cesta\npara outra...
+
+[239|off=0x97e0|chars=111]
+Vita: Entao se os colocar muito\nperto, vao atrapalhar uns aos outros\ne reduzir a eficiencia.
+
+[240|off=0x98ca|chars=83]
+Vita: Tente coloca-los em\nlocais variados para ver\no que funciona melhor.
+
+[241|off=0x997c|chars=43]
+Dr. Hope: Ah nao, nao e nada.\nNao ligue,
+
+[242|off=0x99e4|chars=86]
+Dr. Hope: Que tal tomarmos cafe\njuntos na proxima vez que ficar\nnesta mansao?
+
+[243|off=0x9a9c|chars=90]
+Dr. Hope: Vita cozinha muito bem.\nTenho certeza que ira desenvolver\nbom paladar... Ha-Ha.
+
+[244|off=0x9b5c|chars=10]
+Dr. Hope:
+
+[245|off=0x9b72|chars=51]
+P, pode fazer\no que quiser no tempo livre.
+
+[246|off=0x9be4|chars=70]
+Dr. Hope: Pode assistir TV, cozinhar,\nou conversar com pessoas na cidade.
+
+[247|off=0x9c7c|chars=59]
+Dr. Hope: Usou a chave para ir\nfundo na gruta?
+
+[248|off=0x9cfe|chars=101]
+Dr. Hope: Ao caminhar nas grutas,\nolhe com cuidado para\nnao perder minhas caixas de tesouro.
+
+[249|off=0x9dd4|chars=24]
+Dr. Hope: Ah, e voce,
+
+[250|off=0x9e06|chars=64]
+P.\nEsperava que a ponte\nestivesse pronta, nao e...?
+
+[251|off=0x9e92|chars=122]
+Dr. Hope: As pessoas aqui sao\ntranquilas, mas quando comecam a\ntrabalhar, terminam rapido. Tenha paciencia...
+
+[252|off=0x9f92|chars=10]
+Dr. Hope:
+
+[253|off=0x9fa8|chars=90]
+P. Talvez\nja saiba, mas para desselar,\ndeve oferecer uma Joia ao Altar.
+
+[254|off=0xa068|chars=78]
+Dr. Hope: Se mudancas ocorrerem numa\nJoia, aguarde uma noite e veja.
+
+[255|off=0xa110|chars=86]
+Dr. Hope: Ouvi que buggies\nsao populares com criancas\nem paises estrangeiros...
+
+[256|off=0xa1c8|chars=56]
+Dr. Hope: Ah bom...\nE so o que ouvi, nada mais.
+
+[257|off=0xa244|chars=14]
+Dr. Hope: Ei
+
+[258|off=0xa262|chars=23]
+P...\nComo esta seu buggy?
+
+[259|off=0xa29c|chars=108]
+Dr. Hope: Se quiser ir a um lugar\nlonge, acorde cedo.\nE melhor dormir antes das 21h.
+
+[260|off=0xa380|chars=14]
+Dr. Hope: Ei
+
+[261|off=0xa39e|chars=48]
+P.\nJa conheceu uma senhora\nno Lago Sereia?
+
+[262|off=0xa40a|chars=109]
+Dr. Hope: Entendo. Se perder o rumo\nna aventura... Talvez precise\nvoltar la mais uma vez.
+
+[263|off=0xa4f0|chars=15]
+Dr. Hope: Bom
+
+[264|off=0xa510|chars=50]
+P?\nEsta procurando\nalgo relacionado a agua...?
+
+[265|off=0xa580|chars=72]
+Dr. Hope: Desculpe, mas nao ha\nnada que possa dar por aqui...
+
+[266|off=0xa61c|chars=111]
+Dr. Hope: Algumas coisas so se\nresolvem com tempo. Talvez precise\nparar e refletir de vez em quando...
+
+[267|off=0xa706|chars=21]
+Dr. Hope: A proposito
+
+[268|off=0xa732|chars=58]
+P,\nO que fez com a Joia Vermelha\nque pegou de Masami?
+
+[269|off=0xa7b2|chars=104]
+Dr. Hope: Desele para poder usa-la\ne chegar ao Brasao do Espirito\nda Agua nas profundezas das ruinas.
+
+[270|off=0xa88e|chars=79]
+Dr. Hope: Depende de voce\nevitar que o Vulcao\nentre em erupcao.
+
+[271|off=0xa938|chars=76]
+Dr. Hope: Ho-ho.\nA senhora no Lago Sereia\nte mandou ver a Sereia, hein?
+
+[272|off=0xa9dc|chars=78]
+Dr. Hope: Acredita-se que a Sereia\nvive num riacho perto da\narvore de Cacau.
+
+[273|off=0xaa84|chars=14]
+Dr. Hope: Ei
+
+[274|off=0xaaa2|chars=11]
+P, chegou.
+
+[275|off=0xaac4|chars=94]
+Dr. Hope: Bom, o tempo passa.\nParece que foi ontem quando\nlhe dei meu Regador...
+
+[276|off=0xab8c|chars=19]
+Dr. Hope: Sei que
+
+[277|off=0xabb4|chars=77]
+P\naprendeu muitas coisas e dominou\nvarias habilidades nesta ilha.
+
+[278|off=0xac5a|chars=68]
+Dr. Hope: Aprendeu a usar bem\no Regador, nao e?
+
+[279|off=0xacee|chars=80]
+Dr. Hope: Nao deveria me gabar\npois fui eu quem melhorou...
+
+[280|off=0xad9a|chars=65]
+Dr. Hope: Nao pode deixar\ntodo o trabalho para\nos ajudantes.
+
+[281|off=0xae28|chars=88]
+Dr. Hope: Pelo menos regue,\nsenao vai ficar fraco...\nHa-ha-ha.
+
+[282|off=0xaee4|chars=20]
+Dr. Hope: Ah, ola
+
+[283|off=0xaf0e|chars=25]
+P.\nNao chegou cedo?
+
+[284|off=0xaf4c|chars=56]
+Dr. Hope: Tenho sonhado muito\nultimamente. Voce e cr...
+
+[285|off=0xafc8|chars=50]
+Dr. Hope: Ah... Bom... Nao e nada.\nNao ligue,
+
+[286|off=0xb03e|chars=38]
+Dr. Hope: Entendo, entao nao e isso...
+
+[287|off=0xb096|chars=10]
+*: Miau...
+
+[288|off=0xb0b6|chars=10]
+*: Miau...
+
+[289|off=0xb0d6|chars=66]
+Vita: Nao e problema limpar\nsozinha. Faco isso todo dia.
+
+[290|off=0xb166|chars=66]
+Vita: Nao e problema limpar\nsozinha. Faco isso todo dia.
+
+[291|off=0xb1f6|chars=10]
+*: Miiiau.
+
+[292|off=0xb216|chars=10]
+*: Miiiau.
+
+[293|off=0xb236|chars=36]
+Vita: Obrigada por esperar,\nMestre
+
+[294|off=0xb290|chars=63]
+Vita: Havia um presente pra voce\nno deposito do doutor.
+
+[295|off=0xb31a|chars=111]
+Vita: Parece que mesmo enquanto\nlutava contra a doenca,\no doutor fez tempo para\ncriar dispositivos de fazenda.
+
+[296|off=0xb404|chars=91]
+Vita: Mandei entregar na sua fazenda,\nde acordo com as instrucoes\ndo doutor.
+
+[297|off=0xb4c6|chars=107]
+Vita: Cada Cesta e Caixa\nvira automaticamente\nequipada com\no dispositivo Life Arm.
+
+[298|off=0xb5a8|chars=106]
+Vita: Se colocar uma cesta equipada\nno campo, as plantacoes\nsera colhidas automaticamente.
+
+[299|off=0xb688|chars=108]
+Vita: Pode ser um pouco dificil\nde entender. O melhor e\ntentar voce mesmo na fazenda.
+
+[300|off=0xb76a|chars=58]
+P tentou dormir,\nmas ficou pensando que\nesqueceu algo
+
+[301|off=0xb7e8|chars=32]
+Sem perceber,\nja amanheceu...
+
+[302|off=0xb834|chars=40]
+Vita: Todo mundo na cidade\nenlouqueceu...
+
+[303|off=0xb890|chars=40]
+Vita: So voce e eu\npermanecemos iguais...
+
+[304|off=0xb8ec|chars=40]
+Vita: Todo mundo na cidade\nenlouqueceu...
+
+[305|off=0xb948|chars=40]
+Vita: Todo mundo na cidade\nenlouqueceu...
+
+[306|off=0xb9a4|chars=40]
+Vita: So voce e eu\npermanecemos iguais...
+
+[307|off=0xba00|chars=40]
+Vita: So voce e eu\npermanecemos iguais...
+
+[308|off=0xba5c|chars=86]
+Vita: O doutor fica agitado\nno dia do exame. Mal\npode esperar para te ver.
+
+[309|off=0xbb14|chars=19]
+*: Bzzz... Bip....
+
+[310|off=0xbb46|chars=19]
+*: Bzzz... Bip....
+
+[311|off=0xbb78|chars=37]
+Dr. Hope: Estava esperando por voce,\n
+
+[312|off=0xbbc4|chars=42]
+P. Por favor,\nentre no Shine Pod?
+
+[313|off=0xbc24|chars=79]
+Dr. Hope: Muito bem. Terminou.\nSeu corpo parece estar\nfuncionando normalmente.
+
+[314|off=0xbcce|chars=97]
+Dr. Hope: Nao tenho duvidas em\nmanda-lo trabalhar mais uma\nsemana nas Ruinas do Leste.
+
+[315|off=0xbd9c|chars=56]
+Dr. Hope: Veja bem. Sua\nmanutencao esta concluida...
+
+[316|off=0xbe18|chars=103]
+Dr. Hope: Ah, quase esqueci. Reparar\naquele robo vai demorar\nainda um pouquinho mais.
+
+[317|off=0xbef2|chars=111]
+Dr. Hope: Estou modificando para que\npossa te ajudar na fazenda, mas\nele era um Battlebot, afinal...
+
+[318|off=0xbfdc|chars=123]
+Dr. Hope: Enviei um pedido ao\nprefeito para que voce possa\nusa-lo.\nEssa parte nao deve\nser problema...
+
+[319|off=0xc0de|chars=15]
+Gayak: Ei!\nE
+
+[320|off=0xc0fe|chars=8]
+P ai?
+
+[321|off=0xc11a|chars=45]
+Gayak: Ai esta!\nOtimo. Ah, ola Doutor.
+
+[322|off=0xc180|chars=37]
+Gayak: Tenho um pequeno pedido\npara
+
+[323|off=0xc1cc|chars=51]
+P que precisa\nser feito antes do Festival de Prima.
+
+[324|off=0xc23e|chars=31]
+Gayak: Gostaria de usar\nalgo de
+
+[325|off=0xc27e|chars=48]
+P para a\noferta do Festival de Prima.
+
+[326|off=0xc2ea|chars=73]
+Gayak: Como deve saber, so cultivo\nbatatas e nabos na minha fazenda.
+
+[327|off=0xc388|chars=19]
+Gayak: Entao queria que
+
+[328|off=0xc3b0|chars=36]
+P cultivasse\noutros tipos de plantacoes.
+
+[329|off=0xc404|chars=83]
+Gayak: Ah, e Marlene fez mais\nBolsas de Sementes, vou dar\n3 delas pra voce.
+
+[330|off=0xc4b6|chars=116]
+Gayak: Se bem me lembro, ha\n6 plantacoes que crescem na prima.\nNao estou pedindo pra plantar\ntodas, mas...
+
+[331|off=0xc5aa|chars=77]
+Gayak: Agora com 6 Bolsas,\npode cultivar qualquer\nplantacao que quiser!
+
+[332|off=0xc650|chars=113]
+Gayak: Se enviar as plantacoes antes\ndo festival, vou garantir que o\nmercado as repasse pra mim.
+
+[333|off=0xc73e|chars=79]
+Dr. Hope: Mas Gayak, achei que\nninguem mais participava\ndo Festival de Prima.
+
+[334|off=0xc7e8|chars=42]
+Gayak: Desta vez vai\nser diferente!
+
+[335|off=0xc848|chars=88]
+Gayak: Os rumores sobre a Montanha\ndo Fogo deixaram muita gente\nnervosa.
+
+[336|off=0xc904|chars=112]
+Gayak: Tenho certeza que vao se\ninteressar por um festival ao\nEspirito do Fogo no cume do vulcao.
+
+[337|off=0xc9f0|chars=27]
+Gayak: Se oferecermos algo de\n
+
+[338|off=0xca28|chars=11]
+P's crops,
+
+[339|off=0xca40|chars=66]
+\ntodos vao se impressionar.\nVao consertar a ponte do norte.
+
+[340|off=0xcad0|chars=76]
+Gayak: Quero ter pelo menos\nalguma outra coisa\nalem de nabos e batatas.
+
+[341|off=0xcb74|chars=101]
+Gayak: Vou mandar as 3 Bolsas e\numa Cesta de Colheita pra sua\nfazenda. Serao uteis!
+
+[342|off=0xcc4a|chars=50]
+Gayak: Entendeu tudo\nque disse,
+
+[343|off=0xccc0|chars=79]
+Gayak: Otimo entao!\nBem, tenho muito trabalho,\nentao ate mais.
+
+[344|off=0xcd6a|chars=16]
+Gayak: Tchau,
+
+[345|off=0xcd8c|chars=18]
+P!\nDr. Hope, Vita!
+
+[346|off=0xcdbc|chars=40]
+Gayak: Hmm... Tudo bem.\nVamos tentar de novo.
+
+[347|off=0xce18|chars=104]
+Gayak: Preciso que cultive plantacoes\npara o Festival de Prima. Qualquer\ncoisa menos batatas e nabos.
+
+[348|off=0xcef4|chars=109]
+Gayak: Tem que enviar antes do\ndia do festival. Enviar no dia\ndo festival e tarde demais.
+
+[349|off=0xcfda|chars=72]
+Gayak: Vou mandar 3 Bolsas e\numa Cesta de Colheita pra\nsua Caixa de Itens.
+
+[350|off=0xd076|chars=51]
+Dr. Hope: Esse Gayak parece\nsempre com pressa.
+
+[351|off=0xd0e8|chars=48]
+Vita: Ora, o Sr. Gayak\nnunca disse a
+
+[352|off=0xd14a|chars=38]
+P quando e\no Festival de Prima, disse?
+
+[353|off=0xd1a2|chars=37]
+Dr. Hope: Tem razao, Vita.\nHmph...
+
+[354|off=0xd1f8|chars=65]
+Dr. Hope: O Festival de Prima e\nno quarto domingo da prima,\n
+
+[355|off=0xd28c|chars=113]
+Dr. Hope: Entao se quiser que suas\nplantacoes sejam usadas no festival,\ntem que envia-las ate o quarto sabado.
+
+[356|off=0xd37a|chars=64]
+Dr. Hope: Deve envia-las logo,\nantes de esquecer.
+
+[357|off=0xd406|chars=89]
+Dr. Hope: Soube da ponte norte,\nentao pedi a Gayak que\npedisse a todos conserta-la, mas..
+
+[358|off=0xd4c4|chars=112]
+Dr. Hope: A automacao deixou todos\ncomodosos. Quem sabe quando vao\nterminar se deixarmos por conta deles?
+
+[359|off=0xd5b0|chars=88]
+Vita: O doutor fica agitado\nno dia do exame. Mal\npode esperar para te ver.
+
+[360|off=0xd66c|chars=53]
+Dr. Hope: Nao esqueca de me\nvisitar aqui todo domingo
+
+[361|off=0xd6e2|chars=112]
+Dr. Hope: Disse as pessoas na cidade\nque voce viria todo domingo, entao\nalgumas podem vir te ver.
+
+[362|off=0xd7ce|chars=116]
+Dr. Hope: O vulcao e um pouco\npreocupante.\nMas se a erupcao for causada\npor espiritos irados, talvez\npossa ajudar.
+
+[363|off=0xd8c2|chars=102]
+Dr. Hope: Afinal, quando quebra os\nselos nos campos das Ruinas do Leste\ntambem aplaca os Espiritos.
+
+[364|off=0xd99a|chars=28]
+Dr. Hope: Acredito em voce,
+
+[365|off=0xd9e4|chars=57]
+Dr. Hope: A proposito, tenho\nalgo pra te dar hoje.
+
+[366|off=0xda62|chars=96]
+Dr. Hope: E uma chave muito importante\ntransmitida por geracoes\nna familia Grain.
+
+[367|off=0xdb2e|chars=85]
+Dr. Hope: Ha uma porta trancada\nna gruta perto da entrada\nda cidade, nao ha?
+
+[368|off=0xdbe4|chars=82]
+Dr. Hope: Esta chave abre aquela porta.\nTenho certeza que sera util.\nAqui, pegue.
+
+[369|off=0xdc94|chars=105]
+Dr. Hope: Vejo que voce nao\npode carregar mais itens.\nCerto, vou mandar\npara sua Caixa de Itens.
+
+[370|off=0xdd72|chars=22]
+Dr. Hope: A proposito,
+
+[371|off=0xdda0|chars=61]
+P.\nNao esqueceu do\nFestival de Prima, nao e?
+
+[372|off=0xde26|chars=38]
+Dr. Hope: O festival\ne domingo que vem.
+
+[373|off=0xde7e|chars=107]
+Dr. Hope: Entao se quiser que as\nplantacoes enviadas sejam usadas\nna oferta, envie ate sabado.
+
+[374|off=0xdf60|chars=64]
+Dr. Hope: Deve envia-las logo,\nantes de esquecer.
+
+[375|off=0xdfec|chars=81]
+Vita: O doutor fica agitado\nno dia do exame. Mal\npode esperar para te ver.
+
+[376|off=0xe09a|chars=45]
+*: BZZZ...\nEM MODO DE ESPERA...\nBIP...
+
+[377|off=0xe100|chars=27]
+Dr. Hope: Ah, voce chegou,
+
+[378|off=0xe138|chars=32]
+P.\nO Festival de Prima e hoje.
+
+[379|off=0xe184|chars=83]
+Dr. Hope: Marcia deve vir te buscar\nassim que eu terminar\nsua manutencao.
+
+[380|off=0xe236|chars=98]
+Dr. Hope: O festival deve durar ate\ntarde. Podemos comecar\nseu exame agora?
+
+[381|off=0xe306|chars=69]
+Dr. Hope: Muito bem entao.\nVamos la. Entre no\nShine Pod, por favor.
+
+[382|off=0xe39c|chars=97]
+Dr. Hope: Entendo. Va fazer o\nque precisar. Mas volte\nantes das 19h.
+
+[383|off=0xe46a|chars=123]
+Dr. Hope: Ja esta quase na hora\ndo Festival de Prima comecar.\nConseguiu enviar plantacoes\nalem de batatas e nabos?
+
+[384|off=0xe56c|chars=30]
+Dr. Hope: Que bom ouvir isso!
+
+[385|off=0xe5b4|chars=125]
+Dr. Hope: Ou pelo menos e o que\ngostaria de dizer.\nMas infelizmente, o\nexame me contou tudo\nque preciso saber.
+
+[386|off=0xe6ba|chars=113]
+Dr. Hope: Mentir e comportamento\navancado, entao em certo sentido\nacho que devo me alegrar. Mas nao minta.
+
+[387|off=0xe7a8|chars=116]
+Dr. Hope: Bom, caso algo assim\nacontecesse, pedi a Vita que\npreparasse coisas para usar no lugar.
+
+[388|off=0xe89c|chars=83]
+Dr. Hope: Receio que nao temos\noutro jeito senao dizer\nque voce os colheu.
+
+[389|off=0xe94e|chars=105]
+Dr. Hope: Ja que trabalhamos pelo\nbem de toda a ilha, acho que\numa pequena mentira pode ser perdoada.
+
+[390|off=0xea2c|chars=90]
+Dr. Hope: Nao conseguiu?\nBem, e verdade que sementes\npode ser dificeis de achar.
+
+[391|off=0xeaec|chars=21]
+Marcia: Dr. Hope!\nE
+
+[392|off=0xeb18|chars=8]
+P ai?
+
+[393|off=0xeb34|chars=88]
+Marcia: Ah, ai esta!\nO Festival de Prima vai comecar\nlogo. Vamos la!
+
+[394|off=0xebf0|chars=104]
+Marcia: Parei pra ver a gruta ha\npouco, e suas plantacoes ja\nestavam no altar!
+
+[395|off=0xeccc|chars=22]
+Marcia: Bom, acho que
+
+[396|off=0xecfa|chars=54]
+P e eu\nvamos indo. Tchau, Doc.\nTchau Vita.
+
+[397|off=0xed72|chars=44]
+Vita: Divirta-se, Sra. Marcia.\nMestre
+
+[398|off=0xeddc|chars=59]
+Dr. Hope: Sim. Cuida-se.\nE manda um abraco a todos por nos.
+
+[399|off=0xee5e|chars=23]
+Marcia: Certo!\nVamos,
+
+[400|off=0xee8e|chars=12]
+P.\nVamos la!
+
+[401|off=0xeeb2|chars=35]
+*: OLA.\nAINDA NAO TENHO NOME.
+
+[402|off=0xef04|chars=53]
+Vita: O dia do Festival de Prima\nfinalmente chegou.
+
+[403|off=0xef7a|chars=31]
+Forte: OLA.\nMEU NOME E FORTE.
+
+[404|off=0xefc4|chars=96]
+Vita: Como foi o Festival de Prima?\nTodos pareciam muito animados\ncom o conserto da ponte.
+
+[405|off=0xf090|chars=87]
+Vita: Ouvi que a agua esta\nrapida demais agora, mas\npode ser feito no verao.
+
+[406|off=0xf14a|chars=10]
+Dr. Hope:
+
+[407|off=0xf160|chars=28]
+P.\nTenho um presente pra voce.
+
+[408|off=0xf1a4|chars=60]
+Dr. Hope: Finalmente terminei\nde modificar seu robo assistente!
+
+[409|off=0xf228|chars=32]
+Dr. Hope: Venha ca, Forte!
+
+[410|off=0xf274|chars=113]
+Dr. Hope: Esperava mudar\nsua aparencia tambem, mas\ntemo que estourei o orcamento...
+
+[411|off=0xf362|chars=85]
+Dr. Hope: De qualquer forma,\ndesativei suas armas, entao\ne completamente inofensivo.
+
+[412|off=0xf418|chars=57]
+Dr. Hope: Ele nao pode colher ou\narar o solo, mas...
+
+[413|off=0xf496|chars=118]
+Dr. Hope: Dei a ele o\npoder de voar.\nPode regar e recolher\nqualquer coisa que nao\nprecise na fazenda.
+
+[414|off=0xf58e|chars=68]
+Dr. Hope: E tambem dei um nome a ele.\nForte! Nao e um bom nome?
+
+[415|off=0xf622|chars=80]
+Dr. Hope: Sabia que ia gostar!\nEntao vamos chamar este Robo\nde Forte, certo?
+
+[416|off=0xf6ce|chars=113]
+Dr. Hope: Que bom.\nVerdade e que gosto um\npouco do nome tambem, e\nteria sido decepcionante mudar.
+
+[417|off=0xf7bc|chars=55]
+Dr. Hope: Entao, Forte!\nVoce vai ajudar\n
+
+[418|off=0xf82c|chars=14]
+P de agora!
+
+[419|off=0xf854|chars=18]
+Forte: ENTENDIDO.
+
+[420|off=0xf884|chars=37]
+Forte: DESTINO SET:\nRUINAS DO LESTE.
+
+[421|off=0xf8da|chars=42]
+Forte: AGUARDO TRABALHAR\nCOM VOCE.
+
+[422|off=0xf93a|chars=98]
+Dr. Hope: O que? Nao gostou?\nAchei que fosse perfeito...\nBem, que nome gostaria?
+
+[423|off=0xfa0a|chars=109]
+Dr. Hope: Entendo. Que pena, mas\ne melhor escolher um nome de que\ngoste. Como gostaria de chama-lo?
+
+[424|off=0xfaf0|chars=30]
+Dr. Hope: Ah, mais uma coisa,\n
+
+[425|off=0xfb2e|chars=24]
+P. Esqueci de dizer,
+
+[426|off=0xfb60|chars=5]
+\nmas
+
+[427|off=0xfb6c|chars=30]
+R nao\nfala muito bem.
+
+[428|off=0xfbb4|chars=93]
+Dr. Hope: Receio que nao tive\ndinheiro para reformar sua\nunidade de sintese de voz. Hahaha.
+
+[429|off=0xfc7a|chars=94]
+Dr. Hope: Alem disso, as leis de\nVolcano Town proibem quem\ntem arma de entrar na cidade.
+
+[430|off=0xfd42|chars=66]
+Dr. Hope: Isso vale mesmo que\nessas armas tenham sido desativadas.
+
+[431|off=0xfdd2|chars=24]
+Dr. Hope: Entao receio que
+
+[432|off=0xfe04|chars=55]
+R\nnao podera sair da sua fazenda\nnas Ruinas do Leste.
+
+[433|off=0xfe80|chars=39]
+R: AGUARDO TRABALHAR\nCOM VOCE,
+
+[434|off=0xfee2|chars=39]
+R: VAMOS AS RUINAS\nDO LESTE AGORA?
+
+[435|off=0xff3e|chars=14]
+R: ENTENDIDO.
+
+[436|off=0xff68|chars=50]
+R: CARREGANDO DESTINO.\nENTRANDO MODO DE VOO.
+
+[437|off=0xffd8|chars=24]
+Dr. Hope: Cuidado com
+
+[438|off=0x10020|chars=54]
+P voltou para as\nRuinas do Leste com o robo parceiro\n
+
+[439|off=0x1009a|chars=37]
+Assim que chegou na fazenda,\n
+
+[440|off=0x100e6|chars=27]
+R comecou a\nvarrer a area...
+
+[441|off=0x1012a|chars=25]
+R: AGUARDO\nSEUS COMANDOS.
+
+[442|off=0x10168|chars=48]
+Dr. Hope: O prefeito vai\nvir hoje.
+
+[443|off=0x101d4|chars=47]
+Dr. Hope: Ja enviei o pedido\npara
+
+[444|off=0x10234|chars=59]
+R, e aparentemente\nele quer vir falar comigo sobre isso.
+
+[445|off=0x102b6|chars=97]
+Dr. Hope: Ele deve chegar a qualquer\nminuto. Vou so verificar\na sala, se nao se importar.
+
+[446|off=0x10384|chars=18]
+Marcia: Oi!\nE
+
+[447|off=0x103aa|chars=7]
+P ai?
+
+[448|off=0x103c4|chars=23]
+Marcia: Ai esta voce,
+
+[449|off=0x103f4|chars=34]
+P.\nAcho que seu exame\nterminou, nao e?
+
+[450|off=0x10444|chars=62]
+Marcia: Deve ser dificil\nser examinado assim toda semana.
+
+[451|off=0x104cc|chars=63]
+Marcia: Parece saudavel, mas\nesta doente ou algo assim?
+
+[452|off=0x10556|chars=79]
+Vita: Ha bolo e cha na\ncozinha se quiser,\nSra. Marcia.
+
+[453|off=0x10600|chars=35]
+Marcia: Ah obrigada, Vita.\nVamos,
+
+[454|off=0x10658|chars=111]
+Prefeito: Realmente nao pode fazer\ncoisas assim, Doutor!\nNao pode reparar aquele robo\nantes da aprovacao!
+
+[455|off=0x10742|chars=35]
+Prefeito: Fez a mesma coisa\ncom
+
+[456|off=0x1078a|chars=4]
+P...
+
+[457|off=0x1079e|chars=40]
+Marcia: Essa voz...\nO prefeito esta aqui?
+
+[458|off=0x107fa|chars=69]
+Prefeito: Ah, deixa pra la.\nVoce nunca ouve o que\ntenho a dizer.
+
+[459|off=0x10890|chars=90]
+Dr. Hope: Nao e verdade, Prefeito.\nSempre levo em conta os sentimentos\ndos moradores...
+
+[460|off=0x10950|chars=49]
+Dr. Hope: Claro, posso\nnao concordar com eles...
+
+[461|off=0x109be|chars=46]
+Prefeito: La vai voce de novo.\nRindo de mim...
+
+[462|off=0x10a26|chars=71]
+Prefeito: Tudo bem. Seu pedido esta\naprovado. So nao deixe sair de\n
+
+[463|off=0x10ab6|chars=9]
+P's farm.
+
+[464|off=0x10ad4|chars=60]
+Prefeito: Ja ouvi de tudo.\nUm robo ajudando outro robo...
+
+[465|off=0x10b58|chars=37]
+Prefeito: Ah, me desculpe. Nao gosta\n
+
+[466|off=0x10ba4|chars=48]
+P ser chamado de robo.\nEle e uma "Vida Inocente"
+
+[467|off=0x10c10|chars=61]
+Marcia: O que? Voce e um... r-r-robo?\nOu uma "Vida Inocente?"
+
+[468|off=0x10c96|chars=42]
+Marcia: O que e uma\n"Vida Inocente"?
+
+[469|off=0x10cf6|chars=58]
+Vita: E a culminacao de\ntodos os sonhos do doutor.
+
+[470|off=0x10d76|chars=37]
+Vita: O doutor sonhou em criar\n
+
+[471|off=0x10dc2|chars=17]
+P por anos.
+
+[472|off=0x10df0|chars=104]
+Vita: Ele queria criar uma forma\nde vida inocente e pura que\naprendesse a amar, nao a odiar.
+
+[473|off=0x10ecc|chars=10]
+Vita: E
+
+[474|off=0x10ee2|chars=17]
+P foi o resultado.
+
+[475|off=0x10f10|chars=63]
+Marcia: Hmm... Nao tenho certeza\nde que entendi tudo isso...
+
+[476|off=0x10f9a|chars=105]
+Marcia: Mas acho que nao ha\ndiferenca entre o que descreveu\ne um ser humano de bom coracao.
+
+[477|off=0x11078|chars=54]
+Vita: Exatamente. E assim\nque deve pensar.
+
+[478|off=0x110f0|chars=21]
+Marcia: Entendo. Uau...
+
+[479|off=0x11126|chars=21]
+Marcia: Nao se preocupe,
+
+[480|off=0x11152|chars=57]
+P.\nNao me importa se e robo\nou humano ou qualquer coisa.
+
+[481|off=0x111d0|chars=99]
+Marcia: O mais importante e,\nque tipo de pessoa voce e?\nE acho que voce e uma boa pessoa.
+
+[482|off=0x112a2|chars=61]
+Vita: Sim. Voces dois nao sao\ntao diferentes um do outro.
+
+[483|off=0x11328|chars=74]
+Vita: Ambos tem esperancas,\nsonhos, pensamentos e medos.\nAmbos sao pessoas.
+
+[484|off=0x113c8|chars=97]
+Prefeito: Achei que havia alguem\nfazendo barulho aqui. Marcia,\no que esta fazendo aqui?
+
+[485|off=0x11496|chars=80]
+Prefeito: Nao devia ir pra\ncasa? Seu pai deve estar\npreocupado com voce.
+
+[486|off=0x11542|chars=14]
+Marcia: Desculpe.
+
+[487|off=0x1156a|chars=68]
+Dr. Hope: Ah ola. O que estao\nfazendo aqui. Algo errado?
+
+[488|off=0x115fe|chars=27]
+Vita: Nao e nada, doutor.
+
+[489|off=0x11640|chars=55]
+Dr. Hope: Tudo bem entao. Cuidado\nno caminho,
+
+[490|off=0x116bc|chars=49]
+Pela primeira vez percebe\nsua verdadeira natureza!
+
+[491|off=0x1172a|chars=83]
+Vita: O doutor fica agitado\nno dia do exame. Mal\npode esperar para te ver.
+
+[492|off=0x117dc|chars=18]
+Vita: A proposito,
+
+[493|off=0x11802|chars=60]
+P.\nVoce tem assistido ao\nprograma de culinaria na TV?
+
+[494|off=0x11886|chars=93]
+Vita: Mesmo que nao precise\ncozinhar agora, a informacao\npode ser util mais tarde.
+
+[495|off=0x1194c|chars=33]
+Dr. Hope: Esta acostumado com\n
+
+[496|off=0x11990|chars=18]
+R na fazenda?
+
+[497|off=0x119c0|chars=127]
+Dr. Hope: Entendo. Que bom ouvir.\nNao tenho os materiais\nagora, mas gostaria de adicionar\nalgumas opcoes a ele eventualmente.
+
+[498|off=0x11aca|chars=55]
+Dr. Hope: Entendo. Pena.\nMas continue tentando. Certo,
+
+[499|off=0x11b4a|chars=60]
+Dr. Hope: Minha nossa. Quase\nesqueci algo muito importante.
+
+[500|off=0x11bce|chars=58]
+Dr. Hope: E um presentinho\npor quebrar mais um selo.
+
+[501|off=0x11c4e|chars=95]
+Dr. Hope: Por que nao vai para\nas Ruinas do Leste ver por si mesmo?\nFica perto da entrada.
+
+[502|off=0x11d18|chars=60]
+Dr. Hope: Minha nossa. Quase\nesqueci algo muito importante.
+
+[503|off=0x11d9c|chars=58]
+Dr. Hope: E um presentinho\npor quebrar mais um selo.
+
+[504|off=0x11e1c|chars=95]
+Dr. Hope: Por que nao vai para\nas Ruinas do Leste ver por si mesmo?\nFica perto da entrada.
+
+[505|off=0x11ee6|chars=47]
+Dr. Hope: O que? Quer dizer\nque ja viu o buggy?
+
+[506|off=0x11f50|chars=53]
+Dr. Hope: Que chato!\nQueria ver sua expressao...
+
+[507|off=0x11fc6|chars=75]
+Dr. Hope: Ah bem. Acho que foi culpa\nminha por te enviar cedo demais.
+
+[508|off=0x12068|chars=57]
+Dr. Hope: Ouviu?\nA cachorra de Gayak teve filhotes.
+
+[509|off=0x120e6|chars=62]
+Dr. Hope: Ele disse que vai te\ndar um se quiser...
+
+[510|off=0x1216e|chars=15]
+Gayak: Ei!\nE
+
+[511|off=0x1218e|chars=8]
+P ai?
+
+[512|off=0x121aa|chars=45]
+Gayak: Ai esta!\nOtimo. Ah, ola Doutor.
+
+[513|off=0x12210|chars=30]
+Gayak: Ela finalmente pariu!
+
+[514|off=0x12258|chars=68]
+Gayak: Hehe! Nao minha esposa!\nFalo da cachorra,\nChocola! Hahah
+
+[515|off=0x122ec|chars=7]
+Gayak:
+
+[516|off=0x122fc|chars=102]
+P, sua fazenda e\ngrande. Deve ser perfeita pra um cachorro.\nEntao trouxe um dos filhotes pra voce.
+
+[517|off=0x123d4|chars=47]
+Gayak: Vou manda-lo pra seu quarto\namanha.
+
+[518|off=0x1243e|chars=96]
+Gayak: Ah, quase esqueci! Pensei\nnum nome otimo pra ele! Chocobi!\nNao e perfeito?
+
+[519|off=0x1250a|chars=72]
+Gayak: Sabia que ia gostar!\nVamos chamar o filhote\nde Chocobi, certo?
+
+[520|off=0x125a6|chars=33]
+Gayak: Cuide bem do Chocobi!
+
+[521|off=0x125f4|chars=54]
+Gayak: Ah, entendo...\nQueria dar um nome\nvoce mesmo?
+
+[522|off=0x1266c|chars=59]
+Gayak: Bom, acho que tudo bem.\nQue nome gostaria?
+
+[523|off=0x126ee|chars=23]
+Dr. Hope: Que bom,
+
+[524|off=0x1271e|chars=31]
+P.\nCachorros sao\nbons amigos.
+
+[525|off=0x12768|chars=48]
+Dr. Hope: So lembre de\nlimpar depois dele.
+
+[526|off=0x127d4|chars=64]
+Vita: Este verao parece que vai\nser mais quente que o normal.
+
+[527|off=0x12860|chars=94]
+Vita: O calor parece estar\nafetando a gata do doutor.\nEla nao parece estar bem.
+
+[528|off=0x12928|chars=112]
+Dr. Hope: Este verao certamente esta\nquente. Nao te invejo trabalhando\nnos campos com esse tempo.
+
+[529|off=0x12a14|chars=35]
+Masami: Ola, Dr. Hope. Ah, ola\n
+
+[530|off=0x12a5c|chars=11]
+P e Vita.
+
+[531|off=0x12a7e|chars=48]
+Dr. Hope: Desculpe a espera,\nMasami.
+
+[532|off=0x12aea|chars=82]
+Masami: Nao, estou so grata\npor estar disposto a ouvir\no que tenho a dizer.
+
+[533|off=0x12b9a|chars=62]
+Masami: Parece que o que ouvimos\nsobre o vulcao e verdade.
+
+[534|off=0x12c22|chars=75]
+Masami: A Corporacao Banks vai\nfinalmente iniciar a\nconstrucao la.
+
+[535|off=0x12cc4|chars=64]
+Dr. Hope: E ha uma boa chance\nde o vulcao entrar em erupcao.
+
+[536|off=0x12d50|chars=81]
+Dr. Hope: Pode ser este ano...\nPode ser o proximo. E o que\nmeus dados indicam.
+
+[537|off=0x12dfe|chars=35]
+Masami: Entao tudo bem se\npedir a
+
+[538|off=0x12e56|chars=8]
+Masami:
+
+[539|off=0x12e68|chars=61]
+P, ja conheceu\no ermitao que vive perto\ndo Lago Sereia?
+
+[540|off=0x12eee|chars=121]
+Masami: Ha tres espiritos nesta ilha.\nO Espirito da Agua, da Floresta\ne do Fogo nos protegem.
+
+[541|off=0x12fec|chars=91]
+Masami: E a ira do Espirito do\nFogo que ameaca fazer\no vulcao entrar em erupcao...
+
+[542|off=0x130ae|chars=108]
+Masami: Tenho certeza que o Espirito\nda Agua e da Floresta estao felizes\nque voce reviva as Ruinas do Leste.
+
+[543|off=0x13192|chars=102]
+Masami: Mas quanto ao Espirito\ndo Fogo... Uma vez provocado,\nsua ira so cresce mais.
+
+[544|off=0x1326a|chars=60]
+Masami: A unica coisa que pode\npara-lo e o Espirito da Agua.
+
+[545|off=0x132ee|chars=8]
+Masami:
+
+[546|off=0x13300|chars=76]
+P, vou te dar\nalgo que tenho guardado\nha muitos anos.
+
+[547|off=0x133a0|chars=54]
+Masami te deu uma pedra\nbrilhante! E uma Joia Vermelha!
+
+[548|off=0x13418|chars=83]
+Masami: Use esta Joia Vermelha\npara quebrar o selo e\nabrir as Ruinas do Leste.
+
+[549|off=0x134ca|chars=76]
+Masami: Fundo nas ruinas\ndeve haver o Brasao\ndo Espirito da Agua.
+
+[550|off=0x1356e|chars=58]
+Masami: Deve leva-lo ao\nermitao perto do Lago Sereia.
+
+[551|off=0x135ee|chars=47]
+Masami: Dr. Hope, coloque esta\nJoia Vermelha na
+
+[552|off=0x1364e|chars=13]
+Caixa de P.
+
+[553|off=0x13674|chars=30]
+Masami: Irei embora agora...
+
+[554|off=0x136bc|chars=70]
+Dr. Hope: Deve estar curioso\npor que Masami\nte contou isso,\n
+
+[555|off=0x1375a|chars=70]
+Dr. Hope: Masami e descendente de\num dos Povos Originais do Leste.
+
+[556|off=0x137f2|chars=98]
+Dr. Hope: Ha muito tempo, o Povo\ndo Leste queria derrotar seus\ninimigos, o Povo do Vulcao...
+
+[557|off=0x138c2|chars=115]
+Dr. Hope: ...e roubaram o Brasao\ndo Espirito da Agua da torre\nperto do Lago Sereia, esperando\nusar seu poder.
+
+[558|off=0x139b4|chars=101]
+Dr. Hope: Eles enganaram o Espirito\nda Floresta para abrir um caminho\nate a torre do Lago Sereia.
+
+[559|off=0x13a8a|chars=83]
+Dr. Hope: Mas humanos nunca\nconseguiriam controlar\no poder de um Brasao.
+
+[560|off=0x13b3c|chars=69]
+Dr. Hope: Por fim, os tres\nEspiritos selaram a ilha...
+
+[561|off=0x13bd2|chars=85]
+Dr. Hope: Sem razao para viver,\no Povo do Leste\neventualmente se extinguiu...
+
+[562|off=0x13c88|chars=94]
+Dr. Hope: E o Espirito da Agua\nselou o Espirito da Floresta\npor deixar humanos enganar-lo.
+
+[563|off=0x13d50|chars=67]
+Dr. Hope: Ao menos e o que\nconsta na lenda do Povo do Vulcao.
+
+[564|off=0x13de2|chars=112]
+Dr. Hope: Nao consigo deixar de sentir\nculpa por tornar voce\nresponsavel por salvar toda a ilha.
+
+[565|off=0x13ece|chars=64]
+Vita: Este verao parece que vai\nser mais quente que o normal.
+
+[566|off=0x13f5a|chars=94]
+Vita: O calor parece estar\nafetando a gata do doutor.\nEla nao parece estar bem.
+
+[567|off=0x14022|chars=97]
+Dr. Hope: A proposito, ouviu sobre\no acidente no canteiro\nde obras de Marco?
+
+[568|off=0x140f0|chars=83]
+Dr. Hope: Aparentemente um refrigerante\nvazou na gruta e\nespalhou gases...
+
+[569|off=0x141a2|chars=107]
+Dr. Hope: Felizmente ninguem se machucou,\nmas provavelmente seria bom\nevitar a gruta por enquanto.
+
+[570|off=0x14284|chars=76]
+Vita: Apos o acidente ontem,\nSr. Gallion veio falar\ncom o doutor.
+
+[571|off=0x14328|chars=61]
+Vita: Queria saber o que\nfazer sobre aqueles gases.
+
+[572|off=0x143ae|chars=60]
+Vita: O doutor sugeriu cultivar\nervas na gruta...
+
+[573|off=0x14432|chars=81]
+Vita: Mas ninguem consegue se\naproximar da gruta\ndevido aos gases.
+
+[574|off=0x144e0|chars=81]
+Vita: Se quiser ajudar,\ntalvez deva falar\ncom o Sr. Gallion.
+
+[575|off=0x1458e|chars=76]
+Dr. Hope: Achei que minha gata\nestava doente, mas estava\ngravida!
+
+[576|off=0x14632|chars=81]
+Dr. Hope: Esta ficando velha...\nEspero que ter filhotes\nnao seja demais pra ela.
+
+[577|off=0x146e0|chars=58]
+Vita: O verao ja acabou.\nO tempo certamente passa rapido.
+
+[578|off=0x14760|chars=69]
+Vita: No outono, colete\ncogumelos na Floresta\nde Cogumelos.
+
+[579|off=0x147f6|chars=38]
+Vita: Hm? A Floresta de\nCogumelos? Bem...
+
+[580|off=0x1484e|chars=108]
+Vita: Acho que da pra achar se\nir pelo leste pela floresta\nno nordeste das Ruinas do Leste.
+
+[581|off=0x14932|chars=49]
+Dr. Hope: Tenho boas e\nmas noticias,
+
+[582|off=0x14996|chars=4]
+P...
+
+[583|off=0x149aa|chars=67]
+Dr. Hope: A boa noticia e que\nminha gata finalmente teve filhotes.
+
+[584|off=0x14a3c|chars=77]
+Dr. Hope: E se quiser um, ficaria\nfeliz em dar um pra voce.
+
+[585|off=0x14ae2|chars=91]
+Dr. Hope: Vou dar o que nao escolher\na um parente que mora\nno exterior.
+
+[586|off=0x14ba4|chars=107]
+Dr. Hope: Entao nao se preocupe. O\nque nao escolher vai pra um lar\nbom. Escolha o que quiser.
+
+[587|off=0x14c86|chars=97]
+Dr. Hope: Os filhotes estao\nnaquela cesta ali. Pense bem\nantes de fazer sua escolha.
+
+[588|off=0x14d54|chars=37]
+Dr. Hope: E agora para a ma\nnoticia...
+
+[589|off=0x14daa|chars=25]
+Marcia: Doutor!\nDr. Hope!
+
+[590|off=0x14de8|chars=40]
+Marcia: E-e verdade que sua\ngata morreu?
+
+[591|off=0x14e44|chars=69]
+Dr. Hope: Sim, receio.\nGayak me ajudou\na enterra-la.
+
+[592|off=0x14eda|chars=24]
+Marcia: Oh...\nQue triste...
+
+[593|off=0x14f16|chars=106]
+Dr. Hope: Ela sempre foi fragil.\nSuponho que o esforco de parir\nfoi demais pra ela.
+
+[594|off=0x14ff6|chars=46]
+Dr. Hope: Venha ca, Marcia.\nPor que voce e
+
+[595|off=0x15054|chars=25]
+P\nnao vao a tumulo dela?
+
+[596|off=0x15092|chars=49]
+Marcia: Sim...\nEntendo, Dr. Hope.\nVamos la,
+
+[597|off=0x150f6|chars=4]
+P...
+
+[598|off=0x1510a|chars=49]
+Vita: Ja viu os filhotes?\nSao tao fofos.
+
+[599|off=0x15178|chars=52]
+Vita: E uma pena sobre a\ngata do doutor, porem...
+
+[600|off=0x151ec|chars=87]
+Dr. Hope: Vi Marcia saindo\ncorrendo ha pouco. E uma boa\nmenina. Tem um bom coracao.
+
+[601|off=0x152a6|chars=97]
+Dr. Hope: Decidiu qual filhote\nquer? Nao pode mudar\nde ideia depois de decidir.
+
+[602|off=0x15374|chars=62]
+Dr. Hope: Ah, escolheu um\nnome para seu gatinho?
+
+[603|off=0x153fc|chars=107]
+Dr. Hope: Certo entao. Vou pedir\na Moonlight que va esta noite\nlevar para sua fazenda enquanto dorme.
+
+[604|off=0x154de|chars=67]
+Dr. Hope: Ainda e pequeno, entao\ntera que cuidar bem dele.
+
+[605|off=0x1556c|chars=65]
+Cats: Miau miau miau miau\nMiau miau miau miau\nMiau miau miau miau
+
+[606|off=0x155f6|chars=65]
+Cats: Miau miau miau miau\nMiau miau miau miau\nMiau miau miau miau
+
+[607|off=0x15680|chars=31]
+Vai pegar\num filhote?
+
+[608|off=0x156c6|chars=27]
+Qual filhote vai levar?
+
+[609|off=0x15708|chars=93]
+Dr. Hope: Decidiu qual filhote\nquer? Nao pode mudar\nde ideia depois de decidir.
+
+[610|off=0x157ce|chars=118]
+Dr. Hope: Mas se nao decidir\nate sabado, receio que terei\nque da-los a outra pessoa.\nNao demore muito.
+
+[611|off=0x158c6|chars=62]
+Dr. Hope: Ah, escolheu um nome\npara seu gatinho?
+
+[612|off=0x1594e|chars=95]
+Dr. Hope: Certo entao. Esta noite\nMoonlight vai entregar\nna sua fazenda enquanto dorme.
+
+[613|off=0x15a18|chars=67]
+Dr. Hope: Ainda e pequeno, entao\ntera que cuidar bem dele.
+
+[614|off=0x15aaa|chars=106]
+Dr. Hope: A proposito, o Festival\nde Culinaria de Cogumelo\nvem ai. Outono e\ntemporada de cogumelos.
+
+[615|off=0x15b8a|chars=106]
+Dr. Hope: A proposito, o Festival\nde Culinaria de Cogumelo\nvem ai. Outono e\ntemporada de cogumelos.
+
+[616|off=0x15c6a|chars=63]
+Dr. Hope: Ouvi que Nana tem\nalgo que quer te perguntar.
+
+[617|off=0x15cf4|chars=63]
+Dr. Hope: Ouvi que Nana tem\nalgo que quer te perguntar.
+
+[618|off=0x15d7e|chars=46]
+Dr. Hope: E gostaria de adicionar\nalgumas opcoes a
+
+[619|off=0x15ddc|chars=28]
+R em breve, se\nnao se importar...
+
+[620|off=0x15e20|chars=46]
+Dr. Hope: E gostaria de adicionar\nalgumas opcoes a
+
+[621|off=0x15e7e|chars=28]
+R em breve, se\nnao se importar...
+
+[622|off=0x15ec2|chars=76]
+Dr. Hope: Mas seria util se\npudesse coletar um\npouco de Minerio Simples.
+
+[623|off=0x15f66|chars=76]
+Dr. Hope: Mas seria util se\npudesse coletar um\npouco de Minerio Simples.
+
+[624|off=0x1600a|chars=59]
+Dr. Hope: Veja bem, acho que\nlevaria aproximadamente:
+
+[625|off=0x1608c|chars=59]
+Dr. Hope: Veja bem, acho que\nlevaria aproximadamente:
+
+[626|off=0x1610e|chars=98]
+Dr. Hope: Se pudesse me trazer\no minerio quando vier pra\nmanutencao, vou adicionar.
+
+[627|off=0x161de|chars=98]
+Dr. Hope: Se pudesse me trazer\no minerio quando vier pra\nmanutencao, vou adicionar.
+
+[628|off=0x162ae|chars=20]
+Dr. Hope: Ah, ola
+
+[629|off=0x162d8|chars=35]
+P.\nTrouxe Minerio Simples?
+
+[630|off=0x1632a|chars=68]
+Dr. Hope: Certo. Vou pega-lo entao.\nVeja bem. Voce me deu\n
+
+[631|off=0x163b4|chars=31]
+K pecas de minerio ate\nagora...
+
+[632|off=0x163fe|chars=115]
+Dr. Hope: Certo. Pode me dar\ndepois. Voce vai precisar de\ntanto minerio para instalar as opcoes:
+
+[633|off=0x164f0|chars=102]
+Dr. Hope: Se pudesse me trazer\no minerio na manutencao,\nvou adicionar as opcoes.
+
+[634|off=0x165c8|chars=115]
+Dr. Hope: A opcao sera instalada\npela rede esta noite, entao\npoderas usa-la a partir de\namanha de manha.
+
+[635|off=0x166ba|chars=61]
+Dr. Hope: Otimo! Parece que\nconseguiu todas as opcoes,
+
+[636|off=0x1673e|chars=20]
+R deve estar feliz.
+
+[637|off=0x16772|chars=62]
+Dr. Hope: Tenho certeza que esta\nansioso para amanha de manha.
+
+[638|off=0x167fa|chars=101]
+Dr. Hope: A proposito, o Festival\nde Culinaria de Cogumelo vem ai.\nOutono e temporada de cogumelos.
+
+[639|off=0x168d0|chars=101]
+Dr. Hope: A proposito, o Festival\nde Culinaria de Cogumelo vem ai.\nOutono e temporada de cogumelos.
+
+[640|off=0x169a6|chars=62]
+Dr. Hope: Ouvi que Nana tem\nalgo que quer te perguntar.
+
+[641|off=0x16a2e|chars=62]
+Dr. Hope: Ouvi que Nana tem\nalgo que quer te perguntar.
+
+[642|off=0x16ab6|chars=49]
+Vita: Sabe o que e um\nRegador Monssao?
+
+[643|off=0x16b24|chars=98]
+Vita: Se enchido com Agua do\nEspirito, pode derreter a neve\nno chao e plantar la.
+
+[644|off=0x16bf4|chars=65]
+Vita: Pode obter Agua do Espirito\nna fonte fora do celeiro.
+
+[645|off=0x16c82|chars=70]
+Vita: Quer encher seu Regador\nMonssao com Agua do Espirito?
+
+[646|off=0x16d1a|chars=65]
+Vita: Pode obter Agua do Espirito\nna fonte fora do celeiro.
+
+[647|off=0x16da8|chars=83]
+Vita: Com sementes de bico-de-papagaio\nou couve, da pra plantar\nmesmo no inverno.
+
+[648|off=0x16e5a|chars=52]
+Dr. Hope: O Festival de Culinaria\ne semana que vem.
+
+[649|off=0x16ece|chars=81]
+Dr. Hope: Receio que nao poderei\nir, mas va e aproveite.
+
+[650|off=0x16f7c|chars=49]
+Vita: Sabe o que e um\nRegador Monssao?
+
+[651|off=0x16fea|chars=98]
+Vita: Se enchido com Agua do\nEspirito, pode derreter a neve\nno chao e plantar la.
+
+[652|off=0x170ba|chars=65]
+Vita: Pode obter Agua do Espirito\nna fonte fora do celeiro.
+
+[653|off=0x17148|chars=70]
+Vita: Quer encher seu Regador\nMonssao com Agua do Espirito?
+
+[654|off=0x171e0|chars=65]
+Vita: Pode obter Agua do Espirito\nna fonte fora do celeiro.
+
+[655|off=0x1726e|chars=83]
+Vita: Com sementes de bico-de-papagaio\nou couve, da pra plantar\nmesmo no invern.
+
+[656|off=0x17320|chars=90]
+Dr. Hope: Ah e verdade. O Festival\nde Culinaria foi hoje. Dorothy\nganhou, suponho.
+
+[657|off=0x173e0|chars=70]
+Dr. Hope: O que? Nana ganhou?\nE foi gracas aos seus\ncogumelos porcini?
+
+[658|off=0x17478|chars=90]
+Dr. Hope: Impressionante!\nNao culpo por ajudar Nana.\nEla e muito fofa, nao e?
+
+[659|off=0x17538|chars=50]
+Vita: O doutor nao tem\ncomido bem ultimamente.
+
+[660|off=0x175a8|chars=43]
+Vita: Nao acho que\nesta se sentindo bem.
+
+[661|off=0x1760a|chars=69]
+Vita: Espero que possa aplacar\na ira do Espirito do Fogo logo,\n
+
+[662|off=0x176a6|chars=103]
+Dr. Hope: O Festival de Culinaria\nterminou e agora estao falando\nda Festa de Natal.
+
+[663|off=0x17780|chars=81]
+Dr. Hope: Entendo que Dorothy\ntem algo que quer conversar\ncom voce.
+
+[664|off=0x1782e|chars=50]
+Vita: O doutor nao tem\ncomido bem ultimamente.
+
+[665|off=0x1789e|chars=43]
+Vita: Nao acho que\nesta se sentindo bem.
+
+[666|off=0x17900|chars=69]
+Vita: Espero que possa aplacar\na ira do Espirito do Fogo logo,
+
+[667|off=0x1799c|chars=35]
+Dr. Hope: O tempo certamente\nvoa,
+
+[668|off=0x179e4|chars=37]
+P. Ja chegou\nmais um inverno.
+
+[669|off=0x17a3a|chars=77]
+Dr. Hope: Mas nao me lembro\nde um ano mais\nfrutifero que este.
+
+[670|off=0x17ae0|chars=66]
+Dr. Hope: O que acha?\nEste ano foi bom\npara voce tambem?
+
+[671|off=0x17b70|chars=85]
+Dr. Hope: Que bom. Continue\nassim ate o Espirito do\nFogo ser aplacado.
+
+[672|off=0x17c26|chars=58]
+Dr. Hope: Nao?\nEsta preocupado ou\nconfuso com algo?
+
+[673|off=0x17ca6|chars=75]
+Dr. Hope: Ja conheceu os Espiritos\nda Natureza na Grande Floresta\nao norte?
+
+[674|off=0x17d48|chars=105]
+Dr. Hope: Otimo! Entao nao precisa\nficar confuso. So precisa\nplantar bastante bico-de-papagaio.
+
+[675|off=0x17e26|chars=109]
+Dr. Hope: Ainda nao os conheceu?!\nMas conheceu a sereia e mostrou\no Brasao do Espirito da Floresta, nao?
+
+[676|off=0x17f0c|chars=30]
+Dr. Hope: Ainda ha tempo,\n
+
+[677|off=0x17f4a|chars=51]
+P. O destino desta\nilha repousa em seus ombros.
+
+[678|off=0x17fbc|chars=102]
+Dr. Hope: Nao me diga que nem\nmostrou o Brasao do Espirito\nda Agua ao ermitao do Lago Sereia?
+
+[679|off=0x18094|chars=22]
+Vita: Ja ouviu,
+
+[680|off=0x180d2|chars=59]
+Vita: O Espirito da Natureza\nda Memoria tem uma lembranca.
+
+[681|off=0x18154|chars=73]
+Vita: E das plantas de\nbico-de-papagaio que crescem\nnas planices nevadas.
+
+[682|off=0x181f2|chars=74]
+Vita: Devem ter associado isso\nas festividades\nda epoca de Natal.
+
+[683|off=0x18292|chars=118]
+Dr. Hope: Nao gostei do calor\nno verao, mas quando fica\ntao frio, fico com saudade\ndo verao de novo.
+
+[684|off=0x1838a|chars=41]
+Dr. Hope: Acho que e da\nnatureza humana.
+
+[685|off=0x183e8|chars=22]
+Vita: Ja ouviu,
+
+[686|off=0x18426|chars=59]
+Vita: O Espirito da Natureza\nda Memoria tem uma lembranca.
+
+[687|off=0x184a8|chars=73]
+Vita: E das plantas de\nbico-de-papagaio que crescem\nnas planices nevadas.
+
+[688|off=0x18546|chars=74]
+Vita: Devem ter associado isso\nas festividades\nda epoca de Natal.
+
+[689|off=0x185e6|chars=102]
+Dr. Hope: A Festa de Natal e\nsemana que vem. Todos na cidade\nvao ao Salao do Prefeito.
+
+[690|off=0x186be|chars=121]
+Dr. Hope: A festa sera na\nquarta-feira dia 24.\nEsse dia e diferente da sua\nmanutencao normal, nao esqueca.
+
+[691|off=0x187bc|chars=86]
+Vita: O doutor parece um pouco\nmelhor hoje, agora que\nconseguiu te ver, Mestre
+
+[692|off=0x1887a|chars=69]
+Vita: Espero que possa aplacar\na ira do Espirito do Fogo logo,\n
+
+[693|off=0x18916|chars=34]
+Dr. Hope: Hoje e um dia\nespecial,
+
+[694|off=0x1896c|chars=65]
+Dr. Hope: Por que pergunta?\nVoce nasceu exatamente\nnum ano atras.
+
+[695|off=0x189fa|chars=52]
+Dr. Hope: Nao disse?\nHoje e seu aniversario.
+
+[696|off=0x18a6e|chars=28]
+Dr. Hope: Hahaha!\nDesculpe.
+
+[697|off=0x18ab2|chars=93]
+Dr. Hope: Adicionei algo\nao seu corpo quando fiz\nseu exame agora ha pouco.
+
+[698|off=0x18b78|chars=73]
+Dr. Hope: Heheh. Mas nao posso\ndizer o que e ainda.\nE segredo.
+
+[699|off=0x18c16|chars=47]
+Dr. Hope: E um presentinho\nmeu para voce.
+
+[700|off=0x18c80|chars=82]
+Dr. Hope: Meu outro presente e\neste: O exame de hoje foi\no seu ultimo.
+
+[701|off=0x18d30|chars=86]
+Dr. Hope: Voce fez um otimo\ntrabalho vindo toda semana.\nNao deve ter sido facil.
+
+[702|off=0x18de8|chars=87]
+Dr. Hope: Este ano, voce se tornou\numa Vida Inocente confiavel,\ncomo eu esperava.
+
+[703|off=0x18ea2|chars=53]
+Dr. Hope: Esses exames\nnao sao mais necessarios.
+
+[704|off=0x18f18|chars=74]
+Dr. Hope: A partir de agora, pode\nviver como quiser.
+
+[705|off=0x18fb8|chars=60]
+Vita: Estou cuidando do doutor,\ncomo ele cuidou de voce,
+
+[706|off=0x19032|chars=25]
+P.\nNao se preocupe.
+
+[707|off=0x19070|chars=25]
+Vita: A proposito, Mestre
+
+[708|off=0x190b4|chars=81]
+Vita: Algumas ferramentas\nprecisam de SP alto.\nNao consegue equipar logo.
+
+[709|off=0x19162|chars=66]
+Vita: Em geral, e bom usar\numa grande variedade de ferramentas.
+
+[710|off=0x191f2|chars=25]
+Vita: A proposito, Mestre
+
+[711|off=0x19236|chars=104]
+Vita: As vezes encontra recursos\nquando quebra pedras com martelo\nou corta madeira com machado.
+
+[712|off=0x19312|chars=80]
+Vita: Pode enviar esses recursos\nusando o pod azul, entao\nnao os descarte.
+
+[713|off=0x193be|chars=25]
+Vita: A proposito, Mestre
+
+[714|off=0x19402|chars=108]
+Vita: Ja tentou usar o martelo\nna gruta? Quebre pedras\ne talvez encontre um\nPedaco de Pedra do Espirito.
+
+[715|off=0x194e6|chars=25]
+Vita: A proposito, Mestre
+
+[716|off=0x1952a|chars=92]
+Vita: Ja tentou colocar uma\nPedra do Espirito em um dos\naltares de pedra na fazenda?
+
+[717|off=0x195ee|chars=97]
+Vita: Tente colocar joias da\nmesma cor nos quatro cantos\ndo altar e veja o que acontece.
+
+[718|off=0x196ba|chars=43]
+R esta esperando!\nTalvez deva falar com ele
+
+[719|off=0x1971a|chars=43]
+R esta esperando!\nTalvez deva falar com ele
+
+[720|off=0x19778|chars=60]
+Ouviu uma voz que parece\na de Max em algum lugar...
+
+[721|off=0x197fc|chars=34]
+Dr. Hope: Me da o\nminerio entao?
+
+[722|off=0x19848|chars=28]
+Seu Nivel Humano\naumentou!
+
+[723|off=0x19888|chars=66]
+Suas atividades do dia\nanterior aumentaram seu\nNivel Humano!
+
+[724|off=0x19914|chars=59]
+Quer ir dormir e\ndescansar pelo resto do dia?
+
+[725|off=0x19992|chars=58]
+Quer acordar mais cedo\nque o normal amanha de manha?
+
+[726|off=0x19a0e|chars=58]
+Quer acordar mais cedo\nque o normal amanha de manha?
+
+[727|off=0x19a8a|chars=36]
+Quer dormir aqui hoje?
+
+[728|off=0x19ada|chars=76]
+Entao quer usar a funcao de\nteleporte da barraca para\nvoltar ao seu quarto?
+
+[729|off=0x19b7a|chars=44]
+Este e um guarda-roupa\nde aparencia cara...
+
+[730|off=0x19bda|chars=31]
+Ha pratos enfileirados aqui.
+
+[731|off=0x19c20|chars=27]
+Voce tenta lavar as maos.
+
+[732|off=0x19c5e|chars=30]
+Esta pia e facil de usar.
+
+[733|off=0x19ca2|chars=25]
+Suas maos estao limpas.
+
+[734|off=0x19cdc|chars=24]
+Mas nao havia sabao...
+
+[735|off=0x19d14|chars=40]
+A pressao da agua\num pouco baixa...
+
+[736|off=0x19d6c|chars=48]
+Ficou surpreso de ver\nsuas maos tao sujas.
+
+[737|off=0x19dd4|chars=43]
+Ha agua espirrada por toda\na area da pia!
+
+[738|off=0x19e32|chars=24]
+Voce limpa a area.
+
+[739|off=0x19e6a|chars=26]
+Saiu agua morna...
+
+[740|off=0x19ea6|chars=49]
+O ralo nao parece estar\nfuncionando muito bem...
+
+[741|off=0x19f10|chars=41]
+Saiu agua quente com\nforca incrivel!
+
+[742|off=0x19f6a|chars=44]
+Um cheiro agradavel\nvem do sabao aqui...
+
+[743|off=0x19fca|chars=55]
+Voce tenta lavar o rosto.\nSente-se um pouco refrescado.
+
+[744|off=0x1a040|chars=42]
+Ha muitas coisas\nnas prateleiras...
+
+[745|off=0x1a09c|chars=19]
+Ha vinho aqui.
+
+[746|off=0x1a0ca|chars=23]
+Voce olha o vaso.
+
+[747|off=0x1a100|chars=32]
+Parece ter sido\ndescarregado...
+
+[748|off=0x1a148|chars=21]
+Esta brilhando!
+
+[749|off=0x1a17a|chars=28]
+Voce aperta "Descarreg."
+
+[750|off=0x1a1ba|chars=30]
+Ha um bilhete no vaso.
+
+[751|off=0x1a1fe|chars=20]
+"Mantenha limpo!"
+
+[752|off=0x1a22e|chars=70]
+Parece ter um assento que\nlevanta e abaixa\nautomaticamente.
+
+[753|off=0x1a2c2|chars=68]
+Ha um adesivo da Corporacao\nBanks no lado do assento\ndo vaso.
+
+[754|off=0x1a352|chars=53]
+O aroma de oleo flutuando\nao redor do vaso...
+
+[755|off=0x1a3c4|chars=29]
+E uma banheira automatica.
+
+[756|off=0x1a406|chars=62]
+Voce abriu a gaveta.\nHa muitas coisas\ndiferentes dentro.
+
+[757|off=0x1a48a|chars=64]
+Este e um guarda-roupa.\nNao ha nada incomum\ndentro.
+
+[758|off=0x1a512|chars=38]
+Ha muitos livros\nna estante.
+
+[759|off=0x1a566|chars=45]
+Mas nao ha razao para\nvoce le-los...
+
+[760|off=0x1a5c8|chars=26]
+Voce abre a geladeira.
+
+[761|off=0x1a604|chars=65]
+Mas a fecha logo\npara nao estragar os alimentos.
+
+[762|off=0x1a68e|chars=75]
+"Serpente Arco-iris"\n  Leva pela floresta\nou a tentacao?
+
+[763|off=0x1a72c|chars=86]
+"Arvores Sussurrantes"\n  Vozes distantes. Vozes proximas.\nEcos do ceu. Som do lago.
+
+[764|off=0x1a7e0|chars=63]
+"Lua do Deserto"\n  As estrelas viram areia\ne voltam a terra.
+
+[765|off=0x1a866|chars=50]
+"Valsa"\n  Visitantes do mar. Gira gira\ngira...
+
+[766|off=0x1a8d2|chars=71]
+"Constelacao do Sul"\n  Veja o Centauro. Escultura\ne pintura.
+
+[767|off=0x1a968|chars=39]
+"Aqui e Ali"\n  Onde na terra estou?
+
+[768|off=0x1a9be|chars=39]
+"Em Frente: Caverna Sul\nde Heartflame"
+
+[769|off=0x1aa14|chars=30]
+"Em Frente: Ruinas do Leste"
+
+[770|off=0x1aa58|chars=45]
+"Em Frente: Margem Sudeste\ndo Lago Leste"
+
+[771|off=0x1aaba|chars=23]
+"Leste: Fl. Cogumelo"
+
+[772|off=0x1aaf0|chars=45]
+"Em Frente: Margem Sudoeste\ndo Lago Leste"
+
+[773|off=0x1ab52|chars=37]
+"Perigo! Arvores Caidas.\nNao Entrar."
+
+[774|off=0x1aba4|chars=25]
+"Leste: Heartflame Des."
+
+[775|off=0x1abde|chars=18]
+"Dunas Heartflame"
+
+[776|off=0x1ac0a|chars=26]
+"Norte: Heartflame Pl."
+
+[777|off=0x1ac46|chars=19]
+"Pl. Heartflame"
+
+[778|off=0x1ac74|chars=32]
+"Margem Sudeste do Lago Sereia"
+
+[779|off=0x1acbc|chars=14]
+"Lago Sereia"
+
+[780|off=0x1ace0|chars=24]
+"Sul: Floresta Cogumelo"
+
+[781|off=0x1ad18|chars=32]
+"Margem Sudoeste do Lago Sereia"
+
+[782|off=0x1ad60|chars=11]
+"Lago L."
+
+[783|off=0x1ad7e|chars=54]
+Encontrei uma grade de TV\npresa em revistas molhadas.
+
+[784|off=0x1adf2|chars=73]
+Seg. Qua. Sex.\n"Onde esta Mamae? Viagem de um Gatinho"\n"Final Z Rangers,"
+
+[785|off=0x1ae8c|chars=70]
+Ter. Qui. "Bosque Melancolico,"\nSab&Dom. "Srta. Fofinha, Bruxa,"
+
+[786|off=0x1af22|chars=28]
+Como jogar com Trilhos,
+
+[787|off=0x1af5c|chars=7]
+ ~Tril.
+
+[788|off=0x1af72|chars=57]
+Primeiro, coloque trilhos e\nprepare as condicoes de uso.
+
+[789|off=0x1afec|chars=113]
+Pode deixar o trem circular,\nou ir e voltar entre dois pontos.\nOnde ha trilho, ha caminho.
+
+[790|off=0x1b0da|chars=28]
+Como jogar com Trilhos,
+
+[791|off=0x1b114|chars=8]
+ ~Motor
+
+[792|off=0x1b12c|chars=102]
+Motores funcionam como locomotivas.\nSe os colocar em trilhos,\npode mover carros acoplados.
+
+[793|off=0x1b200|chars=96]
+Pode controlar o motor pelo\nMenu de Comandos, ou controlando\ndiretamente no monitor com o
+
+[794|off=0x1b2c2|chars=8]
+ botao.
+
+[795|off=0x1b2da|chars=38]
+"Como jogar com Trilhos," ~ Carros
+
+[796|off=0x1b32e|chars=118]
+Carros funcionam como vagoes de\ncarga e passageiros. Com Motores,\npode deixa-los correr com carga.
+
+[797|off=0x1b422|chars=62]
+Pode ser motorista\nse operar Motores\nenquanto em um Carro.
+
+[798|off=0x1b4a6|chars=40]
+"Como jogar com Trilhos," ~Envio
+
+[799|off=0x1b4fe|chars=95]
+Se comprar Unidades Auto, serao\ncolocadas automaticamente entre\ndois Bins de Envio na Fazenda.
+
+[800|off=0x1b5c4|chars=120]
+Coloque Trilhos passando pelo quadrado\nna frente da Unidade Auto. Os Itens\nno Carro serao enviados. E conveniente.
+
+[801|off=0x1b6be|chars=22]
+Fisiocracia e Magia,
+
+[802|off=0x1b6ec|chars=21]
+\n~ou "Livro Espirito"
+
+[803|off=0x1b71e|chars=69]
+Se regar com Agua Sagrada\ncom um Regador Mistico,\npode derreter neve.
+
+[804|off=0x1b7b0|chars=75]
+So pode usar o Regador Mistico\nse trabalhou muito\nna Fazenda...
+
+[805|off=0x1b84e|chars=59]
+E um livro de contos de fadas\npara educacao infantil.
+
+[806|off=0x1b8cc|chars=91]
+Fiz uma pausa numa pagina\ncom ilustracao de um boneco\nde madeira engolido por baleia...
+
+[807|off=0x1b98a|chars=28]
+Coracao aperta...\nPor que?
+
+[808|off=0x1b9ca|chars=44]
+E um Livro Haiku\nescrito por Principle Rose.
+
+[809|off=0x1ba2a|chars=68]
+Ha mais Haikus sobre amor\ndo que paisagem ou vida cotidiana...
+
+[810|off=0x1baba|chars=69]
+E como ler o diario de outra\npessoa. Me sinto um pouco\nculpado...
+
+[811|off=0x1bb4e|chars=30]
+Conto do Cavaleiro do Amor,
+
+[812|off=0x1bb8c|chars=7]
+ Vol. 1
+
+[813|off=0x1bba2|chars=63]
+Cavaleiro: T-t-tome este arco!\nPrincesa: ... sou eu quem quer?
+
+[814|off=0x1bc28|chars=108]
+Nao houve mais hesitacao.\nEle tomou coragem e deu um presente.\nO por do sol deixou as bochechas vermelhas...
+
+[815|off=0x1bd0a|chars=30]
+Conto do Cavaleiro do Amor,
+
+[816|off=0x1bd48|chars=7]
+ Vol. 2
+
+[817|off=0x1bd5e|chars=73]
+Princesa: Tambem tenho algo pra\nvoce, Cavaleiro: Is-isso e... um broche!?
+
+[818|off=0x1bdf8|chars=106]
+Eles se apaixonaram.\nEstavam cerca de 100 pixels mais perto\nquando a escuridao os cobriu.
+
+[819|off=0x1bed8|chars=30]
+Dr. Hope: Muito bem. Precisa
+
+[820|off=0x1bf16|chars=57]
+K\npecas para o upgrade "Carry".\nEntao busque mais
+
+[821|off=0x1bf8a|chars=7]
+L pcs.
+
+[822|off=0x1bfa4|chars=30]
+Dr. Hope: Muito bem. Precisa
+
+[823|off=0x1bfe2|chars=57]
+K\npecas para o upgrade "Quick".\nEntao busque mais
+
+[824|off=0x1c056|chars=7]
+L pcs.
+
+[825|off=0x1c070|chars=30]
+Dr. Hope: Muito bem. Precisa
+
+[826|off=0x1c0ae|chars=57]
+K\npecas para o upgrade "Power".\nEntao busque mais
+
+[827|off=0x1c122|chars=7]
+L pcs.
+
+[828|off=0x1c13c|chars=30]
+Dr. Hope: Muito bem. Precisa
+
+[829|off=0x1c17a|chars=58]
+K\npecas para o upgrade "Charge".\nEntao busque mais
+
+[830|off=0x1c1f0|chars=7]
+L pcs.
+
+[831|off=0x1c20a|chars=47]
+Dr. Hope: OK. Vou instalar o\nupgrade "Carry"!
+
+[832|off=0x1c274|chars=47]
+Dr. Hope: OK. Vou instalar o\nupgrade "Quick"!
+
+[833|off=0x1c2de|chars=47]
+Dr. Hope: OK. Vou instalar o\nupgrade "Power"!
+
+[834|off=0x1c348|chars=48]
+Dr. Hope: OK. Vou instalar o\nupgrade "Charge"!
+
+[835|off=0x1c3b8|chars=19]
+K pecas\nQuick:
+
+[836|off=0x1c3e0|chars=18]
+L pecas\nPower:
+
+[837|off=0x1c406|chars=18]
+M pecas\nCharge:
+
+[838|off=0x1c42c|chars=8]
+N pecas
+
+[839|off=0x1c44c|chars=18]
+K pecas\nPower:
+
+[840|off=0x1c472|chars=18]
+L pecas\nCharge:
+
+[841|off=0x1c498|chars=8]
+M pecas
+
+[842|off=0x1c4b6|chars=18]
+K pecas\nCharge:
+
+[843|off=0x1c4dc|chars=8]
+L pecas
+
+[844|off=0x1c4f8|chars=8]
+K pecas
+
+[845|off=0x1c510|chars=6]
+Sim\nNao
+
+[846|off=0x1c524|chars=6]
+Sim\nNao
+
+[847|off=0x1c538|chars=6]
+Sim\nNao
+
+[848|off=0x1c54c|chars=6]
+Sim\nNao
+
+[849|off=0x1c560|chars=6]
+Sim\nNao
+
+[850|off=0x1c574|chars=6]
+Sim\nNao
+
+[851|off=0x1c588|chars=6]
+Sim\nNao
+
+[852|off=0x1c59c|chars=6]
+Sim\nNao
+
+[853|off=0x1c5b0|chars=6]
+Sim\nNao
+
+[854|off=0x1c5c4|chars=6]
+Sim\nNao
+
+[855|off=0x1c5d8|chars=6]
+Sim\nNao
+
+[856|off=0x1c5ec|chars=6]
+Sim\nNao
+
+[857|off=0x1c600|chars=6]
+Sim\nNao
+
+[858|off=0x1c614|chars=6]
+Sim\nNao
+
+[859|off=0x1c628|chars=6]
+Sim\nNao
+
+[860|off=0x1c63c|chars=6]
+Sim\nNao
+
+[861|off=0x1c650|chars=6]
+Sim\nNao
+
+[862|off=0x1c664|chars=6]
+Sim\nNao
+
+[863|off=0x1c678|chars=6]
+Sim\nNao
+
+[864|off=0x1c68c|chars=6]
+Sim\nNao
+
+[865|off=0x1c6a0|chars=6]
+Sim\nNao
+
+[866|off=0x1c6b4|chars=6]
+Sim\nNao
+
+[867|off=0x1c6c8|chars=6]
+Sim\nNao
+
+[868|off=0x1c6dc|chars=6]
+Sim\nNao
+
+[869|off=0x1c6f0|chars=6]
+Sim\nNao
+
+[870|off=0x1c704|chars=6]
+Sim\nNao
+
+[871|off=0x1c718|chars=6]
+Sim\nNao
+
+[872|off=0x1c72c|chars=6]
+Sim\nNao
+
+[873|off=0x1c740|chars=6]
+Sim\nNao
+
+[874|off=0x1c756|chars=39]
+Formulario de Registro\nde Volcano Town
+
+[875|off=0x1c7a8|chars=7]
+<\nNome:
+
+[876|off=0x1c7c2|chars=7]
+P Grain
+
+[877|off=0x1c7de|chars=39]
+Formulario de Registro\nde Volcano Town
+
+[878|off=0x1c832|chars=7]
+\nTipo:
+
+[879|off=0x1c848|chars=5]
+Masc
+
+[880|off=0x1c856|chars=7]
+Fem
+
+[881|off=0x1c868|chars=4]
+Cao
+
+[882|off=0x1c874|chars=4]
+Gato
+
+[883|off=0x1c880|chars=6]
+Robo
+
+[884|off=0x1c890|chars=5]
+Outro
+
+[885|off=0x1c8a8|chars=39]
+Formulario de Registro\nde Volcano Town
+
+[886|off=0x1c8f8|chars=7]
+\nTipo:
+
+[887|off=0x1c90e|chars=5]
+Robo
+
+[888|off=0x1c926|chars=39]
+Formulario de Registro\nde Volcano Town
+
+[889|off=0x1c976|chars=7]
+\nTipo:
+
+[890|off=0x1c98c|chars=4]
+Masc
+
+[891|off=0x1c99c|chars=57]
+Salvar e dormir.\nDormir sem salvar.\nCancelar.
+
+[892|off=0x1ca1a|chars=21]
+Desafio aumentou!\n
+
+[893|off=0x1ca5a|chars=21]
+Desafio aumentou!\n
+
+[894|off=0x1cad0|chars=16]
+Amor aumentou!\n
+
+[895|off=0x1cb16|chars=24]
+Inteligencia aumentou!\n
+
+[896|off=0x1cb52|chars=19]
+Cozinha aumentou!\n
+
+[897|off=0x1cb94|chars=22]
+Criatividade subiu!\n
+
+[898|off=0x1cbcc|chars=17]
+Humor aumentou!\n
+
+[899|off=0x1cbcc|chars=4]
+Life
+
+[900|off=0x1cbdc|chars=5]
+Forte
+
+[901|off=0x1cbee|chars=7]
+Chocobi
+
+[902|off=0x1cc04|chars=5]
+Cocoa
+
+[903|off=0x1cc16|chars=4]
+Yogi
+
+[904|off=0x1cc26|chars=5]
+Vaca1
+
+[905|off=0x1cc38|chars=5]
+Vaca2
+
+[906|off=0x1cc4a|chars=5]
+Vaca3
+
+[907|off=0x1cc5c|chars=5]
+Vaca4
+
+[908|off=0x1cc6e|chars=5]
+Vaca5
+
+[909|off=0x1cc80|chars=7]
+Ovelha1
+
+[910|off=0x1cc96|chars=7]
+Ovelha2
+
+[911|off=0x1ccac|chars=7]
+Ovelha3
+
+[912|off=0x1ccc2|chars=7]
+Ovelha4
+
+[913|off=0x1ccd8|chars=7]
+Ovelha5
+
+[914|off=0x1ccee|chars=9]
+Galinha 1
+
+[915|off=0x1cd08|chars=9]
+Galinha 2
+
+[916|off=0x1cd22|chars=9]
+Galinha 3
+
+[917|off=0x1cd3c|chars=9]
+Galinha 4
+
+[918|off=0x1cd56|chars=9]
+Galinha 5
+
+[919|off=0x1cd70|chars=4]
+Yogi
+
+[920|off=0x1cd80|chars=62]
+O gato marrom da esquerda.\nO gato branco da direita.\nCancelar.
+
+[921|off=0x1ce04|chars=47]
+Decidiu pelo\ngato marrom da esquerda?
+
+[922|off=0x1ce6a|chars=53]
+Pense num nome para\no gato marrom da esquerda.
+
+[923|off=0x1cedc|chars=36]
+Voce nomeou o gato\nmarrom esquerdo
+
+[924|off=0x1cf32|chars=48]
+Decidiu pelo\ngato branco da direita?
+
+[925|off=0x1cf9a|chars=54]
+Pense num nome para\no gato branco da direita.
+
+[926|off=0x1d00e|chars=37]
+Voce nomeou o gato branco\nda direita
+
+[927|off=0x1d06a|chars=36]
+Gayak: Entao tudo bem. Cuide\nbem de
+
+[928|off=0x1d0c0|chars=58]
+Ainda nao foi ao Dr. Hope\npara sua manutencao hoje!
+

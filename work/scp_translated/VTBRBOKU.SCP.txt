@@ -1,0 +1,398 @@
+# VTBRBOKU.SCP - 131 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x4ce|chars=56]
+Franco: Entao voce finalmente\ncriou animais, hein?      
+
+[1|off=0x54a|chars=109]
+Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?            
+
+[2|off=0x630|chars=112]
+Franco: Hoje tudo na fazenda\ne automatizado. Mas usar robos\nera uma ideia bem revolucionaria.                   
+
+[3|off=0x71c|chars=61]
+Franco: Ouvi que la fora\nainda os usam bastante.             
+
+[4|off=0x7a2|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnestas ruinas!    
+
+[5|off=0x842|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar\nestas terras e a natureza!            
+
+[6|off=0x902|chars=72]
+Franco: Uau!\nVoce tem muita sorte!\nGanhou um buggy assim de presente!   
+
+[7|off=0x99e|chars=89]
+Franco: Se eu tivesse um buggy,\nlevaria a Rose num passeio\ninesquecivel!                 
+
+[8|off=0xa5c|chars=11]
+Moonlight: 
+
+[9|off=0xa74|chars=52]
+P! Que belo presente\ndo Dr. Hope voce ganhou.       
+
+[10|off=0xae8|chars=63]
+Moonlight: Com buggy assim\nvoce pode ir a quase qualquer lugar!
+
+[11|off=0xb72|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.  
+
+[12|off=0xbf6|chars=73]
+Franco: Quando era jovem, todo mundo\nlevava seus pares a aquela caverna. 
+
+[13|off=0xc94|chars=11]
+Moonlight: 
+
+[14|off=0xcac|chars=57]
+P!\nOuvi que tiveram problemas na\ncaverna de Volcano Town.
+
+[15|off=0xd2a|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar ao\nestado original disso.
+
+[16|off=0xdd0|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.  
+
+[17|off=0xe3e|chars=120]
+Franco: Se mandar bastante ate a\nvespera do Natal, podem\nusar para decorar a cidade toda.                               
+
+[18|off=0xf3a|chars=21]
+Franco: Que animacao!
+
+[19|off=0xf70|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...  
+
+[20|off=0xfce|chars=96]
+Franco: Sei que esta preocupado,\nmas voce tem um trabalho\nimportante a terminar.                
+
+[21|off=0x109a|chars=89]
+Franco: Tenho certeza que a\nmelhor coisa pro Dr. Hope agora\ne ver o quanto voce trabalha.
+
+[22|off=0x1158|chars=52]
+Moonlight: Nao sabia que\nDr. Hope estava doente...  
+
+[23|off=0x11cc|chars=86]
+Moonlight: Imagino que por isso\nele corria tanto para terminar\no trabalho com voce... 
+
+[24|off=0x1284|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[25|off=0x12da|chars=12]
+P. Eu tambem
+
+[26|off=0x12fe|chars=31]
+Franco: Era um bom amigo...    
+
+[27|off=0x1348|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!      
+
+[28|off=0x13b4|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do\nque aparece!           
+
+[29|off=0x1454|chars=91]
+Moonlight: O que tento dizer e...\nTenho certeza que o Dr. Hope\nestara olhando por voce,    
+
+[30|off=0x151c|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?         
+
+[31|off=0x15a4|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[32|off=0x1672|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[33|off=0x16f8|chars=43]
+Franco: Um alien mora\nno novo quarto?      
+
+[34|off=0x175a|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[35|off=0x1828|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[36|off=0x18ae|chars=11]
+Moonlight: 
+
+[37|off=0x18c6|chars=76]
+P!\nVi uma coisa estranha parecida\ncom bicho de pelucia no novo quarto.      
+
+[38|off=0x196a|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!    
+
+[39|off=0x19dc|chars=35]
+*: Hm? Quem e voce?\nAh, voce e     
+
+[40|off=0x1a24|chars=9]
+P, certo?
+
+[41|off=0x1a42|chars=61]
+Jonathan: Sou Jonathan Branch.\nCuido da fazenda la no morro. 
+
+[42|off=0x1ac8|chars=99]
+Jonathan: Ja ouvi sobre voce.\nImpressioante! Cultivando\nnas Ruinas por conta propria!              
+
+[43|off=0x1b9a|chars=102]
+Jonathan: Se quiser criar animais\num dia, venha me ver.\nPosso ensinar muito.                          
+
+[44|off=0x1c72|chars=111]
+Jonathan: Nossa fazenda e\ntotalmente automatizada,\nentao quase nao fazemos nada...                             
+
+[45|off=0x1d5c|chars=97]
+Jonathan: Mas acho que criar\nanimais nos lembra do nosso\nlugar na natureza.                      
+
+[46|off=0x1e2a|chars=54]
+Jonathan: Temos responsabilidade\nem trata-los bem.    
+
+[47|off=0x1ea2|chars=36]
+*: Hm? Quem e voce?\nAh, voce e      
+
+[48|off=0x1eec|chars=9]
+P, certo?
+
+[49|off=0x1f0a|chars=61]
+Jonathan: Sou Jonathan Branch.\nCuido da fazenda la no morro. 
+
+[50|off=0x1f90|chars=99]
+Jonathan: Ja ouvi sobre voce.\nImpressioante! Cultivando\nnas Ruinas por conta propria!              
+
+[51|off=0x2062|chars=102]
+Jonathan: Se quiser criar animais\num dia, venha me ver.\nPosso ensinar muito.                          
+
+[52|off=0x213a|chars=89]
+Jonathan: Quando as pessoas bebem,\nsempre voltam as mesmas\nconversas de sempre...        
+
+[53|off=0x21f8|chars=35]
+*: Hm? Quem e voce?\nAh, voce e     
+
+[54|off=0x2240|chars=9]
+P, certo?
+
+[55|off=0x225e|chars=75]
+Jonathan: Sou Jonathan Branch.\nCuido da fazenda e dos\nanimais aqui.        
+
+[56|off=0x2300|chars=99]
+Jonathan: Ja ouvi sobre voce.\nImpressioante! Cultivando\nnas Ruinas por conta propria!              
+
+[57|off=0x23d2|chars=102]
+Jonathan: Se quiser criar animais\num dia, venha me ver.\nPosso ensinar muito.                          
+
+[58|off=0x24aa|chars=77]
+Jonathan: A proposito,\no Festival da Prima\nesta quase chegando.              
+
+[59|off=0x2550|chars=102]
+Jonathan: Voce sempre vai a\ncasa do Dr. Hope, entao pode\npassar pelo festival tambem.                 
+
+[60|off=0x2628|chars=106]
+Jonathan: Claro, quem participa\nsao mais velhos, entao\nnao sera divertido pra crianca.                    
+
+[61|off=0x2708|chars=113]
+Jonathan: Muito impressionante.\nPensar que voce gere a fazenda\nnas Ruinas de Pascoa sozinho...                   
+
+[62|off=0x27f6|chars=102]
+Jonathan: Se quiser criar animais\num dia, venha me ver.\nPosso ensinar muito.                          
+
+[63|off=0x28ce|chars=67]
+Jonathan: Como estao seus animais?\nTenho certeza que vai bem.      
+
+[64|off=0x2960|chars=59]
+Jonathan: Ja viu os cavalos\nselvagens nas planuras?        
+
+[65|off=0x29e2|chars=100]
+Jonathan: Falo dos cavalos nas\nplanuras beira-mar, bem ao\nnorte do Lago Leste.                      
+
+[66|off=0x2ab6|chars=114]
+Jonathan: Se me lembro bem, um\ncara chamado Pescador sabe um\nassobio especial.                                    
+
+[67|off=0x2ba6|chars=17]
+*: Chomp chomp...
+
+[68|off=0x2bd4|chars=12]
+*: Mooooo...
+
+[69|off=0x2bf8|chars=10]
+*: Whinny.
+
+[70|off=0x2c18|chars=11]
+*: Moo moo.
+
+[71|off=0x2c3a|chars=19]
+*: Neigh...\nZzzz...
+
+[72|off=0x2c6c|chars=21]
+*: Moo moo...\nZzzz...
+
+[73|off=0x2ca2|chars=9]
+*: Neigh!
+
+[74|off=0x2cc0|chars=12]
+*: Mooooo...
+
+[75|off=0x2ce4|chars=11]
+*: Moo moo.
+
+[76|off=0x2d06|chars=9]
+*: Neigh!
+
+[77|off=0x2d24|chars=17]
+*: Chomp chomp...
+
+[78|off=0x2d52|chars=9]
+*: Neigh!
+
+[79|off=0x2d70|chars=86]
+Jonathan: Entao voce tem um celeiro?\nEntao te dou meu\nCluck-o-Matic!                  
+
+[80|off=0x2e28|chars=107]
+Jonathan: Iniciantes como voce\nrealmente precisam do\nCluck-o-Matic para as galinhas.                       
+
+[81|off=0x2f0a|chars=78]
+Jonathan: Ter uma galinha robo\npor perto ajuda a manter\nas outras em ordem.   
+
+[82|off=0x2fb2|chars=87]
+Jonathan: Mas nao usamos mais,\nentao vou mandar para sua\nfazenda amanha.               
+
+[83|off=0x306c|chars=100]
+Jonathan: Entao tem galinhas?\nVou te mandar\num Baabaa-matic!                                        
+
+[84|off=0x3140|chars=113]
+Jonathan: O que? Tem ovelhas?\nVai bem! Vou te mandar\nnosso Moo-o-Matic.                                          
+
+[85|off=0x322e|chars=66]
+Jonathan: Tentando me tirar\ndo negocio? Hahaha!                   
+
+[86|off=0x32be|chars=111]
+Jonathan: Nossa fazenda e\ntotalmente automatizada,\nentao quase nao fazemos nada...                             
+
+[87|off=0x33a8|chars=97]
+Jonathan: Mas acho que criar\nanimais nos lembra do nosso\nlugar na natureza.                      
+
+[88|off=0x3476|chars=54]
+Jonathan: Temos responsabilidade\nem trata-los bem.    
+
+[89|off=0x34ee|chars=6]
+Nana: 
+
+[90|off=0x34fc|chars=71]
+P! Voce veio na\nhora certa! Tenho algo\nque quero te pedir.             
+
+[91|off=0x3596|chars=109]
+Nana: Quero ganhar o Festival\nde Cogumelos este ano. Mas\nnao consigo com meus pratos...                      
+
+[92|off=0x367c|chars=111]
+Nana: Sera que poderia pegar\ncogumelos Porcini?\nDevem estar na epoca amanha.                                   
+
+[93|off=0x3766|chars=122]
+Nana: Vou te dar um\npresentinho se fizer isso!\nPonha na Bolsa e traga aqui.                                               
+
+[94|off=0x3866|chars=49]
+Nana: Vejamos... Acho que\n100g deve bastar.      
+
+[95|off=0x38d4|chars=6]
+Nana: 
+
+[96|off=0x38e2|chars=52]
+P! Voce trouxe\ncogumelos Porcini!\nObrigada!         
+
+[97|off=0x3956|chars=84]
+Nana: Vou pegar entao.\nAgora certeza que vou ganhar\no Concurso de Cogumelos.        
+
+[98|off=0x3a0a|chars=6]
+Nana: 
+
+[99|off=0x3a18|chars=41]
+P! Voce trouxe\ncogumelos Porcini!        
+
+[100|off=0x3a76|chars=81]
+Nana: Mas temo que nao seja\nsuficiente. Preciso de\numas 100g.                    
+
+[101|off=0x3b24|chars=114]
+Nana: Se nao fizer um Bife\nespecial, Dorothy vai vencer\no Concurso de Cogumelos.                                  
+
+[102|off=0x3c14|chars=114]
+Nana: Se nao fizer um Bife\nespecial, Dorothy vai vencer\no Concurso de Cogumelos.                                  
+
+[103|off=0x3d04|chars=53]
+Nana: Acho que ela cozinha\nmelhor que eu, no geral.  
+
+[104|off=0x3d7a|chars=53]
+Nana: Acho que ela cozinha\nmelhor que eu, no geral.  
+
+[105|off=0x3df0|chars=108]
+Jonathan: Sua esposa parece\nfacil de enganar por vendedores.\nVoce deve ter cuidado.                         
+
+[106|off=0x3ed4|chars=25]
+Jonathan: Zzzz... Zzzz...
+
+[107|off=0x3f12|chars=25]
+Jonathan: Zzzz... Zzzz...
+
+[108|off=0x3f50|chars=14]
+Jonathan: Oi  
+
+[109|off=0x3f6e|chars=62]
+P.\nTalvez nao queira automatizar\nsua fazenda, mas...          
+
+[110|off=0x3ff6|chars=50]
+Jonathan: Seria divertido\ntentar o Pod Rail!      
+
+[111|off=0x4066|chars=94]
+Jonathan: Uma vez acostumado,\npode por trilhos e brincar\ncomo trens em miniatura.             
+
+[112|off=0x412e|chars=123]
+Jonathan: Esta TV LCD de\naltissima resolucao e incrivel.\nSo a Banks Corporation.                                           
+
+[113|off=0x4230|chars=12]
+*: Gaga moo!
+
+[114|off=0x4254|chars=14]
+*: Gaga neigh!
+
+[115|off=0x427c|chars=12]
+*: Gaga moo!
+
+[116|off=0x42a0|chars=14]
+*: Gaga neigh!
+
+[117|off=0x42c8|chars=12]
+*: Gaga moo!
+
+[118|off=0x42ec|chars=16]
+*: Ga...neigh...
+
+[119|off=0x4318|chars=15]
+*: Moo... Ga...
+
+[120|off=0x4342|chars=14]
+*: Gaga neigh!
+
+[121|off=0x436a|chars=12]
+*: Gaga moo!
+
+[122|off=0x438e|chars=12]
+*: Gaga moo!
+
+[123|off=0x43b2|chars=14]
+*: Gaga neigh!
+
+[124|off=0x43da|chars=14]
+*: Gaga neigh!
+
+[125|off=0x4402|chars=14]
+*: Gaga neigh!
+
+[126|off=0x442a|chars=17]
+Jonathan: Gagaaa!
+
+[127|off=0x4458|chars=17]
+Jonathan: Gagaaa!
+
+[128|off=0x4486|chars=17]
+Jonathan: Gagaaa!
+
+[129|off=0x44b4|chars=25]
+Jonathan: Gaga... Zzzz...
+
+[130|off=0x44f2|chars=25]
+Jonathan: Gaga... Zzzz...

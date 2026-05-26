@@ -1,0 +1,2792 @@
+# VTHPF1.SCP - 929 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x1a4e|chars=17]
+Dr. Hope: Hello, 
+
+[1|off=0x1a72|chars=34]
+P.\nI'm glad I finally\nwoke you up.
+
+[2|off=0x1ac2|chars=78]
+Dr. Hope: My name is Hope Grain.\nFrom this day forward,\nI will be your father.
+
+[3|off=0x1b6a|chars=78]
+Dr. Hope: This is my laboratory.\nIt's on the south coast of\nHeartflame Island.
+
+[4|off=0x1c12|chars=73]
+Dr. Hope: I sent an image of the island\nto you a bit ago.\nDid you see it?
+
+[5|off=0x1cb0|chars=110]
+Dr. Hope: Good. As a new resident of the\nisland, there are a lot of things that\nyou're going to have to learn.
+
+[6|off=0x1d98|chars=79]
+Dr. Hope: First, you're going to try and\ngrow some vegetables on your\nown farm.
+
+[7|off=0x1e42|chars=79]
+Dr. Hope: First, you're going to try and\ngrow some vegetables on your\nown farm.
+
+[8|off=0x1eec|chars=89]
+Dr. Hope: In order for you to become\ntruly human, you'll have to\nlearn the value of life.
+
+[9|off=0x1faa|chars=89]
+Dr. Hope: In order for you to become\ntruly human, you'll have to\nlearn the value of life.
+
+[10|off=0x2068|chars=23]
+Dr. Hope: Come on out, 
+
+[11|off=0x2098|chars=34]
+P.\nYour journey is about to begin.
+
+[12|off=0x20e8|chars=23]
+Dr. Hope: Come on out, 
+
+[13|off=0x2118|chars=34]
+P.\nYour journey is about to begin.
+
+[14|off=0x2168|chars=23]
+*: Excuse me, Dr. Hope!
+
+[15|off=0x21a2|chars=29]
+Maid: Mr. Gayak is here, sir.
+
+[16|off=0x21e8|chars=38]
+Dr. Hope: Oh, is it that time already?
+
+[17|off=0x2240|chars=40]
+Dr. Hope: Your farming teacher is here,\n
+
+[18|off=0x2292|chars=16]
+P. Come with me.
+
+[19|off=0x22be|chars=81]
+Dr. Hope: Oh, I almost forgot.\nTo talk to people or examine\nsomething, press the 
+
+[20|off=0x2362|chars=8]
+ button.
+
+[21|off=0x237e|chars=81]
+Dr. Hope: Did you forget it already?\nAll right. Let me show you\nthe island again.
+
+[22|off=0x242c|chars=90]
+Dr. Hope: It's quite small. I'm sure\nyou could walk all the way\naround it in 3 days or so.
+
+[23|off=0x24ec|chars=104]
+Dr. Hope: As a new resident of the\nisland, there are a lot of things that\nyou're going to have to learn.
+
+[24|off=0x25c4|chars=87]
+Dr. Hope and the others are\nwaiting for you. You probably\nshouldn't go off on your own.
+
+[25|off=0x267e|chars=32]
+Maid: Um, can I call you\nMaster 
+
+[26|off=0x26c0|chars=32]
+P? I'm very\npleased to meet you.
+
+[27|off=0x270c|chars=93]
+Maid: Press the L1 button to see your\ninventory. Press the R1 button to\nbring up other menus.
+
+[28|off=0x27d2|chars=13]
+Maid: Master 
+
+[29|off=0x27ee|chars=90]
+P, press the\nL1 button to see your\ninventory.\nPress the R1 button to bring\nup other menus.
+
+[30|off=0x28ae|chars=19]
+Gayak: You must be 
+
+[31|off=0x28d6|chars=48]
+P!\nI've heard a lot about you!\nMy name is Gayak.
+
+[32|off=0x2942|chars=68]
+Gayak: Dr. Hope has asked me to\nteach you how to work in\nthe fields.
+
+[33|off=0x29d6|chars=93]
+Gayak: The soil here in Volcano\nTown isn't the best, so no one\nfarms by hand around here, but
+
+[34|off=0x2a9c|chars=101]
+Gayak: from what I hear, Dr. Hope\nbought a nice piece of land for you\non the east side of the island!
+
+[35|off=0x2b72|chars=48]
+Gayak: You've got quite a job ahead\nof you, son!
+
+[36|off=0x2bde|chars=24]
+Dr. Hope: What's wrong, 
+
+[37|off=0x2c10|chars=46]
+P?\nAren't you going to say hello\nto our guest?
+
+[38|off=0x2c78|chars=75]
+Dr. Hope: This is Gayak.\nHe's going to teach you how to\nwork in the fields.
+
+[39|off=0x2d1a|chars=111]
+Dr. Hope: As Gayak said, I\npurchased a plot of land called\nthe Easter Ruins\non the far east side of the\nisland.
+
+[40|off=0x2e04|chars=87]
+Dr. Hope: Long ago, that area was\nincredibly fertile -- the dream\nof any resident here.
+
+[41|off=0x2ebe|chars=104]
+Dr. Hope: But something happened to seal\noff most of the land and now only\na small part of it is usable.
+
+[42|off=0x2f9a|chars=71]
+Dr. Hope: That's one reason why I was\nable to buy it for you.\nHa ha ha.
+
+[43|off=0x3034|chars=20]
+Dr. Hope: Now then, 
+
+[44|off=0x305e|chars=75]
+P.\nI want you to have Gayak teach you how to\nfarm so you will be a success.
+
+[45|off=0x3100|chars=33]
+Dr. Hope: I'm sure you can do it.
+
+[46|off=0x314e|chars=67]
+Dr. Hope: Was I going too fast for you?\nAll right, let's try again.
+
+[47|off=0x31e0|chars=75]
+Gayak: All right then...\nI suppose we should get going\nbefore it gets dark.
+
+[48|off=0x3282|chars=17]
+Gayak: Dr. Hope, 
+
+[49|off=0x32a6|chars=83]
+P should be\ndone by tomorrow, but if he doesn't\ndo well, he'll have to do it again.
+
+[50|off=0x3358|chars=77]
+Gayak: But I'm sure any creation of\nyours will do just fine. All right\nthen, 
+
+[51|off=0x33f4|chars=12]
+P! Let's go!
+
+[52|off=0x3418|chars=62]
+Dr. Hope: Just a minute, Gayak!\nYou're as impatient as ever...
+
+[53|off=0x34a0|chars=33]
+Dr. Hope: I have to give this to\n
+
+[54|off=0x34e4|chars=18]
+P before you go...
+
+[55|off=0x3514|chars=74]
+Dr. Hope: Here is my old watering can.\nYou can use it to water your crops.
+
+[56|off=0x35b0|chars=39]
+You received the\nDoctor's Watering Can!
+
+[57|off=0x360a|chars=56]
+Dr. Hope: Gayak's house isn't far\nfrom here. Good luck, 
+
+[58|off=0x368c|chars=55]
+Gayak: So long, Dr. Hope!\nI'll bring him back tomorrow!
+
+[59|off=0x3706|chars=23]
+Maid: Oh, hello Master 
+
+[60|off=0x3736|chars=16]
+P.\nWelcome back.
+
+[61|off=0x3762|chars=42]
+Maid: And hello Mr. Gayak and\nMiss Marcia.
+
+[62|off=0x37c2|chars=33]
+Marcia: Hi Vita!\nWhere's the Doc?
+
+[63|off=0x3810|chars=94]
+Vita: The doctor is working at the\nmoment, but he will be here\nshortly. Please, come this way.
+
+[64|off=0x38d8|chars=39]
+Vita: Please help yourselves, everyone.
+
+[65|off=0x3932|chars=81]
+Vita: We haven't had a dinner this\nnice for many years. Isn't that\nright, Doctor?
+
+[66|off=0x39e0|chars=48]
+Dr. Hope: Yes....\nIt's been much too long, Vita.
+
+[67|off=0x3a4c|chars=10]
+Dr. Hope: 
+
+[68|off=0x3a62|chars=27]
+P will be leaving\ntomorrow.
+
+[69|off=0x3aa4|chars=80]
+Dr. Hope: This is a farewell party, so\nplease, everyone eat as much as\nyou like.
+
+[70|off=0x3b4c|chars=108]
+You had a pleasant dinner and by\nthe time Gayak and Marcia were ready\nto leave, it was already quite late...
+
+[71|off=0x3c30|chars=10]
+Dr. Hope: 
+
+[72|off=0x3c46|chars=92]
+P, I know you\nprobably don't understand everything that's\ngoing on, but please listen to me.
+
+[73|off=0x3d0a|chars=68]
+Dr. Hope: There is an incredible amount\nof knowledge in these books.
+
+[74|off=0x3d9e|chars=50]
+Dr. Hope: And that knowledge is also in\nyour head.
+
+[75|off=0x3e0e|chars=83]
+Dr. Hope: But all the knowledge in the\nworld won't help you understand some\nthings.
+
+[76|off=0x3ec0|chars=100]
+Dr. Hope: Perhaps the most difficult\nthings to understand are the human\nheart and the value of life.
+
+[77|off=0x3f94|chars=27]
+Dr. Hope: Don't you agree,\n
+
+[78|off=0x3fdc|chars=39]
+Dr. Hope: Yes, you're my son all right!
+
+[79|off=0x4036|chars=167]
+Dr. Hope: I'm sure after nurturing the\nplant and animal life on your farm,\nyou'll grow to understand this.\nAnd you'll eventually unlock\nthe seals in the ruins as well.
+
+[80|off=0x4190|chars=98]
+Dr. Hope: In any case, your new\nadventure begins tomorrow, after you\narrive at the Easter Ruins...
+
+[81|off=0x4260|chars=21]
+Dr. Hope: It's late, 
+
+[82|off=0x428c|chars=59]
+P.\nTry and get some rest until\nthey're ready for departure.
+
+[83|off=0x430a|chars=81]
+You fell asleep almost\nimmediately after Dr. Hope brought\nyou to the Shine Pod...
+
+[84|off=0x43b6|chars=92]
+and when you awoke the next day,\nyour abilities increased because\nof what you did yesterday!
+
+[85|off=0x447a|chars=46]
+Dr. Hope: I see. It's still difficult\nfor you.
+
+[86|off=0x44e2|chars=73]
+Dr. Hope: But if you can interact with\nmany kinds of life on your\nfarm...
+
+[87|off=0x4580|chars=76]
+Dr. Hope: I think you'll eventually come\nto understand what I said just now.
+
+[88|off=0x4624|chars=28]
+Vita: Are you awake?\nMaster 
+
+[89|off=0x465e|chars=13]
+P?\nIt's late.
+
+[90|off=0x4684|chars=55]
+Vita: The Doctor went out to the\ngarden just a bit ago.
+
+[91|off=0x46fe|chars=97]
+Vita: Your escort to the Easter Ruins\nhasn't arrived yet, so why don't you\ngo and see the Doctor?
+
+[92|off=0x47cc|chars=115]
+Vita: Oh, one more thing... The man\ncoming to get you is an artist\nand a little odd...\nBut don't let it bother you.
+
+[93|off=0x48be|chars=98]
+Vita: I think the Doctor went to the\ngrave of one of his relatives in\nthe west part of the garden.
+
+[94|off=0x498a|chars=76]
+This is your bed...\nBut you can't take a nap now.\nFranco is waiting for you.
+
+[95|off=0x4a2e|chars=33]
+Dr. Hope: Let's get started with\n
+
+[96|off=0x4a72|chars=16]
+P's maintenance.
+
+[97|off=0x4a9e|chars=112]
+Dr. Hope: This is your first maintenance\nsince you left for the Easter Ruins,\nso it might take a little while...
+
+[98|off=0x4b8a|chars=74]
+Dr. Hope: Just a minute...\nWhat's that robot you have\nwith you, Moonlight?
+
+[99|off=0x4c2a|chars=58]
+Moonlight: I brought it for you to have\na look at, Doctor.
+
+[100|off=0x4caa|chars=90]
+Moonlight: It was buried in the woods\nclose to the Easter Ruins. I think it's\na Battlebot.
+
+[101|off=0x4d6a|chars=85]
+Dr. Hope: Oh...\nI had no idea that there were any of\nthese things still in existence!
+
+[102|off=0x4e20|chars=59]
+Dr. Hope: Hmm... Yes, this will take\nsome time to repair...
+
+[103|off=0x4ea2|chars=59]
+Dr. Hope: Are you going to be staying\nthe night, Moonlight?
+
+[104|off=0x4f24|chars=73]
+Moonlight: No, Doctor.\nI'm afraid I have to be getting back\nto the ruins.
+
+[105|off=0x4fc2|chars=76]
+Moonlight: I woke up earlier than\nusual and I haven't quite recovered\nyet...
+
+[106|off=0x5066|chars=103]
+Dr. Hope: That's too bad. Well, the\nleast you can do is to let Vita\nmake you a little something to eat.
+
+[107|off=0x5140|chars=96]
+Moonlight: Oh! Vita is quite a culinary\nartist! I'd be happy to partake of\none of her creations!
+
+[108|off=0x520c|chars=37]
+Dr. Hope: Sorry to keep you waiting,\n
+
+[109|off=0x5268|chars=72]
+Dr. Hope: Did your first attempt at\nfarming in the Easter Ruins\ngo well?
+
+[110|off=0x5304|chars=66]
+Dr. Hope: I see. It looks as though\nthings are going well for you.
+
+[111|off=0x5394|chars=85]
+Dr. Hope: Let's just see how your body\nis doing. This will be your first\nmaintenance.
+
+[112|off=0x544a|chars=85]
+Dr. Hope: Let's just see how your body\nis doing. This will be your first\nmaintenance.
+
+[113|off=0x5500|chars=50]
+Dr. Hope: Now then, please get into the\nShine Pod.
+
+[114|off=0x5570|chars=50]
+Dr. Hope: Now then, please get into the\nShine Pod.
+
+[115|off=0x55e0|chars=38]
+Dr. Hope: So it's not going very well?
+
+[116|off=0x5638|chars=95]
+Dr. Hope: Well, just do your best.\nIf you have any problems, try asking\nFranco for some advice.
+
+[117|off=0x56fe|chars=77]
+As you step into the Shine Pod, you\ncan feel power surging through your\nbody.
+
+[118|off=0x57a0|chars=61]
+It's almost like you can feel Dr. Hope's\naffection for you...
+
+[119|off=0x5822|chars=90]
+Dr. Hope was able to use the data\nin your memory to see what things are\nlike on your farm.
+
+[120|off=0x58de|chars=81]
+The first maintenance took a long time\nand you eventually drifted off to\nsleep...
+
+[121|off=0x598c|chars=20]
+Dr. Hope: Now then, 
+
+[122|off=0x59b6|chars=50]
+P.\nVita is quite a cook, so please enjoy\nyourself.
+
+[123|off=0x5a26|chars=91]
+Dr. Hope: Oh, he's here already.\nVita, will you tell Million to wait just\na moment, please?
+
+[124|off=0x5ae8|chars=18]
+Vita: Yes, Doctor.
+
+[125|off=0x5b18|chars=55]
+Dr. Hope: You haven't seen Volcano Town\nyet, have you, 
+
+[126|off=0x5b98|chars=75]
+Dr. Hope: Well, Million has graciously\noffered to show you around the\ntown.
+
+[127|off=0x5c3a|chars=75]
+Dr. Hope: Million runs the supermarket\nhere in town. He's a fine young\nman.
+
+[128|off=0x5cdc|chars=57]
+Dr. Hope: Oh, and Marcia should be here\nwith him as well.
+
+[129|off=0x5d5a|chars=103]
+Dr. Hope: Since Moonlight can't be here\ntoday, Marcia said she would take\nyou back to the Easter Ruins.
+
+[130|off=0x5e34|chars=25]
+Dr. Hope: Take care, now.
+
+[131|off=0x5e72|chars=81]
+Dr. Hope: And don't forget to thank\nMillion and Marcia. Oh, and one\nmore thing...
+
+[132|off=0x5f20|chars=70]
+Dr. Hope: Don't forget to come here\nevery Sunday for your\nmaintenance.
+
+[133|off=0x5fb8|chars=79]
+Dr. Hope: The next time I see you, you\nwill have probably harvested\nmore crops.
+
+[134|off=0x6062|chars=55]
+Dr. Hope: I'm looking forward to seeing\nyour progress, 
+
+[135|off=0x60e2|chars=62]
+Vita: Miss Marcia and Mr. Million are\nwaiting outside for you.
+
+[136|off=0x616a|chars=31]
+Vita: Have a good time,\nMaster 
+
+[137|off=0x61ba|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[138|off=0x6236|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[139|off=0x631c|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[140|off=0x6408|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[141|off=0x648e|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[142|off=0x652e|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[143|off=0x65ee|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[144|off=0x668a|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[145|off=0x6748|chars=11]
+Moonlight: 
+
+[146|off=0x6760|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[147|off=0x67d4|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[148|off=0x685e|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[149|off=0x68e2|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[150|off=0x6980|chars=11]
+Moonlight: 
+
+[151|off=0x6998|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[152|off=0x6a16|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[153|off=0x6abc|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[154|off=0x6b2a|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[155|off=0x6c26|chars=21]
+Franco: I can't wait!
+
+[156|off=0x6c5c|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[157|off=0x6cba|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[158|off=0x6d86|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[159|off=0x6e44|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[160|off=0x6eb8|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[161|off=0x6f70|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[162|off=0x6fc6|chars=12]
+P. I am too.
+
+[163|off=0x6fea|chars=31]
+Franco: He was a good friend...
+
+[164|off=0x7034|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[165|off=0x70a0|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[166|off=0x7140|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[167|off=0x7208|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[168|off=0x7290|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[169|off=0x735e|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[170|off=0x73e4|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[171|off=0x7446|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[172|off=0x7514|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[173|off=0x759a|chars=11]
+Moonlight: 
+
+[174|off=0x75b2|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[175|off=0x7656|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[176|off=0x76c8|chars=24]
+Dr. Hope: Good morning, 
+
+[177|off=0x76fa|chars=44]
+P.\nPlease sit there and have some\nbreakfast.
+
+[178|off=0x775a|chars=58]
+The breakfast that Vita\nprepared was incredibly delicious.
+
+[179|off=0x77da|chars=73]
+Dr. Hope: Vita always puts her best into\nher breakfasts when you're here.
+
+[180|off=0x7878|chars=20]
+Dr. Hope: Oh, hello 
+
+[181|off=0x78a2|chars=25]
+P.\nAren't you here early?
+
+[182|off=0x78e0|chars=102]
+Dr. Hope: If you're here before your\nmaintenance day, does that mean\nthat you have a lot of free time?
+
+[183|off=0x79b8|chars=41]
+Dr. Hope: Or did you just want to see\nme?
+
+[184|off=0x7a16|chars=73]
+Dr. Hope: I see. I see.\nSo you've learned what it's like\nto miss someone.
+
+[185|off=0x7ab4|chars=73]
+Dr. Hope: I see. I see.\nSo you've learned what it's like\nto miss someone.
+
+[186|off=0x7b52|chars=20]
+Dr. Hope: Oh, hello 
+
+[187|off=0x7b7c|chars=27]
+P.\nAren't you rather early?
+
+[188|off=0x7bbe|chars=51]
+Dr. Hope: Are you worried about\nsomething, perhaps?
+
+[189|off=0x7c30|chars=91]
+Dr. Hope: Is it Flame Mountain?\nI suppose you've heard the rumors\nthat it's going to erupt.
+
+[190|off=0x7cf2|chars=73]
+Dr. Hope: To tell you the truth, I've\nbeen a bit worried about it myself.
+
+[191|off=0x7d90|chars=90]
+Dr. Hope: I think the time has finally\ncome for you to help the people of this\nisland out.
+
+[192|off=0x7e50|chars=80]
+Dr. Hope: It's the Fire Spirit that's\ncausing Flame Mountain to behave\nthis way.
+
+[193|off=0x7efc|chars=80]
+Dr. Hope: It's the Fire Spirit that's\ncausing Flame Mountain to behave\nthis way.
+
+[194|off=0x7fa8|chars=90]
+Dr. Hope: And the only thing that can\nappease the Fire Spirit's anger is\nthe Water Spirit.
+
+[195|off=0x8068|chars=90]
+Dr. Hope: And the only thing that can\nappease the Fire Spirit's anger is\nthe Water Spirit.
+
+[196|off=0x8128|chars=119]
+Dr. Hope: If you want to meet the Water\nSpirit you need to go past the northeast\ndesert and the plains to Mermaid Lake.
+
+[197|off=0x8222|chars=119]
+Dr. Hope: If you want to meet the Water\nSpirit you need to go past the northeast\ndesert and the plains to Mermaid Lake.
+
+[198|off=0x831c|chars=84]
+Dr. Hope: There's an old woman living on\nthe bank of Mermaid Lake who will\nhelp you.
+
+[199|off=0x83d0|chars=84]
+Dr. Hope: There's an old woman living on\nthe bank of Mermaid Lake who will\nhelp you.
+
+[200|off=0x8484|chars=57]
+Dr. Hope: I see. I guess I was just\nimagining it, then...
+
+[201|off=0x8502|chars=20]
+Dr. Hope: Oh, hello 
+
+[202|off=0x852c|chars=56]
+P.\nSo, are you getting used to life in the\nEaster Ruins?
+
+[203|off=0x85a8|chars=20]
+Dr. Hope: Oh, hello 
+
+[204|off=0x85d2|chars=86]
+P. Sorry,\nbut I'm writing a scientific paper now.\nCan you talk to me tomorrow morning?
+
+[205|off=0x868a|chars=10]
+*: Meow...
+
+[206|off=0x86aa|chars=13]
+Vita: Master 
+
+[207|off=0x86c6|chars=40]
+P!\nWhat are you doing here at\nthis hour?
+
+[208|off=0x8722|chars=13]
+Vita: Master 
+
+[209|off=0x873e|chars=40]
+P!\nWhat are you doing here at\nthis hour?
+
+[210|off=0x879a|chars=115]
+Vita: If you're having trouble sleeping,\nperhaps a little warm milk... Well,\nthat's what I'd offer a human, anyway.
+
+[211|off=0x888c|chars=115]
+Vita: If you're having trouble sleeping,\nperhaps a little warm milk... Well,\nthat's what I'd offer a human, anyway.
+
+[212|off=0x897e|chars=30]
+Vita: What are we going to do?
+
+[213|off=0x89c6|chars=30]
+Vita: What are we going to do?
+
+[214|off=0x8a0a|chars=26]
+Vita seems to be asleep...
+
+[215|off=0x8a4a|chars=83]
+Vita: You have to let the plants that\nyou grow indoors get some sun or they'll\ndie.
+
+[216|off=0x8afc|chars=83]
+Vita: You have to let the plants that\nyou grow indoors get some sun or they'll\ndie.
+
+[217|off=0x8bae|chars=70]
+Vita: Sunlight certainly is an amazing\nthing. I wonder who created it.
+
+[218|off=0x8c46|chars=70]
+Vita: Sunlight certainly is an amazing\nthing. I wonder who created it.
+
+[219|off=0x8cde|chars=6]
+Nana: 
+
+[220|off=0x8cec|chars=71]
+P! You came at just\nthe right time! I have something I want\nto ask you.
+
+[221|off=0x8d86|chars=109]
+Nana: I really want to win the Mushroom\nCooking Festival this year. But I\ncan't do it with my usual dishes...
+
+[222|off=0x8e6c|chars=111]
+Nana: So I wonder if you wouldn't mind\ngetting me some Porcini mushrooms.\nThey should be in season by tomorrow.
+
+[223|off=0x8f56|chars=122]
+Nana: I'll be sure to give you a\nlittle gift if you'll do it\nfor me!\nJust put them in your Scale\nPack and bring them here.
+
+[224|off=0x9056|chars=49]
+Nana: Let's see... I think 100g should\nbe enough.
+
+[225|off=0x90c4|chars=6]
+Nana: 
+
+[226|off=0x90d2|chars=52]
+P! You got some\nPorcini mushrooms for me!\nThank you!
+
+[227|off=0x9146|chars=84]
+Nana: I'll just take them then.\nI'm a cinch to win the Mushroom\nCooking Contest now.
+
+[228|off=0x91fa|chars=6]
+Nana: 
+
+[229|off=0x9208|chars=41]
+P! You got some\nPorcini mushrooms for me!
+
+[230|off=0x9266|chars=81]
+Nana: But I'm afraid this won't be\nquite enough. I could really use\n100g of them.
+
+[231|off=0x9314|chars=114]
+Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+
+[232|off=0x9404|chars=114]
+Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+
+[233|off=0x94f4|chars=53]
+Nana: I guess she's a better cook than\nI am, overall.
+
+[234|off=0x956a|chars=53]
+Nana: I guess she's a better cook than\nI am, overall.
+
+[235|off=0x95e0|chars=37]
+Vita: Are the Life Arms working well?
+
+[236|off=0x9636|chars=89]
+Vita: The baskets and boxes that you\nget from now on will all be equipped\nwith Life Arms.
+
+[237|off=0x96f4|chars=56]
+Vita: However, there are only 14 Life\nArms all together.
+
+[238|off=0x9770|chars=50]
+Vita: They will jump from one basket\nto another...
+
+[239|off=0x97e0|chars=111]
+Vita: So if you place them too closely\ntogether, they will get in each other's\nway and reduce their efficiency.
+
+[240|off=0x98ca|chars=83]
+Vita: You should try putting them in a\nvariety of locations to see what\nworks best.
+
+[241|off=0x997c|chars=43]
+Dr. Hope: Oh no, it's nothing.\nNever mind, 
+
+[242|off=0x99e4|chars=86]
+Dr. Hope: Why don't we have breakfast\ntogether the next time you stay at this\nmansion?
+
+[243|off=0x9a9c|chars=90]
+Dr. Hope: Vita is an excellent cook. I'm sure\nyou'll grow a discerning palate...\nHa-Ha-Ha.
+
+[244|off=0x9b5c|chars=10]
+Dr. Hope: 
+
+[245|off=0x9b72|chars=51]
+P, you can do\nwhatever you want in your spare time.
+
+[246|off=0x9be4|chars=70]
+Dr. Hope: You can watch TV, or cook,\nor even chat with people in town.
+
+[247|off=0x9c7c|chars=59]
+Dr. Hope: Have you used the key\nto go deep inside the cave?
+
+[248|off=0x9cfe|chars=101]
+Dr. Hope: When you walk in the caves, look\naround carefully so that\nyou don't miss my treasure boxes.
+
+[249|off=0x9dd4|chars=24]
+Dr. Hope: Oh, it's you, 
+
+[250|off=0x9e06|chars=64]
+P.\nYou were expecting the bridge to be\ncomplete, weren't you...?
+
+[251|off=0x9e92|chars=122]
+Dr. Hope: People here are easygoing,\nbut once they start working, they finish\ntheir jobs quickly. Well, just be patient...
+
+[252|off=0x9f92|chars=10]
+Dr. Hope: 
+
+[253|off=0x9fa8|chars=90]
+P. You might\nalready know it, but in order to unseal,\nyou must offer a Jewel to the Altar.
+
+[254|off=0xa068|chars=78]
+Dr. Hope: If some changes occur in a Jewel,\nyou should wait overnight and see.
+
+[255|off=0xa110|chars=86]
+Dr. Hope: I heard that motorized buggies are\npopular with kids\nin foreign countries...
+
+[256|off=0xa1c8|chars=56]
+Dr. Hope: Oh well...\nIt's just what I heard, that's all.
+
+[257|off=0xa244|chars=14]
+Dr. Hope: Hey 
+
+[258|off=0xa262|chars=23]
+P...\nHow is your buggy?
+
+[259|off=0xa29c|chars=108]
+Dr. Hope: If you want to go somewhere\nfar away, you should wake up early.\nYou'd better go to bed by 9:00 pm.
+
+[260|off=0xa380|chars=14]
+Dr. Hope: Hey 
+
+[261|off=0xa39e|chars=48]
+P.\nHave you met an old lady\nat Mermaid Lake yet?
+
+[262|off=0xa40a|chars=109]
+Dr. Hope: I see. If you lose your way\non your adventure... You might need to\ngo back and visit one more time.
+
+[263|off=0xa4f0|chars=15]
+Dr. Hope: Well 
+
+[264|off=0xa510|chars=50]
+P?\nAre you looking for\nwhat's related to water...?
+
+[265|off=0xa580|chars=72]
+Dr. Hope: I'm sorry, but there's nothing\nI could give you around here...
+
+[266|off=0xa61c|chars=111]
+Dr. Hope: Some things can be solved only\nby time. You might need to kick back and\nthink it over now and then...
+
+[267|off=0xa706|chars=21]
+Dr. Hope: By the way 
+
+[268|off=0xa732|chars=58]
+P,\nWhat did you do with the Red Jewel\nyou got from Masami?
+
+[269|off=0xa7b2|chars=104]
+Dr. Hope: Unseal it so that you can use it\nto get to a Water Spirit's Crest\nthat's deep within the ruin.
+
+[270|off=0xa88e|chars=79]
+Dr. Hope: It's up to you whether or not\nyou can stop the Volcano\nfrom erupting.
+
+[271|off=0xa938|chars=76]
+Dr. Hope: Ho-ho.\nAn old lady at Mermaid Lake\ntold you to see Mermaid, eh...?
+
+[272|off=0xa9dc|chars=78]
+Dr. Hope: Mermaid is believed to be living\nin a small creek by the Cacao tree.
+
+[273|off=0xaa84|chars=14]
+Dr. Hope: Hey 
+
+[274|off=0xaaa2|chars=11]
+P, welcome.
+
+[275|off=0xaac4|chars=94]
+Dr. Hope: Well, time does fly.\nIt seems like just yesterday\nwhen I gave you my Watering Can...
+
+[276|off=0xab8c|chars=19]
+Dr. Hope: I'm sure 
+
+[277|off=0xabb4|chars=77]
+P has\nlearned many things, and mastered various\nskills on this island so far.
+
+[278|off=0xac5a|chars=68]
+Dr. Hope: You've learned to handle a\nWatering Can well, haven't you?
+
+[279|off=0xacee|chars=80]
+Dr. Hope: I shouldn't be bragging about it,\nsince I'm the one who upgraded it...
+
+[280|off=0xad9a|chars=65]
+Dr. Hope: You can't just leave all the farm\nwork to your helpers.
+
+[281|off=0xae28|chars=88]
+Dr. Hope: You should at least water them,\notherwise you'll get out of shape...\nHa-ha-ha.
+
+[282|off=0xaee4|chars=20]
+Dr. Hope: Oh, hello 
+
+[283|off=0xaf0e|chars=25]
+P.\nAren't you here early?
+
+[284|off=0xaf4c|chars=56]
+Dr. Hope: I've been dreaming a lot lately.\nYou are cr...
+
+[285|off=0xafc8|chars=50]
+Dr. Hope: Oh... Well... It's nothing.\nNever mind, 
+
+[286|off=0xb03e|chars=38]
+Dr. Hope: I see, that's not it then...
+
+[287|off=0xb096|chars=10]
+*: Meow...
+
+[288|off=0xb0b6|chars=10]
+*: Meow...
+
+[289|off=0xb0d6|chars=66]
+Vita: It's no trouble for me to clean by\nmyself. I do it everyday.
+
+[290|off=0xb166|chars=66]
+Vita: It's no trouble for me to clean by\nmyself. I do it everyday.
+
+[291|off=0xb1f6|chars=10]
+*: Meeoow.
+
+[292|off=0xb216|chars=10]
+*: Meeoow.
+
+[293|off=0xb236|chars=36]
+Vita: Thank you for waiting,\nMaster 
+
+[294|off=0xb290|chars=63]
+Vita: There was a present for you in\nthe doctor's storage area.
+
+[295|off=0xb31a|chars=111]
+Vita: It seems that even as he was\nfighting his sickness,\nthe doctor took time to\nmake farming devices for you.
+
+[296|off=0xb404|chars=91]
+Vita: I have had them delivered to your\nfarm, in accordance with the doctor's\ninstructions.
+
+[297|off=0xb4c6|chars=107]
+Vita: Each Harvest Basket and Carrying\nBox will automatically be equipped\nwith this device -- the Life Arm.
+
+[298|off=0xb5a8|chars=106]
+Vita: If you place an equipped basket\nin a field, the crops in that field will\nautomatically be harvested.
+
+[299|off=0xb688|chars=108]
+Vita: It may be a little difficult to\nunderstand. The best thing is for you\nto try it yourself at your farm.
+
+[300|off=0xb76a|chars=58]
+P tried to sleep,\nbut he kept thinking he forgot\nsomething
+
+[301|off=0xb7e8|chars=32]
+Before you know it,\nit's dawn...
+
+[302|off=0xb834|chars=40]
+Vita: Everyone in town has gone crazy...
+
+[303|off=0xb890|chars=40]
+Vita: Only you and I\nremain unchanged...
+
+[304|off=0xb8ec|chars=40]
+Vita: Everyone in town has gone crazy...
+
+[305|off=0xb948|chars=40]
+Vita: Everyone in town has gone crazy...
+
+[306|off=0xb9a4|chars=40]
+Vita: Only you and I\nremain unchanged...
+
+[307|off=0xba00|chars=40]
+Vita: Only you and I\nremain unchanged...
+
+[308|off=0xba5c|chars=86]
+Vita: The doctor is restless when\nit's examination day. He just can't\nwait to see you.
+
+[309|off=0xbb14|chars=19]
+*: Bzzz... Beep....
+
+[310|off=0xbb46|chars=19]
+*: Bzzz... Beep....
+
+[311|off=0xbb78|chars=37]
+Dr. Hope: I've been waiting for you,\n
+
+[312|off=0xbbc4|chars=42]
+P. Will you please get\ninto the Shine Pod?
+
+[313|off=0xbc24|chars=79]
+Dr. Hope: All right. It's finished.\nYour body seems to be functioning\nnormally.
+
+[314|off=0xbcce|chars=97]
+Dr. Hope: I won't have any doubts about\nsending you to work for another\nweek at the Easter Ruins.
+
+[315|off=0xbd9c|chars=56]
+Dr. Hope: Let's see now. Your\nmaintenance is finished...
+
+[316|off=0xbe18|chars=103]
+Dr. Hope: Oh, I almost forgot. Repairing\nthat robot looks like its going to\ntake a little while longer.
+
+[317|off=0xbef2|chars=111]
+Dr. Hope: I'm working on modifying it so\nthat it can help you on the farm, but it\nwas a Battlebot, after all...
+
+[318|off=0xbfdc|chars=123]
+Dr. Hope: I've sent an application to\nthe mayor asking that you be allowed to\nuse it.\nThat part shouldn't be any\nproblem...
+
+[319|off=0xc0de|chars=15]
+Gayak: Hey!\nIs 
+
+[320|off=0xc0fe|chars=8]
+P there?
+
+[321|off=0xc11a|chars=45]
+Gayak: There you are!\nGood. Oh, hello Doctor.
+
+[322|off=0xc180|chars=37]
+Gayak: I've got a little request for\n
+
+[323|off=0xc1cc|chars=51]
+P that needs to be done\nbefore the Spring Festival.
+
+[324|off=0xc23e|chars=31]
+Gayak: I'd like to use some of\n
+
+[325|off=0xc27e|chars=48]
+P's vegetables for the\nSpring Festival offering.
+
+[326|off=0xc2ea|chars=73]
+Gayak: As I'm sure you know, I only grow\npotatoes and turnips on my farm.
+
+[327|off=0xc388|chars=19]
+Gayak: So I'd like 
+
+[328|off=0xc3b0|chars=36]
+P to grow\nsome other types of crops.
+
+[329|off=0xc404|chars=83]
+Gayak: Oh, and Marlene has made some\nmore Seed Bags, so I'll give 3 of\nthem to you.
+
+[330|off=0xc4b6|chars=116]
+Gayak: If I recall correctly, there are\n6 crops that grow in the spring. I'm\nnot asking you to grow them all, but...
+
+[331|off=0xc5aa|chars=77]
+Gayak: Now that you have 6 Seed Bags,\nyou can grow any of the crops\nyou like!
+
+[332|off=0xc650|chars=113]
+Gayak: If you can ship the crops by the\nday before the festival, I'll make sure\nthat the market gives them to me.
+
+[333|off=0xc73e|chars=79]
+Dr. Hope: But Gayak, I thought no one\ntook part in the Spring Festival\nanymore.
+
+[334|off=0xc7e8|chars=42]
+Gayak: This time is going to be\ndifferent!
+
+[335|off=0xc848|chars=88]
+Gayak: Those rumors about Flame Mountain\nerupting are making quite a few people\nnervous.
+
+[336|off=0xc904|chars=112]
+Gayak: I'm sure they'll be interested in\na festival dedicated to a Fire Spirit\nthat lives in the volcano's peak.
+
+[337|off=0xc9f0|chars=27]
+Gayak: If we offer some of\n
+
+[338|off=0xca28|chars=11]
+P's crops, 
+
+[339|off=0xca40|chars=66]
+\neveryone will be impressed.\nThey're sure to fix the north bridge.
+
+[340|off=0xcad0|chars=76]
+Gayak: I want to at least have one other\nthing besides turnips and potatoes.
+
+[341|off=0xcb74|chars=101]
+Gayak: I'll send those 3 Seed Bags and\na Harvest Basket over to your farm.\nThey should come in handy!
+
+[342|off=0xcc4a|chars=50]
+Gayak: Did you understand everything\nI just said, 
+
+[343|off=0xccc0|chars=79]
+Gayak: All right then!\nWell, I have a lot of work to do,\nso I'll be seeing you.
+
+[344|off=0xcd6a|chars=16]
+Gayak: Goodbye, 
+
+[345|off=0xcd8c|chars=18]
+P!\nDr. Hope, Vita!
+
+[346|off=0xcdbc|chars=40]
+Gayak: Hmm... OK then.\nLet me try again.
+
+[347|off=0xce18|chars=104]
+Gayak: I need you to grow some crops for\nthe Spring Festival. Anything but\npotatoes and turnips is fine.
+
+[348|off=0xcef4|chars=109]
+Gayak: You have to ship them by the day\nbefore the festival. Shipping on the\nday of the festival is too late.
+
+[349|off=0xcfda|chars=72]
+Gayak: I'll send 3 Seed Bags and a\nHarvest Basket over to your\nItem Box.
+
+[350|off=0xd076|chars=51]
+Dr. Hope: That Gayak always seems to be\nin a hurry.
+
+[351|off=0xd0e8|chars=48]
+Vita: Come to think of it, Mr. Gayak\nnever told 
+
+[352|off=0xd14a|chars=38]
+P when the Spring\nFestival is, did he?
+
+[353|off=0xd1a2|chars=37]
+Dr. Hope: You're right, Vita.\nHmph...
+
+[354|off=0xd1f8|chars=65]
+Dr. Hope: The Spring Festival is on the\nfourth Sunday in spring,\n
+
+[355|off=0xd28c|chars=113]
+Dr. Hope: So if you want your crops to\nbe used for the festival, you'll have\nto ship them by the fourth Saturday.
+
+[356|off=0xd37a|chars=64]
+Dr. Hope: You should probably ship them\nsoon, before you forget.
+
+[357|off=0xd406|chars=89]
+Dr. Hope: I knew about the north bridge,\nso I had Gayak ask everyone to\nrepair it, but...
+
+[358|off=0xd4c4|chars=112]
+Dr. Hope: Automation has made everyone\nso complacent. Who knows when it'll\nget done if we just leave it to them?
+
+[359|off=0xd5b0|chars=88]
+Vita: The doctor gets restless when\nit's examination day. He just can't\nwait to see you.
+
+[360|off=0xd66c|chars=53]
+Dr. Hope: Don't forget to visit\nme here every Sunday.
+
+[361|off=0xd6e2|chars=112]
+Dr. Hope: I told the people in the town\nthat you'll be coming every Sunday, so\nsome of them may come to see you.
+
+[362|off=0xd7ce|chars=116]
+Dr. Hope: The volcano is somewhat\nworrying.\nBut if the eruption is caused\nby angry spirits, you may\nbe able to help.
+
+[363|off=0xd8c2|chars=102]
+Dr. Hope: After all, when you break the\nseals at the Easter Ruins fields you\nalso appease the Spirits.
+
+[364|off=0xd99a|chars=28]
+Dr. Hope: I believe in you, 
+
+[365|off=0xd9e4|chars=57]
+Dr. Hope: By the way, I have something\nto give you today.
+
+[366|off=0xda62|chars=96]
+Dr. Hope: It's a very important key\nthat's been handed down for generations\nin the Grain family.
+
+[367|off=0xdb2e|chars=85]
+Dr. Hope: There's a locked door in the\ncave by the entrance to the\ntown, isn't there?
+
+[368|off=0xdbe4|chars=82]
+Dr. Hope: This key opens that door.\nI'm sure it will come in handy.\nHere, take it.
+
+[369|off=0xdc94|chars=105]
+Dr. Hope: Oh, I see that you\ncan't carry any more items.\nAll right, I'll have this\nsent to your Item Box.
+
+[370|off=0xdd72|chars=22]
+Dr. Hope: By the way, 
+
+[371|off=0xdda0|chars=61]
+P.\nYou haven't forgotten about the\nSpring Festival, have you?
+
+[372|off=0xde26|chars=38]
+Dr. Hope: The festival is next Sunday.
+
+[373|off=0xde7e|chars=107]
+Dr. Hope: So if you want the crops you\nship to be used for the offering,\nyou have to ship them by Saturday.
+
+[374|off=0xdf60|chars=64]
+Dr. Hope: You should probably ship them\nsoon, before you forget.
+
+[375|off=0xdfec|chars=81]
+Vita: The doctor is restless when\nit's examination day. He can't\nwait to see you.
+
+[376|off=0xe09a|chars=45]
+*: BZZZ...\nCURRENTLY IN SLEEP MODE...\nBEEP...
+
+[377|off=0xe100|chars=27]
+Dr. Hope: Oh, you're here, 
+
+[378|off=0xe138|chars=32]
+P.\nThe Spring Festival is today.
+
+[379|off=0xe184|chars=83]
+Dr. Hope: Marcia should be coming to get\nyou right after I finish your\nmaintenance.
+
+[380|off=0xe236|chars=98]
+Dr. Hope: The festival should last until\nlate tonight. Can we go\nahead and start your examination?
+
+[381|off=0xe306|chars=69]
+Dr. Hope: All right then.\nLet's do it. Please get into the\nShine Pod.
+
+[382|off=0xe39c|chars=97]
+Dr. Hope: I see. Why don't you go do\nwhatever it is you need to do.\nBut return no later than 7PM.
+
+[383|off=0xe46a|chars=123]
+Dr. Hope: It's almost time for the\nSpring Festival to start.\nWere you able to ship some\ncrops besides potatoes and turnips?
+
+[384|off=0xe56c|chars=30]
+Dr. Hope: That's good to hear!
+
+[385|off=0xe5b4|chars=125]
+Dr. Hope: Or at least that's what I'd\nlike to say.\nBut unfortunately, the\nexamination told me everything\nthat I need to know.
+
+[386|off=0xe6ba|chars=113]
+Dr. Hope: Lying is advanced behavior,\nso in some sense I suppose I should\nbe happy. But you really shouldn't lie.
+
+[387|off=0xe7a8|chars=116]
+Dr. Hope: Well, just in case something\nlike this happened, I had Vita prepare\nsome things that we could use instead.
+
+[388|off=0xe89c|chars=83]
+Dr. Hope: I'm afraid we have no choice\nbut to say that you harvested them\nyourself.
+
+[389|off=0xe94e|chars=105]
+Dr. Hope: Since we're working for the\ngood of the whole island, I guess a tiny\nwhite lie can be forgiven.
+
+[390|off=0xea2c|chars=90]
+Dr. Hope: You couldn't do it?\nWell, it's true that seeds can sometimes\nbe hard to come by.
+
+[391|off=0xeaec|chars=21]
+Marcia: Dr. Hope!\nIs 
+
+[392|off=0xeb18|chars=8]
+P there?
+
+[393|off=0xeb34|chars=88]
+Marcia: Oh, there you are!\nThe Spring Festival will be starting\nsoon. Come on, let's go!
+
+[394|off=0xebf0|chars=104]
+Marcia: I stopped to look at the cave a\nlittle bit ago, and your crops were\nalready set up on the altar!
+
+[395|off=0xeccc|chars=22]
+Marcia: Well, I guess 
+
+[396|off=0xecfa|chars=54]
+P and I\nwill be going now. Goodbye, Doc.\nGoodbye Vita.
+
+[397|off=0xed72|chars=44]
+Vita: Have a good time, Miss Marcia.\nMaster 
+
+[398|off=0xeddc|chars=59]
+Dr. Hope: Yes. Take care.\nAnd say hello to everyone for us.
+
+[399|off=0xee5e|chars=23]
+Marcia: All right!\nOK, 
+
+[400|off=0xee8e|chars=12]
+P.\nLet's go!
+
+[401|off=0xeeb2|chars=35]
+*: HELLO.\nI DO NOT HAVE A NAME YET.
+
+[402|off=0xef04|chars=53]
+Vita: The day of the Spring Festival is\nhere at last.
+
+[403|off=0xef7a|chars=31]
+Forte: HELLO.\nMY NAME IS FORTE.
+
+[404|off=0xefc4|chars=96]
+Vita: How was the Spring Festival?\nEveryone seemed very enthusiastic\nabout repairing the bridge.
+
+[405|off=0xf090|chars=87]
+Vita: I heard that the waters are too\nfast right now, but they can do\nit in the summer.
+
+[406|off=0xf14a|chars=10]
+Dr. Hope: 
+
+[407|off=0xf160|chars=28]
+P.\nI have a present for you.
+
+[408|off=0xf1a4|chars=60]
+Dr. Hope: I've finally finished\nmodifying your helper robot!
+
+[409|off=0xf228|chars=32]
+Dr. Hope: Come over here, Forte!
+
+[410|off=0xf274|chars=113]
+Dr. Hope: I had hoped to be able to\nchange his appearance a bit too, but\nI'm afraid I ran a little over budget...
+
+[411|off=0xf362|chars=85]
+Dr. Hope: But in any case, I've\ndeactivated his weapons, so he's\ncompletely harmless.
+
+[412|off=0xf418|chars=57]
+Dr. Hope: He can't harvest crops or till\nthe soil, but...
+
+[413|off=0xf496|chars=118]
+Dr. Hope: I've given him the\npower to fly.\nHe can water crops and\npick up anything that you don't\nneed in your fields.
+
+[414|off=0xf58e|chars=68]
+Dr. Hope: And I also gave him a name.\nForte! Isn't that a good name?
+
+[415|off=0xf622|chars=80]
+Dr. Hope: I knew you'd like it!\nSo we'll just call this Robot\nForte then, right?
+
+[416|off=0xf6ce|chars=113]
+Dr. Hope: That's good.\nActually, I like the name\na bit myself, and it would have\nbeen disappointing to change it.
+
+[417|off=0xf7bc|chars=55]
+Dr. Hope: Now then, Forte!\nYou are going to be helping\n
+
+[418|off=0xf82c|chars=14]
+P from now on!
+
+[419|off=0xf854|chars=18]
+Forte: UNDERSTOOD.
+
+[420|off=0xf884|chars=37]
+Forte: DESTINATION SET:\nEASTER RUINS.
+
+[421|off=0xf8da|chars=42]
+Forte: I LOOK FORWARD TO WORKING\nWITH YOU.
+
+[422|off=0xf93a|chars=98]
+Dr. Hope: What? You don't like it?\nAnd I thought it was perfect...\nWell, what name would you like?
+
+[423|off=0xfa0a|chars=109]
+Dr. Hope: I see. That's too bad, but\nit's best to pick a name that you like.\nWhat would you like to name him?
+
+[424|off=0xfaf0|chars=30]
+Dr. Hope: Oh, one more thing,\n
+
+[425|off=0xfb2e|chars=24]
+P. I forgot to tell you,
+
+[426|off=0xfb60|chars=5]
+\nbut 
+
+[427|off=0xfb6c|chars=30]
+R isn't\nvery good at speaking.
+
+[428|off=0xfbb4|chars=93]
+Dr. Hope: I'm afraid I didn't have\nenough money to overhaul his voice\nsynthesis unit. Hahaha.
+
+[429|off=0xfc7a|chars=94]
+Dr. Hope: Also, the laws of Volcano Town\nprohibit anyone with a weapon from\nentering the town.
+
+[430|off=0xfd42|chars=66]
+Dr. Hope: That's true even if those\nweapons have been deactivated.
+
+[431|off=0xfdd2|chars=24]
+Dr. Hope: So I'm afraid 
+
+[432|off=0xfe04|chars=55]
+R\nwon't be able to leave your farm\nin the Easter Ruins.
+
+[433|off=0xfe80|chars=39]
+R: I LOOK FORWARD TO\nWORKING WITH YOU, 
+
+[434|off=0xfee2|chars=39]
+R: SHALL WE GO TO THE\nEASTER RUINS NOW?
+
+[435|off=0xff3e|chars=14]
+R: UNDERSTOOD.
+
+[436|off=0xff68|chars=50]
+R: LOADING DESTINATION\nDATA. ENTERING FLIGHT MODE.
+
+[437|off=0xffd8|chars=24]
+Dr. Hope: Watch out for 
+
+[438|off=0x10020|chars=54]
+P headed back to the\nEaster Ruins with sidekick robot\n
+
+[439|off=0x1009a|chars=37]
+As soon as you arrived at your farm,\n
+
+[440|off=0x100e6|chars=27]
+R began to scan the area...
+
+[441|off=0x1012a|chars=25]
+R: I AWAIT YOUR\nCOMMANDS.
+
+[442|off=0x10168|chars=48]
+Dr. Hope: The mayor is going to be\ncoming today.
+
+[443|off=0x101d4|chars=47]
+Dr. Hope: I already put in the application for\n
+
+[444|off=0x10234|chars=59]
+R, and apparently he wants\nto come and talk to me about it.
+
+[445|off=0x102b6|chars=97]
+Dr. Hope: He should be here any minute.\nI'm just going to go check the\nparlor, if you don't mind.
+
+[446|off=0x10384|chars=18]
+Marcia: Hello!\nIs 
+
+[447|off=0x103aa|chars=7]
+P here?
+
+[448|off=0x103c4|chars=23]
+Marcia: There you are, 
+
+[449|off=0x103f4|chars=34]
+P.\nI guess your exam is over, huh?
+
+[450|off=0x10444|chars=62]
+Marcia: It must be tough to get examined\nlike that every week.
+
+[451|off=0x104cc|chars=63]
+Marcia: You look healthy enough, but\nare you sick or something?
+
+[452|off=0x10556|chars=79]
+Vita: There is cake and tea in the\nkitchen if you would like some,\nMiss Marcia.
+
+[453|off=0x10600|chars=35]
+Marcia: Oh thanks, Vita.\nLet's go, 
+
+[454|off=0x10658|chars=111]
+Mayor: You really mustn't do things\nlike this, Doctor!\nYou can't repair that robot\nbefore application approval!
+
+[455|off=0x10742|chars=35]
+Mayor: You did the same thing\nwith 
+
+[456|off=0x1078a|chars=4]
+P...
+
+[457|off=0x1079e|chars=40]
+Marcia: That voice...\nIs the mayor here?
+
+[458|off=0x107fa|chars=69]
+Mayor: Oh, never mind.\nYou never listen to what I have\nto say anyway.
+
+[459|off=0x10890|chars=90]
+Dr. Hope: That's not true, Mayor.\nI'm always mindful of the feelings\nof the townspeople...
+
+[460|off=0x10950|chars=49]
+Dr. Hope: Of course, I may not agree\nwith them...
+
+[461|off=0x109be|chars=46]
+Mayor: There you go again.\nMaking fun of me...
+
+[462|off=0x10a26|chars=71]
+Mayor: Oh all right. Your request is\napproved. Just don't let it leave\n
+
+[463|off=0x10ab6|chars=9]
+P's farm.
+
+[464|off=0x10ad4|chars=60]
+Mayor: Now I've heard everything.\nA robot helping a robot...
+
+[465|off=0x10b58|chars=37]
+Mayor: Oh, pardon me. You don't like\n
+
+[466|off=0x10ba4|chars=48]
+P to be called a robot.\nHe's an "Innocent Life."
+
+[467|off=0x10c10|chars=61]
+Marcia: What? You're a... r-r-robot?\nO-or an "Innocent Life?"
+
+[468|off=0x10c96|chars=42]
+Marcia: What is an "Innocent\nLife" anyway?
+
+[469|off=0x10cf6|chars=58]
+Vita: It is the culmination of\nall of the doctor's dreams.
+
+[470|off=0x10d76|chars=37]
+Vita: The doctor dreamed of creating\n
+
+[471|off=0x10dc2|chars=17]
+P for many years.
+
+[472|off=0x10df0|chars=104]
+Vita: He wanted to create an innocent\nand pure life form that could learn\nto love people, not hate them.
+
+[473|off=0x10ecc|chars=10]
+Vita: And 
+
+[474|off=0x10ee2|chars=17]
+P was the result.
+
+[475|off=0x10f10|chars=63]
+Marcia: Hmm.... I'm not really sure I\nunderstand all of this...
+
+[476|off=0x10f9a|chars=105]
+Marcia: But I guess there's no\ndifference between what you described\nand a human being with a good heart.
+
+[477|off=0x11078|chars=54]
+Vita: That's right. That's how you\nshould think of it.
+
+[478|off=0x110f0|chars=21]
+Marcia: I see. Wow...
+
+[479|off=0x11126|chars=21]
+Marcia: Don't worry, 
+
+[480|off=0x11152|chars=57]
+P.\nI don't care if you're a robot\nor a human or whatever.
+
+[481|off=0x111d0|chars=99]
+Marcia: The most important thing is,\nwhat kind of person are you?\nAnd I think you're a good person.
+
+[482|off=0x112a2|chars=61]
+Vita: Yes. You two aren't so very\ndifferent from one another.
+
+[483|off=0x11328|chars=74]
+Vita: You both have hopes, dreams,\nthoughts and fears. You're both\npeople.
+
+[484|off=0x113c8|chars=97]
+Mayor: Oh, I thought someone was making\na lot of noise out here. Marcia,\nwhat are you doing here?
+
+[485|off=0x11496|chars=80]
+Mayor: Shouldn't you be heading home?\nYour father is probably worried\nabout you.
+
+[486|off=0x11542|chars=14]
+Marcia: Sorry.
+
+[487|off=0x1156a|chars=68]
+Dr. Hope: Oh hello. What are you all\ndoing here. Is something wrong?
+
+[488|off=0x115fe|chars=27]
+Vita: It's nothing, doctor.
+
+[489|off=0x11640|chars=55]
+Dr. Hope: All right then. Be careful on\nyour way home, 
+
+[490|off=0x116bc|chars=49]
+For the first time, you realize\nyour true nature!
+
+[491|off=0x1172a|chars=83]
+Vita: The doctor gets restless when\nit's examination day. He can't\nwait to see you.
+
+[492|off=0x117dc|chars=18]
+Vita: By the way, 
+
+[493|off=0x11802|chars=60]
+P.\nHave you been watching the cooking\nprogram on television?
+
+[494|off=0x11886|chars=93]
+Vita: Even if you don't need to cook\nright now, the information could\ncome in handy later on.
+
+[495|off=0x1194c|chars=33]
+Dr. Hope: Are you used to having\n
+
+[496|off=0x11990|chars=18]
+R around the farm?
+
+[497|off=0x119c0|chars=127]
+Dr. Hope: I see. That's good to hear.\nI don't have the materials\nright now, but I'd like to add some\noptions to him eventually.
+
+[498|off=0x11aca|chars=55]
+Dr. Hope: I see. That's too bad.\nBut keep at it.\nOkay, 
+
+[499|off=0x11b4a|chars=60]
+Dr. Hope: Oh dear. I almost forgot\nsomething very important.
+
+[500|off=0x11bce|chars=58]
+Dr. Hope: It's a little present for\nbreaking another seal.
+
+[501|off=0x11c4e|chars=95]
+Dr. Hope: Why don't you go home to the\nEaster Ruins and see for yourself?\nIt's by the entrance.
+
+[502|off=0x11d18|chars=60]
+Dr. Hope: Oh dear. I almost forgot\nsomething very important.
+
+[503|off=0x11d9c|chars=58]
+Dr. Hope: It's a little present for\nbreaking another seal.
+
+[504|off=0x11e1c|chars=95]
+Dr. Hope: Why don't you go home to the\nEaster Ruins and see for yourself?\nIt's by the entrance.
+
+[505|off=0x11ee6|chars=47]
+Dr. Hope: What? You mean you've\nseen the buggy?
+
+[506|off=0x11f50|chars=53]
+Dr. Hope: That's no fun!\nI wanted to see your face...
+
+[507|off=0x11fc6|chars=75]
+Dr. Hope: Oh well. I suppose it's my\nfault for having it sent to you early.
+
+[508|off=0x12068|chars=57]
+Dr. Hope: Did you hear the news?\nGayak's dog had puppies.
+
+[509|off=0x120e6|chars=62]
+Dr. Hope: He said he would give you one\nof them if you like...
+
+[510|off=0x1216e|chars=15]
+Gayak: Hey!\nIs 
+
+[511|off=0x1218e|chars=8]
+P there?
+
+[512|off=0x121aa|chars=45]
+Gayak: There you are!\nGood. Oh, hello Doctor.
+
+[513|off=0x12210|chars=30]
+Gayak: She finally gave birth!
+
+[514|off=0x12258|chars=68]
+Gayak: Hehe! Not my wife!\nI'm talking about my dog, Chocola!\nHahaha!
+
+[515|off=0x122ec|chars=7]
+Gayak: 
+
+[516|off=0x122fc|chars=102]
+P, your farm is nice\nand big. It should be perfect for a dog.\nSo I brought one of the puppies for you.
+
+[517|off=0x123d4|chars=47]
+Gayak: I'll have it sent to your room\ntomorrow.
+
+[518|off=0x1243e|chars=96]
+Gayak: Oh, I almost forgot! I thought of\na great name for him! Chocobi!\nIsn't that just perfect?
+
+[519|off=0x1250a|chars=72]
+Gayak: I thought you'd like that.\nSo we'll name the puppy Chocobi,\nOkay?
+
+[520|off=0x125a6|chars=33]
+Gayak: Take good care of Chocobi!
+
+[521|off=0x125f4|chars=54]
+Gayak: Oh, I see...\nDid you want to name him\nyourself?
+
+[522|off=0x1266c|chars=59]
+Gayak: Well, I guess that's fine.\nWhat name would you like?
+
+[523|off=0x126ee|chars=23]
+Dr. Hope: That's nice, 
+
+[524|off=0x1271e|chars=31]
+P.\nDogs can be good companions.
+
+[525|off=0x12768|chars=48]
+Dr. Hope: Just make sure you clean up\nafter him.
+
+[526|off=0x127d4|chars=64]
+Vita: This summer looks like it's going\nto be hotter than usual.
+
+[527|off=0x12860|chars=94]
+Vita: The heat seems to be affecting\nthe doctor's cat. She doesn't seem\nto be doing very well.
+
+[528|off=0x12928|chars=112]
+Dr. Hope: This summer certainly is a hot\none. I don't envy you working out in the\nfields in weather like this...
+
+[529|off=0x12a14|chars=35]
+Masami: Hello, Dr. Hope. Oh, hello\n
+
+[530|off=0x12a5c|chars=11]
+P and Vita.
+
+[531|off=0x12a7e|chars=48]
+Dr. Hope: I'm sorry to keep you waiting,\nMasami.
+
+[532|off=0x12aea|chars=82]
+Masami: No, I'm just grateful that\nyou're willing to listen to what I\nhave to say.
+
+[533|off=0x12b9a|chars=62]
+Masami: It seems like what we heard\nabout the volcano is true.
+
+[534|off=0x12c22|chars=75]
+Masami: The Banks Corporation is finally\ngoing to start construction there.
+
+[535|off=0x12cc4|chars=64]
+Dr. Hope: And there's a good chance that\nthe volcano will erupt.
+
+[536|off=0x12d50|chars=81]
+Dr. Hope: Could be this year... Could be\nthe next. That's what my data\nindicates.
+
+[537|off=0x12dfe|chars=35]
+Masami: So it's all right if I ask\n
+
+[538|off=0x12e56|chars=8]
+Masami: 
+
+[539|off=0x12e68|chars=61]
+P, have you already\nmet the hermit who lives by\nMermaid Lake?
+
+[540|off=0x12eee|chars=121]
+Masami: There are three spirits who live\non this island. The Water Spirit, Forest\nSpirit, and Fire Spirit all protect us.
+
+[541|off=0x12fec|chars=91]
+Masami: It is the anger of the Fire\nSpirit that is threatening to make\nthe volcano erupt...
+
+[542|off=0x130ae|chars=108]
+Masami: I'm sure that the Water and\nForest Spirits are happy that you're\nworking to revive the Easter Ruins.
+
+[543|off=0x13192|chars=102]
+Masami: But as for the Fire Spirit...\nOnce its anger is provoked, it only\ngrows stronger and stronger.
+
+[544|off=0x1326a|chars=60]
+Masami: The only thing that can stop it\nis the Water Spirit.
+
+[545|off=0x132ee|chars=8]
+Masami: 
+
+[546|off=0x13300|chars=76]
+P, I'm going to give\nyou something that I have been\nguarding for many years.
+
+[547|off=0x133a0|chars=54]
+Masami gave you a red shining\nstone! It's a Red Jewel!
+
+[548|off=0x13418|chars=83]
+Masami: Use this Red Jewel to break the\nseal and open the door to the\nEaster Ruins.
+
+[549|off=0x134ca|chars=76]
+Masami: Somewhere deep in the ruins\nshould be the Crest of the Water\nSpirit.
+
+[550|off=0x1356e|chars=58]
+Masami: You must bring that to the\nhermit by Mermaid Lake.
+
+[551|off=0x135ee|chars=47]
+Masami: Dr. Hope, please put this Red\nJewel in 
+
+[552|off=0x1364e|chars=13]
+P's Item Box.
+
+[553|off=0x13674|chars=30]
+Masami: I will be going now...
+
+[554|off=0x136bc|chars=70]
+Dr. Hope: I suppose you're wondering why\nMasami told you all of this,\n
+
+[555|off=0x1375a|chars=70]
+Dr. Hope: Masami is a descendant of one\nof the original Easter People.
+
+[556|off=0x137f2|chars=98]
+Dr. Hope: Long ago, the Easter People\nwanted to defeat their enemies the\nVolcano People so much...
+
+[557|off=0x138c2|chars=115]
+Dr. Hope: ...that they stole the Crest\nof the Water Spirit from the tower by\nMermaid Lake, hoping to use its power.
+
+[558|off=0x139b4|chars=101]
+Dr. Hope: They had deceived the Forest\nSpirit into opening a path to the\nMermaid Lake tower for them.
+
+[559|off=0x13a8a|chars=83]
+Dr. Hope: But human beings could never\nhope to control the power of a\nSpirit Crest.
+
+[560|off=0x13b3c|chars=69]
+Dr. Hope: Finally, the three Spirits sealed\noff most of the island...
+
+[561|off=0x13bd2|chars=85]
+Dr. Hope: Robbed of their reason for\nliving, the Easter People eventually\ndied out...
+
+[562|off=0x13c88|chars=94]
+Dr. Hope: And the Water Spirit sealed\noff the Forest Spirit for letting the\nhumans deceive it.
+
+[563|off=0x13d50|chars=67]
+Dr. Hope: At least that's what a legend\nof the Volcano People says.
+
+[564|off=0x13de2|chars=112]
+Dr. Hope: I can't help but feel a little\nguilty making a child like you\nresponsible for saving the whole island.
+
+[565|off=0x13ece|chars=64]
+Vita: This summer looks like it's going\nto be hotter than usual.
+
+[566|off=0x13f5a|chars=94]
+Vita: The heat seems to be affecting\nthe doctor's cat. She doesn't seem\nto be doing very well.
+
+[567|off=0x14022|chars=97]
+Dr. Hope: By the way, did you hear about\nthe accident that happened at\nMarco's construction site?
+
+[568|off=0x140f0|chars=83]
+Dr. Hope: Apparently some coolant leaked\nin the cave and spread fumes\neverywhere...
+
+[569|off=0x141a2|chars=107]
+Dr. Hope: Luckily no one was hurt, but\nit would probably be a good idea to\nstay away from the cave for now.
+
+[570|off=0x14284|chars=76]
+Vita: After the accident last night,\nMr. Gallion came to talk to the\ndoctor.
+
+[571|off=0x14328|chars=61]
+Vita: He wanted to know what could be\ndone about those fumes.
+
+[572|off=0x143ae|chars=60]
+Vita: The doctor suggested growing some\nherbs in the cave...
+
+[573|off=0x14432|chars=81]
+Vita: But no one can get close enough to\nthe cave to do it, because of the\nfumes.
+
+[574|off=0x144e0|chars=81]
+Vita: If you're interested in helping\nout, you might want to talk to Mr.\nGallion.
+
+[575|off=0x1458e|chars=76]
+Dr. Hope: I thought my cat was sick, but\nit turns out that she was pregnant!
+
+[576|off=0x14632|chars=81]
+Dr. Hope: She's getting older...\nI hope having kittens won't be too\nmuch for her.
+
+[577|off=0x146e0|chars=58]
+Vita: The summer is already over.\nTime certainly does fly.
+
+[578|off=0x14760|chars=69]
+Vita: In fall, you can pick lots of\nmushrooms in the Mushroom Forest.
+
+[579|off=0x147f6|chars=38]
+Vita: Hm? The Mushroom Forest?\nWell...
+
+[580|off=0x1484e|chars=108]
+Vita: I believe you can find it if you\ngo east through the forest on the\nnortheast side of the Easter Ruins.
+
+[581|off=0x14932|chars=49]
+Dr. Hope: I have good news and bad news\nfor you, 
+
+[582|off=0x14996|chars=4]
+P...
+
+[583|off=0x149aa|chars=67]
+Dr. Hope: The good news is that my cat\nhas finally had her kittens.
+
+[584|off=0x14a3c|chars=77]
+Dr. Hope: And if you would like one, I'd\nbe happy to give one of them to you.
+
+[585|off=0x14ae2|chars=91]
+Dr. Hope: I'm going to be giving the one\nyou don't choose to a relative who lives\noverseas.
+
+[586|off=0x14ba4|chars=107]
+Dr. Hope: So don't worry. The one you\ndon't pick will be going to a good home.\nPick whichever one you like.
+
+[587|off=0x14c86|chars=97]
+Dr. Hope: The kittens are in that\nbasket there. Give it some thought\nbefore you make your choice.
+
+[588|off=0x14d54|chars=37]
+Dr. Hope: And now for the bad news...
+
+[589|off=0x14daa|chars=25]
+Marcia: Doctor!\nDr. Hope!
+
+[590|off=0x14de8|chars=40]
+Marcia: I-is it true that your cat died?
+
+[591|off=0x14e44|chars=69]
+Dr. Hope: Ah... Yes, I'm afraid it is.\nGayak just helped me bury her.
+
+[592|off=0x14eda|chars=24]
+Marcia: Oh...\nHow sad...
+
+[593|off=0x14f16|chars=106]
+Dr. Hope: She was always on the weak\nside. I suppose the strain of giving\nbirth was just too much for her.
+
+[594|off=0x14ff6|chars=46]
+Dr. Hope: Come now, Marcia.\nWhy don't you and 
+
+[595|off=0x15054|chars=25]
+P\ngo and visit her grave?
+
+[596|off=0x15092|chars=49]
+Marcia: Yes...\nI understand, Dr. Hope.\nLet's go, 
+
+[597|off=0x150f6|chars=4]
+P...
+
+[598|off=0x1510a|chars=49]
+Vita: Have you seen the kittens?\nThey're so cute.
+
+[599|off=0x15178|chars=52]
+Vita: It's a shame about the doctor's\ncat, though...
+
+[600|off=0x151ec|chars=87]
+Dr. Hope: I saw Marcia running away a\nbit ago. She's a good girl.\nShe has a kind heart.
+
+[601|off=0x152a6|chars=97]
+Dr. Hope: Have you decided which kitten\nyou want? You can't change your\nmind once you've decided.
+
+[602|off=0x15374|chars=62]
+Dr. Hope: Oh, you decided on a name\nfor your kitten, have you?
+
+[603|off=0x153fc|chars=107]
+Dr. Hope: All right then. I'll have\nMoonlight come tonight and bring it\nto your farm while you're sleeping.
+
+[604|off=0x154de|chars=67]
+Dr. Hope: It's still small, so you'll\nhave to take good care of it.
+
+[605|off=0x1556c|chars=65]
+Cats: Meow meow meow meow\nMeow meow meow meow\nMeow meow meow meow
+
+[606|off=0x155f6|chars=65]
+Cats: Meow meow meow meow\nMeow meow meow meow\nMeow meow meow meow
+
+[607|off=0x15680|chars=31]
+Are you going to take a\nkitten?
+
+[608|off=0x156c6|chars=27]
+Which kitten will you take?
+
+[609|off=0x15708|chars=93]
+Dr. Hope: Have you decided which kitten\nyou want? You can't change your\nmind once you decide.
+
+[610|off=0x157ce|chars=118]
+Dr. Hope: But if you don't decide by\nSaturday, I'm afraid I'll have to\ngive them to someone else.\nDon't wait too long.
+
+[611|off=0x158c6|chars=62]
+Dr. Hope: Oh, you decided on a name\nfor your kitten, have you?
+
+[612|off=0x1594e|chars=95]
+Dr. Hope: All right then. Tonight\nMoonlight will deliver it\nto your farm while you're sleeping.
+
+[613|off=0x15a18|chars=67]
+Dr. Hope: It's still small, so you'll\nhave to take good care of it.
+
+[614|off=0x15aaa|chars=106]
+Dr. Hope: By the way, the Mushroom\nCooking Contest is coming up soon.\nAutumn is mushroom\nseason, you know.
+
+[615|off=0x15b8a|chars=106]
+Dr. Hope: By the way, the Mushroom\nCooking Contest is coming up soon.\nAutumn is mushroom\nseason, you know.
+
+[616|off=0x15c6a|chars=63]
+Dr. Hope: I heard Nana has something\nthat she wants to ask you.
+
+[617|off=0x15cf4|chars=63]
+Dr. Hope: I heard Nana has something\nthat she wants to ask you.
+
+[618|off=0x15d7e|chars=46]
+Dr. Hope: And I'd like to add some\noptions to 
+
+[619|off=0x15ddc|chars=28]
+R soon, if you\ndon't mind...
+
+[620|off=0x15e20|chars=46]
+Dr. Hope: And I'd like to add some\noptions to 
+
+[621|off=0x15e7e|chars=28]
+R soon, if you\ndon't mind...
+
+[622|off=0x15ec2|chars=76]
+Dr. Hope: But it would be helpful if you\ncould gather some Plain Ore\nfor me.
+
+[623|off=0x15f66|chars=76]
+Dr. Hope: But it would be helpful if you\ncould gather some Plain Ore\nfor me.
+
+[624|off=0x1600a|chars=59]
+Dr. Hope: Let's see, I think it would\ntake about this much:
+
+[625|off=0x1608c|chars=59]
+Dr. Hope: Let's see, I think it would\ntake about this much:
+
+[626|off=0x1610e|chars=98]
+Dr. Hope: If you could just bring me the\nore when you come for your\nmaintenance, I'll add options.
+
+[627|off=0x161de|chars=98]
+Dr. Hope: If you could just bring me the\nore when you come for your\nmaintenance, I'll add options.
+
+[628|off=0x162ae|chars=20]
+Dr. Hope: Oh, hello 
+
+[629|off=0x162d8|chars=35]
+P.\nDid you bring me some Plain Ore?
+
+[630|off=0x1632a|chars=68]
+Dr. Hope: All right. I'll take it, then.\nLet's see now. You gave me\n
+
+[631|off=0x163b4|chars=31]
+K pieces of ore up until now...
+
+[632|off=0x163fe|chars=115]
+Dr. Hope: All right. You can give it to\nme later. You'll need this much ore\nfor me to install your robot's options:
+
+[633|off=0x164f0|chars=102]
+Dr. Hope: If you could just bring me the\nore when you come for your\nmaintenance, I'll add the options.
+
+[634|off=0x165c8|chars=115]
+Dr. Hope: The option will be installed\nover the net tonight, so you'll be able\nto use it starting tomorrow morning.
+
+[635|off=0x166ba|chars=61]
+Dr. Hope: Well! It looks like you\nearned all of the options, 
+
+[636|off=0x1673e|chars=20]
+R must be happy too.
+
+[637|off=0x16772|chars=62]
+Dr. Hope: I'm sure you're looking\nforward to tomorrow morning.
+
+[638|off=0x167fa|chars=101]
+Dr. Hope: By the way, the Mushroom\nCooking Contest is coming up. Autumn\nis mushroom season, you know.
+
+[639|off=0x168d0|chars=101]
+Dr. Hope: By the way, the Mushroom\nCooking Contest is coming up. Autumn\nis mushroom season, you know.
+
+[640|off=0x169a6|chars=62]
+Dr. Hope: I hear that Nana has something\nshe wants to ask you.
+
+[641|off=0x16a2e|chars=62]
+Dr. Hope: I hear that Nana has something\nshe wants to ask you.
+
+[642|off=0x16ab6|chars=49]
+Vita: Do you know what a\nMonsoon Watering Can is?
+
+[643|off=0x16b24|chars=98]
+Vita: If you fill it with Spirit Water,\nyou can melt the snow on the\nground and plant crops there.
+
+[644|off=0x16bf4|chars=65]
+Vita: You can get Spirit Water from the\nspring outside your barn.
+
+[645|off=0x16c82|chars=70]
+Vita: Do you want to fill your\nMonsoon Watering Can with Spirit Water?
+
+[646|off=0x16d1a|chars=65]
+Vita: You can get Spirit Water from the\nspring outside your barn.
+
+[647|off=0x16da8|chars=83]
+Vita: If you have some poinsettia or\nkale seeds, you can grow crops\neven in winter.
+
+[648|off=0x16e5a|chars=52]
+Dr. Hope: The Mushroom Cooking Contest\nis next week.
+
+[649|off=0x16ece|chars=81]
+Dr. Hope: I'm afraid I won't be able to\nattend, but please go and enjoy\nyourself.
+
+[650|off=0x16f7c|chars=49]
+Vita: Do you know what a\nMonsoon Watering Can is?
+
+[651|off=0x16fea|chars=98]
+Vita: If you fill it with Spirit Water,\nyou can melt the snow on the\nground and plant crops there.
+
+[652|off=0x170ba|chars=65]
+Vita: You can get Spirit Water from the\nspring outside your barn.
+
+[653|off=0x17148|chars=70]
+Vita: Do you want to fill your\nMonsoon Watering Can with Spirit Water?
+
+[654|off=0x171e0|chars=65]
+Vita: You can get Spirit Water from the\nspring outside your barn.
+
+[655|off=0x1726e|chars=83]
+Vita: If you have some poinsettia or\nkale seeds, you can grow crops\neven in winter.
+
+[656|off=0x17320|chars=90]
+Dr. Hope: Oh that's right. The Mushroom\nCooking Contest was today. Dorothy\nwon, I suppose?
+
+[657|off=0x173e0|chars=70]
+Dr. Hope: What? Nana won?\nAnd it was thanks to your\nporcini mushrooms?
+
+[658|off=0x17478|chars=90]
+Dr. Hope: Very impressive!\nI don't blame you for helping Nana.\nShe's very cute, isn't she?
+
+[659|off=0x17538|chars=50]
+Vita: The doctor hasn't been eating\nwell recently.
+
+[660|off=0x175a8|chars=43]
+Vita: I don't think he's feeling very\nwell.
+
+[661|off=0x1760a|chars=69]
+Vita: I hope you'll be able to appease\nthe Fire Spirit's anger soon,\n
+
+[662|off=0x176a6|chars=103]
+Dr. Hope: The Mushroom Cooking Contest\njust ended and now people are\ntalking about the Christmas Party.
+
+[663|off=0x17780|chars=81]
+Dr. Hope: I understand that Dorothy has\nsomething she wants to talk to\nyou about.
+
+[664|off=0x1782e|chars=50]
+Vita: The doctor hasn't been eating\nwell recently.
+
+[665|off=0x1789e|chars=43]
+Vita: I don't think he's feeling very\nwell.
+
+[666|off=0x17900|chars=69]
+Vita: I hope you'll be able to appease\nthe Fire Spirit's anger soon,\n
+
+[667|off=0x1799c|chars=35]
+Dr. Hope: Time certainly does fly,\n
+
+[668|off=0x179e4|chars=37]
+P. Already another\nwinter is upon us.
+
+[669|off=0x17a3a|chars=77]
+Dr. Hope: But I can't recall there\never being a more fruitful\nyear than this.
+
+[670|off=0x17ae0|chars=66]
+Dr. Hope: What do you think?\nWas this year a good one\nfor you too?
+
+[671|off=0x17b70|chars=85]
+Dr. Hope: That's good. Keep up the good\nwork until the Fire Spirit has\nbeen appeased.
+
+[672|off=0x17c26|chars=58]
+Dr. Hope: No?\nAre you worried or confused\nabout something?
+
+[673|off=0x17ca6|chars=75]
+Dr. Hope: Have you met the Nature\nSprites in the Giant Forest to the\nnorth?
+
+[674|off=0x17d48|chars=105]
+Dr. Hope: Good! Then there's no need to\nbe confused. You just have to\ngrow a lot of poinsettias for them.
+
+[675|off=0x17e26|chars=109]
+Dr. Hope: You haven't met them yet?! But\nyou met the mermaid and showed her the\nForest Spirit's Crest, right?
+
+[676|off=0x17f0c|chars=30]
+Dr. Hope: There's still time,\n
+
+[677|off=0x17f4a|chars=51]
+P. The fate of this island\nrests on your shoulders.
+
+[678|off=0x17fbc|chars=102]
+Dr. Hope: Don't tell me you haven't even\nshown the Water Spirit's Crest to the\nhermit by Mermaid Lake?
+
+[679|off=0x18094|chars=22]
+Vita: Have you heard, 
+
+[680|off=0x180d2|chars=59]
+Vita: The Nature Sprite of Memory\nhas a single warm memory.
+
+[681|off=0x18154|chars=73]
+Vita: And that is of the poinsettia\nplants that grow on the snowy\nplains.
+
+[682|off=0x181f2|chars=74]
+Vita: They must have associated it with\nthe festivities of Christmas time.
+
+[683|off=0x18292|chars=118]
+Dr. Hope: I didn't like the heat in the\nsummer, but when it gets this cold, I\nfind myself wishing it was summer again.
+
+[684|off=0x1838a|chars=41]
+Dr. Hope: I guess it's just human\nnature.
+
+[685|off=0x183e8|chars=22]
+Vita: Have you heard, 
+
+[686|off=0x18426|chars=59]
+Vita: The Nature Sprite of Memory\nhas a single warm memory.
+
+[687|off=0x184a8|chars=73]
+Vita: And that is of the poinsettia\nplants that grow on the snowy\nplains.
+
+[688|off=0x18546|chars=74]
+Vita: They must have associated it with\nthe festivities of Christmas time.
+
+[689|off=0x185e6|chars=102]
+Dr. Hope: The Christmas Party is next\nweek. Everyone in town is going to be\ngoing to the Mayor's Hall.
+
+[690|off=0x186be|chars=121]
+Dr. Hope: The party is going to be on\nWednesday the 24th.\nThat day is different from your\nusual maintenance, so remember.
+
+[691|off=0x187bc|chars=86]
+Vita: The doctor seems a little better\ntoday, now that he was able to see\nyou, Master 
+
+[692|off=0x1887a|chars=69]
+Vita: I hope you'll be able to appease\nthe Fire Spirit's anger soon,\n
+
+[693|off=0x18916|chars=34]
+Dr. Hope: Today is a special day,\n
+
+[694|off=0x1896c|chars=65]
+Dr. Hope: Why, you ask?\nYou were born exactly one year\nago today.
+
+[695|off=0x189fa|chars=52]
+Dr. Hope: Didn't I tell you?\nToday is your birthday.
+
+[696|off=0x18a6e|chars=28]
+Dr. Hope: Hahaha!\nI'm sorry.
+
+[697|off=0x18ab2|chars=93]
+Dr. Hope: I added a little something to\nyour body when I was doing your\nexamination just now.
+
+[698|off=0x18b78|chars=73]
+Dr. Hope: Heheh. But I can't tell you\nwhat it is just yet.\nIt's a secret.
+
+[699|off=0x18c16|chars=47]
+Dr. Hope: It's a little present from me\nto you.
+
+[700|off=0x18c80|chars=82]
+Dr. Hope: My other present for you is\nthis: Today's examination was your\nlast one.
+
+[701|off=0x18d30|chars=86]
+Dr. Hope: You've done a great job,\ncoming here every week. It couldn't\nhave been easy.
+
+[702|off=0x18de8|chars=87]
+Dr. Hope: This year, you've grown into a\ndependable Innocent Life, just\nas I had hoped.
+
+[703|off=0x18ea2|chars=53]
+Dr. Hope: These examinations are no\nlonger necessary.
+
+[704|off=0x18f18|chars=74]
+Dr. Hope: From now on, you can live your\nlife the way you want to live it.
+
+[705|off=0x18fb8|chars=60]
+Vita: I'm watching over the doctor, just\nas he did for you, 
+
+[706|off=0x19032|chars=25]
+P.\nDon't worry about him.
+
+[707|off=0x19070|chars=25]
+Vita: By the way, Master 
+
+[708|off=0x190b4|chars=81]
+Vita: Some tools require a high SP.\nYou may not be able to equip them\nright away.
+
+[709|off=0x19162|chars=66]
+Vita: In general, it's a good idea to\nuse a wide variety of tools.
+
+[710|off=0x191f2|chars=25]
+Vita: By the way, Master 
+
+[711|off=0x19236|chars=104]
+Vita: You can sometimes find resources\nwhen you break up rocks with a\nhammer or cut up wood with an axe.
+
+[712|off=0x19312|chars=80]
+Vita: You can ship those resources using\nthe blue pod, so don't throw them\naway.
+
+[713|off=0x193be|chars=25]
+Vita: By the way, Master 
+
+[714|off=0x19402|chars=108]
+Vita: Have you tried using your hammer\nin the cave? Break up boulders and\nyou may find a Spirit Stone piece.
+
+[715|off=0x194e6|chars=25]
+Vita: By the way, Master 
+
+[716|off=0x1952a|chars=92]
+Vita: Have you tried placing a Spirit\nStone on one of the small stone\naltars in your fields?
+
+[717|off=0x195ee|chars=97]
+Vita: Try placing jewels of the same\ncolor in the four corners of the altar\nand see what happens.
+
+[718|off=0x196ba|chars=43]
+R is waiting!\nMaybe you should talk to him.
+
+[719|off=0x1971a|chars=43]
+R is waiting!\nMaybe you should talk to him.
+
+[720|off=0x19778|chars=60]
+You heard a voice that sounds like\nMax's somewhere nearby...
+
+[721|off=0x197fc|chars=34]
+Dr. Hope: Can I have the ore then?
+
+[722|off=0x19848|chars=28]
+Your Human Status\nincreased!
+
+[723|off=0x19888|chars=66]
+Your activities from the previous\nday increased your Human\nStatus!
+
+[724|off=0x19914|chars=59]
+Do you want to go to bed and\nsleep for the rest of the day?
+
+[725|off=0x19992|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[726|off=0x19a0e|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[727|off=0x19a8a|chars=36]
+Do you want to sleep here for today?
+
+[728|off=0x19ada|chars=76]
+Then do you want to use the tent's\nwarp function to return to your own\nroom?
+
+[729|off=0x19b7a|chars=44]
+This is a very expensive looking\nwardrobe...
+
+[730|off=0x19bda|chars=31]
+There are dishes lined up here.
+
+[731|off=0x19c20|chars=27]
+You try washing your hands.
+
+[732|off=0x19c5e|chars=30]
+This sink is very easy to use.
+
+[733|off=0x19ca2|chars=25]
+Your hands are now clean.
+
+[734|off=0x19cdc|chars=24]
+But there was no soap...
+
+[735|off=0x19d14|chars=40]
+The water pressure seems a little\nlow...
+
+[736|off=0x19d6c|chars=48]
+You were surprised at how dirty\nyour hands were.
+
+[737|off=0x19dd4|chars=43]
+There's water splashed all around\nthe sink!
+
+[738|off=0x19e32|chars=24]
+You wipe the area clean.
+
+[739|off=0x19e6a|chars=26]
+Lukewarm water came out...
+
+[740|off=0x19ea6|chars=49]
+The drain doesn't seem to be\nworking very well...
+
+[741|off=0x19f10|chars=41]
+Hot water came out with\nincredible force!
+
+[742|off=0x19f6a|chars=44]
+A very nice smell surrounds the\nsoap here...
+
+[743|off=0x19fca|chars=55]
+You try washing your face.\nYou feel somewhat refreshed.
+
+[744|off=0x1a040|chars=42]
+There are lots of things on the\nshelves...
+
+[745|off=0x1a09c|chars=19]
+There is wine here.
+
+[746|off=0x1a0ca|chars=23]
+You look at the toilet.
+
+[747|off=0x1a100|chars=32]
+It seems to have been flushed...
+
+[748|off=0x1a148|chars=21]
+It's sparkling clean!
+
+[749|off=0x1a17a|chars=28]
+You push the "Flush" button.
+
+[750|off=0x1a1ba|chars=30]
+There is a note on the toilet.
+
+[751|off=0x1a1fe|chars=20]
+"Please keep clean!"
+
+[752|off=0x1a22e|chars=70]
+It appears to have a toilet seat\nthat raises and lowers automatically.
+
+[753|off=0x1a2c2|chars=68]
+There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+
+[754|off=0x1a352|chars=53]
+The scent of aromatic oil floats\naround the toilet...
+
+[755|off=0x1a3c4|chars=29]
+This is an automatic bathtub.
+
+[756|off=0x1a406|chars=62]
+You opened the drawer.\nThere are many different things\ninside.
+
+[757|off=0x1a48a|chars=64]
+This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+
+[758|off=0x1a512|chars=38]
+There are many books in the\nbookshelf.
+
+[759|off=0x1a566|chars=45]
+But there's no reason for you to\nread them...
+
+[760|off=0x1a5c8|chars=26]
+You open the refrigerator.
+
+[761|off=0x1a604|chars=65]
+But you quickly close it again\nto prevent the food from spoiling.
+
+[762|off=0x1a68e|chars=75]
+"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+
+[763|off=0x1a72c|chars=86]
+"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+
+[764|off=0x1a7e0|chars=63]
+"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+
+[765|off=0x1a866|chars=50]
+"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+
+[766|off=0x1a8d2|chars=71]
+"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+
+[767|off=0x1a968|chars=39]
+"Here and There"\n  Where on earth am I?
+
+[768|off=0x1a9be|chars=39]
+"Straight Ahead: South Heartflame\nCave"
+
+[769|off=0x1aa14|chars=30]
+"Straight Ahead: Easter Ruins"
+
+[770|off=0x1aa58|chars=45]
+"Straight Ahead: Southeast Bank\nof East Lake"
+
+[771|off=0x1aaba|chars=23]
+"East: Mushroom Forest"
+
+[772|off=0x1aaf0|chars=45]
+"Straight Ahead: Southwest Bank\nof East Lake"
+
+[773|off=0x1ab52|chars=37]
+"Danger! Fallen Trees.\nDo Not Enter."
+
+[774|off=0x1aba4|chars=25]
+"East: Heartflame Desert"
+
+[775|off=0x1abde|chars=18]
+"Heartflame Dunes"
+
+[776|off=0x1ac0a|chars=26]
+"North: Heartflame Plains"
+
+[777|off=0x1ac46|chars=19]
+"Heartflame Plains"
+
+[778|off=0x1ac74|chars=32]
+"Southeast Bank of Mermaid Lake"
+
+[779|off=0x1acbc|chars=14]
+"Mermaid Lake"
+
+[780|off=0x1ace0|chars=24]
+"South: Mushroom Forest"
+
+[781|off=0x1ad18|chars=32]
+"Southwest Bank of Mermaid Lake"
+
+[782|off=0x1ad60|chars=11]
+"East Lake"
+
+[783|off=0x1ad7e|chars=54]
+I found a TV schedule wedged\nbetween sodden magazines.
+
+[784|off=0x1adf2|chars=73]
+Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+
+[785|off=0x1ae8c|chars=70]
+Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+
+[786|off=0x1af22|chars=28]
+How to play with Cart Rails,
+
+[787|off=0x1af5c|chars=7]
+ ~Rails
+
+[788|off=0x1af72|chars=57]
+First, lay rails and\nprepare conditions to use Pod Rails.
+
+[789|off=0x1afec|chars=113]
+You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+
+[790|off=0x1b0da|chars=28]
+How to play with Cart Rails,
+
+[791|off=0x1b114|chars=8]
+ ~Motors
+
+[792|off=0x1b12c|chars=102]
+Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+
+[793|off=0x1b200|chars=96]
+You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+
+[794|off=0x1b2c2|chars=8]
+ button.
+
+[795|off=0x1b2da|chars=38]
+"How to play with Cart Rails," ~ Carts
+
+[796|off=0x1b32e|chars=118]
+Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+
+[797|off=0x1b422|chars=62]
+You can be a driver\nif you operate Motors\nwhile riding a Cart.
+
+[798|off=0x1b4a6|chars=40]
+"How to play with Cart Rails," ~Shipping
+
+[799|off=0x1b4fe|chars=95]
+If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+
+[800|off=0x1b5c4|chars=120]
+Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+
+[801|off=0x1b6be|chars=22]
+Physiocracy and Magic,
+
+[802|off=0x1b6ec|chars=21]
+\n~or "Book of Spirit"
+
+[803|off=0x1b71e|chars=69]
+If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+
+[804|off=0x1b7b0|chars=75]
+You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+
+[805|off=0x1b84e|chars=59]
+It's a book with Fairy Tales\nfor early childhood education.
+
+[806|off=0x1b8cc|chars=91]
+I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+
+[807|off=0x1b98a|chars=28]
+My heart is twinging...\nWhy?
+
+[808|off=0x1b9ca|chars=44]
+It's a Haiku Book\nwritten by Principle Rose.
+
+[809|off=0x1ba2a|chars=68]
+There are more Haikus about love\nthan about scenery or daily life...
+
+[810|off=0x1baba|chars=69]
+It's like reading someone else's diary.\nI feel a little bit guilty...
+
+[811|off=0x1bb4e|chars=30]
+Tale of the Love & Bow Knight,
+
+[812|off=0x1bb8c|chars=7]
+ Vol. 1
+
+[813|off=0x1bba2|chars=63]
+Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+
+[814|off=0x1bc28|chars=108]
+There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+
+[815|off=0x1bd0a|chars=30]
+Tale of the Love & Bow Knight,
+
+[816|off=0x1bd48|chars=7]
+ Vol. 2
+
+[817|off=0x1bd5e|chars=73]
+Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+
+[818|off=0x1bdf8|chars=106]
+They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+
+[819|off=0x1bed8|chars=30]
+Dr. Hope: Well done. You need 
+
+[820|off=0x1bf16|chars=57]
+K\npieces to get the "Carry" upgrade.\nSo please go get me 
+
+[821|off=0x1bf8a|chars=7]
+L more.
+
+[822|off=0x1bfa4|chars=30]
+Dr. Hope: Well done. You need 
+
+[823|off=0x1bfe2|chars=57]
+K\npieces to get the "Quick" upgrade.\nSo please go get me 
+
+[824|off=0x1c056|chars=7]
+L more.
+
+[825|off=0x1c070|chars=30]
+Dr. Hope: Well done. You need 
+
+[826|off=0x1c0ae|chars=57]
+K\npieces to get the "Power" upgrade.\nSo please go get me 
+
+[827|off=0x1c122|chars=7]
+L more.
+
+[828|off=0x1c13c|chars=30]
+Dr. Hope: Well done. You need 
+
+[829|off=0x1c17a|chars=58]
+K\npieces to get the "Charge" upgrade.\nSo please go get me 
+
+[830|off=0x1c1f0|chars=7]
+L more.
+
+[831|off=0x1c20a|chars=47]
+Dr. Hope: OK. I'll install the "Carry"\nupgrade!
+
+[832|off=0x1c274|chars=47]
+Dr. Hope: OK. I'll install the "Quick"\nupgrade!
+
+[833|off=0x1c2de|chars=47]
+Dr. Hope: OK. I'll install the "Power"\nupgrade!
+
+[834|off=0x1c348|chars=48]
+Dr. Hope: OK. I'll install the "Charge"\nupgrade!
+
+[835|off=0x1c3b8|chars=19]
+K pieces\nQuick:    
+
+[836|off=0x1c3e0|chars=18]
+L pieces\nPower:   
+
+[837|off=0x1c406|chars=18]
+M pieces\nCharge:  
+
+[838|off=0x1c42c|chars=8]
+N pieces
+
+[839|off=0x1c44c|chars=18]
+K pieces\nPower:   
+
+[840|off=0x1c472|chars=18]
+L pieces\nCharge:  
+
+[841|off=0x1c498|chars=8]
+M pieces
+
+[842|off=0x1c4b6|chars=18]
+K pieces\nCharge:  
+
+[843|off=0x1c4dc|chars=8]
+L pieces
+
+[844|off=0x1c4f8|chars=8]
+K pieces
+
+[845|off=0x1c510|chars=6]
+Yes\nNo
+
+[846|off=0x1c524|chars=6]
+Yes\nNo
+
+[847|off=0x1c538|chars=6]
+Yes\nNo
+
+[848|off=0x1c54c|chars=6]
+Yes\nNo
+
+[849|off=0x1c560|chars=6]
+Yes\nNo
+
+[850|off=0x1c574|chars=6]
+Yes\nNo
+
+[851|off=0x1c588|chars=6]
+Yes\nNo
+
+[852|off=0x1c59c|chars=6]
+Yes\nNo
+
+[853|off=0x1c5b0|chars=6]
+Yes\nNo
+
+[854|off=0x1c5c4|chars=6]
+Yes\nNo
+
+[855|off=0x1c5d8|chars=6]
+Yes\nNo
+
+[856|off=0x1c5ec|chars=6]
+Yes\nNo
+
+[857|off=0x1c600|chars=6]
+Yes\nNo
+
+[858|off=0x1c614|chars=6]
+Yes\nNo
+
+[859|off=0x1c628|chars=6]
+Yes\nNo
+
+[860|off=0x1c63c|chars=6]
+Yes\nNo
+
+[861|off=0x1c650|chars=6]
+Yes\nNo
+
+[862|off=0x1c664|chars=6]
+Yes\nNo
+
+[863|off=0x1c678|chars=6]
+Yes\nNo
+
+[864|off=0x1c68c|chars=6]
+Yes\nNo
+
+[865|off=0x1c6a0|chars=6]
+Yes\nNo
+
+[866|off=0x1c6b4|chars=6]
+Yes\nNo
+
+[867|off=0x1c6c8|chars=6]
+Yes\nNo
+
+[868|off=0x1c6dc|chars=6]
+Yes\nNo
+
+[869|off=0x1c6f0|chars=6]
+Yes\nNo
+
+[870|off=0x1c704|chars=6]
+Yes\nNo
+
+[871|off=0x1c718|chars=6]
+Yes\nNo
+
+[872|off=0x1c72c|chars=6]
+Yes\nNo
+
+[873|off=0x1c740|chars=6]
+Yes\nNo
+
+[874|off=0x1c756|chars=39]
+Volcano Town Resident\nRegistration Form
+
+[875|off=0x1c7a8|chars=7]
+<\nName:
+
+[876|off=0x1c7c2|chars=7]
+P Grain
+
+[877|off=0x1c7de|chars=39]
+Volcano Town Resident\nRegistration Form
+
+[878|off=0x1c832|chars=7]
+\nType: 
+
+[879|off=0x1c848|chars=5]
+Male 
+
+[880|off=0x1c856|chars=7]
+Female 
+
+[881|off=0x1c868|chars=4]
+Dog 
+
+[882|off=0x1c874|chars=4]
+Cat 
+
+[883|off=0x1c880|chars=6]
+Robot 
+
+[884|off=0x1c890|chars=5]
+Other
+
+[885|off=0x1c8a8|chars=39]
+Volcano Town Resident\nRegistration Form
+
+[886|off=0x1c8f8|chars=7]
+\nType: 
+
+[887|off=0x1c90e|chars=5]
+Robot
+
+[888|off=0x1c926|chars=39]
+Volcano Town Resident\nRegistration Form
+
+[889|off=0x1c976|chars=7]
+\nType: 
+
+[890|off=0x1c98c|chars=4]
+Male
+
+[891|off=0x1c99c|chars=57]
+Save and go to sleep.\nGo to sleep without saving.\nCancel.
+
+[892|off=0x1ca1a|chars=21]
+Challenge increased!\n
+
+[893|off=0x1ca5a|chars=21]
+Challenge increased!\n
+
+[894|off=0x1ca9a|chars=16]
+Love increased!\n
+
+[895|off=0x1cad0|chars=24]
+Intelligence increased!\n
+
+[896|off=0x1cb16|chars=19]
+Cooking increased!\n
+
+[897|off=0x1cb52|chars=22]
+Creativity increased!\n
+
+[898|off=0x1cb94|chars=17]
+Humor increased!\n
+
+[899|off=0x1cbcc|chars=4]
+Life
+
+[900|off=0x1cbdc|chars=5]
+Forte
+
+[901|off=0x1cbee|chars=7]
+Chocobi
+
+[902|off=0x1cc04|chars=5]
+Cocoa
+
+[903|off=0x1cc16|chars=4]
+Yogi
+
+[904|off=0x1cc26|chars=5]
+Cow 1
+
+[905|off=0x1cc38|chars=5]
+Cow 2
+
+[906|off=0x1cc4a|chars=5]
+Cow 3
+
+[907|off=0x1cc5c|chars=5]
+Cow 4
+
+[908|off=0x1cc6e|chars=5]
+Cow 5
+
+[909|off=0x1cc80|chars=7]
+Sheep 1
+
+[910|off=0x1cc96|chars=7]
+Sheep 2
+
+[911|off=0x1ccac|chars=7]
+Sheep 3
+
+[912|off=0x1ccc2|chars=7]
+Sheep 4
+
+[913|off=0x1ccd8|chars=7]
+Sheep 5
+
+[914|off=0x1ccee|chars=9]
+Chicken 1
+
+[915|off=0x1cd08|chars=9]
+Chicken 2
+
+[916|off=0x1cd22|chars=9]
+Chicken 3
+
+[917|off=0x1cd3c|chars=9]
+Chicken 4
+
+[918|off=0x1cd56|chars=9]
+Chicken 5
+
+[919|off=0x1cd70|chars=4]
+Yogi
+
+[920|off=0x1cd80|chars=62]
+The brown cat on the left.\nThe white cat on the right.\nCancel.
+
+[921|off=0x1ce04|chars=47]
+So you've decided on the\nbrown cat on the left?
+
+[922|off=0x1ce6a|chars=53]
+Please think of a name for\nthe brown cat on the left.
+
+[923|off=0x1cedc|chars=36]
+You named the brown cat\non the left 
+
+[924|off=0x1cf32|chars=48]
+So you've decided on the\nwhite cat on the right?
+
+[925|off=0x1cf9a|chars=54]
+Please think of a name for\nthe white cat on the right.
+
+[926|off=0x1d00e|chars=37]
+You named the white cat\non the right 
+
+[927|off=0x1d06a|chars=36]
+Gayak: Okay then. Take good care\nof 
+
+[928|off=0x1d0c0|chars=58]
+You haven't gone to Dr. Hope's\nfor your maintenance today!

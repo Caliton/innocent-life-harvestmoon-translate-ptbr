@@ -1,0 +1,281 @@
+# ETOUT5.SCP - 92 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x3aa|chars=76]
+Esta e sua cama...\nMas voce nao pode dormir agora.\nFranco esta esperando.
+
+[1|off=0x44e|chars=56]
+Franco: Entao voce comecou\na criar animais, hein?
+
+[2|off=0x4ca|chars=109]
+Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem\nsao invencoes do Dr. Hope?
+
+[3|off=0x5b0|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatico, mas na epoca usar\nrobos era ideia revolucionaria.
+
+[4|off=0x69c|chars=61]
+Franco: Ouvi que ainda os usam\nbastante no exterior.
+
+[5|off=0x722|chars=74]
+Moonlight: O balido dos animais\nse ouve novamente\nnestas ruinas!
+
+[6|off=0x7c2|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar esta terra\ne a natureza!
+
+[7|off=0x882|chars=72]
+Franco: Uau!\nQue sortudo!\nGanhar um buggy desses de presente!
+
+[8|off=0x91e|chars=89]
+Franco: Se eu tivesse um buggy,\nlevava a Rose num passeio\nque ela nunca esqueceria!
+
+[9|off=0x9dc|chars=11]
+Moonlight: 
+
+[10|off=0x9f4|chars=52]
+P! Que presente bonito\ndo Dr. Hope que voce ganhou.
+
+[11|off=0xa68|chars=63]
+Moonlight: Com um buggy assim\nvoce vai a qualquer lugar!
+
+[12|off=0xaf2|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.
+
+[13|off=0xb76|chars=73]
+Franco: Quando jovem, todos iam\ncurtir naquela caverna\ncom as namoradas.
+
+[14|off=0xc14|chars=11]
+Moonlight: 
+
+[15|off=0xc2c|chars=57]
+P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
+
+[16|off=0xcaa|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar\nao estado original.
+
+[17|off=0xd50|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.
+
+[18|off=0xdbe|chars=120]
+Franco: Se mandar bastante ate\na vespera do Natal, podem usar\npra decorar a cidade.
+
+[19|off=0xeba|chars=21]
+Franco: Nao aguento!
+
+[20|off=0xef0|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[21|off=0xf4e|chars=96]
+Franco: Sei que esta preocupado,\nmas tem trabalho importante\na terminar.
+
+[22|off=0x101a|chars=89]
+Franco: O melhor pro Dr. Hope\nagora e ver o quanto\nvoce esta se dedicando.
+
+[23|off=0x10d8|chars=52]
+Moonlight: Nao sabia que o\nDr. Hope estava doente...
+
+[24|off=0x114c|chars=86]
+Moonlight: Suponho que por isso\nele corria para terminar\no trabalho com voce...
+
+[25|off=0x1204|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[26|off=0x125a|chars=12]
+P. Eu sinto.
+
+[27|off=0x127e|chars=31]
+Franco: Era um bom amigo...
+
+[28|off=0x12c8|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[29|off=0x1334|chars=74]
+Moonlight: Disse que ha muito\nmais neste mundo do que\nos olhos veem!
+
+[30|off=0x13d4|chars=91]
+Moonlight: O que quero dizer...\nCerteza que o Dr. Hope sempre\nestara velando por voce, 
+
+[31|off=0x149c|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?
+
+[32|off=0x1524|chars=97]
+Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+
+[33|off=0x15f2|chars=61]
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
+
+[34|off=0x1678|chars=43]
+Franco: Um alien mora\nno novo quarto?
+
+[35|off=0x16da|chars=97]
+Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+
+[36|off=0x17a8|chars=61]
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
+
+[37|off=0x182e|chars=11]
+Moonlight: 
+
+[38|off=0x1846|chars=76]
+P!\nVi algo estranho parecendo\num bicho de pelucia no novo quarto.
+
+[39|off=0x18ea|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!
+
+[40|off=0x195c|chars=13]
+Becky: Olha! 
+
+[41|off=0x1988|chars=34]
+Becky: Uma rosa branca na neve...
+
+[42|off=0x19d8|chars=93]
+Becky: A lenda era sobre\nneve no verao, nao\nrosa florescendo no inverno...!
+
+[43|off=0x1a9a|chars=4]
+Mas 
+
+[44|off=0x1aa4|chars=53]
+P's hands\nsomehow felt too weak\nto check the items...
+
+[45|off=0x1b18|chars=16]
+P olhou redor.
+
+[46|off=0x1b40|chars=37]
+A neve estava brilhante...
+
+[47|off=0x1b92|chars=37]
+A neve estava brilhante...
+
+[48|off=0x1be4|chars=51]
+Ar frio saindo\ndo Shipping Pod...
+
+[49|off=0x1c52|chars=51]
+Ar frio saindo\ndo Shipping Pod...
+
+[50|off=0x1cc4|chars=29]
+Gayak: What's wrong with you\n
+
+[51|off=0x1d00|chars=59]
+P, me olhando assim?\nTenho algo no rosto?
+
+[52|off=0x1d82|chars=82]
+Gayak: Melhor levar o Mestre\nLionel pra casa, senao\nMarco vai ficar bravo.
+
+[53|off=0x1e32|chars=22]
+Lionel: Zzzz... Zzz...
+
+[54|off=0x1e6a|chars=44]
+Lionel: Grrrr...\n5a porcao de crepe~!
+
+[55|off=0x1ece|chars=28]
+Lionel: ...Zzzz...  Zzzz...
+
+[56|off=0x1f12|chars=14]
+Simon: Ops, 
+
+[57|off=0x1f30|chars=41]
+P.\nLionel nao quer ser ruim\ncom voce.
+
+[58|off=0x1f8e|chars=59]
+Simon: Estraguei o crepe\nda adivinhacao...
+
+[59|off=0x2010|chars=75]
+Becky: Querido,\nainda lembra da promessa\nque fizemos no casamento?
+
+[60|off=0x20b2|chars=36]
+Becky: A rosa da felicidade...
+
+[61|off=0x2106|chars=46]
+Becky: ...Queria mostrar\npara meu pai tambem
+
+[62|off=0x2170|chars=82]
+Becky: Chegamos longe, nao?\nPassamos por dificuldades\nmas estou feliz agora.
+
+[63|off=0x2220|chars=7]
+Becky: 
+
+[64|off=0x2230|chars=20]
+P,\nvoce e feliz...?
+
+[65|off=0x2264|chars=18]
+Becky: Ha...he...?
+
+[66|off=0x2294|chars=49]
+Becky: ...Perdao...\n...vou espirrar...*atchim*...
+
+[67|off=0x22fe|chars=18]
+SAUUUUUDE!!!
+
+[68|off=0x232c|chars=58]
+P tentou dormir,\nmas ficou pensando que\nesqueceu algo
+
+[69|off=0x23aa|chars=32]
+Sem perceber,\namanheceu...
+
+[70|off=0x23f4|chars=43]
+R esta esperando!\nFale com ele.
+
+[71|off=0x2452|chars=60]
+Ouviu uma voz parecida\ncom a de Max por perto...
+
+[72|off=0x24d2|chars=66]
+Suas atividades do dia anterior\naumentaram seu Nivel\nHumano!
+
+[73|off=0x255e|chars=59]
+Quer ir para a cama e\ndormir o resto do dia?
+
+[74|off=0x25dc|chars=58]
+Quer acordar mais cedo\nque o normal amanha?
+
+[75|off=0x2658|chars=58]
+Quer acordar mais cedo\nque o normal amanha?
+
+[76|off=0x26d4|chars=36]
+Quer dormir aqui hoje?
+
+[77|off=0x2724|chars=76]
+Quer usar a funcao warp da\nbarraca para voltar\nao seu quarto?
+
+[78|off=0x27c4|chars=6]
+Ok\nNao
+
+[79|off=0x27d8|chars=6]
+Ok\nNao
+
+[80|off=0x27ec|chars=6]
+Ok\nNao
+
+[81|off=0x2800|chars=6]
+Ok\nNao
+
+[82|off=0x2814|chars=6]
+Ok\nNao
+
+[83|off=0x2828|chars=57]
+Salvar e dormir.\nDormir sem salvar.\nAnular.
+
+[84|off=0x28a2|chars=21]
+Challenge increased!\n
+
+[85|off=0x28e2|chars=21]
+Challenge increased!\n
+
+[86|off=0x2922|chars=16]
+Love increased!\n
+
+[87|off=0x2958|chars=24]
+Intelligence increased!\n
+
+[88|off=0x299e|chars=19]
+Cooking increased!\n
+
+[89|off=0x29da|chars=22]
+Creativity increased!\n
+
+[90|off=0x2a1c|chars=17]
+Humor increased!\n
+
+[91|off=0x2a54|chars=58]
+Voce nao foi ao Dr. Hope\npara manutencao hoje!

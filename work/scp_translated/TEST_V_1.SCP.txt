@@ -1,0 +1,2621 @@
+# TEST_V_1.SCP - 869 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x1762|chars=46]
+You can't send that to the\nSeed Box right now!
+
+[1|off=0x17c6|chars=56]
+Your ear receiver is picking up a\nmessage from Dr. Hope!
+
+[2|off=0x1842|chars=10]
+Dr. Hope: 
+
+[3|off=0x1858|chars=38]
+P...\nIt's time you slept.\nGo to bed...
+
+[4|off=0x18b0|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[5|off=0x192c|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[6|off=0x1a12|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[7|off=0x1afe|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[8|off=0x1b84|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[9|off=0x1c24|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[10|off=0x1ce4|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[11|off=0x1d80|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[12|off=0x1e3e|chars=11]
+Moonlight: 
+
+[13|off=0x1e56|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[14|off=0x1eca|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[15|off=0x1f54|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[16|off=0x1fd8|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[17|off=0x2076|chars=11]
+Moonlight: 
+
+[18|off=0x208e|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[19|off=0x210c|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[20|off=0x21b2|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[21|off=0x2220|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[22|off=0x231c|chars=21]
+Franco: I can't wait!
+
+[23|off=0x2352|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[24|off=0x23b0|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[25|off=0x247c|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[26|off=0x253a|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[27|off=0x25ae|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[28|off=0x2666|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[29|off=0x26bc|chars=12]
+P. I am too.
+
+[30|off=0x26e0|chars=31]
+Franco: He was a good friend...
+
+[31|off=0x272a|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[32|off=0x2796|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[33|off=0x2836|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[34|off=0x28fe|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[35|off=0x2986|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[36|off=0x2a54|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[37|off=0x2ada|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[38|off=0x2b3c|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[39|off=0x2c0a|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[40|off=0x2c90|chars=11]
+Moonlight: 
+
+[41|off=0x2ca8|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[42|off=0x2d4c|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[43|off=0x2dba|chars=65]
+You hear the voice of the Fire Spirit\ncoming from all around you!
+
+[44|off=0x2e46|chars=68]
+P...\nI will not allow flower or herb\nseeds to be planted on my land.
+
+[45|off=0x2ed6|chars=31]
+Only herbs can be planted here!
+
+[46|off=0x2f1e|chars=53]
+P's ear receiver picked up\nVita's radio transmission!
+
+[47|off=0x2f94|chars=13]
+Vita: Master 
+
+[48|off=0x2fb0|chars=74]
+P,\nPlease come to Masami's Bar immediately.\nEveryone is waiting for you...
+
+[49|off=0x304c|chars=15]
+The voice lead 
+
+[50|off=0x306c|chars=17]
+P to\nMasami's Bar
+
+[51|off=0x3098|chars=28]
+Your Human Status\nincreased!
+
+[52|off=0x30d8|chars=28]
+Your Human Status\nincreased!
+
+[53|off=0x3118|chars=66]
+Your activities from the previous\nday increased your Human\nStatus!
+
+[54|off=0x31a4|chars=66]
+Your activities from the previous\nday increased your Human\nStatus!
+
+[55|off=0x3230|chars=59]
+Do you want to go to bed and\nsleep for the rest of the day?
+
+[56|off=0x32ae|chars=59]
+Do you want to go to bed and\nsleep for the rest of the day?
+
+[57|off=0x332c|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[58|off=0x33a8|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[59|off=0x3424|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[60|off=0x34a0|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[61|off=0x351c|chars=27]
+O sino da manha tocou!
+
+[62|off=0x355a|chars=27]
+O sino da manha tocou!
+
+[63|off=0x3598|chars=29]
+O sino da tarde tocou!
+
+[64|off=0x35da|chars=29]
+O sino da tarde tocou!
+
+[65|off=0x361c|chars=27]
+O sino da noite tocou!
+
+[66|off=0x365a|chars=27]
+O sino da noite tocou!
+
+[67|off=0x3698|chars=25]
+O sino da noite tocou!
+
+[68|off=0x36d2|chars=25]
+O sino da noite tocou!
+
+[69|off=0x370c|chars=57]
+It's getting very late.\nYou should be getting to sleep...
+
+[70|off=0x3786|chars=57]
+It's getting very late.\nYou should be getting to sleep...
+
+[71|off=0x3800|chars=37]
+The door is locked.\nYou can't get in!
+
+[72|off=0x3852|chars=37]
+The door is locked.\nYou can't get in!
+
+[73|off=0x38a4|chars=20]
+Porta trancada!
+
+[74|off=0x38d4|chars=20]
+Porta trancada!
+
+[75|off=0x3904|chars=38]
+Voce nao tem a chave
+desta porta...
+
+[76|off=0x3958|chars=38]
+Voce nao tem a chave
+desta porta...
+
+[77|off=0x39ac|chars=51]
+This door is sealed shut with a\nmysterious power...
+
+[78|off=0x3a1a|chars=51]
+This door is sealed shut with a\nmysterious power...
+
+[79|off=0x3a88|chars=90]
+There's a terrible storm raging\noutside! You won't be able to move\nvery quickly in that...
+
+[80|off=0x3b44|chars=90]
+There's a terrible storm raging\noutside! You won't be able to move\nvery quickly in that...
+
+[81|off=0x3c00|chars=106]
+The blowing snow makes it almost\nimpossible to see anything! You'd never\nbe able to walk around in that...
+
+[82|off=0x3cdc|chars=106]
+The blowing snow makes it almost\nimpossible to see anything! You'd never\nbe able to walk around in that...
+
+[83|off=0x3db8|chars=54]
+It's raining. You won't have to water\nthe crops today.
+
+[84|off=0x3e2c|chars=54]
+It's raining. You won't have to water\nthe crops today.
+
+[85|off=0x3ea0|chars=76]
+The power of the jewel you placed on\nthe altar broke the seal on this\nfield!
+
+[86|off=0x3f40|chars=76]
+The power of the jewel you placed on\nthe altar broke the seal on this\nfield!
+
+[87|off=0x3fe0|chars=34]
+Qual canal quer assistir?
+
+[88|off=0x402c|chars=34]
+Qual canal quer assistir?
+
+[89|off=0x4078|chars=83]
+This channel is currently off the air.\nPlease wait until broadcasting begins\nagain.
+
+[90|off=0x4126|chars=83]
+This channel is currently off the air.\nPlease wait until broadcasting begins\nagain.
+
+[91|off=0x41d4|chars=94]
+Thank you for choosing Green Network\nTV, the channel that has the future of\nthe earth in mind.
+
+[92|off=0x4298|chars=94]
+Thank you for choosing Green Network\nTV, the channel that has the future of\nthe earth in mind.
+
+[93|off=0x435c|chars=29]
+Estamos fora do ar.
+
+[94|off=0x439e|chars=29]
+Estamos fora do ar.
+
+[95|off=0x43e0|chars=81]
+Service will resume at 4 o'clock\ntomorrow morning. Please try again\nat that time.
+
+[96|off=0x448a|chars=81]
+Service will resume at 4 o'clock\ntomorrow morning. Please try again\nat that time.
+
+[97|off=0x4534|chars=36]
+Quer dormir aqui
+por hoje?
+
+[98|off=0x4584|chars=36]
+Quer dormir aqui
+por hoje?
+
+[99|off=0x45d4|chars=76]
+Then do you want to use the tent's\nwarp function to return to your own\nroom?
+
+[100|off=0x4674|chars=76]
+Then do you want to use the tent's\nwarp function to return to your own\nroom?
+
+[101|off=0x4714|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[102|off=0x4790|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[103|off=0x480c|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[104|off=0x4888|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[105|off=0x4904|chars=44]
+There's no place for\nyou to pitch your tent!
+
+[106|off=0x4964|chars=44]
+There's no place for\nyou to pitch your tent!
+
+[107|off=0x49c4|chars=75]
+Do you want to empty the contents\nof your Scale Pack into the Shipping\nPod?
+
+[108|off=0x4a62|chars=75]
+Do you want to empty the contents\nof your Scale Pack into the Shipping\nPod?
+
+[109|off=0x4b00|chars=50]
+You emptied your Scale Pack into\nthe Shipping Pod.
+
+[110|off=0x4b6c|chars=50]
+You emptied your Scale Pack into\nthe Shipping Pod.
+
+[111|off=0x4bd8|chars=65]
+Do you want to empty the crops\nin your bag into the Shipping Pod?
+
+[112|off=0x4c62|chars=65]
+Do you want to empty the crops\nin your bag into the Shipping Pod?
+
+[113|off=0x4cec|chars=52]
+Which crop do you want to put into\nthe Shipping Pod?
+
+[114|off=0x4d5c|chars=52]
+Which crop do you want to put into\nthe Shipping Pod?
+
+[115|off=0x4dcc|chars=56]
+You emptied the crops in your bag\ninto the Shipping Pod!
+
+[116|off=0x4e44|chars=56]
+You emptied the crops in your bag\ninto the Shipping Pod!
+
+[117|off=0x4ebc|chars=84]
+This is a Shipping Pod. The items inside\nare sent to the market every day at\n5:30PM.
+
+[118|off=0x4f6c|chars=84]
+This is a Shipping Pod. The items inside\nare sent to the market every day at\n5:30PM.
+
+[119|off=0x501c|chars=102]
+This Shipping Pod is for crops and other\nfood items. Place building materials\nand ore in the blue pod.
+
+[120|off=0x50f0|chars=102]
+This Shipping Pod is for crops and other\nfood items. Place building materials\nand ore in the blue pod.
+
+[121|off=0x51c4|chars=94]
+This Shipping Pod is for stone, lumber,\nand ore. Place crops and other foods\nin the green pod.
+
+[122|off=0x5288|chars=94]
+This Shipping Pod is for stone, lumber,\nand ore. Place crops and other foods\nin the green pod.
+
+[123|off=0x534c|chars=56]
+Your ear receiver is picking up a\nmessage from Dr. Hope!
+
+[124|off=0x53c4|chars=56]
+Your ear receiver is picking up a\nmessage from Dr. Hope!
+
+[125|off=0x5440|chars=10]
+Dr. Hope: 
+
+[126|off=0x5456|chars=41]
+P...\nIt's time that you slept.\nGo to bed.
+
+[127|off=0x54b4|chars=10]
+Dr. Hope: 
+
+[128|off=0x54ca|chars=41]
+P...\nIt's time that you slept.\nGo to bed.
+
+[129|off=0x5524|chars=56]
+Your ear receiver is picking up a\nmessage from Dr. Hope!
+
+[130|off=0x559c|chars=56]
+Your ear receiver is picking up a\nmessage from Dr. Hope!
+
+[131|off=0x5618|chars=10]
+Dr. Hope: 
+
+[132|off=0x562e|chars=66]
+P...\nIt's time for your maintenance.\nPlease come to my laboratory.
+
+[133|off=0x56be|chars=10]
+Dr. Hope: 
+
+[134|off=0x56d4|chars=66]
+P...\nIt's time for your maintenance.\nPlease come to my laboratory.
+
+[135|off=0x5760|chars=61]
+You emptied the contents of the\nbasket into the Shipping Pod!
+
+[136|off=0x57e2|chars=61]
+You emptied the contents of the\nbasket into the Shipping Pod!
+
+[137|off=0x586e|chars=9]
+I Price: 
+
+[138|off=0x588a|chars=9]
+I Price: 
+
+[139|off=0x58b4|chars=9]
+I Price: 
+
+[140|off=0x58d0|chars=9]
+I Price: 
+
+[141|off=0x58f0|chars=36]
+O Pod de Envio esta vazio!
+
+[142|off=0x5940|chars=36]
+O Pod de Envio esta vazio!
+
+[143|off=0x599a|chars=9]
+I Price: 
+
+[144|off=0x59b6|chars=9]
+I Price: 
+
+[145|off=0x59e0|chars=9]
+I Price: 
+
+[146|off=0x59fc|chars=9]
+I Price: 
+
+[147|off=0x5a1c|chars=30]
+O cesto esta vazio!
+
+[148|off=0x5a60|chars=30]
+O cesto esta vazio!
+
+[149|off=0x5aa4|chars=44]
+You can't fit anything else into\nthe basket!
+
+[150|off=0x5b04|chars=44]
+You can't fit anything else into\nthe basket!
+
+[151|off=0x5b64|chars=63]
+The Life Arm is active, so you can't\nput any more items inside!
+
+[152|off=0x5bea|chars=63]
+The Life Arm is active, so you can't\nput any more items inside!
+
+[153|off=0x5c70|chars=55]
+The Life Arm is active, so you can't\nmove it right now!
+
+[154|off=0x5ce6|chars=55]
+The Life Arm is active, so you can't\nmove it right now!
+
+[155|off=0x5d5c|chars=73]
+This door is shut tight.\nMaybe there's a control somewhere\naround here...
+
+[156|off=0x5df6|chars=73]
+This door is shut tight.\nMaybe there's a control somewhere\naround here...
+
+[157|off=0x5e90|chars=72]
+It's a terrible sandstorm!\nYou'd never be able to walk around\nin that...
+
+[158|off=0x5f28|chars=72]
+It's a terrible sandstorm!\nYou'd never be able to walk around\nin that...
+
+[159|off=0x5fc0|chars=81]
+A sandstorm is raging...\nMaybe it has turned into rain\naround the Easter Ruins...
+
+[160|off=0x606a|chars=81]
+A sandstorm is raging...\nMaybe it has turned into rain\naround the Easter Ruins...
+
+[161|off=0x6114|chars=52]
+Your ear receiver is picking up a\nmessage from Vita!
+
+[162|off=0x6184|chars=52]
+Your ear receiver is picking up a\nmessage from Vita!
+
+[163|off=0x61f8|chars=6]
+Vita: 
+
+[164|off=0x6206|chars=43]
+P...\nIt's time that you slept.\nGo to bed...
+
+[165|off=0x6268|chars=6]
+Vita: 
+
+[166|off=0x6276|chars=43]
+P...\nIt's time that you slept.\nGo to bed...
+
+[167|off=0x62d4|chars=62]
+Use a Scale Pack if you want to\nharvest wild plants or fruits.
+
+[168|off=0x6358|chars=62]
+You can't put any more kinds of\nwild plants in the Scale Pack!
+
+[169|off=0x63dc|chars=73]
+Even if you harvest this, you won't be\nable to fit it in your Scale Pack!
+
+[170|off=0x6476|chars=71]
+This is a fig tree. It should bear\nfruit around the 15th day of\nsummer.
+
+[171|off=0x650c|chars=98]
+This is a fig tree. You just picked\nits fruit, and there hasn't been\nenough time for more to grow.
+
+[172|off=0x65d8|chars=73]
+This is a fig tree. Its fruit is still\ngreen and not ready for picking...
+
+[173|off=0x6672|chars=71]
+This is an olive tree. It should bear\nfruit around the 8th day of fall.
+
+[174|off=0x6708|chars=101]
+This is an olive tree. You just picked\nits fruit, and there hasn't been\nenough time for more to grow.
+
+[175|off=0x67da|chars=76]
+This is an olive tree. Its fruit is\nstill green and not ready for\npicking...
+
+[176|off=0x687a|chars=84]
+This is a mock strawberry plant.\nIt should bear fruit around the 15th\nday of summer.
+
+[177|off=0x692a|chars=111]
+This is a mock strawberry plant. You\njust picked its fruit, and there hasn't\nbeen enough time for more to grow.
+
+[178|off=0x6a10|chars=86]
+This is a mock strawberry plant. Its\nfruit is still green and not ready for\npicking...
+
+[179|off=0x6ac4|chars=75]
+This is a persimmon tree.\nIt should bear fruit around the 15th\nday of fall.
+
+[180|off=0x6b62|chars=104]
+This is a persimmon tree. You\njust picked its fruit, and there hasn't\nbeen enough time for more to grow.
+
+[181|off=0x6c3a|chars=79]
+This is a persimmon tree. Its\nfruit is still green and not ready for\npicking...
+
+[182|off=0x6ce0|chars=83]
+This is a chestnut tree.\nIt should be ready for harvest\naround the 8th day of fall.
+
+[183|off=0x6d8e|chars=107]
+This is a chestnut tree. You just picked\nsome chestnuts and there hasn't been\nenough time for more to grow.
+
+[184|off=0x6e6c|chars=70]
+This is a chestnut tree. The\nchestnuts aren't ready for\npicking yet...
+
+[185|off=0x6f00|chars=73]
+This is a peach tree.\nIt should bear fruit around the 15th\nday of summer.
+
+[186|off=0x6f9a|chars=100]
+This is a peach tree. You\njust picked its fruit, and there hasn't\nbeen enough time for more to grow.
+
+[187|off=0x706a|chars=75]
+This is a peach tree. Its\nfruit is still green and not ready for\npicking...
+
+[188|off=0x7108|chars=106]
+This is a blueberry bush. It should\nbear fruit around the 22nd day of\nsummer, with a short harvest period.
+
+[189|off=0x71e4|chars=104]
+This is a blueberry bush. You\njust picked its fruit, and there hasn't\nbeen enough time for more to grow.
+
+[190|off=0x72bc|chars=79]
+This is a blueberry bush. Its\nfruit is still green and not ready for\npicking...
+
+[191|off=0x7362|chars=71]
+This is an apple tree.\nIt should bear fruit around the 8th\nday of fall.
+
+[192|off=0x73f8|chars=101]
+This is an apple tree. You\njust picked its fruit, and there hasn't\nbeen enough time for more to grow.
+
+[193|off=0x74ca|chars=76]
+This is an apple tree. Its\nfruit is still green and not ready for\npicking...
+
+[194|off=0x756a|chars=65]
+This is a pawpaw tree.\nIt should bear fruit sometime in the\nfall.
+
+[195|off=0x75f4|chars=101]
+This is a pawpaw tree. You\njust picked its fruit, and there hasn't\nbeen enough time for more to grow.
+
+[196|off=0x76c6|chars=76]
+This is a pawpaw tree. Its\nfruit is still green and not ready for\npicking...
+
+[197|off=0x7766|chars=44]
+This is a very expensive looking\nwardrobe...
+
+[198|off=0x77c6|chars=31]
+Ha pratos enfileirados aqui.
+
+[199|off=0x780c|chars=27]
+Voce tenta lavar as maos.
+
+[200|off=0x784a|chars=30]
+This sink is very easy to use.
+
+[201|off=0x788e|chars=25]
+Suas maos estao limpas.
+
+[202|off=0x78c8|chars=24]
+Mas nao havia sabao...
+
+[203|off=0x7900|chars=40]
+The water pressure seems a little\nlow...
+
+[204|off=0x7958|chars=48]
+You were surprised at how dirty\nyour hands were.
+
+[205|off=0x79c0|chars=43]
+There's water splashed all around\nthe sink!
+
+[206|off=0x7a1e|chars=24]
+Voce limpa o local.
+
+[207|off=0x7a56|chars=26]
+Saiu agua morna...
+
+[208|off=0x7a92|chars=49]
+The drain doesn't seem to be\nworking very well...
+
+[209|off=0x7afc|chars=41]
+Hot water came out with\nincredible force!
+
+[210|off=0x7b56|chars=44]
+A very nice smell surrounds the\nsoap here...
+
+[211|off=0x7bb6|chars=55]
+You try washing your face.\nYou feel somewhat refreshed.
+
+[212|off=0x7c2c|chars=42]
+There are lots of things on the\nshelves...
+
+[213|off=0x7c88|chars=19]
+Ha vinho aqui.
+
+[214|off=0x7cb6|chars=23]
+Voce olha para o vaso.
+
+[215|off=0x7cec|chars=32]
+It seems to have been flushed...
+
+[216|off=0x7d34|chars=21]
+It's sparkling clean!
+
+[217|off=0x7d66|chars=28]
+You push the "Flush" button.
+
+[218|off=0x7da6|chars=30]
+Ha um bilhete no vaso.
+
+[219|off=0x7dea|chars=20]
+"Please keep clean!"
+
+[220|off=0x7e1a|chars=70]
+It appears to have a toilet seat\nthat raises and lowers automatically.
+
+[221|off=0x7eae|chars=68]
+There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+
+[222|off=0x7f3e|chars=53]
+The scent of aromatic oil floats\naround the toilet...
+
+[223|off=0x7fb0|chars=29]
+This is an automatic bathtub.
+
+[224|off=0x7ff2|chars=62]
+You opened the drawer.\nThere are many different things\ninside.
+
+[225|off=0x8076|chars=64]
+This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+
+[226|off=0x80fe|chars=38]
+There are many books in the\nbookshelf.
+
+[227|off=0x8152|chars=45]
+But there's no reason for you to\nread them...
+
+[228|off=0x81b4|chars=26]
+Voce abre a geladeira.
+
+[229|off=0x81f0|chars=65]
+But you quickly close it again\nto prevent the food from spoiling.
+
+[230|off=0x827a|chars=12]
+There was a 
+
+[231|off=0x8294|chars=15]
+I\nin the chest!
+
+[232|off=0x82ba|chars=12]
+You put the 
+
+[233|off=0x82d4|chars=14]
+I\nin your bag.
+
+[234|off=0x82f8|chars=29]
+Sua bolsa esta cheia!
+
+[235|off=0x833a|chars=24]
+Do you want to send the\n
+
+[236|off=0x836c|chars=19]
+I to your Item Box?
+
+[237|off=0x839a|chars=13]
+You sent the 
+
+[238|off=0x83b6|chars=35]
+I\nto your Item Box at\nEaster Ruins.
+
+[239|off=0x8404|chars=12]
+You put the 
+
+[240|off=0x841e|chars=20]
+I\nback in the chest.
+
+[241|off=0x844e|chars=21]
+O bau esta vazio...
+
+[242|off=0x8480|chars=19]
+The chest contains\n
+
+[243|off=0x84b6|chars=35]
+But you can't carry any\nmore money!
+
+[244|off=0x8504|chars=62]
+Do you want to donate the extra\nmoney to the Green Earth Fund?
+
+[245|off=0x8588|chars=60]
+You donated the extra money to\nhelp protect the environment.
+
+[246|off=0x8608|chars=33]
+Voce decide nao pegar
+o dinheiro.
+
+[247|off=0x8652|chars=56]
+This chest seems to be sealed with\na mysterious power...
+
+[248|off=0x86ca|chars=75]
+"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+
+[249|off=0x8768|chars=86]
+"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+
+[250|off=0x881c|chars=63]
+"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+
+[251|off=0x88a2|chars=50]
+"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+
+[252|off=0x890e|chars=71]
+"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+
+[253|off=0x89a4|chars=39]
+"Here and There"\n  Where on earth am I?
+
+[254|off=0x89fa|chars=46]
+Ring ring...\nThe sound seems somehow familiar.
+
+[255|off=0x8a5e|chars=44]
+Rustle rustle rustle...\nChirp chirp chirp...
+
+[256|off=0x8ac2|chars=52]
+*: Hello? Hello?\nDo you have Prince Albert in a can?
+
+[257|off=0x8b32|chars=47]
+Beep... Beep beep beep.\nBeep beep beep. Beep...
+
+[258|off=0x8b9c|chars=103]
+*: Hello, am I speaking to the man of\nthe house? I have an exciting product\nI want to tell you about...
+
+[259|off=0x8c72|chars=68]
+You couldn't hear the voice on\nthe other end of the phone very\nwell.
+
+[260|off=0x8d02|chars=86]
+When you look at it more closely,\nyou see that it has been polished\nto a shiny finish!
+
+[261|off=0x8dba|chars=50]
+*: Hey! I know it's you!\nStay right where you are!
+
+[262|off=0x8e26|chars=59]
+You listen as hard as you\ncan, but all you hear is\nsilence.
+
+[263|off=0x8ea4|chars=27]
+Rooooooaaaar!\nRooooooaaaar!
+
+[264|off=0x8ee2|chars=40]
+It's the deafening sound of a waterfall.
+
+[265|off=0x8f52|chars=4]
+    
+
+[266|off=0x8f6a|chars=18]
+ Insects chirping 
+
+[267|off=0x8fba|chars=39]
+"Straight Ahead: South Heartflame\nCave"
+
+[268|off=0x9010|chars=30]
+"Em Frente: Ruinas
+de Pascoa"
+
+[269|off=0x9054|chars=45]
+"Straight Ahead: Southeast Bank\nof East Lake"
+
+[270|off=0x90b6|chars=23]
+"East: Mushroom Forest"
+
+[271|off=0x90ec|chars=45]
+"Straight Ahead: Southwest Bank\nof East Lake"
+
+[272|off=0x914e|chars=37]
+"Danger! Fallen Trees.\nDo Not Enter."
+
+[273|off=0x91a0|chars=25]
+"East: Heartflame Desert"
+
+[274|off=0x91da|chars=18]
+"Heartflame Dunes"
+
+[275|off=0x9206|chars=26]
+"North: Heartflame Plains"
+
+[276|off=0x9242|chars=19]
+"Heartflame Plains"
+
+[277|off=0x9270|chars=32]
+"Margem SE do Lago
+da Sereia"
+
+[278|off=0x92b8|chars=14]
+"Mermaid Lake"
+
+[279|off=0x92dc|chars=24]
+"South: Mushroom Forest"
+
+[280|off=0x9314|chars=32]
+"Margem SO do Lago
+da Sereia"
+
+[281|off=0x935c|chars=11]
+"East Lake"
+
+[282|off=0x937a|chars=15]
+You found a(n)\n
+
+[283|off=0x93a6|chars=12]
+You put the\n
+
+[284|off=0x93c0|chars=14]
+I\nin your bag.
+
+[285|off=0x93e4|chars=29]
+Sua bolsa esta cheia!
+
+[286|off=0x9426|chars=24]
+Do you want to send the\n
+
+[287|off=0x9458|chars=19]
+I to\nyour Item Box?
+
+[288|off=0x9486|chars=13]
+You sent the\n
+
+[289|off=0x94a2|chars=35]
+I to\nyour Item Box at Easter Ruins.
+
+[290|off=0x94f0|chars=12]
+You put the\n
+
+[291|off=0x950a|chars=20]
+I\nback in the chest.
+
+[292|off=0x953a|chars=15]
+You found a(n)\n
+
+[293|off=0x9566|chars=23]
+Do you want to use the\n
+
+[294|off=0x9596|chars=14]
+I's\npower now?
+
+[295|off=0x95ba|chars=23]
+Do you want to put the\n
+
+[296|off=0x95ea|chars=14]
+I in\nyour bag?
+
+[297|off=0x960e|chars=12]
+You put the\n
+
+[298|off=0x9628|chars=14]
+I\nin your bag.
+
+[299|off=0x964c|chars=29]
+Sua bolsa esta cheia!
+
+[300|off=0x968e|chars=24]
+Do you want to send the\n
+
+[301|off=0x96c0|chars=19]
+I to\nyour Item Box?
+
+[302|off=0x96ee|chars=11]
+Taking the 
+
+[303|off=0x9706|chars=88]
+I outside\nthe dungeon will turn it into ordinary\nore with no special powers. Is that OK?
+
+[304|off=0x97be|chars=13]
+You sent the\n
+
+[305|off=0x97da|chars=35]
+I\nto your Item Box at Easter Ruins.
+
+[306|off=0x9828|chars=61]
+The Azure Stone's power spreads\nthroughout this entire floor!
+
+[307|off=0x98aa|chars=74]
+The power of the Ochre Stone\nincreased the SP of the tool\nyou are holding!
+
+[308|off=0x9946|chars=49]
+But the power of the Ochre\nstone had no effect...
+
+[309|off=0x99b0|chars=30]
+Your PP was slightly restored!
+
+[310|off=0x99f4|chars=60]
+The Blue Stone's power spreads\nthroughout this entire floor!
+
+[311|off=0x9a74|chars=75]
+The power of the Yellow Stone\nincreased the SP of the tool\nyou are holding!
+
+[312|off=0x9b12|chars=50]
+But the power of the Yellow\nStone had no effect...
+
+[313|off=0x9b7e|chars=21]
+Your PP was restored!
+
+[314|off=0x9bb0|chars=54]
+I found a TV schedule wedged\nbetween sodden magazines.
+
+[315|off=0x9c24|chars=73]
+Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+
+[316|off=0x9cbe|chars=70]
+Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+
+[317|off=0x9d54|chars=28]
+Como jogar com Trilhos,
+
+[318|off=0x9d8e|chars=7]
+ ~Rails
+
+[319|off=0x9da4|chars=57]
+First, lay rails and\nprepare conditions to use Pod Rails.
+
+[320|off=0x9e1e|chars=113]
+You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+
+[321|off=0x9f0c|chars=28]
+Como jogar com Trilhos,
+
+[322|off=0x9f46|chars=8]
+ ~Motors
+
+[323|off=0x9f5e|chars=102]
+Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+
+[324|off=0xa032|chars=96]
+You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+
+[325|off=0xa0f4|chars=8]
+ botao.
+
+[326|off=0xa10c|chars=38]
+"Como jogar com Trilhos," ~ Vagoes
+
+[327|off=0xa160|chars=118]
+Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+
+[328|off=0xa254|chars=62]
+You can be a driver\nif you operate Motors\nwhile riding a Cart.
+
+[329|off=0xa2d8|chars=40]
+"Como jogar com Trilhos," ~Envio
+
+[330|off=0xa330|chars=95]
+If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+
+[331|off=0xa3f6|chars=120]
+Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+
+[332|off=0xa4f0|chars=22]
+Fisiocracia e Magia,
+
+[333|off=0xa51e|chars=21]
+\n~or "Book of Spirit"
+
+[334|off=0xa550|chars=69]
+If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+
+[335|off=0xa5e2|chars=75]
+You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+
+[336|off=0xa680|chars=59]
+It's a book with Fairy Tales\nfor early childhood education.
+
+[337|off=0xa6fe|chars=91]
+I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+
+[338|off=0xa7bc|chars=28]
+My heart is twinging...\nWhy?
+
+[339|off=0xa7fc|chars=44]
+It's a Haiku Book\nwritten by Principle Rose.
+
+[340|off=0xa85c|chars=68]
+There are more Haikus about love\nthan about scenery or daily life...
+
+[341|off=0xa8ec|chars=69]
+It's like reading someone else's diary.\nI feel a little bit guilty...
+
+[342|off=0xa980|chars=30]
+Tale of the Love & Bow Knight,
+
+[343|off=0xa9be|chars=7]
+ Vol. 1
+
+[344|off=0xa9d4|chars=63]
+Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+
+[345|off=0xaa5a|chars=108]
+There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+
+[346|off=0xab3c|chars=30]
+Tale of the Love & Bow Knight,
+
+[347|off=0xab7a|chars=7]
+ Vol. 2
+
+[348|off=0xab90|chars=73]
+Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+
+[349|off=0xac2a|chars=106]
+They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+
+[350|off=0xad06|chars=17]
+You equipped the\n
+
+[351|off=0xad36|chars=17]
+You equipped the\n
+
+[352|off=0xad66|chars=19]
+You unequipped the\n
+
+[353|off=0xad9a|chars=19]
+You unequipped the\n
+
+[354|off=0xadce|chars=12]
+You set the\n
+
+[355|off=0xadf4|chars=12]
+You set the\n
+
+[356|off=0xae1a|chars=16]
+You removed the\n
+
+[357|off=0xae48|chars=16]
+You removed the\n
+
+[358|off=0xae76|chars=17]
+You took out the\n
+
+[359|off=0xaea6|chars=17]
+You took out the\n
+
+[360|off=0xaed6|chars=4]
+All 
+
+[361|off=0xaee0|chars=52]
+I seeds\nwill be moved to the Seed Box.\nAre you sure?
+
+[362|off=0xaf50|chars=4]
+All 
+
+[363|off=0xaf5a|chars=52]
+I seeds\nwill be moved to the Seed Box.\nAre you sure?
+
+[364|off=0xafca|chars=58]
+You emptied the Seed Bag\nand put the seeds to\nthe Seed Box
+
+[365|off=0xb046|chars=58]
+You emptied the Seed Bag\nand put the seeds to\nthe Seed Box
+
+[366|off=0xb0ca|chars=4]
+The 
+
+[367|off=0xb0d4|chars=47]
+I\nwill be moved to the trash bin.\nAre you sure?
+
+[368|off=0xb13a|chars=4]
+The 
+
+[369|off=0xb144|chars=47]
+I\nwill be moved to the trash bin.\nAre you sure?
+
+[370|off=0xb1aa|chars=14]
+You moved the\n
+
+[371|off=0xb1c8|chars=19]
+I to\nthe trash bin.
+
+[372|off=0xb1f6|chars=14]
+You moved the\n
+
+[373|off=0xb214|chars=19]
+I to\nthe trash bin.
+
+[374|off=0xb24a|chars=14]
+You moved the\n
+
+[375|off=0xb268|chars=19]
+I to\nthe trash bin.
+
+[376|off=0xb296|chars=14]
+You moved the\n
+
+[377|off=0xb2b4|chars=19]
+I to\nthe trash bin.
+
+[378|off=0xb2e2|chars=4]
+The 
+
+[379|off=0xb2ec|chars=29]
+I\ndoesn't fit in this socket.
+
+[380|off=0xb32e|chars=4]
+The 
+
+[381|off=0xb338|chars=29]
+I\ndoesn't fit in this socket.
+
+[382|off=0xb37a|chars=66]
+You cannot take anything out of\nthe bag while you are holding\nthe 
+
+[383|off=0xb40c|chars=66]
+You cannot take anything out of\nthe bag while you are holding\nthe 
+
+[384|off=0xb49e|chars=12]
+You put the 
+
+[385|off=0xb4b8|chars=24]
+I\nback and took out the\n
+
+[386|off=0xb4ea|chars=10]
+J instead.
+
+[387|off=0xb506|chars=12]
+You put the 
+
+[388|off=0xb520|chars=24]
+I\nback and took out the\n
+
+[389|off=0xb552|chars=10]
+J instead.
+
+[390|off=0xb56e|chars=18]
+Your bag is empty.
+
+[391|off=0xb59a|chars=18]
+Your bag is empty.
+
+[392|off=0xb5c6|chars=38]
+You are not skilled\nenough to use the\n
+
+[393|off=0xb620|chars=12]
+You set the 
+
+[394|off=0xb63a|chars=9]
+I\nin the 
+
+[395|off=0xb64e|chars=11]
+J's socket.
+
+[396|off=0xb66c|chars=4]
+The 
+
+[397|off=0xb676|chars=17]
+I started\nmoving.
+
+[398|off=0xb6a0|chars=4]
+The 
+
+[399|off=0xb6aa|chars=12]
+I backed up.
+
+[400|off=0xb6ca|chars=4]
+The 
+
+[401|off=0xb6d4|chars=10]
+I stopped.
+
+[402|off=0xb6f0|chars=32]
+There's no power unit installed.
+
+[403|off=0xb738|chars=19]
+You can't move the 
+
+[404|off=0xb760|chars=12]
+I\nright now.
+
+[405|off=0xb780|chars=4]
+The 
+
+[406|off=0xb78a|chars=21]
+I is already\nrunning.
+
+[407|off=0xb7bc|chars=4]
+The 
+
+[408|off=0xb7c6|chars=22]
+I has already\nstopped.
+
+[409|off=0xb7fa|chars=103]
+Currently an automatic unit is handling\na shipment. Let it finish first before\ngiving it another order.
+
+[410|off=0xb8d0|chars=22]
+Nao ha mais agua.
+
+[411|off=0xb904|chars=25]
+PP insuficiente!
+
+[412|off=0xb93e|chars=46]
+You can't place any more carts or\nhand trucks.
+
+[413|off=0xb9a2|chars=34]
+Cannot place any more rail motors.
+
+[414|off=0xb9ee|chars=86]
+It seems that you need a special\nfluid and watering can to water\nthese snowy fields...
+
+[415|off=0xbaa2|chars=40]
+This seed won't grow during this\nseason.
+
+[416|off=0xbafa|chars=37]
+Anular e voltar a
+tela anterior?
+
+[417|off=0xbb4c|chars=60]
+This is a cheese maker.\nThrow in some milk to\ncreate cheese.
+
+[418|off=0xbbcc|chars=45]
+Place the cheese in\nyour farm's Shipping Pod.
+
+[419|off=0xbc2e|chars=68]
+This is a mayonnaise maker.\nThrow in some eggs to\ncreate mayonnaise.
+
+[420|off=0xbcbe|chars=49]
+Place the mayonnaise in\nyour farm's Shipping Pod.
+
+[421|off=0xbd28|chars=68]
+This is the incubation bowl.\nHatch an egg by\nplacing it in the bowl.
+
+[422|off=0xbdb8|chars=72]
+There is an egg in the\nincubation bowl.\nYou can't wait until it hatches!
+
+[423|off=0xbe50|chars=69]
+You can only place one of\nyour eggs in the incubation\nbowl at a time.
+
+[424|off=0xbee2|chars=38]
+Your farm is at full\nchicken capacity!
+
+[425|off=0xbf36|chars=52]
+You can't move that while\nthe Life Arm is operating!
+
+[426|off=0xbfac|chars=34]
+I was\ndug up by the Enchanted\nHoe.
+
+[427|off=0xbff8|chars=4]
+The 
+
+[428|off=0xc002|chars=27]
+I was\nsent to the Item Box.
+
+[429|off=0xc044|chars=59]
+Cluck-o-Matic: Cluck cluck.\nThe machine functions normally.
+
+[430|off=0xc0c6|chars=49]
+Moo-o-Matic: Moo.\nThe machine functions normally.
+
+[431|off=0xc134|chars=50]
+Baabaa-matic: Baa.\nThe machine functions normally.
+
+[432|off=0xc1a6|chars=11]
+ Adventure\n
+
+[433|off=0xc1be|chars=36]
+ A strange thing happens before you.
+
+[434|off=0xc210|chars=75]
+ Challenge like fighting tigers with\n   bare hands, or fording a big river.
+
+[435|off=0xc2b0|chars=100]
+ Treasure hunting, spelunking...\n  Fireworks battles, high diving...\n  A memorable summer adventure.
+
+[436|off=0xc386|chars=7]
+ Alien\n
+
+[437|off=0xc396|chars=13]
+ A foreigner.
+
+[438|off=0xc3ba|chars=66]
+ Someone not just from out of town,\n   but from out of the galaxy.
+
+[439|off=0xc448|chars=68]
+ Invaders from another planet may\nhave already landed on the island.
+
+[440|off=0xc4e6|chars=7]
+ Apple\n
+
+[441|off=0xc4f6|chars=22]
+ Fruit Adam choked on.
+
+[442|off=0xc52c|chars=33]
+ Fruit used to poison Snow White.
+
+[443|off=0xc578|chars=33]
+ Demonstrates the Law of Gravity.
+
+[444|off=0xc5c4|chars=58]
+ The apple tree flowers\n   in spring, bears fruit in fall.
+
+[445|off=0xc646|chars=5]
+ Art\n
+
+[446|off=0xc652|chars=109]
+ Paintings and sculptures, as well as\nculinary works, architecture, and\nlandscapes; lot of things can be art.
+
+[447|off=0xc736|chars=30]
+ "Art is long, life is short."
+
+[448|off=0xc780|chars=8]
+ Author\n
+
+[449|off=0xc792|chars=36]
+ A person who writes literary works.
+
+[450|off=0xc7e4|chars=42]
+ If a romantic poem or story is\n   signed 
+
+[451|off=0xc83a|chars=10]
+Anonymous,
+
+[452|off=0xc850|chars=31]
+\n   it seems a bit sentimental.
+
+[453|off=0xc89c|chars=8]
+ Banana\n
+
+[454|off=0xc8ae|chars=60]
+ A gorilla's favorite.\n...And maybe a human's favorite, too.
+
+[455|off=0xc930|chars=70]
+ Originally thought grown on trees,\n   actually comes from tall grass.
+
+[456|off=0xc9c6|chars=55]
+ The origin of the phrase "slipping on\n   a banana peel
+
+[457|off=0xca36|chars=53]
+ will be investigated\n   through social anthropology.
+
+[458|off=0xcac0|chars=12]
+Billionaire\n
+
+[459|off=0xcada|chars=44]
+ Person with a lot of money;\n   a celebrity.
+
+[460|off=0xcb3c|chars=95]
+ Inherits lots of money from family.\n   More commonly, earns vast sum\n   of money by own means.
+
+[461|off=0xcc04|chars=69]
+ Answer to the question "what do\n   you want to be when you grow up?"
+
+[462|off=0xcc98|chars=33]
+ Covers all kinds of occupations.
+
+[463|off=0xcce8|chars=15]
+ Black Truffle\n
+
+[464|off=0xcd08|chars=4]
+The 
+
+[465|off=0xcd12|chars=10]
+Black Gem.
+
+[466|off=0xcd28|chars=45]
+ One of the\nforemost delicacies in the world.
+
+[467|off=0xcd8c|chars=66]
+ Cheaper than white truffles.\n   Can only be found by dogs & pigs.
+
+[468|off=0xce1e|chars=11]
+ Blueberry\n
+
+[469|off=0xce36|chars=57]
+ Fruit that's good for the eyes.\n   Can be made into jam.
+
+[470|off=0xceb2|chars=82]
+ Blueberries found on Mars are\n   hematite microspheres\n   (also called "stones").
+
+[471|off=0xcf64|chars=7]
+ bride\n
+
+[472|off=0xcf74|chars=65]
+ A woman who owns the happiness\n   of the world for just one day.
+
+[473|off=0xd000|chars=72]
+ A bit selfish... tosses a bouquet\n   to share joy with one other woman.
+
+[474|off=0xd09a|chars=65]
+ Needs two supporting actors.\nOne swears eternal love\nbeside her.
+
+[475|off=0xd126|chars=33]
+ The other is the bride's father.
+
+[476|off=0xd176|chars=7]
+ Buggy\n
+
+[477|off=0xd186|chars=34]
+ Originally, a one-horse carriage.
+
+[478|off=0xd1d4|chars=67]
+ Car kids can drive. Runs over\n  wastelands twice as fast as a boy.
+
+[479|off=0xd264|chars=51]
+ Don't drive into vineyard\n   just because you can.
+
+[480|off=0xd2e0|chars=8]
+ Bygone\n
+
+[481|off=0xd2f2|chars=36]
+ Folk tale.\n To be retold to others.
+
+[482|off=0xd344|chars=47]
+ Old, unused tools.\n   Can't seem to toss them.
+
+[483|off=0xd3ac|chars=70]
+ A mistake only the young would make.\n   Can't take it back, though...
+
+[484|off=0xd442|chars=38]
+ Old saying; "let bygones be bygones."
+
+[485|off=0xd49c|chars=9]
+ Cabbage\n
+
+[486|off=0xd4b0|chars=53]
+ Has a head and a heart,\n   but vegetable, not human.
+
+[487|off=0xd524|chars=74]
+ Hard to tell apart from lettuce,\n  but easy to tell apart\n  from human...
+
+[488|off=0xd5c2|chars=54]
+ Can't rely on a method to check\n   how it's shredded.
+
+[489|off=0xd63c|chars=7]
+ Cacao\n
+
+[490|off=0xd64c|chars=56]
+ "Food of the gods."\n  Grows from obeche evergreen tree.
+
+[491|off=0xd6c6|chars=67]
+ Cacao seeds, or beans,\n   are used to make chocolate\n   and cocoa.
+
+[492|off=0xd756|chars=73]
+ Its cacao polyphenol aids dieting\n   and helps prevent arteriosclerosis.
+
+[493|off=0xd7f2|chars=66]
+ The Aztec god Quetzalcoatl may\n   or may not have known about it.
+
+[494|off=0xd884|chars=6]
+ Cake\n
+
+[495|off=0xd892|chars=69]
+ Must-have sweet at happy events.\nGoes with strawberry and chocolate.
+
+[496|off=0xd926|chars=68]
+ Eating it on ordinary days can\n   make a person especially\n   happy
+
+[497|off=0xd9ba|chars=96]
+ Sweets are a girl's soft spot. Even\n   when full, eating a piece of cake is\n   a piece of cake.
+
+[498|off=0xda88|chars=5]
+ Cat\n
+
+[499|off=0xda94|chars=19]
+ Archenemy of dogs.
+
+[500|off=0xdac4|chars=65]
+ Independent, light and mysterious\n   Full of curiosity. Elegant.
+
+[501|off=0xdb5c|chars=13]
+ Cherry Tree\n
+
+[502|off=0xdb78|chars=55]
+ Flowers fall in spring.\n   Deciduous fall of Rosaceae.
+
+[503|off=0xdbf0|chars=67]
+ Wood used in architecture,\n   furniture, art, cultural exchange...
+
+[504|off=0xdc80|chars=107]
+ A boy who chopped one down and\n   admitted to it later was honored\n   by having his face printed on bills.
+
+[505|off=0xdd6c|chars=7]
+ Chest\n
+
+[506|off=0xdd7c|chars=65]
+ A box which raises expectations\n   that goodies might be inside.
+
+[507|off=0xde08|chars=70]
+ Some are crushed under pressure\n   and can't meet their expectations.
+
+[508|off=0xde9e|chars=80]
+ Why hide treasure in such\n   a highly visible box, anyway?\n   Vanity, kindness?
+
+[509|off=0xdf4c|chars=9]
+ Chicken\n
+
+[510|off=0xdf60|chars=66]
+ A bird that can tell time. Make\ntreacherous apostles feel guilty.
+
+[511|off=0xdfee|chars=15]
+ Barnyard fowl.
+
+[512|off=0xe016|chars=76]
+ Its origin has two theories: Gallus\n   gallus domesticus and Gallus gallus.
+
+[513|off=0xe0bc|chars=101]
+Which came first: the chick or the\n   egg?" should have been resolved.\n   (Personal belief though...)
+
+[514|off=0xe194|chars=9]
+ Dessert\n
+
+[515|off=0xe1a8|chars=32]
+ Makes you fat when you overeat.
+
+[516|off=0xe1f2|chars=80]
+ When I cook, I want to eat\n   cakes and tropical fruits\n   after the main dish.
+
+[517|off=0xe2a0|chars=6]
+ Dish\n
+
+[518|off=0xe2ae|chars=42]
+ Tableware.\n   Plates, forks, spoons, etc.
+
+[519|off=0xe30c|chars=95]
+ Food served on plates. Italian,\n   French, Japanese, various\n   international types available.
+
+[520|off=0xe3d4|chars=45]
+ When you eat,\n   try not to smack your gums.
+
+[521|off=0xe43c|chars=5]
+ Dog\n
+
+[522|off=0xe448|chars=19]
+ Archenemy of cats.
+
+[523|off=0xe478|chars=69]
+ Extremely loyal, brave and cute.\n   Poos everywhere, that's a minus.
+
+[524|off=0xe518|chars=7]
+ Dream\n
+
+[525|off=0xe528|chars=64]
+ Visions while sleeping. Similar\n   to reality but more fantasy.
+
+[526|off=0xe5b2|chars=77]
+ Vision of future.\n   Seems doable, yet might have\n   a catch. Ideal outcome.
+
+[527|off=0xe656|chars=101]
+ Beautiful, wonderful world. Spending\n   the rest of life there might be\n   the epitome of happiness.
+
+[528|off=0xe73e|chars=5]
+ Ear\n
+
+[529|off=0xe74a|chars=37]
+ Most lovely parts of\nthe human body.
+
+[530|off=0xe79e|chars=29]
+ Hears sounds, keeps balance.
+
+[531|off=0xe7e2|chars=51]
+ Some people can move them.\n   What's up with that?
+
+[532|off=0xe856|chars=7]
+ Earth\n
+
+[533|off=0xe866|chars=21]
+ One of the elements.
+
+[534|off=0xe89a|chars=82]
+ Surface that people can walk on,\n   build houses on, cultivate,\n   and seed, etc.
+
+[535|off=0xe954|chars=14]
+ Epoch-making\n
+
+[536|off=0xe972|chars=62]
+ Revolutionary state that stops time\n   and goes beyond years.
+
+[537|off=0xe9f8|chars=61]
+ This is just my opinion,\n   but I like how this word sounds.
+
+[538|off=0xea88|chars=9]
+ Equator\n
+
+[539|off=0xea9c|chars=32]
+ Imaginary line involving LAT 0 
+
+[540|off=0xeaea|chars=102]
+ A line where the earth is cut\n   in half by a plane intersecting the\n   earth's axis perpendicularly.
+
+[541|off=0xebc0|chars=60]
+ Tropical region. Cyclones and\n   typhoons occur frequently.
+
+[542|off=0xec46|chars=6]
+ Fall\n
+
+[543|off=0xec54|chars=58]
+ Come down, or a season in which\n   leaves come off trees.
+
+[544|off=0xecd6|chars=25]
+Spring forward, fall back
+
+[545|off=0xed0a|chars=86]
+ is a well\n   known phrase. Yet daylight savings\n   system is not used in this island.
+
+[546|off=0xedc4|chars=6]
+ Farm\n
+
+[547|off=0xedd2|chars=40]
+ Where veggies and grain are 2nd string.
+
+[548|off=0xee2c|chars=77]
+ Experience of growing veggies,\n   fruits, and herbs, anything you\n   like...
+
+[549|off=0xeed0|chars=79]
+ When you realize that\n   you're the one who's growing,\n   a twist might occur.
+
+[550|off=0xef7c|chars=9]
+ Fishing\n
+
+[551|off=0xef90|chars=64]
+ Sporting attempt to catch fish\n   with a long stick and thread.
+
+[552|off=0xf01a|chars=22]
+ Two types: Acrobatic 
+
+[553|off=0xf048|chars=26]
+The Old Man\n   and the Sea
+
+[554|off=0xf07e|chars=9]
+ & Banal 
+
+[555|off=0xf092|chars=7]
+Angler.
+
+[556|off=0xf0ac|chars=64]
+ The old man fishes with DREAM,\n   the angler fishes with POWER.
+
+[557|off=0xf142|chars=9]
+ Freedom\n
+
+[558|off=0xf156|chars=28]
+ Price of a bow called love.
+
+[559|off=0xf198|chars=31]
+ Life without any restrictions.
+
+[560|off=0xf1e0|chars=84]
+ A tiny playful area between\n   Eros and Thanatos.\n   Let's not stay there too long.
+
+[561|off=0xf29e|chars=12]
+ Futuristic\n
+
+[562|off=0xf2b8|chars=24]
+Story set in the future.
+
+[563|off=0xf2f2|chars=12]
+ Cool taste.
+
+[564|off=0xf314|chars=17]
+ Always evolving.
+
+[565|off=0xf340|chars=43]
+ Thus, story setting should be\n   infinite.
+
+[566|off=0xf3a0|chars=21]
+ As long as you live.
+
+[567|off=0xf3d8|chars=7]
+ Giant\n
+
+[568|off=0xf3e8|chars=35]
+ A big man in myths and folk tales.
+
+[569|off=0xf438|chars=35]
+ Big shot in politics and business.
+
+[570|off=0xf488|chars=66]
+ Size of a man is determined by\n   his achievements, not his mass.
+
+[571|off=0xf51a|chars=6]
+ Goat\n
+
+[572|off=0xf528|chars=18]
+ Animal that says 
+
+[573|off=0xf54e|chars=4]
+Baa,
+
+[574|off=0xf558|chars=25]
+\n   but it's not a sheep.
+
+[575|off=0xf594|chars=61]
+ There are no goats on this island.\n   Thus, no goat thieves.
+
+[576|off=0xf61c|chars=9]
+ Harvest\n
+
+[577|off=0xf630|chars=34]
+ Working process of picking crops.
+
+[578|off=0xf67e|chars=35]
+ Moment when daily effort pays off.
+
+[579|off=0xf6d2|chars=8]
+ Hermit\n
+
+[580|off=0xf6e4|chars=48]
+ One who abandoned the world\n   for some reason.
+
+[581|off=0xf74e|chars=34]
+ Tends to live in\ndeserted places.
+
+[582|off=0xf79c|chars=35]
+ A true hermit would live in Ichii.
+
+[583|off=0xf7f0|chars=6]
+ Hope\n
+
+[584|off=0xf7fe|chars=51]
+ Positive thought that shouldn't\n ever be given up.
+
+[585|off=0xf86e|chars=43]
+ Expectation or someone\n   who is expected.
+
+[586|off=0xf8ce|chars=15]
+ Never give up.
+
+[587|off=0xf902|chars=7]
+ Humor\n
+
+[588|off=0xf912|chars=58]
+ Playful nature, expression\n   coming from a big in heart.
+
+[589|off=0xf990|chars=54]
+ Used to relax atmosphere, mimic,\n   appeal to satire.
+
+[590|off=0xfa06|chars=46]
+Sometimes has intense,\n   dark subject matter.
+
+[591|off=0xfa70|chars=5]
+ Ice\n
+
+[592|off=0xfa7c|chars=48]
+ Water frozen solid\n   at temperature under 32F.
+
+[593|off=0xfae6|chars=69]
+ In winter, you can walk on it,\n   or drill a hole in it for fishing.
+
+[594|off=0xfb86|chars=12]
+ Impossible\n
+
+[595|off=0xfba4|chars=34]
+Only found in a fool's dictionary.
+
+[596|off=0xfbf4|chars=32]
+ Words of a historical figure...
+
+[597|off=0xfc3e|chars=26]
+ I chose to add this word.
+
+[598|off=0xfc7c|chars=35]
+ Will people think that I'm a fool?
+
+[599|off=0xfcd8|chars=11]
+ Invention\n
+
+[600|off=0xfcf0|chars=38]
+ Product of 1% inspiration, 99% sweat.
+
+[601|off=0xfd46|chars=12]
+ A child of 
+
+[602|off=0xfd60|chars=10]
+Necessity.
+
+[603|off=0xfd80|chars=46]
+ Wish to find more useful stuff other\n   than 
+
+[604|off=0xfdde|chars=6]
+story,
+
+[605|off=0xfdec|chars=13]
+ if possible.
+
+[606|off=0xfe2c|chars=8]
+ Island\n
+
+[607|off=0xfe3e|chars=61]
+ Where the main character was\n   when consciousness returned.
+
+[608|off=0xfec2|chars=69]
+ If deserted, it's usually the\n   beginning of long,\n   hard journey.
+
+[609|off=0xff62|chars=12]
+ Jack Frost\n
+
+[610|off=0xff7c|chars=26]
+ Spirit of snow and frost.
+
+[611|off=0xffba|chars=76]
+ Sudden spread of silvery landscape\n   may be his work\n   when winter comes.
+
+[612|off=0x10078|chars=7]
+ Jewel\n
+
+[613|off=0x10088|chars=30]
+ A colorful and radiant stone.
+
+[614|off=0x100ce|chars=36]
+ Contains mystic powers and stories.
+
+[615|off=0x10120|chars=71]
+ Might not need to mention but,\n   if you find one, try not to toss it.
+
+[616|off=0x101bc|chars=5]
+ Key\n
+
+[617|off=0x101c8|chars=21]
+ Tool to open a lock.
+
+[618|off=0x101fc|chars=64]
+ Crew needed to breakthrough hardship,\n   or shape one's future.
+
+[619|off=0x10286|chars=83]
+ The latter is more important but,\n   the point is it's not visible\n   or tangible.
+
+[620|off=0x10352|chars=11]
+ Knowledge\n
+
+[621|off=0x1036a|chars=22]
+ Information Database.
+
+[622|off=0x103a0|chars=67]
+ Handle with caution. Could be\n   strength, yet could cause danger.
+
+[623|off=0x10434|chars=6]
+ Lazy\n
+
+[624|off=0x10442|chars=67]
+ Grasshoppers' way of living as\n   compared to ants'. All relative.
+
+[625|off=0x104d2|chars=86]
+ However, those who wake up, watch\n   TV, and go back to sleep\n   are definitely LAZY.
+
+[626|off=0x10594|chars=7]
+ Lemon\n
+
+[627|off=0x105a4|chars=53]
+ Grows from tree.\n   No.1 player among citrus fruits.
+
+[628|off=0x10618|chars=53]
+ Not preferred in relation to car\n   for some reason.
+
+[629|off=0x10696|chars=10]
+ Lifework\n
+
+[630|off=0x106ac|chars=53]
+ Work one achieves throughout\nhis life. Theme varies.
+
+[631|off=0x10720|chars=105]
+ Can be epic poem or short series,\n   magnificent painting, invention of\n   the century, or expedition...
+
+[632|off=0x107fc|chars=84]
+Making good wine, patrolling a town,\n   fishing river master,\n   researching bees...
+
+[633|off=0x108ae|chars=33]
+ Or just an ordinary, happy life.
+
+[634|off=0x108fe|chars=6]
+ Love\n
+
+[635|off=0x1090c|chars=67]
+ One of Human Status. Compassion\ntoward people, animals and plants.
+
+[636|off=0x1099c|chars=38]
+ It's important to give before taking.
+
+[637|off=0x109f6|chars=5]
+ Map\n
+
+[638|off=0x10a02|chars=31]
+ Often makes people get lost...
+
+[639|off=0x10a4a|chars=68]
+ Even though it's for people,\n   it's been drawn from a bird's view.
+
+[640|off=0x10ae0|chars=9]
+ Mermaid\n
+
+[641|off=0x10af4|chars=66]
+ Beautiful, mysterious human/fish,\n   Much bigger than we imagine.
+
+[642|off=0x10b82|chars=54]
+ Tower guard at Mermaid Lake.\n   Seen at a small cove.
+
+[643|off=0x10bf8|chars=44]
+ Can't be a mistook for Dugong...\n   I hope.
+
+[644|off=0x10c5e|chars=6]
+ Mist\n
+
+[645|off=0x10c6c|chars=68]
+ White haze covering up Giant's\n   Forest. Blocks view and progress.
+
+[646|off=0x10cfe|chars=64]
+ Even if you find a spot to enter,\n   never put your foot there.
+
+[647|off=0x10d88|chars=60]
+ I've heard many stories about\n   those who never came back.
+
+[648|off=0x10e0e|chars=6]
+ Moon\n
+
+[649|off=0x10e1c|chars=57]
+ A mirror floating in the sky.\n   Reflects the sun light.
+
+[650|off=0x10e98|chars=66]
+ Its magic power is strong enough\n   to turn a person into a wolf.
+
+[651|off=0x10f26|chars=64]
+ A rumor says\n   big crabs might be living\n   in the dark holes.
+
+[652|off=0x10fb0|chars=58]
+ It'd make a major spot for honeymoon\n   in future (read: 
+
+[653|off=0x11026|chars=10]
+Honey-MOON
+
+[654|off=0x1104e|chars=7]
+ Night\n
+
+[655|off=0x1105e|chars=37]
+ Perfect time to view moon and stars.
+
+[656|off=0x110b2|chars=74]
+ You will find a small surprise if\n   you walk on a frozen lake in winter.
+
+[657|off=0x11150|chars=67]
+ It'll be the dead of night soon...\n   Kids must sleep before that.
+
+[658|off=0x111e2|chars=5]
+ Nod\n
+
+[659|off=0x111ee|chars=42]
+ Moving head vertically to show\nagreement.
+
+[660|off=0x1124c|chars=62]
+ You nod subconsciously\n   before you agree on some occasions.
+
+[661|off=0x112de|chars=21]
+ Nostradamus, Michel\n
+
+[662|off=0x1130a|chars=76]
+ Renowned apothecary. Prophetic, and\n an astrologer. Knows black/white pigs.
+
+[663|off=0x113ac|chars=11]
+Author of  
+
+[664|off=0x113c4|chars=14]
+Les Centuries.
+
+[665|off=0x113e2|chars=72]
+ His book\n   is interpreted in many ways,\n   and made many people worry.
+
+[666|off=0x1147c|chars=76]
+ A great "king of terror"\n   didn't show up in\n   July of 1999, after all...
+
+[667|off=0x1151e|chars=71]
+ It might be a valid prediction\n   to say it'll be a hot topic in 3797.
+
+[668|off=0x115ba|chars=7]
+ Olive\n
+
+[669|off=0x115ca|chars=36]
+ Evergreen tree bears fruit in fall.
+
+[670|off=0x1161c|chars=88]
+ Leaves used for winner's laurel,\n   branches used as symbol of\n   peace and settlement.
+
+[671|off=0x116e2|chars=5]
+ Owl\n
+
+[672|off=0x116ee|chars=38]
+ Bird symbolizing knowledge.\n   Says, 
+
+[673|off=0x1173c|chars=11]
+Hoot, hoot.
+
+[674|off=0x1175e|chars=69]
+ If a person walks outside at night,\n   its sound can be heard but...
+
+[675|off=0x117f2|chars=43]
+ This person walking at night\n   is called 
+
+[676|off=0x1184a|chars=10]
+night owl.
+
+[677|off=0x1186e|chars=6]
+ Palm\n
+
+[678|off=0x1187c|chars=49]
+ Inside of hands.\n   Path of life is drawn on it.
+
+[679|off=0x118e8|chars=33]
+ Makes a tray when taking change.
+
+[680|off=0x11934|chars=49]
+ Stops other's movement\n   when held up, saying, 
+
+[681|off=0x11998|chars=11]
+Wait a sec.
+
+[682|off=0x119ba|chars=75]
+ Used to slap someone's cheek when\n   they fall asleep on a snowy mountain.
+
+[683|off=0x11a5a|chars=19]
+ Uses are infinite.
+
+[684|off=0x11a8e|chars=15]
+ Pandora's Box\n
+
+[685|off=0x11aae|chars=24]
+ Trap set by Greek Gods.
+
+[686|off=0x11ae8|chars=77]
+ It's human nature to want to open it,\n   especially after being told not to.
+
+[687|off=0x11b8c|chars=46]
+ We can never blame\n   Pandora for opening it.
+
+[688|off=0x11bf6|chars=8]
+ Pepino\n
+
+[689|off=0x11c08|chars=57]
+ Golden fruit. Solanaceous plant, but\n   named after its 
+
+[690|off=0x11c7c|chars=11]
+squash-like
+
+[691|off=0x11c94|chars=7]
+ image.
+
+[692|off=0x11cac|chars=75]
+ Tastes like cucumber, tomato,\n   cantaloupe, or pear,\n   or even pepino...
+
+[693|off=0x11d58|chars=8]
+ Pillow\n
+
+[694|off=0x11d6a|chars=61]
+ Tool to support head.\n   Can be used for pillow fights, too.
+
+[695|off=0x11dee|chars=82]
+ Hardcover book.\n   Difficult, thick book that leads\n   us to the world of dreams.
+
+[696|off=0x11ea0|chars=8]
+ Please\n
+
+[697|off=0x11eb2|chars=58]
+ Magic word. Used when you need\n   something from someone.
+
+[698|off=0x11f30|chars=14]
+ Results vary.
+
+[699|off=0x11f62|chars=8]
+ Pocket\n
+
+[700|off=0x11f74|chars=11]
+ Small bag.
+
+[701|off=0x11f94|chars=55]
+If empty, fill it with\n   dreams, ideas,\n   or similar.
+
+[702|off=0x12010|chars=9]
+ Porcini\n
+
+[703|off=0x12024|chars=43]
+ King of mushrooms.\n   Agaricus Boletaceae.
+
+[704|off=0x12084|chars=24]
+ To be exact, plural of 
+
+[705|off=0x120b6|chars=8]
+Porcino.
+
+[706|off=0x120c8|chars=30]
+\n   Never mind. Let's call it 
+
+[707|off=0x12106|chars=8]
+Porcini,
+
+[708|off=0x12118|chars=29]
+\n   even if there's only one.
+
+[709|off=0x12160|chars=9]
+ Promise\n
+
+[710|off=0x12174|chars=37]
+ Often broken, given up,\nor forgotten
+
+[711|off=0x121ca|chars=35]
+ That's why it's special when kept.
+
+[712|off=0x1221e|chars=10]
+ Question\n
+
+[713|off=0x12234|chars=48]
+ Must be asked many times\n   while you're alive.
+
+[714|off=0x1229e|chars=84]
+ Sometimes answered by\n   yes or no even when it can't\n   be answered with either...
+
+[715|off=0x12350|chars=50]
+ Even then, please try\n   hard to find the answer.
+
+[716|off=0x123c2|chars=6]
+ Quit\n
+
+[717|off=0x123d0|chars=15]
+ Leave, let go.
+
+[718|off=0x123fa|chars=23]
+ Give up in the middle.
+
+[719|off=0x12432|chars=23]
+ Winners never give up.
+
+[720|off=0x1246e|chars=10]
+ Rambutan\n
+
+[721|off=0x12484|chars=60]
+ Tropical fruit with red fur.\n   Sapindaceae evergreen tree.
+
+[722|off=0x12506|chars=65]
+ Other than eaten, can be\n   used to make cooking oil\n   or soup.
+
+[723|off=0x12592|chars=62]
+ Hard worker. Unimaginable\n   based on looks and name, though.
+
+[724|off=0x1261c|chars=8]
+ Ribbon\n
+
+[725|off=0x1262e|chars=44]
+ Narrow cloth,\n   or things with same shape.
+
+[726|off=0x12690|chars=93]
+ If made into bow and put on hair,\n   a hat, or a collar, you can\n   emphasize your cuteness.
+
+[727|off=0x12758|chars=7]
+ Robot\n
+
+[728|off=0x12768|chars=30]
+ God created man in His image.
+
+[729|off=0x127ae|chars=30]
+Man made robot in man's image.
+
+[730|off=0x127f4|chars=46]
+...Does that mean\n   God and robot look alike?
+
+[731|off=0x1286e|chars=5]
+ Sea\n
+
+[732|off=0x1287a|chars=35]
+ Mystic puddle where life was born.
+
+[733|off=0x128ca|chars=95]
+ It's thought if you listen, you\n   can hear a sizzling sound\n   when the sun hits the horizon.
+
+[734|off=0x12992|chars=12]
+ Sea covers 
+
+[735|off=0x129ac|chars=90]
+ of Earth's surface.\n   It's salty because of all tears shed\n   at the beach, so I'm told.
+
+[736|off=0x12a6a|chars=37]
+ Tears cover most of Earth's surface.
+
+[737|off=0x12ac0|chars=8]
+ Season\n
+
+[738|off=0x12ad2|chars=39]
+ Concept to check the time\n   to plant.
+
+[739|off=0x12b2a|chars=85]
+ While seasons pass, an old\n   man grows older, and a boy grows\n   closer to manhood.
+
+[740|off=0x12be2|chars=8]
+ Secret\n
+
+[741|off=0x12bf4|chars=60]
+ Private information that should\n   never be told to anyone.
+
+[742|off=0x12c76|chars=43]
+ Example: king's ears are\n   donkey's ears.
+
+[743|off=0x12cd6|chars=45]
+ When used as prefix, makes words such\n   as 
+
+[744|off=0x12d32|chars=8]
+hideout,
+
+[745|off=0x12d44|chars=4]
+ or 
+
+[746|off=0x12d4e|chars=7]
+valley,
+
+[747|off=0x12d5e|chars=33]
+ more\n   mysterious than reality.
+
+[748|off=0x12dae|chars=6]
+ Seek\n
+
+[749|off=0x12dbc|chars=54]
+ Find what you lost.\n   Search for what you can't see.
+
+[750|off=0x12e32|chars=45]
+ Characters are either\n   seekers or victims.
+
+[751|off=0x12e96|chars=71]
+ When a boy finds something,\n   will we know\n   the difference then...?
+
+[752|off=0x12f32|chars=7]
+ Sheep\n
+
+[753|off=0x12f42|chars=38]
+ Animal to count when you can't sleep.
+
+[754|off=0x12f98|chars=33]
+ A lame joke rhyming sheep-sleep.
+
+[755|off=0x12ff0|chars=8]
+ summer\n
+
+[756|off=0x13002|chars=39]
+ Watermelon tastes good in this season.
+
+[757|off=0x1305a|chars=35]
+ Sunflowers blossom in this season.
+
+[758|off=0x130aa|chars=35]
+ Clouds stretch out in this season.
+
+[759|off=0x130fa|chars=36]
+ Feeling adventurous in this season.
+
+[760|off=0x1314c|chars=66]
+ The end of summer is blue, and has\n   a sentimental aftertaste...
+
+[761|off=0x131de|chars=7]
+ Taste\n
+
+[762|off=0x131ee|chars=44]
+ Flavor.\n   Salty, sweet, bitter, sour, etc.
+
+[763|off=0x13250|chars=38]
+ Sense of liking\n   for various items.
+
+[764|off=0x132a6|chars=47]
+ People can develop good\n   taste by trying it.
+
+[765|off=0x13312|chars=12]
+ Television\n
+
+[766|off=0x1332c|chars=59]
+ Clairvoyant tool enables you\n   to see something far away.
+
+[767|off=0x133ac|chars=99]
+ Might be convenient. You can go\n   online with it. But it's not needed\n   in the vineyard for now.
+
+[768|off=0x13480|chars=10]
+ Tomorrow\n
+
+[769|off=0x13496|chars=35]
+ A day after today, or near future.
+
+[770|off=0x134e6|chars=44]
+ You can't do what you can do\n   tomorrow...
+
+[771|off=0x13548|chars=58]
+ It's not a bad idea to turn in early\n   to wake up early.
+
+[772|off=0x135ca|chars=11]
+ Trash Bin\n
+
+[773|off=0x135e2|chars=31]
+ Place to toss what's unneeded.
+
+[774|off=0x1362a|chars=64]
+ If you toss what you need, get it\n   right away so you're safe.
+
+[775|off=0x136b8|chars=10]
+ Umbrella\n
+
+[776|off=0x136ce|chars=14]
+ Small shadow.
+
+[777|off=0x136f4|chars=58]
+ Nobody uses it on this island,\n   even when it's raining.
+
+[778|off=0x13772|chars=33]
+ If you want to find someone, let
+
+[779|off=0x137b6|chars=31]
+s\n   look inside the buildings.
+
+[780|off=0x13802|chars=10]
+ Upstairs\n
+
+[781|off=0x13818|chars=15]
+ A floor above.
+
+[782|off=0x13840|chars=73]
+ It's strange to go upSTAIRS\n   with an elevator,\n   and not with STAIRS.
+
+[783|off=0x138e0|chars=8]
+ Valley\n
+
+[784|off=0x138f2|chars=25]
+ Low place between hills.
+
+[785|off=0x1392e|chars=35]
+ Home to rare herbs and wild fruit.
+
+[786|off=0x1397e|chars=27]
+ Doesn't mean there are\n   
+
+[787|off=0x139b6|chars=21]
+lilies of the valley.
+
+[788|off=0x139f0|chars=11]
+ Vegetable\n
+
+[789|off=0x13a08|chars=31]
+ Food that gives people energy.
+
+[790|off=0x13a50|chars=29]
+ Various colors and shapes...
+
+[791|off=0x13a94|chars=45]
+ Used to make oil, soup, juice,\n   and salad.
+
+[792|off=0x13b04|chars=8]
+ Virtue\n
+
+[793|off=0x13b16|chars=29]
+ Strong and beautiful. Manly.
+
+[794|off=0x13b5a|chars=26]
+ Courage to do good deeds.
+
+[795|off=0x13b9c|chars=7]
+La virt
+
+[796|off=0x13bb0|chars=20]
+ premio a se stessa.
+
+[797|off=0x13bf8|chars=5]
+ War\n
+
+[798|off=0x13c04|chars=33]
+ Lose many, gain little (if any).
+
+[799|off=0x13c50|chars=55]
+ Unlike the tales, no\n   magic or glamour exists in it.
+
+[800|off=0x13ccc|chars=7]
+ Water\n
+
+[801|off=0x13cdc|chars=21]
+ One of the elements.
+
+[802|off=0x13d10|chars=28]
+ Will pass on going into\n   
+
+[803|off=0x13d4a|chars=10]
+deep water
+
+[804|off=0x13d60|chars=5]
+ and 
+
+[805|off=0x13d6c|chars=10]
+hot water.
+
+[806|off=0x13d90|chars=6]
+ Weed\n
+
+[807|off=0x13d9e|chars=32]
+ Naturally grown, useless grass.
+
+[808|off=0x13de8|chars=30]
+ Sometimes (rarely) poisonous.
+
+[809|off=0x13e2e|chars=76]
+ Sometimes (rarely) medicinal.\n   Let it grow or reap it;\n   it's up to you.
+
+[810|off=0x13ed4|chars=9]
+ Whistle\n
+
+[811|off=0x13ee8|chars=54]
+ Used as a sign, a calling,\n   or test if you blow it.
+
+[812|off=0x13f5e|chars=81]
+ Like a person humming, if one\n   is playing a melody,\n   he appears to be happy.
+
+[813|off=0x1400a|chars=57]
+ That's  how he appears to be,\n   don't know the truth...
+
+[814|off=0x14086|chars=55]
+ He might be just practicing,\n   or trying to be happy.
+
+[815|off=0x14102|chars=6]
+ Wine\n
+
+[816|off=0x14110|chars=72]
+ Make, age, smell, taste. Fine grape\n   liquor with history and romance.
+
+[817|off=0x141aa|chars=69]
+ Fermented fruit in a jar that a king\n   who loved grapes was hiding.
+
+[818|off=0x1423e|chars=108]
+ A heartbroken girl once drank it,\n   thinking it poison, but worked as\n   medicine to make her feel better.
+
+[819|off=0x14320|chars=76]
+ It's so soothing the way it shines as\n   a glass tilts, it even stops time.
+
+[820|off=0x143c2|chars=69]
+ I'm not done talking about it, but\n   that should be enough for now.
+
+[821|off=0x1445a|chars=6]
+ Wool\n
+
+[822|off=0x14468|chars=17]
+ Gift from sheep.
+
+[823|off=0x14494|chars=75]
+ Used for clothing because of its\n   warming capacity,\n   and soft touch...
+
+[824|off=0x14534|chars=41]
+ And also used to trick\n   people's eyes.
+
+[825|off=0x14594|chars=7]
+ World\n
+
+[826|off=0x145a4|chars=33]
+ After Gods' Age and Giants' Age.
+
+[827|off=0x145f0|chars=69]
+ Other names for universe, earth,\n   society, and other masterpieces.
+
+[828|off=0x14684|chars=66]
+ All you can visit, see, touch,\n   meet, love, and\n   dream about.
+
+[829|off=0x14716|chars=8]
+ Xanadu\n
+
+[830|off=0x14728|chars=24]
+ City of eternal summer.
+
+[831|off=0x14762|chars=37]
+ Appears in old poems. Nobody saw it.
+
+[832|off=0x147b6|chars=44]
+ It might be what you create\n   on your own.
+
+[833|off=0x14824|chars=6]
+ Xmas\n
+
+[834|off=0x14832|chars=26]
+ Christ's mass. A holiday.
+
+[835|off=0x14870|chars=61]
+ This island is in the south,\n   but it's a winter holiday...
+
+[836|off=0x148f4|chars=44]
+ It's an old tradition.\n   Don't be so nosy.
+
+[837|off=0x1496a|chars=11]
+ Yesterday\n
+
+[838|off=0x14982|chars=37]
+ One day before today. Or, near past.
+
+[839|off=0x149d6|chars=47]
+ My principle is\n   to forget about the past...
+
+[840|off=0x14a3e|chars=55]
+ Don't mind me\n   if I repeat\n   what I said yesterday.
+
+[841|off=0x14ac2|chars=10]
+ Yuletide\n
+
+[842|off=0x14ad8|chars=18]
+ Christmas season.
+
+[843|off=0x14b06|chars=95]
+ Poinsettias decorate both sides\n   of snowy roads rhapsodically.\n   ...that's what I hope for.
+
+[844|off=0x14bd2|chars=8]
+ Zephyr\n
+
+[845|off=0x14be4|chars=13]
+ Gentle wind.
+
+[846|off=0x14c08|chars=75]
+ Listen carefully in the woods, and\n   you can hear the Wind Fairy's voice.
+
+[847|off=0x14cac|chars=5]
+ zzz\n
+
+[848|off=0x14cb8|chars=33]
+ Onomatopoeia, indicates snoring.
+
+[849|off=0x14d04|chars=48]
+ Sounds like bug wings,\n  or throbbing machines.
+
+[850|off=0x14d6e|chars=82]
+ If bug wings or throbbing\n   machines are noisy, people\n   can't sleep and snore.
+
+[851|off=0x14e1a|chars=31]
+The word is not\nregistered yet.
+
+[852|off=0x14e60|chars=6]
+Yes\nNo
+
+[853|off=0x14e74|chars=62]
+The late night bell just rang!\nYou should be getting to bed...
+
+[854|off=0x14f00|chars=27]
+O sino da manha tocou!
+
+[855|off=0x14f3e|chars=26]
+The midday bell just rang!
+
+[856|off=0x14f7a|chars=27]
+O sino da noite tocou!
+
+[857|off=0x14fb8|chars=25]
+O sino da noite tocou!
+
+[858|off=0x14ff2|chars=12]
+You found a 
+
+[859|off=0x15018|chars=23]
+Do you want to use the\n
+
+[860|off=0x15054|chars=23]
+Start.\nBack up.\nCancel.
+
+[861|off=0x1508a|chars=51]
+Look inside the basket.\nStart the Life Arm.\nCancel.
+
+[862|off=0x150f8|chars=55]
+Look inside the basket.\nCall the Life Arm back.\nCancel.
+
+[863|off=0x1516e|chars=31]
+Look inside the basket.\nCancel.
+
+[864|off=0x151b4|chars=95]
+This is not a field square, so you\ncan't start the Life Arm! Move the\nbasket to a field square.
+
+[865|off=0x1527a|chars=44]
+You can't fit anything else into\nthe basket!
+
+[866|off=0x152da|chars=57]
+The Life Arm is active, so you can't\nput anything inside!
+
+[867|off=0x15354|chars=55]
+The Life Arm is active, so you can't\nmove it right now!
+
+[868|off=0x153cc|chars=33]
+I\nhas been sent to your\nItem Box.

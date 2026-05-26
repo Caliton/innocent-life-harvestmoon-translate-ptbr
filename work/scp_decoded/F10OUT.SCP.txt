@@ -1,0 +1,647 @@
+# F10OUT.SCP - 214 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x71a|chars=76]
+This is your bed...\nBut you can't take a nap now.\nFranco is waiting for you.
+
+[1|off=0x7be|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[2|off=0x83a|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[3|off=0x920|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[4|off=0xa0c|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[5|off=0xa92|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[6|off=0xb32|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[7|off=0xbf2|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[8|off=0xc8e|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[9|off=0xd4c|chars=11]
+Moonlight: 
+
+[10|off=0xd64|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[11|off=0xdd8|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[12|off=0xe62|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[13|off=0xee6|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[14|off=0xf84|chars=11]
+Moonlight: 
+
+[15|off=0xf9c|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[16|off=0x101a|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[17|off=0x10c0|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[18|off=0x112e|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[19|off=0x122a|chars=21]
+Franco: I can't wait!
+
+[20|off=0x1260|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[21|off=0x12be|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[22|off=0x138a|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[23|off=0x1448|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[24|off=0x14bc|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[25|off=0x1574|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[26|off=0x15ca|chars=12]
+P. I am too.
+
+[27|off=0x15ee|chars=31]
+Franco: He was a good friend...
+
+[28|off=0x1638|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[29|off=0x16a4|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[30|off=0x1744|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[31|off=0x180c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[32|off=0x1894|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[33|off=0x1962|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[34|off=0x19e8|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[35|off=0x1a4a|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[36|off=0x1b18|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[37|off=0x1b9e|chars=11]
+Moonlight: 
+
+[38|off=0x1bb6|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[39|off=0x1c5a|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[40|off=0x1ccc|chars=39]
+Fisherman: Would you like to fish here?
+
+[41|off=0x1d26|chars=54]
+Fisherman: I see.\nCome again if you feel like fishing.
+
+[42|off=0x1d9e|chars=95]
+Fisherman: I sure was surprised when\nthe surface of the lake parted and\nthat big hole appeared.
+
+[43|off=0x1e68|chars=56]
+Fisherman: But the Water Spirit\ncertainly was beautiful.
+
+[44|off=0x1ee4|chars=82]
+Fisherman: My old girlfriend was\npretty, too... She's a teacher at\nVolcano School.
+
+[45|off=0x1f94|chars=48]
+Fisherman: I hope she's happy with\nher life now.
+
+[46|off=0x2000|chars=55]
+Fisherman: Hm? You want me to teach you\nhow to whistle?
+
+[47|off=0x207a|chars=75]
+Fisherman: All right then.\nJust move your mouth like this and\nblow lightly.
+
+[48|off=0x211c|chars=114]
+Fisherman: Simple, right?\nThe wild horses on the\nplains generally feel their happiest at\nmidday or in the evening.
+
+[49|off=0x220c|chars=82]
+Fisherman: So if you go there at that\ntime, you should try talking to\none of them.
+
+[50|off=0x22bc|chars=60]
+Fisherman: That's strange. I could've\nsworn you said that...
+
+[51|off=0x233c|chars=59]
+You hear the Water Spirit's voice echo\nfrom all around you!
+
+[52|off=0x23ba|chars=111]
+If you are going to the Ice Grail, be\nsure to bring the Fire Spirit's Crest.\nLet the Green Jewel be your guide.
+
+[53|off=0x24a0|chars=102]
+At last you understand. We spirits\nwere meant to work together to\nprotect this world, not threaten it.
+
+[54|off=0x2574|chars=84]
+Hmph... Don't take all the credit.\nAfter all, you didn't do it by\nyourself, did you?
+
+[55|off=0x2624|chars=37]
+No. I could not have done it\nwithout 
+
+[56|off=0x2670|chars=9]
+P's help.
+
+[57|off=0x268a|chars=23]
+You've done very well, 
+
+[58|off=0x26ba|chars=47]
+P.\nNow then. It is time that you\nreturned home.
+
+[59|off=0x2720|chars=89]
+And so the Fire Spirit's anger\nvanished and Heartflame Island was\nsaved from destruction.
+
+[60|off=0x27da|chars=109]
+When you returned to the town, all\nof the townspeople said that they had\nheard what the Fire Spirit had said.
+
+[61|off=0x28bc|chars=36]
+And they all hailed you as a hero...
+
+[62|off=0x290c|chars=28]
+I must have been dreaming...
+
+[63|off=0x2950|chars=16]
+Moonlight: Huh? 
+
+[64|off=0x2972|chars=42]
+P....\nWhat a coincidence that we met here.
+
+[65|off=0x29d2|chars=103]
+Moonlight: I wonder if you're looking for\nsomething, or you just found yourself\nwalking toward here....
+
+[66|off=0x2aac|chars=88]
+Moonlight: Hm.... Me?\nI just received creative power\nfrom the moon and the mother earth.
+
+[67|off=0x2b68|chars=23]
+Moonlight: By the way, 
+
+[68|off=0x2b98|chars=70]
+P,\ndo you remember the day when we came\nto the site for the fist time?
+
+[69|off=0x2c30|chars=79]
+Moonlight: I said that someday I wanted to\ndiscuss beauty with you back then...
+
+[70|off=0x2cda|chars=28]
+Moonlight: Here's a story...
+
+[71|off=0x2d1e|chars=105]
+Moonlight: I heard a poet drowned in a lake\ntrying to capture the moon\nreflected in the lake's surface...
+
+[72|off=0x2dfc|chars=11]
+Moonlight: 
+
+[73|off=0x2e14|chars=37]
+P,\ndo you think the poet was foolish?
+
+[74|off=0x2e6a|chars=45]
+Moonlight: I see...\nYou seem to be a realist.
+
+[75|off=0x2ed0|chars=44]
+Moonlight: Hmm...\nYou seem to be a romantic.
+
+[76|off=0x2f34|chars=49]
+Moonlight: There's a saying somewhere that\ngoes, 
+
+[77|off=0x2f98|chars=59]
+A tiger leaves its skin,\na man leaves his name after death.
+
+[78|off=0x301c|chars=11]
+Moonlight: 
+
+[79|off=0x3034|chars=52]
+P, I wonder what\nyou'd leave behind after your death
+
+[80|off=0x30aa|chars=11]
+Moonlight: 
+
+[81|off=0x30c2|chars=47]
+P...\nYou might live for\nhundreds of rings more.
+
+[82|off=0x312c|chars=73]
+Moonlight: Even after a long time\nwhen all of my works\nfall into decay...
+
+[83|off=0x31ca|chars=38]
+Moonlight: Will you still remember me?
+
+[84|off=0x3222|chars=71]
+Moonlight: Ha-ha-ha....\nI might be reincarnated\nas something else then.
+
+[85|off=0x32bc|chars=47]
+Moonlight: And I won't remember\nanything about 
+
+[86|off=0x331c|chars=11]
+P at all...
+
+[87|off=0x333e|chars=103]
+Moonlight: But if you recognize me,\ndon't hesitate to talk to me.\nI'm sure that would help me remember.
+
+[88|off=0x3418|chars=21]
+Moonlight: All about 
+
+[89|off=0x3444|chars=4]
+P...
+
+[90|off=0x3458|chars=59]
+Moonlight: And about how we talked\nunder the moon's glow...
+
+[91|off=0x34da|chars=58]
+Moonlight: Ha-ha-ha...\nNever know what the future holds...
+
+[92|off=0x355a|chars=58]
+Moonlight: Ha-ha-ha...\nNever know what the future holds...
+
+[93|off=0x35da|chars=46]
+Moonlight: OK then, bye!\nSee you at the ruins.
+
+[94|off=0x3642|chars=46]
+Moonlight: OK then, bye!\nSee you at the ruins.
+
+[95|off=0x36a8|chars=58]
+P tried to sleep,\nbut he kept thinking he forgot\nsomething
+
+[96|off=0x3726|chars=32]
+Before you know it,\nit's dawn...
+
+[97|off=0x3770|chars=43]
+R is waiting!\nMaybe you should talk to him.
+
+[98|off=0x37ce|chars=60]
+You heard a voice that sounds like\nMax's somewhere nearby...
+
+[99|off=0x384e|chars=66]
+Your activities from the previous\nday increased your Human\nStatus!
+
+[100|off=0x38da|chars=59]
+Do you want to go to bed and\nsleep for the rest of the day?
+
+[101|off=0x3958|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[102|off=0x39d4|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[103|off=0x3a50|chars=36]
+Do you want to sleep here for today?
+
+[104|off=0x3aa0|chars=76]
+Then do you want to use the tent's\nwarp function to return to your own\nroom?
+
+[105|off=0x3b40|chars=44]
+There's no place for\nyou to pitch your tent!
+
+[106|off=0x3ba0|chars=44]
+This is a very expensive looking\nwardrobe...
+
+[107|off=0x3c00|chars=31]
+There are dishes lined up here.
+
+[108|off=0x3c46|chars=27]
+You try washing your hands.
+
+[109|off=0x3c84|chars=30]
+This sink is very easy to use.
+
+[110|off=0x3cc8|chars=25]
+Your hands are now clean.
+
+[111|off=0x3d02|chars=24]
+But there was no soap...
+
+[112|off=0x3d3a|chars=40]
+The water pressure seems a little\nlow...
+
+[113|off=0x3d92|chars=48]
+You were surprised at how dirty\nyour hands were.
+
+[114|off=0x3dfa|chars=43]
+There's water splashed all around\nthe sink!
+
+[115|off=0x3e58|chars=24]
+You wipe the area clean.
+
+[116|off=0x3e90|chars=26]
+Lukewarm water came out...
+
+[117|off=0x3ecc|chars=49]
+The drain doesn't seem to be\nworking very well...
+
+[118|off=0x3f36|chars=41]
+Hot water came out with\nincredible force!
+
+[119|off=0x3f90|chars=44]
+A very nice smell surrounds the\nsoap here...
+
+[120|off=0x3ff0|chars=55]
+You try washing your face.\nYou feel somewhat refreshed.
+
+[121|off=0x4066|chars=42]
+There are lots of things on the\nshelves...
+
+[122|off=0x40c2|chars=19]
+There is wine here.
+
+[123|off=0x40f0|chars=23]
+You look at the toilet.
+
+[124|off=0x4126|chars=32]
+It seems to have been flushed...
+
+[125|off=0x416e|chars=21]
+It's sparkling clean!
+
+[126|off=0x41a0|chars=28]
+You push the "Flush" button.
+
+[127|off=0x41e0|chars=30]
+There is a note on the toilet.
+
+[128|off=0x4224|chars=20]
+"Please keep clean!"
+
+[129|off=0x4254|chars=70]
+It appears to have a toilet seat\nthat raises and lowers automatically.
+
+[130|off=0x42e8|chars=68]
+There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+
+[131|off=0x4378|chars=53]
+The scent of aromatic oil floats\naround the toilet...
+
+[132|off=0x43ea|chars=29]
+This is an automatic bathtub.
+
+[133|off=0x442c|chars=62]
+You opened the drawer.\nThere are many different things\ninside.
+
+[134|off=0x44b0|chars=64]
+This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+
+[135|off=0x4538|chars=38]
+There are many books in the\nbookshelf.
+
+[136|off=0x458c|chars=45]
+But there's no reason for you to\nread them...
+
+[137|off=0x45ee|chars=26]
+You open the refrigerator.
+
+[138|off=0x462a|chars=65]
+But you quickly close it again\nto prevent the food from spoiling.
+
+[139|off=0x46b4|chars=75]
+"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+
+[140|off=0x4752|chars=86]
+"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+
+[141|off=0x4806|chars=63]
+"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+
+[142|off=0x488c|chars=50]
+"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+
+[143|off=0x48f8|chars=71]
+"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+
+[144|off=0x498e|chars=39]
+"Here and There"\n  Where on earth am I?
+
+[145|off=0x49e4|chars=39]
+"Straight Ahead: South Heartflame\nCave"
+
+[146|off=0x4a3a|chars=30]
+"Straight Ahead: Easter Ruins"
+
+[147|off=0x4a7e|chars=45]
+"Straight Ahead: Southeast Bank\nof East Lake"
+
+[148|off=0x4ae0|chars=23]
+"East: Mushroom Forest"
+
+[149|off=0x4b16|chars=45]
+"Straight Ahead: Southwest Bank\nof East Lake"
+
+[150|off=0x4b78|chars=37]
+"Danger! Fallen Trees.\nDo Not Enter."
+
+[151|off=0x4bca|chars=25]
+"East: Heartflame Desert"
+
+[152|off=0x4c04|chars=18]
+"Heartflame Dunes"
+
+[153|off=0x4c30|chars=26]
+"North: Heartflame Plains"
+
+[154|off=0x4c6c|chars=19]
+"Heartflame Plains"
+
+[155|off=0x4c9a|chars=32]
+"Southeast Bank of Mermaid Lake"
+
+[156|off=0x4ce2|chars=14]
+"Mermaid Lake"
+
+[157|off=0x4d06|chars=24]
+"South: Mushroom Forest"
+
+[158|off=0x4d3e|chars=32]
+"Southwest Bank of Mermaid Lake"
+
+[159|off=0x4d86|chars=11]
+"East Lake"
+
+[160|off=0x4da4|chars=54]
+I found a TV schedule wedged\nbetween sodden magazines.
+
+[161|off=0x4e18|chars=73]
+Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+
+[162|off=0x4eb2|chars=70]
+Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+
+[163|off=0x4f48|chars=28]
+How to play with Cart Rails,
+
+[164|off=0x4f82|chars=7]
+ ~Rails
+
+[165|off=0x4f98|chars=57]
+First, lay rails and\nprepare conditions to use Pod Rails.
+
+[166|off=0x5012|chars=113]
+You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+
+[167|off=0x5100|chars=28]
+How to play with Cart Rails,
+
+[168|off=0x513a|chars=8]
+ ~Motors
+
+[169|off=0x5152|chars=102]
+Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+
+[170|off=0x5226|chars=96]
+You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+
+[171|off=0x52e8|chars=8]
+ button.
+
+[172|off=0x5300|chars=38]
+"How to play with Cart Rails," ~ Carts
+
+[173|off=0x5354|chars=118]
+Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+
+[174|off=0x5448|chars=62]
+You can be a driver\nif you operate Motors\nwhile riding a Cart.
+
+[175|off=0x54cc|chars=40]
+"How to play with Cart Rails," ~Shipping
+
+[176|off=0x5524|chars=95]
+If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+
+[177|off=0x55ea|chars=120]
+Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+
+[178|off=0x56e4|chars=22]
+Physiocracy and Magic,
+
+[179|off=0x5712|chars=21]
+\n~or "Book of Spirit"
+
+[180|off=0x5744|chars=69]
+If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+
+[181|off=0x57d6|chars=75]
+You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+
+[182|off=0x5874|chars=59]
+It's a book with Fairy Tales\nfor early childhood education.
+
+[183|off=0x58f2|chars=91]
+I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+
+[184|off=0x59b0|chars=28]
+My heart is twinging...\nWhy?
+
+[185|off=0x59f0|chars=44]
+It's a Haiku Book\nwritten by Principle Rose.
+
+[186|off=0x5a50|chars=68]
+There are more Haikus about love\nthan about scenery or daily life...
+
+[187|off=0x5ae0|chars=69]
+It's like reading someone else's diary.\nI feel a little bit guilty...
+
+[188|off=0x5b74|chars=30]
+Tale of the Love & Bow Knight,
+
+[189|off=0x5bb2|chars=7]
+ Vol. 1
+
+[190|off=0x5bc8|chars=63]
+Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+
+[191|off=0x5c4e|chars=108]
+There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+
+[192|off=0x5d30|chars=30]
+Tale of the Love & Bow Knight,
+
+[193|off=0x5d6e|chars=7]
+ Vol. 2
+
+[194|off=0x5d84|chars=73]
+Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+
+[195|off=0x5e1e|chars=106]
+They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+
+[196|off=0x5efa|chars=25]
+You don't have enough PP!
+
+[197|off=0x5f34|chars=6]
+Yes\nNo
+
+[198|off=0x5f48|chars=6]
+Yes\nNo
+
+[199|off=0x5f5c|chars=6]
+Yes\nNo
+
+[200|off=0x5f70|chars=6]
+Yes\nNo
+
+[201|off=0x5f84|chars=6]
+Yes\nNo
+
+[202|off=0x5f98|chars=6]
+Yes\nNo
+
+[203|off=0x5fac|chars=6]
+Yes\nNo
+
+[204|off=0x5fc0|chars=6]
+Yes\nNo
+
+[205|off=0x5fd4|chars=57]
+Save and go to sleep.\nGo to sleep without saving.\nCancel.
+
+[206|off=0x604e|chars=21]
+Challenge increased!\n
+
+[207|off=0x608e|chars=21]
+Challenge increased!\n
+
+[208|off=0x60ce|chars=16]
+Love increased!\n
+
+[209|off=0x6104|chars=24]
+Intelligence increased!\n
+
+[210|off=0x614a|chars=19]
+Cooking increased!\n
+
+[211|off=0x6186|chars=22]
+Creativity increased!\n
+
+[212|off=0x61c8|chars=17]
+Humor increased!\n
+
+[213|off=0x6200|chars=58]
+You haven't gone to Dr. Hope's\nfor your maintenance today!

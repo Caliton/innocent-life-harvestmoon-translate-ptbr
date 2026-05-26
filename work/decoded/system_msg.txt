@@ -1,0 +1,2150 @@
+# SYSTEM.MSG - 715 mensagens
+# Formato: [N|slot=SS|id=0xMID] linha de header.
+# Texto nas linhas seguintes ate proximo bloco.
+# Tokens <XX> = byte de controle, <HHLL> = 2 bytes brutos.
+# Quebra de linha vira \n literal. NAO mude o header [N|...].
+
+[0|slot=100|id=0x18d]
+
+
+[1|slot=120|id=0x44d]
+<0002>Your ear receiver is picking up a\nmessage from Dr. Hope!<02>\n
+
+[2|slot=110|id=0x44e]
+
+
+[3|slot=124|id=0x952]
+<0002><08><02>Franco: So you've finally started\nraising livestock, eh?<02>\n
+
+[4|slot=230|id=0x953]
+<0002><08><02>Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?<02>\n
+
+[5|slot=236|id=0x954]
+<0002><08><02>Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.<02>\n
+
+[6|slot=134|id=0x955]
+
+
+[7|slot=160|id=0x958]
+<0002><08><02>Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!<02>\n
+
+[8|slot=192|id=0x959]
+
+
+[9|slot=156|id=0x95c]
+<0002><08><02>Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!<02>\n
+
+[10|slot=190|id=0x95d]
+
+
+[11|slot=140|id=0x960]
+<0002><08><02>Moonlight: <06>P! I see you got\nquite a nice present from Dr. Hope.<02>\n
+
+[12|slot=138|id=0x961]
+
+
+[13|slot=132|id=0x964]
+<0002><08><02>Franco: I can't believe Marco could make\nsuch a big mistake.<02>\n
+
+[14|slot=158|id=0x965]
+
+
+[15|slot=150|id=0x968]
+<0002><08><02>Moonlight: <06>P!\nI hear they had some trouble in the\nVolcano Town cave.<02>\n
+
+[16|slot=166|id=0x969]
+
+
+[17|slot=110|id=0x96c]
+<0002><08><02>Franco: I hear that you planted some\npoinsettias.<02>\n
+
+[18|slot=252|id=0x96d]
+<0002><08><02>Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.<02>\n
+
+[19|slot=54|id=0x96e]
+
+
+[20|slot=94|id=0x971]
+<0002><08><02>Franco: I hear that Dr. Hope\ncollapsed...<02>\n
+
+[21|slot=204|id=0x972]
+<0002><08><02>Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.<02>\n
+
+[22|slot=190|id=0x973]
+
+
+[23|slot=116|id=0x976]
+<0002><08><02>Moonlight: I never knew that Dr. Hope\nwas so sick...<02>\n
+
+[24|slot=184|id=0x977]
+
+
+[25|slot=122|id=0x97a]
+<0002><08><02>Franco: I know you're sad about Dr.\nHope, <06>P. I am too.<02>\n
+
+[26|slot=74|id=0x97b]
+
+
+[27|slot=108|id=0x97e]
+<0002><08><02>Moonlight: I heard the voice of the\nFire Spirit!<02>\n
+
+[28|slot=160|id=0x97f]
+<0002><08><02>Moonlight: It told me that there is\nmore to this world than meets\nthe eye!<02>\n
+
+[29|slot=200|id=0x980]
+
+
+[30|slot=136|id=0x99a]
+<0002><08><02>Franco: Who is that strange man who\nnow lives in the new room?<02>\n
+
+[31|slot=206|id=0x99b]
+<0002><08><02>Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...<02>\n
+
+[32|slot=134|id=0x99c]
+
+
+[33|slot=98|id=0x9b3]
+<0002><08><02>Franco: An alien is living in the new\nroom?<02>\n
+
+[34|slot=206|id=0x9b4]
+<0002><08><02>Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...<02>\n
+
+[35|slot=134|id=0x9b5]
+
+
+[36|slot=188|id=0x9b8]
+<0002><08><02>Moonlight: <06>P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.<02>\n
+
+[37|slot=114|id=0x9b9]
+
+
+[38|slot=138|id=0x178c]
+<0002>You hear the voice of the Fire Spirit\ncoming from all around you!<02>\n
+
+[39|slot=146|id=0x178d]
+
+
+[40|slot=70|id=0x7595]
+
+
+[41|slot=116|id=0x1482a]
+<0002><06>P's ear receiver picked up\nVita's radio transmission!<02>\n
+
+[42|slot=188|id=0x1482b]
+<0002><08><03>Vita: Master <06>P,\nPlease come to Masami's Bar immediately.\nEveryone is waiting for you...<02>\n
+
+[43|slot=76|id=0x1482c]
+
+
+[44|slot=64|id=0xbbfd1]
+<0002>Your Human Status\nincreased!<02>\n
+
+[45|slot=64|id=0xbbfd1]
+<0002>Your Human Status\nincreased!<02>\n
+
+[46|slot=140|id=0xbbfd5]
+<0002>Your activities from the previous\nday increased your Human\nStatus!<02>\n
+
+[47|slot=140|id=0xbbfd5]
+<0002>Your activities from the previous\nday increased your Human\nStatus!<02>\n
+
+[48|slot=126|id=0xbbfd9]
+
+
+[49|slot=126|id=0xbbfd9]
+
+
+[50|slot=124|id=0xbbfdc]
+
+
+[51|slot=124|id=0xbbfdc]
+
+
+[52|slot=124|id=0xbbfe1]
+
+
+[53|slot=124|id=0xbbfe1]
+
+
+[54|slot=62|id=0xbbfe6]
+
+
+[55|slot=62|id=0xbbfe6]
+
+
+[56|slot=66|id=0xbbfe8]
+
+
+[57|slot=66|id=0xbbfe8]
+
+
+[58|slot=62|id=0xbbfea]
+
+
+[59|slot=62|id=0xbbfea]
+
+
+[60|slot=58|id=0xbbfec]
+
+
+[61|slot=58|id=0xbbfec]
+
+
+[62|slot=122|id=0xbbfee]
+
+
+[63|slot=122|id=0xbbfee]
+
+
+[64|slot=82|id=0xbbff0]
+
+
+[65|slot=82|id=0xbbff0]
+
+
+[66|slot=48|id=0xbbff2]
+<0002>This door is locked!<02>\n
+
+[67|slot=48|id=0xbbff2]
+<0002>This door is locked!<02>\n
+
+[68|slot=84|id=0xbbff3]
+
+
+[69|slot=84|id=0xbbff3]
+
+
+[70|slot=110|id=0xbbff5]
+
+
+[71|slot=110|id=0xbbff5]
+
+
+[72|slot=188|id=0xbbff7]
+
+
+[73|slot=188|id=0xbbff7]
+
+
+[74|slot=220|id=0xbbff9]
+
+
+[75|slot=220|id=0xbbff9]
+
+
+[76|slot=116|id=0xbbffb]
+
+
+[77|slot=116|id=0xbbffb]
+
+
+[78|slot=160|id=0xbbffd]
+
+
+[79|slot=160|id=0xbbffd]
+
+
+[80|slot=76|id=0xbc000]
+
+
+[81|slot=76|id=0xbc000]
+
+
+[82|slot=174|id=0xbc003]
+
+
+[83|slot=174|id=0xbc003]
+
+
+[84|slot=196|id=0xbc005]
+<0002>Thank you for choosing Green Network\nTV, the channel that has the future of\nthe earth in mind.<02>\n
+
+[85|slot=196|id=0xbc005]
+<0002>Thank you for choosing Green Network\nTV, the channel that has the future of\nthe earth in mind.<02>\n
+
+[86|slot=66|id=0xbc006]
+<0002>We are currently off the air.<02>\n
+
+[87|slot=66|id=0xbc006]
+<0002>We are currently off the air.<02>\n
+
+[88|slot=170|id=0xbc007]
+
+
+[89|slot=170|id=0xbc007]
+
+
+[90|slot=80|id=0xbc00a]
+
+
+[91|slot=80|id=0xbc00a]
+
+
+[92|slot=160|id=0xbc00c]
+
+
+[93|slot=160|id=0xbc00c]
+
+
+[94|slot=124|id=0xbc00f]
+
+
+[95|slot=124|id=0xbc00f]
+
+
+[96|slot=124|id=0xbc014]
+
+
+[97|slot=124|id=0xbc014]
+
+
+[98|slot=96|id=0xbc01a]
+
+
+[99|slot=96|id=0xbc01a]
+
+
+[100|slot=158|id=0xbc01c]
+
+
+[101|slot=158|id=0xbc01c]
+
+
+[102|slot=108|id=0xbc01d]
+
+
+[103|slot=108|id=0xbc01d]
+
+
+[104|slot=138|id=0xbc021]
+
+
+[105|slot=138|id=0xbc021]
+
+
+[106|slot=112|id=0xbc022]
+
+
+[107|slot=112|id=0xbc022]
+
+
+[108|slot=120|id=0xbc025]
+
+
+[109|slot=120|id=0xbc025]
+
+
+[110|slot=176|id=0xbc029]
+
+
+[111|slot=176|id=0xbc029]
+
+
+[112|slot=212|id=0xbc02b]
+
+
+[113|slot=212|id=0xbc02b]
+
+
+[114|slot=196|id=0xbc02d]
+
+
+[115|slot=196|id=0xbc02d]
+
+
+[116|slot=120|id=0xbc030]
+<0002>Your ear receiver is picking up a\nmessage from Dr. Hope!<02>\n
+
+[117|slot=120|id=0xbc030]
+<0002>Your ear receiver is picking up a\nmessage from Dr. Hope!<02>\n
+
+[118|slot=116|id=0xbc031]
+
+
+[119|slot=116|id=0xbc031]
+
+
+[120|slot=120|id=0xbc034]
+<0002>Your ear receiver is picking up a\nmessage from Dr. Hope!<02>\n
+
+[121|slot=120|id=0xbc034]
+<0002>Your ear receiver is picking up a\nmessage from Dr. Hope!<02>\n
+
+[122|slot=166|id=0xbc035]
+
+
+[123|slot=166|id=0xbc035]
+
+
+[124|slot=130|id=0xbc038]
+
+
+[125|slot=130|id=0xbc038]
+
+
+[126|slot=70|id=0xbc03b]
+
+
+[127|slot=70|id=0xbc03b]
+
+
+[128|slot=80|id=0xbc03d]
+
+
+[129|slot=80|id=0xbc03d]
+
+
+[130|slot=70|id=0xbc041]
+
+
+[131|slot=70|id=0xbc041]
+
+
+[132|slot=68|id=0xbc043]
+
+
+[133|slot=68|id=0xbc043]
+
+
+[134|slot=96|id=0xbc045]
+
+
+[135|slot=96|id=0xbc045]
+
+
+[136|slot=134|id=0xbc047]
+
+
+[137|slot=134|id=0xbc047]
+
+
+[138|slot=118|id=0xbc049]
+
+
+[139|slot=118|id=0xbc049]
+
+
+[140|slot=154|id=0xbc04b]
+
+
+[141|slot=154|id=0xbc04b]
+
+
+[142|slot=152|id=0xbc04d]
+
+
+[143|slot=152|id=0xbc04d]
+
+
+[144|slot=170|id=0xbc04f]
+
+
+[145|slot=170|id=0xbc04f]
+
+
+[146|slot=112|id=0xbc051]
+<0002>Your ear receiver is picking up a\nmessage from Vita!<02>\n
+
+[147|slot=112|id=0xbc051]
+<0002>Your ear receiver is picking up a\nmessage from Vita!<02>\n
+
+[148|slot=112|id=0xbc052]
+
+
+[149|slot=112|id=0xbc052]
+
+
+[150|slot=132|id=0xbd359]
+
+
+[151|slot=132|id=0xbd35b]
+
+
+[152|slot=154|id=0xbd35d]
+
+
+[153|slot=150|id=0xbd35f]
+
+
+[154|slot=204|id=0xbd361]
+
+
+[155|slot=154|id=0xbd363]
+
+
+[156|slot=150|id=0xbd365]
+
+
+[157|slot=210|id=0xbd367]
+
+
+[158|slot=160|id=0xbd369]
+
+
+[159|slot=176|id=0xbd36b]
+
+
+[160|slot=230|id=0xbd36d]
+
+
+[161|slot=180|id=0xbd36f]
+
+
+[162|slot=158|id=0xbd371]
+
+
+[163|slot=216|id=0xbd373]
+
+
+[164|slot=166|id=0xbd375]
+
+
+[165|slot=174|id=0xbd377]
+
+
+[166|slot=222|id=0xbd379]
+
+
+[167|slot=148|id=0xbd37b]
+
+
+[168|slot=154|id=0xbd37d]
+
+
+[169|slot=208|id=0xbd37f]
+
+
+[170|slot=158|id=0xbd381]
+
+
+[171|slot=220|id=0xbd383]
+
+
+[172|slot=216|id=0xbd385]
+
+
+[173|slot=166|id=0xbd387]
+
+
+[174|slot=150|id=0xbd389]
+
+
+[175|slot=210|id=0xbd38b]
+
+
+[176|slot=160|id=0xbd38d]
+
+
+[177|slot=138|id=0xbd38f]
+
+
+[178|slot=210|id=0xbd391]
+
+
+[179|slot=160|id=0xbd393]
+
+
+[180|slot=96|id=0xbd396]
+
+
+[181|slot=70|id=0xbd398]
+
+
+[182|slot=62|id=0xbd39a]
+
+
+[183|slot=68|id=0xbd39c]
+
+
+[184|slot=58|id=0xbd39e]
+
+
+[185|slot=56|id=0xbd3a0]
+
+
+[186|slot=88|id=0xbd3a2]
+
+
+[187|slot=104|id=0xbd3a4]
+
+
+[188|slot=94|id=0xbd3a6]
+<0002>There's water splashed all around\nthe sink!<02>\n
+
+[189|slot=56|id=0xbd3a7]
+
+
+[190|slot=60|id=0xbd3a9]
+
+
+[191|slot=106|id=0xbd3ab]
+
+
+[192|slot=90|id=0xbd3ad]
+
+
+[193|slot=96|id=0xbd3af]
+
+
+[194|slot=118|id=0xbd3b1]
+
+
+[195|slot=92|id=0xbd3b3]
+
+
+[196|slot=46|id=0xbd3b5]
+
+
+[197|slot=54|id=0xbd3b7]
+
+
+[198|slot=72|id=0xbd3b9]
+
+
+[199|slot=50|id=0xbd3bb]
+
+
+[200|slot=64|id=0xbd3bd]
+
+
+[201|slot=68|id=0xbd3bf]
+<0002>There is a note on the toilet.<02>\n
+
+[202|slot=48|id=0xbd3c0]
+
+
+[203|slot=148|id=0xbd3c2]
+
+
+[204|slot=144|id=0xbd3c4]
+
+
+[205|slot=114|id=0xbd3c6]
+
+
+[206|slot=66|id=0xbd3c8]
+
+
+[207|slot=132|id=0xbd3ca]
+
+
+[208|slot=136|id=0xbd3cc]
+
+
+[209|slot=84|id=0xbd3ce]
+<0002>There are many books in the\nbookshelf.<02>\n
+
+[210|slot=98|id=0xbd3cf]
+
+
+[211|slot=60|id=0xbd3d1]
+<0002>You open the refrigerator.<02>\n
+
+[212|slot=138|id=0xbd3d2]
+
+
+[213|slot=64|id=0xbd3d4]
+
+
+[214|slot=62|id=0xbd3d6]
+
+
+[215|slot=66|id=0xbd3d9]
+<0002>Your bag can't hold any more!<02>\n
+
+[216|slot=96|id=0xbd3da]
+
+
+[217|slot=106|id=0xbd3db]
+
+
+[218|slot=74|id=0xbd3dd]
+
+
+[219|slot=50|id=0xbd3e0]
+
+
+[220|slot=54|id=0xbd3e2]
+
+
+[221|slot=78|id=0xbd3e5]
+<0002>But you can't carry any\nmore money!<02>\n
+
+[222|slot=132|id=0xbd3e6]
+
+
+[223|slot=128|id=0xbd3e7]
+
+
+[224|slot=74|id=0xbd3e9]
+
+
+[225|slot=120|id=0xbd3ec]
+
+
+[226|slot=158|id=0xbd3ee]
+
+
+[227|slot=180|id=0xbd3f0]
+
+
+[228|slot=134|id=0xbd3f2]
+
+
+[229|slot=108|id=0xbd3f4]
+
+
+[230|slot=150|id=0xbd3f6]
+
+
+[231|slot=86|id=0xbd3f8]
+
+
+[232|slot=100|id=0xbd3fa]
+
+
+[233|slot=96|id=0xbd3fc]
+
+
+[234|slot=116|id=0xbd3fe]
+
+
+[235|slot=102|id=0xbd400]
+
+
+[236|slot=218|id=0xbd402]
+
+
+[237|slot=144|id=0xbd404]
+
+
+[238|slot=180|id=0xbd406]
+
+
+[239|slot=112|id=0xbd408]
+
+
+[240|slot=126|id=0xbd40a]
+
+
+[241|slot=62|id=0xbd40c]
+<0002>Rooooooaaaar!\nRooooooaaaar!<02>\n
+
+[242|slot=88|id=0xbd40d]
+
+
+[243|slot=128|id=0xbd40f]
+
+
+[244|slot=86|id=0xbd411]
+
+
+[245|slot=68|id=0xbd413]
+
+
+[246|slot=98|id=0xbd415]
+
+
+[247|slot=54|id=0xbd417]
+
+
+[248|slot=98|id=0xbd419]
+
+
+[249|slot=82|id=0xbd41b]
+
+
+[250|slot=58|id=0xbd41d]
+
+
+[251|slot=44|id=0xbd41f]
+
+
+[252|slot=60|id=0xbd421]
+
+
+[253|slot=46|id=0xbd423]
+
+
+[254|slot=72|id=0xbd425]
+
+
+[255|slot=36|id=0xbd427]
+
+
+[256|slot=56|id=0xbd429]
+
+
+[257|slot=72|id=0xbd42b]
+
+
+[258|slot=30|id=0xbd42d]
+
+
+[259|slot=44|id=0xbd42f]
+
+
+[260|slot=62|id=0xbd431]
+
+
+[261|slot=66|id=0xbd434]
+<0002>Your bag can't hold any more!<02>\n
+
+[262|slot=96|id=0xbd435]
+
+
+[263|slot=106|id=0xbd436]
+
+
+[264|slot=74|id=0xbd438]
+
+
+[265|slot=44|id=0xbd43a]
+<0002>You found a(n)\n<06>I!<02>\n
+
+[266|slot=84|id=0xbd43b]
+
+
+[267|slot=84|id=0xbd43d]
+
+
+[268|slot=62|id=0xbd43f]
+
+
+[269|slot=66|id=0xbd442]
+<0002>Your bag can't hold any more!<02>\n
+
+[270|slot=96|id=0xbd443]
+
+
+[271|slot=208|id=0xbd444]
+
+
+[272|slot=106|id=0xbd445]
+
+
+[273|slot=130|id=0xbd448]
+
+
+[274|slot=156|id=0xbd44a]
+
+
+[275|slot=106|id=0xbd44c]
+
+
+[276|slot=68|id=0xbd44e]
+
+
+[277|slot=128|id=0xbd450]
+
+
+[278|slot=158|id=0xbd452]
+
+
+[279|slot=108|id=0xbd454]
+
+
+[280|slot=50|id=0xbd456]
+
+
+[281|slot=116|id=0xbd458]
+<0002>I found a TV schedule wedged\nbetween sodden magazines.<02>\n
+
+[282|slot=154|id=0xbd459]
+<0002>Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"<02>\n
+
+[283|slot=148|id=0xbd45a]
+
+
+[284|slot=82|id=0xbd45c]
+<0002><1c20>How to play with Cart Rails,<1d20> ~Rails<02>\n
+
+[285|slot=122|id=0xbd45d]
+<0002>First, lay rails and\nprepare conditions to use Pod Rails.<02>\n
+
+[286|slot=234|id=0xbd45e]
+
+
+[287|slot=86|id=0xbd460]
+<0002> <1c20>How to play with Cart Rails,<1d20> ~Motors<02>\n
+
+[288|slot=212|id=0xbd461]
+<0002>Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.<02>\n
+
+[289|slot=218|id=0xbd462]
+
+
+[290|slot=84|id=0xbd464]
+<0002>"How to play with Cart Rails," ~ Carts<02>\n
+
+[291|slot=244|id=0xbd465]
+<0002>Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.<02>\n
+
+[292|slot=132|id=0xbd466]
+
+
+[293|slot=88|id=0xbd468]
+<0002>"How to play with Cart Rails," ~Shipping<02>\n
+
+[294|slot=198|id=0xbd469]
+<0002>If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.<02>\n
+
+[295|slot=248|id=0xbd46a]
+
+
+[296|slot=98|id=0xbd46c]
+<0002><1c20>Physiocracy and Magic,<1d20>\n~or "Book of Spirit"<02>\n
+
+[297|slot=146|id=0xbd46d]
+<0002>If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.<02>\n
+
+[298|slot=158|id=0xbd46e]
+
+
+[299|slot=126|id=0xbd470]
+<0002>It's a book with Fairy Tales\nfor early childhood education.<02>\n
+
+[300|slot=190|id=0xbd471]
+<0002>I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...<02>\n
+
+[301|slot=64|id=0xbd472]
+
+
+[302|slot=96|id=0xbd474]
+<0002>It's a Haiku Book\nwritten by Principle Rose.<02>\n
+
+[303|slot=144|id=0xbd475]
+<0002>There are more Haikus about love\nthan about scenery or daily life...<02>\n
+
+[304|slot=146|id=0xbd476]
+
+
+[305|slot=86|id=0xbd478]
+<0002><1c20>Tale of the Love & Bow Knight,<1d20> Vol. 1<02>\n
+
+[306|slot=134|id=0xbd479]
+<0002>Knight: T-t-take this bow!\nPrincess: ... am I the one you want?<02>\n
+
+[307|slot=224|id=0xbd47a]
+
+
+[308|slot=86|id=0xbd47c]
+<0002><1c20>Tale of the Love & Bow Knight,<1d20> Vol. 2<02>\n
+
+[309|slot=154|id=0xbd47d]
+<0002>Princess: I also have something to give you,\nKnight: Th-this is...a pin!?<02>\n
+
+[310|slot=220|id=0xbd47e]
+
+
+[311|slot=48|id=0xc3501]
+
+
+[312|slot=48|id=0xc3501]
+
+
+[313|slot=52|id=0xc3503]
+
+
+[314|slot=52|id=0xc3503]
+
+
+[315|slot=38|id=0xc3505]
+
+
+[316|slot=38|id=0xc3505]
+
+
+[317|slot=46|id=0xc3507]
+
+
+[318|slot=46|id=0xc3507]
+
+
+[319|slot=48|id=0xc3509]
+
+
+[320|slot=48|id=0xc3509]
+
+
+[321|slot=122|id=0xc350b]
+
+
+[322|slot=122|id=0xc350b]
+
+
+[323|slot=124|id=0xc350c]
+
+
+[324|slot=124|id=0xc350c]
+
+
+[325|slot=8|id=0xc350d]
+
+
+[326|slot=112|id=0xc350f]
+
+
+[327|slot=112|id=0xc350f]
+
+
+[328|slot=76|id=0xc3510]
+
+
+[329|slot=76|id=0xc3510]
+
+
+[330|slot=8|id=0xc3511]
+
+
+[331|slot=76|id=0xc3513]
+
+
+[332|slot=76|id=0xc3513]
+
+
+[333|slot=76|id=0xc3515]
+
+
+[334|slot=76|id=0xc3515]
+
+
+[335|slot=146|id=0xc3517]
+
+
+[336|slot=146|id=0xc3517]
+
+
+[337|slot=104|id=0xc3519]
+
+
+[338|slot=104|id=0xc3519]
+
+
+[339|slot=44|id=0xc351c]
+
+
+[340|slot=44|id=0xc351c]
+
+
+[341|slot=90|id=0xc351e]
+
+
+[342|slot=76|id=0xc3520]
+
+
+[343|slot=52|id=0xc3564]
+
+
+[344|slot=42|id=0xc3565]
+
+
+[345|slot=38|id=0xc3566]
+
+
+[346|slot=72|id=0xc3567]
+
+
+[347|slot=72|id=0xc3568]
+
+
+[348|slot=60|id=0xc3569]
+
+
+[349|slot=62|id=0xc356a]
+
+
+[350|slot=214|id=0xc356b]
+
+
+[351|slot=52|id=0xc356c]
+
+
+[352|slot=58|id=0xc356d]
+
+
+[353|slot=100|id=0xc356e]
+
+
+[354|slot=76|id=0xc356f]
+
+
+[355|slot=180|id=0xc3570]
+
+
+[356|slot=88|id=0xc3571]
+
+
+[357|slot=82|id=0xc3577]
+
+
+[358|slot=128|id=0xd1f63]
+<0002>This is a cheese maker.\nThrow in some milk to\ncreate cheese.<02>\n
+
+[359|slot=98|id=0xd1f64]
+
+
+[360|slot=144|id=0xd1f66]
+<0002>This is a mayonnaise maker.\nThrow in some eggs to\ncreate mayonnaise.<02>\n
+
+[361|slot=106|id=0xd1f67]
+
+
+[362|slot=144|id=0xd1f6a]
+
+
+[363|slot=152|id=0xd1f6c]
+
+
+[364|slot=146|id=0xd1f6e]
+
+
+[365|slot=84|id=0xd1f70]
+
+
+[366|slot=112|id=0xd1f73]
+
+
+[367|slot=82|id=0xd1f76]
+<0002>A <06>I was\ndug up by the Enchanted\nHoe.<02>\n
+
+[368|slot=72|id=0xd1f77]
+
+
+[369|slot=130|id=0xd1f7a]
+
+
+[370|slot=110|id=0xd1f7c]
+
+
+[371|slot=112|id=0xd1f7e]
+
+
+[372|slot=110|id=0xd716a]
+<0002><1030>A<1130> Adventure\n<6024> A strange thing happens before you.<02>\n
+
+[373|slot=160|id=0xd716b]
+<0002><6124> Challenge like fighting tigers with\n   bare hands, or fording a big river.<02>\n
+
+[374|slot=210|id=0xd716c]
+
+
+[375|slot=56|id=0xd716e]
+<0002><1030>A<1130> Alien\n<6024> A foreigner.<02>\n
+
+[376|slot=142|id=0xd716f]
+<0002><6124> Someone not just from out of town,\n   but from out of the galaxy.<02>\n
+
+[377|slot=146|id=0xd7170]
+
+
+[378|slot=8|id=0xd7171]
+
+
+[379|slot=74|id=0xd7173]
+<0002><1030>A<1130> Apple\n<6024> Fruit Adam choked on.<02>\n
+
+[380|slot=76|id=0xd7174]
+<0002><6124> Fruit used to poison Snow White.<02>\n
+
+[381|slot=76|id=0xd7175]
+<0002><6224> Demonstrates the Law of Gravity.<02>\n
+
+[382|slot=126|id=0xd7176]
+
+
+[383|slot=244|id=0xd7178]
+<0002><1030>A<1130> Art\n<6024> Paintings and sculptures, as well as\nculinary works, architecture, and\nlandscapes; lot of things can be art.<02>\n
+
+[384|slot=70|id=0xd7179]
+
+
+[385|slot=104|id=0xd717b]
+<0002><1030>A<1130> Author\n<6024> A person who writes literary works.<02>\n
+
+[386|slot=180|id=0xd717c]
+
+
+[387|slot=152|id=0xd717e]
+<0002><1030>B<1130> Banana\n<6024> A gorilla's favorite.\n...And maybe a human's favorite, too.<02>\n
+
+[388|slot=150|id=0xd717f]
+<0002><6124> Originally thought grown on trees,\n   actually comes from tall grass.<02>\n
+
+[389|slot=228|id=0xd7180]
+
+
+[390|slot=8|id=0xd7181]
+
+
+[391|slot=8|id=0xd7182]
+
+
+[392|slot=130|id=0xd7184]
+<0002><1030>B<1130><0030>Billionaire\n<6024> Person with a lot of money;\n   a celebrity.<02>\n
+
+[393|slot=200|id=0xd7185]
+<0002><6124> Inherits lots of money from family.\n   More commonly, earns vast sum\n   of money by own means.<02>\n
+
+[394|slot=148|id=0xd7186]
+<0002><6224> Answer to the question "what do\n   you want to be when you grow up?"<02>\n
+
+[395|slot=76|id=0xd7187]
+
+
+[396|slot=168|id=0xd7189]
+<0002><1030>B<1130> Black Truffle\n<6024>The <1c20>Black Gem.<1d20> One of the\nforemost delicacies in the world.<02>\n
+
+[397|slot=142|id=0xd718a]
+
+
+[398|slot=152|id=0xd718c]
+<0002><1030>B<1130> Blueberry\n<6024> Fruit that's good for the eyes.\n   Can be made into jam.<02>\n
+
+[399|slot=174|id=0xd718d]
+
+
+[400|slot=160|id=0xd718f]
+<0002><1030>B<1130> bride\n<6024> A woman who owns the happiness\n   of the world for just one day.<02>\n
+
+[401|slot=154|id=0xd7190]
+<0002><6124> A bit selfish... tosses a bouquet\n   to share joy with one other woman.<02>\n
+
+[402|slot=140|id=0xd7191]
+<0002><6224> Needs two supporting actors.\nOne swears eternal love\nbeside her.<02>\n
+
+[403|slot=76|id=0xd7192]
+
+
+[404|slot=98|id=0xd7194]
+<0002><1030>B<1130> Buggy\n<6024> Originally, a one-horse carriage.<02>\n
+
+[405|slot=144|id=0xd7195]
+<0002><6124> Car kids can drive. Runs over\n  wastelands twice as fast as a boy.<02>\n
+
+[406|slot=112|id=0xd7196]
+
+
+[407|slot=8|id=0xd7197]
+
+
+[408|slot=104|id=0xd7199]
+<0002><1030>B<1130> Bygone\n<6024> Folk tale.\n To be retold to others.<02>\n
+
+[409|slot=104|id=0xd719a]
+<0002><6124> Old, unused tools.\n   Can't seem to toss them.<02>\n
+
+[410|slot=150|id=0xd719b]
+<0002><6224> A mistake only the young would make.\n   Can't take it back, though...<02>\n
+
+[411|slot=86|id=0xd719c]
+
+
+[412|slot=140|id=0xd719f]
+<0002><1030>C<1130> Cabbage\n<6024> Has a head and a heart,\n   but vegetable, not human.<02>\n
+
+[413|slot=158|id=0xd71a0]
+<0002><6124> Hard to tell apart from lettuce,\n  but easy to tell apart\n  from human...<02>\n
+
+[414|slot=118|id=0xd71a1]
+
+
+[415|slot=142|id=0xd71a3]
+<0002><1030>C<1130> Cacao\n<6024> "Food of the gods."\n  Grows from obeche evergreen tree.<02>\n
+
+[416|slot=144|id=0xd71a4]
+<0002><6124> Cacao seeds, or beans,\n   are used to make chocolate\n   and cocoa.<02>\n
+
+[417|slot=156|id=0xd71a5]
+<0002><6224> Its cacao polyphenol aids dieting\n   and helps prevent arteriosclerosis.<02>\n
+
+[418|slot=142|id=0xd71a6]
+
+
+[419|slot=166|id=0xd71a8]
+<0002><1030>C<1130> Cake\n<6024> Must-have sweet at happy events.\nGoes with strawberry and chocolate.<02>\n
+
+[420|slot=148|id=0xd71a9]
+<0002><6124> Eating it on ordinary days can\n   make a person especially\n   happy<2620><02>\n
+
+[421|slot=202|id=0xd71aa]
+
+
+[422|slot=64|id=0xd71ac]
+<0002><1030>C<1130> Cat\n<6024> Archenemy of dogs.<02>\n
+
+[423|slot=140|id=0xd71ad]
+
+
+[424|slot=8|id=0xd71ae]
+
+
+[425|slot=152|id=0xd71b0]
+<0002><1030>C<1130> Cherry Tree\n<6024> Flowers fall in spring.\n   Deciduous fall of Rosaceae.<02>\n
+
+[426|slot=144|id=0xd71b1]
+<0002><6124> Wood used in architecture,\n   furniture, art, cultural exchange...<02>\n
+
+[427|slot=224|id=0xd71b2]
+
+
+[428|slot=8|id=0xd71b3]
+
+
+[429|slot=160|id=0xd71b5]
+<0002><1030>C<1130> Chest\n<6024> A box which raises expectations\n   that goodies might be inside.<02>\n
+
+[430|slot=150|id=0xd71b6]
+<0002><6124> Some are crushed under pressure\n   and can't meet their expectations.<02>\n
+
+[431|slot=170|id=0xd71b7]
+
+
+[432|slot=166|id=0xd71b9]
+<0002><1030>C<1130> Chicken\n<6024> A bird that can tell time. Make\ntreacherous apostles feel guilty.<02>\n
+
+[433|slot=40|id=0xd71ba]
+<0002><6124> Barnyard fowl.<02>\n
+
+[434|slot=162|id=0xd71bb]
+<0002><6224> Its origin has two theories: Gallus\n   gallus domesticus and Gallus gallus.<02>\n
+
+[435|slot=216|id=0xd71bc]
+
+
+[436|slot=98|id=0xd71be]
+<0002><1030>D<1130> Dessert\n<6024> Makes you fat when you overeat.<02>\n
+
+[437|slot=170|id=0xd71bf]
+
+
+[438|slot=112|id=0xd71c1]
+<0002><1030>D<1130> Dish\n<6024> Tableware.\n   Plates, forks, spoons, etc.<02>\n
+
+[439|slot=200|id=0xd71c2]
+<0002><6124> Food served on plates. Italian,\n   French, Japanese, various\n   international types available.<02>\n
+
+[440|slot=100|id=0xd71c3]
+
+
+[441|slot=64|id=0xd71c5]
+<0002><1030>D<1130> Dog\n<6024> Archenemy of cats.<02>\n
+
+[442|slot=148|id=0xd71c6]
+
+
+[443|slot=8|id=0xd71c7]
+
+
+[444|slot=158|id=0xd71c9]
+<0002><1030>D<1130> Dream\n<6024> Visions while sleeping. Similar\n   to reality but more fantasy.<02>\n
+
+[445|slot=164|id=0xd71ca]
+<0002><6124> Vision of future.\n   Seems doable, yet might have\n   a catch. Ideal outcome.<02>\n
+
+[446|slot=212|id=0xd71cb]
+
+
+[447|slot=8|id=0xd71cc]
+
+
+[448|slot=8|id=0xd71cd]
+
+
+[449|slot=100|id=0xd71d0]
+<0002><1030>E<1130> Ear\n<6024> Most lovely parts of\nthe human body.<02>\n
+
+[450|slot=68|id=0xd71d1]
+<0002><6124> Hears sounds, keeps balance.<02>\n
+
+[451|slot=112|id=0xd71d2]
+
+
+[452|slot=72|id=0xd71d4]
+<0002><1030>E<1130> Earth\n<6024> One of the elements.<02>\n
+
+[453|slot=174|id=0xd71d5]
+
+
+[454|slot=8|id=0xd71d6]
+
+
+[455|slot=168|id=0xd71d8]
+<0002><1030>E<1130> Epoch-making\n<6024> Revolutionary state that stops time\n   and goes beyond years.<02>\n
+
+[456|slot=132|id=0xd71d9]
+
+
+[457|slot=8|id=0xd71da]
+
+
+[458|slot=102|id=0xd71dc]
+<0002><1030>E<1130> Equator\n<6024> Imaginary line involving LAT 0 <b0>.<02>\n
+
+[459|slot=214|id=0xd71dd]
+<0002><6124> A line where the earth is cut\n   in half by a plane intersecting the\n   earth's axis perpendicularly.<02>\n
+
+[460|slot=130|id=0xd71de]
+
+
+[461|slot=144|id=0xd71e0]
+<0002><1030>F<1130> Fall\n<6024> Come down, or a season in which\n   leaves come off trees.<02>\n
+
+[462|slot=238|id=0xd71e1]
+
+
+[463|slot=108|id=0xd71e3]
+<0002><1030>F<1130> Farm\n<6024> Where veggies and grain are 2nd string.<02>\n
+
+[464|slot=164|id=0xd71e4]
+<0002><6124> Experience of growing veggies,\n   fruits, and herbs, anything you\n   like...<02>\n
+
+[465|slot=168|id=0xd71e5]
+
+
+[466|slot=162|id=0xd71e7]
+<0002><1030>F<1130> Fishing\n<6024> Sporting attempt to catch fish\n   with a long stick and thread.<02>\n
+
+[467|slot=146|id=0xd71e8]
+<0002><6124> Two types: Acrobatic <1c20>The Old Man\n   and the Sea<1d20> & Banal <1c20>Angler.<1d20><02>\n
+
+[468|slot=138|id=0xd71e9]
+
+
+[469|slot=8|id=0xd71ea]
+
+
+[470|slot=90|id=0xd71ec]
+<0002><1030>F<1130> Freedom\n<6024> Price of a bow called love.<02>\n
+
+[471|slot=72|id=0xd71ed]
+<0002><6124> Life without any restrictions.<02>\n
+
+[472|slot=178|id=0xd71ee]
+
+
+[473|slot=8|id=0xd71ef]
+
+
+[474|slot=88|id=0xd71f1]
+<0002><1030>F<1130> Futuristic\n<6024>Story set in the future.<02>\n
+
+[475|slot=34|id=0xd71f2]
+<0002><6124> Cool taste.<02>\n
+
+[476|slot=44|id=0xd71f3]
+<0002><6224> Always evolving.<02>\n
+
+[477|slot=96|id=0xd71f4]
+<0002><6324> Thus, story setting should be\n   infinite.<02>\n
+
+[478|slot=52|id=0xd71f5]
+
+
+[479|slot=100|id=0xd71f7]
+<0002><1030>G<1130> Giant\n<6024> A big man in myths and folk tales.<02>\n
+
+[480|slot=80|id=0xd71f8]
+<0002><6124> Big shot in politics and business.<02>\n
+
+[481|slot=142|id=0xd71f9]
+
+
+[482|slot=126|id=0xd71fb]
+<0002><1030>G<1130> Goat\n<6024> Animal that says <1c20>Baa,<1d20>\n   but it's not a sheep.<02>\n
+
+[483|slot=132|id=0xd71fc]
+
+
+[484|slot=102|id=0xd71ff]
+<0002><1030>H<1130> Harvest\n<6024> Working process of picking crops.<02>\n
+
+[485|slot=80|id=0xd7200]
+
+
+[486|slot=128|id=0xd7202]
+<0002><1030>H<1130> Hermit\n<6024> One who abandoned the world\n   for some reason.<02>\n
+
+[487|slot=78|id=0xd7203]
+<0002><6124> Tends to live in\ndeserted places.<02>\n
+
+[488|slot=80|id=0xd7204]
+
+
+[489|slot=130|id=0xd7206]
+<0002><1030>H<1130> Hope\n<6024> Positive thought that shouldn't\n ever be given up.<02>\n
+
+[490|slot=96|id=0xd7207]
+<0002><6124> Expectation or someone\n   who is expected.<02>\n
+
+[491|slot=40|id=0xd7208]
+
+
+[492|slot=8|id=0xd7209]
+
+
+[493|slot=146|id=0xd720b]
+<0002><1030>H<1130> Humor\n<6024> Playful nature, expression\n   coming from a big in heart.<02>\n
+
+[494|slot=118|id=0xd720c]
+<0002><6124> Used to relax atmosphere, mimic,\n   appeal to satire.<02>\n
+
+[495|slot=102|id=0xd720d]
+
+
+[496|slot=122|id=0xd720f]
+<0002><1030>I<1130> Ice\n<6024> Water frozen solid\n   at temperature under 32F.<02>\n
+
+[497|slot=148|id=0xd7210]
+
+
+[498|slot=8|id=0xd7211]
+
+
+[499|slot=114|id=0xd7213]
+<0002><1030>I<1130> Impossible\n<6024> <1d20>Only found in a fool's dictionary.<1d20><02>\n
+
+[500|slot=74|id=0xd7214]
+<0002><6124> Words of a historical figure...<02>\n
+
+[501|slot=62|id=0xd7215]
+<0002><6224> I chose to add this word.<02>\n
+
+[502|slot=80|id=0xd7216]
+
+
+[503|slot=8|id=0xd7217]
+
+
+[504|slot=114|id=0xd7219]
+<0002><1030>I<1130> Invention\n<6024> Product of 1% inspiration, 99% sweat.<02>\n
+
+[505|slot=58|id=0xd721a]
+<0002><6124> A child of <1c20>Necessity.<1d20><02>\n
+
+[506|slot=144|id=0xd721b]
+
+
+[507|slot=8|id=0xd721c]
+
+
+[508|slot=8|id=0xd721d]
+
+
+[509|slot=8|id=0xd721e]
+
+
+[510|slot=154|id=0xd7220]
+<0002><1030>I<1130> Island\n<6024> Where the main character was\n   when consciousness returned.<02>\n
+
+[511|slot=148|id=0xd7221]
+
+
+[512|slot=8|id=0xd7222]
+
+
+[513|slot=92|id=0xd7224]
+<0002><1030>J<1130> Jack Frost\n<6024> Spirit of snow and frost.<02>\n
+
+[514|slot=162|id=0xd7225]
+
+
+[515|slot=8|id=0xd7226]
+
+
+[516|slot=8|id=0xd7227]
+
+
+[517|slot=8|id=0xd7228]
+
+
+[518|slot=90|id=0xd722a]
+<0002><1030>J<1130> Jewel\n<6024> A colorful and radiant stone.<02>\n
+
+[519|slot=82|id=0xd722b]
+<0002><6124> Contains mystic powers and stories.<02>\n
+
+[520|slot=152|id=0xd722c]
+
+
+[521|slot=68|id=0xd722e]
+<0002><1030>K<1130> Key\n<6024> Tool to open a lock.<02>\n
+
+[522|slot=138|id=0xd722f]
+<0002><6124> Crew needed to breakthrough hardship,\n   or shape one's future.<02>\n
+
+[523|slot=176|id=0xd7230]
+
+
+[524|slot=8|id=0xd7231]
+
+
+[525|slot=8|id=0xd7232]
+
+
+[526|slot=8|id=0xd7233]
+
+
+[527|slot=82|id=0xd7235]
+<0002><1030>K<1130> Knowledge\n<6024> Information Database.<02>\n
+
+[528|slot=144|id=0xd7236]
+
+
+[529|slot=162|id=0xd7238]
+<0002><1030>L<1130> Lazy\n<6024> Grasshoppers' way of living as\n   compared to ants'. All relative.<02>\n
+
+[530|slot=182|id=0xd7239]
+
+
+[531|slot=8|id=0xd723a]
+
+
+[532|slot=136|id=0xd723c]
+<0002><1030>L<1130> Lemon\n<6024> Grows from tree.\n   No.1 player among citrus fruits.<02>\n
+
+[533|slot=116|id=0xd723d]
+
+
+[534|slot=8|id=0xd723e]
+
+
+[535|slot=140|id=0xd7240]
+<0002>L<1130> Lifework\n<6024> Work one achieves throughout\nhis life. Theme varies.<02>\n
+
+[536|slot=220|id=0xd7241]
+<0002><6124> Can be epic poem or short series,\n   magnificent painting, invention of\n   the century, or expedition...<02>\n
+
+[537|slot=178|id=0xd7242]
+<0002><6224>Making good wine, patrolling a town,\n   fishing river master,\n   researching bees...<02>\n
+
+[538|slot=76|id=0xd7243]
+
+
+[539|slot=162|id=0xd7245]
+<0002><1030>L<1130> Love\n<6024> One of Human Status. Compassion\ntoward people, animals and plants.<02>\n
+
+[540|slot=86|id=0xd7246]
+
+
+[541|slot=88|id=0xd7248]
+<0002><1030>M<1130> Map\n<6024> Often makes people get lost...<02>\n
+
+[542|slot=146|id=0xd7249]
+
+
+[543|slot=166|id=0xd724b]
+<0002><1030>M<1130> Mermaid\n<6024> Beautiful, mysterious human/fish,\n   Much bigger than we imagine.<02>\n
+
+[544|slot=118|id=0xd724c]
+<0002><6124> Tower guard at Mermaid Lake.\n   Seen at a small cove.<02>\n
+
+[545|slot=98|id=0xd724d]
+
+
+[546|slot=164|id=0xd724f]
+<0002><1030>M<1130> Mist\n<6024> White haze covering up Giant's\n   Forest. Blocks view and progress.<02>\n
+
+[547|slot=138|id=0xd7250]
+<0002><6124> Even if you find a spot to enter,\n   never put your foot there.<02>\n
+
+[548|slot=130|id=0xd7251]
+
+
+[549|slot=142|id=0xd7253]
+<0002><1030>M<1130> Moon\n<6024> A mirror floating in the sky.\n   Reflects the sun light.<02>\n
+
+[550|slot=142|id=0xd7254]
+<0002><6124> Its magic power is strong enough\n   to turn a person into a wolf.<02>\n
+
+[551|slot=138|id=0xd7255]
+<0002><6224> A rumor says\n   big crabs might be living\n   in the dark holes.<02>\n
+
+[552|slot=154|id=0xd7256]
+
+
+[553|slot=104|id=0xd7259]
+<0002><1030>N<1130> Night\n<6024> Perfect time to view moon and stars.<02>\n
+
+[554|slot=158|id=0xd725a]
+<0002><6124> You will find a small surprise if\n   you walk on a frozen lake in winter.<02>\n
+
+[555|slot=144|id=0xd725b]
+
+
+[556|slot=108|id=0xd725d]
+<0002>N<1130> Nod\n<6024> Moving head vertically to show\nagreement.<02>\n
+
+[557|slot=134|id=0xd725e]
+
+
+[558|slot=8|id=0xd725f]
+
+
+[559|slot=210|id=0xd7261]
+<0002><1030>N<1130> Nostradamus, Michel\n<6024> Renowned apothecary. Prophetic, and\n an astrologer. Knows black/white pigs.<02>\n
+
+[560|slot=208|id=0xd7262]
+<0002><6124>Author of  <1c20>Les Centuries.<1d20> His book\n   is interpreted in many ways,\n   and made many people worry.<02>\n
+
+[561|slot=162|id=0xd7263]
+<0002><6224> A great "king of terror"\n   didn't show up in\n   July of 1999, after all...<02>\n
+
+[562|slot=152|id=0xd7264]
+
+
+[563|slot=102|id=0xd7266]
+<0002><1030>O<1130> Olive\n<6024> Evergreen tree bears fruit in fall.<02>\n
+
+[564|slot=186|id=0xd7267]
+
+
+[565|slot=8|id=0xd7268]
+
+
+[566|slot=128|id=0xd726a]
+<0002><1030>O<1130> Owl\n<6024> Bird symbolizing knowledge.\n   Says, <1c20>Hoot, hoot.<1d20><02>\n
+
+[567|slot=148|id=0xd726b]
+<0002><6124> If a person walks outside at night,\n   its sound can be heard but...<02>\n
+
+[568|slot=120|id=0xd726c]
+
+
+[569|slot=126|id=0xd726e]
+<0002><1030>P<1130> Palm\n<6024> Inside of hands.\n   Path of life is drawn on it.<02>\n
+
+[570|slot=76|id=0xd726f]
+<0002><6124> Makes a tray when taking change.<02>\n
+
+[571|slot=134|id=0xd7270]
+<0002><6224> Stops other's movement\n   when held up, saying, <1d20>Wait a sec.<1d20><02>\n
+
+[572|slot=160|id=0xd7271]
+<0002><6324> Used to slap someone's cheek when\n   they fall asleep on a snowy mountain.<02>\n
+
+[573|slot=48|id=0xd7272]
+
+
+[574|slot=94|id=0xd7274]
+<0002><1030>P<1130> Pandora's Box\n<6024> Trap set by Greek Gods.<02>\n
+
+[575|slot=164|id=0xd7275]
+<0002><6124> It's human nature to want to open it,\n   especially after being told not to.<02>\n
+
+[576|slot=102|id=0xd7276]
+
+
+[577|slot=186|id=0xd7278]
+<0002><1030>P<1130> Pepino\n<6024> Golden fruit. Solanaceous plant, but\n   named after its <1c20>squash-like<1d20> image.<02>\n
+
+[578|slot=160|id=0xd7279]
+
+
+[579|slot=8|id=0xd727a]
+
+
+[580|slot=154|id=0xd727c]
+<0002><1030>P<1130> Pillow\n<6024> Tool to support head.\n   Can be used for pillow fights, too.<02>\n
+
+[581|slot=174|id=0xd727d]
+
+
+[582|slot=148|id=0xd727f]
+<0002><1030>P<1130> Please\n<6024> Magic word. Used when you need\n   something from someone.<02>\n
+
+[583|slot=38|id=0xd7280]
+
+
+[584|slot=8|id=0xd7281]
+
+
+[585|slot=54|id=0xd7283]
+<0002><1030>P<1130> Pocket\n<6024> Small bag.<02>\n
+
+[586|slot=120|id=0xd7284]
+
+
+[587|slot=120|id=0xd7286]
+<0002><1030>P<1130> Porcini\n<6024> King of mushrooms.\n   Agaricus Boletaceae.<02>\n
+
+[588|slot=216|id=0xd7287]
+
+
+[589|slot=110|id=0xd7289]
+<0002><1030>P<1130> Promise\n<6024> Often broken, given up,\nor forgotten<2620><02>\n
+
+[590|slot=80|id=0xd728a]
+
+
+[591|slot=132|id=0xd728d]
+<0002><1030>Q<1130> Question\n<6024> Must be asked many times\n   while you're alive.<02>\n
+
+[592|slot=178|id=0xd728e]
+<0002><6124> Sometimes answered by\n   yes or no even when it can't\n   be answered with either...<02>\n
+
+[593|slot=110|id=0xd728f]
+
+
+[594|slot=58|id=0xd7291]
+<0002><1030>Q<1130> Quit\n<6024> Leave, let go.<02>\n
+
+[595|slot=58|id=0xd7292]
+<0002> <6124> Give up in the middle.<02>\n
+
+[596|slot=56|id=0xd7293]
+
+
+[597|slot=156|id=0xd7295]
+<0002><1030>R<1130> Rambutan\n<6024> Tropical fruit with red fur.\n   Sapindaceae evergreen tree.<02>\n
+
+[598|slot=140|id=0xd7296]
+<0002><6124> Other than eaten, can be\n   used to make cooking oil\n   or soup.<02>\n
+
+[599|slot=134|id=0xd7297]
+
+
+[600|slot=120|id=0xd7299]
+<0002><1030>R<1130> Ribbon\n<6024> Narrow cloth,\n   or things with same shape.<02>\n
+
+[601|slot=196|id=0xd729a]
+
+
+[602|slot=90|id=0xd729c]
+<0002><1030>R<1130> Robot\n<6024> God created man in His image.<02>\n
+
+[603|slot=70|id=0xd729d]
+<0002><6124>Man made robot in man's image.<02>\n
+
+[604|slot=102|id=0xd729e]
+
+
+[605|slot=8|id=0xd729f]
+
+
+[606|slot=8|id=0xd72a0]
+
+
+[607|slot=96|id=0xd72a2]
+<0002><1030>S<1130> Sea\n<6024> Mystic puddle where life was born.<02>\n
+
+[608|slot=200|id=0xd72a3]
+<0002><6124> It's thought if you listen, you\n   can hear a sizzling sound\n   when the sun hits the horizon.<02>\n
+
+[609|slot=216|id=0xd72a4]
+<0002><6224> Sea covers <be> of Earth's surface.\n   It's salty because of all tears shed\n   at the beach, so I'm told.<02>\n
+
+[610|slot=84|id=0xd72a5]
+
+
+[611|slot=108|id=0xd72a7]
+<0002>S<1130> Season\n<6024> Concept to check the time\n   to plant.<02>\n
+
+[612|slot=180|id=0xd72a8]
+
+
+[613|slot=152|id=0xd72aa]
+<0002><1030>S<1130> Secret\n<6024> Private information that should\n   never be told to anyone.<02>\n
+
+[614|slot=96|id=0xd72ab]
+<0002><6124> Example: king's ears are\n   donkey's ears.<02>\n
+
+[615|slot=212|id=0xd72ac]
+
+
+[616|slot=136|id=0xd72ae]
+<0002><1030>S<1130> Seek\n<6024> Find what you lost.\n   Search for what you can't see.<02>\n
+
+[617|slot=100|id=0xd72af]
+<0002><6124> Characters are either\n   seekers or victims.<02>\n
+
+[618|slot=152|id=0xd72b0]
+
+
+[619|slot=106|id=0xd72b2]
+<0002><1030>S<1130> Sheep\n<6024> Animal to count when you can't sleep.<02>\n
+
+[620|slot=76|id=0xd72b3]
+
+
+[621|slot=8|id=0xd72b4]
+
+
+[622|slot=110|id=0xd72b6]
+<0002><1030>S<1130> summer\n<6024> Watermelon tastes good in this season.<02>\n
+
+[623|slot=80|id=0xd72b7]
+<0002><6124> Sunflowers blossom in this season.<02>\n
+
+[624|slot=80|id=0xd72b8]
+<0002><6224> Clouds stretch out in this season.<02>\n
+
+[625|slot=82|id=0xd72b9]
+<0002><6324> Feeling adventurous in this season.<02>\n
+
+[626|slot=142|id=0xd72ba]
+
+
+[627|slot=118|id=0xd72bd]
+<0002><1030>T<1130> Taste\n<6024> Flavor.\n   Salty, sweet, bitter, sour, etc.<02>\n
+
+[628|slot=86|id=0xd72be]
+<0002><6124> Sense of liking\n   for various items.<02>\n
+
+[629|slot=104|id=0xd72bf]
+
+
+[630|slot=158|id=0xd72c1]
+<0002><1030>T<1130> Television\n<6024> Clairvoyant tool enables you\n   to see something far away.<02>\n
+
+[631|slot=208|id=0xd72c2]
+
+
+[632|slot=106|id=0xd72c4]
+<0002><1030>T<1130> Tomorrow\n<6024> A day after today, or near future.<02>\n
+
+[633|slot=98|id=0xd72c5]
+<0002><6124> You can't do what you can do\n   tomorrow...<02>\n
+
+[634|slot=126|id=0xd72c6]
+
+
+[635|slot=100|id=0xd72c8]
+<0002><1030>T<1130> Trash Bin\n<6024> Place to toss what's unneeded.<02>\n
+
+[636|slot=138|id=0xd72c9]
+
+
+[637|slot=64|id=0xd72cb]
+<0002><1030>U<1130> Umbrella\n<6024> Small shadow.<02>\n
+
+[638|slot=126|id=0xd72cc]
+<0002><6124> Nobody uses it on this island,\n   even when it's raining.<02>\n
+
+[639|slot=140|id=0xd72cd]
+
+
+[640|slot=66|id=0xd72cf]
+<0002><1030>U<1130> Upstairs\n<6024> A floor above.<02>\n
+
+[641|slot=156|id=0xd72d0]
+
+
+[642|slot=82|id=0xd72d3]
+<0002><1030>V<1130> Valley\n<6024> Low place between hills.<02>\n
+
+[643|slot=80|id=0xd72d4]
+<0002><6124> Home to rare herbs and wild fruit.<02>\n
+
+[644|slot=110|id=0xd72d5]
+
+
+[645|slot=100|id=0xd72d7]
+<0002><1030>V<1130> Vegetable\n<6024> Food that gives people energy.<02>\n
+
+[646|slot=68|id=0xd72d8]
+<0002><6124> Various colors and shapes...<02>\n
+
+[647|slot=100|id=0xd72d9]
+
+
+[648|slot=8|id=0xd72da]
+
+
+[649|slot=90|id=0xd72dc]
+<0002><1030>V<1130> Virtue\n<6024> Strong and beautiful. Manly.<02>\n
+
+[650|slot=62|id=0xd72dd]
+<0002><6124> Courage to do good deeds.<02>\n
+
+[651|slot=76|id=0xd72de]
+
+
+[652|slot=8|id=0xd72df]
+
+
+[653|slot=8|id=0xd72e0]
+
+
+[654|slot=92|id=0xd72e2]
+<0002><1030>W<1130> War\n<6024> Lose many, gain little (if any).<02>\n
+
+[655|slot=120|id=0xd72e3]
+
+
+[656|slot=72|id=0xd72e5]
+<0002><1030>W<1130> Water\n<6024> One of the elements.<02>\n
+
+[657|slot=124|id=0xd72e6]
+
+
+[658|slot=92|id=0xd72e8]
+<0002><1030>W<1130> Weed\n<6024> Naturally grown, useless grass.<02>\n
+
+[659|slot=70|id=0xd72e9]
+<0002><6124> Sometimes (rarely) poisonous.<02>\n
+
+[660|slot=162|id=0xd72ea]
+
+
+[661|slot=142|id=0xd72ec]
+<0002><1030>W<1130> Whistle\n<6024> Used as a sign, a calling,\n   or test if you blow it.<02>\n
+
+[662|slot=172|id=0xd72ed]
+<0002><6124> Like a person humming, if one\n   is playing a melody,\n   he appears to be happy.<02>\n
+
+[663|slot=124|id=0xd72ee]
+<0002><6224> That's  how he appears to be,\n   don't know the truth...<02>\n
+
+[664|slot=120|id=0xd72ef]
+
+
+[665|slot=172|id=0xd72f1]
+<0002><1030>W<1130> Wine\n<6024> Make, age, smell, taste. Fine grape\n   liquor with history and romance.<02>\n
+
+[666|slot=148|id=0xd72f2]
+<0002><6124> Fermented fruit in a jar that a king\n   who loved grapes was hiding.<02>\n
+
+[667|slot=226|id=0xd72f3]
+<0002><6224> A heartbroken girl once drank it,\n   thinking it poison, but worked as\n   medicine to make her feel better.<02>\n
+
+[668|slot=162|id=0xd72f4]
+<0002><6324> It's so soothing the way it shines as\n   a glass tilts, it even stops time.<02>\n
+
+[669|slot=148|id=0xd72f5]
+
+
+[670|slot=62|id=0xd72f7]
+<0002><1030>W<1130> Wool\n<6024> Gift from sheep.<02>\n
+
+[671|slot=160|id=0xd72f8]
+<0002><6124> Used for clothing because of its\n   warming capacity,\n   and soft touch...<02>\n
+
+[672|slot=92|id=0xd72f9]
+
+
+[673|slot=96|id=0xd72fb]
+<0002><1030>W<1130> World\n<6024> After Gods' Age and Giants' Age.<02>\n
+
+[674|slot=148|id=0xd72fc]
+<0002><6124> Other names for universe, earth,\n   society, and other masterpieces.<02>\n
+
+[675|slot=142|id=0xd72fd]
+
+
+[676|slot=80|id=0xd72ff]
+<0002><1030>X<1130> Xanadu\n<6024> City of eternal summer.<02>\n
+
+[677|slot=84|id=0xd7300]
+<0002><6124> Appears in old poems. Nobody saw it.<02>\n
+
+[678|slot=98|id=0xd7301]
+
+
+[679|slot=8|id=0xd7302]
+
+
+[680|slot=80|id=0xd7304]
+<0002><1030>X<1130> Xmas\n<6024> Christ's mass. A holiday.<02>\n
+
+[681|slot=132|id=0xd7305]
+<0002><6124> This island is in the south,\n   but it's a winter holiday...<02>\n
+
+[682|slot=98|id=0xd7306]
+
+
+[683|slot=8|id=0xd7307]
+
+
+[684|slot=8|id=0xd7308]
+
+
+[685|slot=112|id=0xd730a]
+<0002><1030>Y<1130> Yesterday\n<6024> One day before today. Or, near past.<02>\n
+
+[686|slot=104|id=0xd730b]
+<0002><6124> My principle is\n   to forget about the past...<02>\n
+
+[687|slot=120|id=0xd730c]
+
+
+[688|slot=8|id=0xd730d]
+
+
+[689|slot=72|id=0xd730f]
+<0002><1030>Y<1130> Yuletide\n<6024> Christmas season.<02>\n
+
+[690|slot=200|id=0xd7310]
+
+
+[691|slot=58|id=0xd7312]
+<0002><1030>Z<1130> Zephyr\n<6024> Gentle wind.<02>\n
+
+[692|slot=160|id=0xd7313]
+
+
+[693|slot=92|id=0xd7315]
+<0002><1030>Z<1130> zzz\n<6024> Onomatopoeia, indicates snoring.<02>\n
+
+[694|slot=106|id=0xd7316]
+<0002><6124> Sounds like bug wings,\n  or throbbing machines.<02>\n
+
+[695|slot=174|id=0xd7317]
+
+
+[696|slot=70|id=0xd7319]
+
+
+[697|slot=20|id=0xf1b30]
+
+
+[698|slot=132|id=0xf1b32]
+
+
+[699|slot=8|id=0xf1b33]
+
+
+[700|slot=62|id=0xf1b34]
+
+
+[701|slot=60|id=0xf1b35]
+
+
+[702|slot=62|id=0xf1b36]
+
+
+[703|slot=58|id=0xf1b37]
+
+
+[704|slot=38|id=0xf33cc]
+
+
+[705|slot=60|id=0xf33cd]
+
+
+[706|slot=54|id=0xf33ce]
+
+
+[707|slot=110|id=0xf33e0]
+
+
+[708|slot=118|id=0xf33e1]
+
+
+[709|slot=70|id=0xf33e2]
+
+
+[710|slot=198|id=0xf33e5]
+
+
+[711|slot=96|id=0xf33eb]
+
+
+[712|slot=122|id=0xf33ec]
+
+
+[713|slot=118|id=0xf33ed]
+
+
+[714|slot=76|id=0xf33ee]
+

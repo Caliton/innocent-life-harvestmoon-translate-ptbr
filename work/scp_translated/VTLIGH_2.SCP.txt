@@ -1,0 +1,389 @@
+# VTLIGH_2.SCP - 128 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x4ee|chars=56]
+Franco: Entao voce comecou\na criar animais, hein?
+
+[1|off=0x56a|chars=109]
+Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem\nsao invencoes do Dr. Hope?
+
+[2|off=0x650|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatico, mas na epoca usar\nrobos era ideia revolucionaria.
+
+[3|off=0x73c|chars=61]
+Franco: Ouvi que ainda os usam\nbastante no exterior.
+
+[4|off=0x7c2|chars=74]
+Moonlight: O balido dos animais\nse ouve novamente\nnestas ruinas!
+
+[5|off=0x862|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar esta terra\ne a natureza!
+
+[6|off=0x922|chars=72]
+Franco: Uau!\nQue sortudo!\nGanhar um buggy desses de presente!
+
+[7|off=0x9be|chars=89]
+Franco: Se eu tivesse um buggy,\nlevava a Rose num passeio\nque ela nunca esqueceria!
+
+[8|off=0xa7c|chars=11]
+Moonlight: 
+
+[9|off=0xa94|chars=52]
+P! Que presente bonito\ndo Dr. Hope que voce ganhou.
+
+[10|off=0xb08|chars=63]
+Moonlight: Com um buggy assim\nvoce vai a qualquer lugar!
+
+[11|off=0xb92|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.
+
+[12|off=0xc16|chars=73]
+Franco: Quando jovem, todos iam\ncurtir naquela caverna\ncom as namoradas.
+
+[13|off=0xcb4|chars=11]
+Moonlight: 
+
+[14|off=0xccc|chars=57]
+P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
+
+[15|off=0xd4a|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar\nao estado original.
+
+[16|off=0xdf0|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.
+
+[17|off=0xe5e|chars=120]
+Franco: Se mandar bastante ate\na vespera do Natal, podem usar\npra decorar a cidade.
+
+[18|off=0xf5a|chars=21]
+Franco: Nao aguento!
+
+[19|off=0xf90|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[20|off=0xfee|chars=96]
+Franco: Sei que esta preocupado,\nmas tem trabalho importante\na terminar.
+
+[21|off=0x10ba|chars=89]
+Franco: O melhor pro Dr. Hope\nagora e ver o quanto\nvoce esta se dedicando.
+
+[22|off=0x1178|chars=52]
+Moonlight: Nao sabia que o\nDr. Hope estava doente...
+
+[23|off=0x11ec|chars=86]
+Moonlight: Suponho que por isso\nele corria para terminar\no trabalho com voce...
+
+[24|off=0x12a4|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[25|off=0x12fa|chars=12]
+P. Eu sinto.
+
+[26|off=0x131e|chars=31]
+Franco: Era um bom amigo...
+
+[27|off=0x1368|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[28|off=0x13d4|chars=74]
+Moonlight: Disse que ha muito\nmais neste mundo do que\nos olhos veem!
+
+[29|off=0x1474|chars=91]
+Moonlight: O que quero dizer...\nCerteza que o Dr. Hope sempre\nestara velando por voce, 
+
+[30|off=0x153c|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?
+
+[31|off=0x15c4|chars=97]
+Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+
+[32|off=0x1692|chars=61]
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
+
+[33|off=0x1718|chars=43]
+Franco: Um alien mora\nno novo quarto?
+
+[34|off=0x177a|chars=97]
+Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+
+[35|off=0x1848|chars=61]
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
+
+[36|off=0x18ce|chars=11]
+Moonlight: 
+
+[37|off=0x18e6|chars=76]
+P!\nVi algo estranho parecendo\num bicho de pelucia no novo quarto.
+
+[38|off=0x198a|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!
+
+[39|off=0x19fc|chars=36]
+Neo: Aaaagghh!\nSem duvida nenhuma!
+
+[40|off=0x1a50|chars=66]
+Neo: Flame Mountain vai entrar\nem erupcao no proximo ano ou dois!
+
+[41|off=0x1ae0|chars=93]
+Neo: Aposto minha reputacao\ncomo analista cientifico.\nO grande Neo nunca errou!
+
+[42|off=0x1ba6|chars=75]
+Neo: But there's something strange...\nA rogue star... What could this\nmean?
+
+[43|off=0x1c48|chars=37]
+Neo: Why... It's you!\nYou're the one!
+
+[44|off=0x1c9e|chars=78]
+Neo: Quando souber o que fazer,\nfaca imediatamente!\nNao hesite!
+
+[45|off=0x1d46|chars=36]
+Neo: Aaaagghh!\nSem duvida nenhuma!
+
+[46|off=0x1d9a|chars=62]
+Neo: A terrible fate will befall this\nisland in a year or two!
+
+[47|off=0x1e22|chars=93]
+Neo: Aposto minha reputacao\ncomo analista cientifico.\nO grande Neo nunca errou!
+
+[48|off=0x1ee8|chars=75]
+Neo: But there's something strange...\nA rogue star... What could this\nmean?
+
+[49|off=0x1f8a|chars=37]
+Neo: Why... It's you!\nYou're the one!
+
+[50|off=0x1fe0|chars=78]
+Neo: Quando souber o que fazer,\nfaca imediatamente!\nNao hesite!
+
+[51|off=0x2088|chars=63]
+Neo: Ugh... Estou tao cansado.\nAcho que vou desmaiar mesmo.
+
+[52|off=0x2112|chars=63]
+Neo: Ugh... Estou tao cansado.\nAcho que vou desmaiar mesmo.
+
+[53|off=0x219c|chars=77]
+Neo: Oh, don't worry.\nI have 1000 years worth of weather\nreports prerecorded.
+
+[54|off=0x2242|chars=77]
+Neo: Oh, don't worry.\nI have 1000 years worth of weather\nreports prerecorded.
+
+[55|off=0x22e8|chars=82]
+Neo: Posso relaxar um pouco.\nAfinal, tudo terminou\nbem no final.
+
+[56|off=0x2398|chars=82]
+Neo: Posso relaxar um pouco.\nAfinal, tudo terminou\nbem no final.
+
+[57|off=0x2448|chars=97]
+Neo: Minhas previsoes nao sao\nlero-lero! Sou cientista!\nA ciencia e minha vida!
+
+[58|off=0x2516|chars=95]
+Neo: Ah! Eu vi! Vi o futuro!\nPor alguma razao, Marco vai\ncometer erros repetidamente...
+
+[59|off=0x25e0|chars=92]
+Neo: But you can't tell him that.\nThat's the problem with predictions\nthat really come true.
+
+[60|off=0x26a4|chars=68]
+Marco: Suponho que ele previu\nque eu realizarei grandes feitos.
+
+[61|off=0x2738|chars=71]
+Marco: Hahaha! Eu sabia!\nEsta probabilidade cientifica\ne algo incrivel!
+
+[62|off=0x27d2|chars=83]
+Lucia: Talvez deva comprar\nos cosmeticos do homem\nda Mascara Rosa...
+
+[63|off=0x2884|chars=81]
+Neo: Precisamos de grana\npara nossa pesquisa de\nFortuna Cientifica!! E obvio!!
+
+[64|off=0x2932|chars=67]
+Neo: Garanto que minha pesquisa\nse pagara se voce doar 5000G!
+
+[65|off=0x29c4|chars=32]
+Neo: Entao, vai doar 5000G?
+
+[66|off=0x2a10|chars=50]
+Neo: CHA-CHING...!\n...BINGO.\nI get 5000G for sure!
+
+[67|off=0x2a80|chars=22]
+Neo: Thanks a million!
+
+[68|off=0x2ab8|chars=22]
+Neo: Thanks a million!
+
+[69|off=0x2af0|chars=77]
+Neo: Hmmm. Tudo bem entao...\nSe mudar de ideia,\ne so me avisar, ok?
+
+[70|off=0x2b96|chars=49]
+Neo: Hmmm.\nVou precisar de madeira gigante...
+
+[71|off=0x2c04|chars=96]
+Neo: Hm? E voce...\nNao posso explicar em detalhes,\nmas e vital para a pesquisa.
+
+[72|off=0x2cd0|chars=109]
+Neo: Segundo a Fortuna Cientifica,\ncortar um galho caido com\num machado especial pode ajudar...
+
+[73|off=0x2db6|chars=96]
+Neo: Hm? E voce...\nNao posso explicar em detalhes,\nmas e vital para a pesquisa.
+
+[74|off=0x2e82|chars=46]
+Neo: O QUE?\nVoce ja enviou madeira gigante?
+
+[75|off=0x2eea|chars=76]
+Neo: Brincadeira. Sabia que\nconseguiria, ja fiz\nos arranjos necessarios.
+
+[76|off=0x2f8e|chars=19]
+Neo: Thanks a lot~!
+
+[77|off=0x2fc0|chars=94]
+Neo: Ja me ajudou duas vezes.\nVou lhe dar uma Leitura especial\num dia. E obvio!
+
+[78|off=0x3088|chars=31]
+Neo: Venha me ver em breve.
+
+[79|off=0x30d2|chars=33]
+Neo: CHA-CHOOM!\nThere's no doubt!
+
+[80|off=0x3120|chars=59]
+Neo: The couple you gave a gift to\nwill get married soon...
+
+[81|off=0x31a2|chars=81]
+Neo: If you understand, act quickly!\nIt'll be too late\nonce the volcano erupts...
+
+[82|off=0x3250|chars=85]
+Neo: Se vier me visitar nessa\nepoca, posso lhe dar\numa Leitura Cientifica especial.
+
+[83|off=0x3306|chars=40]
+Neo: Chama-se "Leitura Dicionario!"
+
+[84|off=0x3362|chars=30]
+Neo: CHA-CHOOM!\nEu vejo.....!
+
+[85|off=0x33aa|chars=51]
+Neo: Hm?\nYou haven't met Mr. Liberta yet,\nhave you?
+
+[86|off=0x341c|chars=88]
+Neo: Se conhecer um senhor\nque possui uma adega...\nele lhe dara um presente misterioso!
+
+[87|off=0x34d8|chars=102]
+Neo: Vou dizer com clareza.\nSe Million se casou com\numa pessoa do destino, esta bem...
+
+[88|off=0x35b0|chars=104]
+Neo: Caso contrario, o Dicionario\ndo Sr. Liberta nunca sera\ncompleto. A menos que use magia...
+
+[89|off=0x368c|chars=60]
+Neo: You haven't seen\nMoonlight's work plates yet,\nhave you?
+
+[90|off=0x3710|chars=71]
+Neo: Quando ver tudo,\no Sr. Liberta juntara\npalavras novas!
+
+[91|off=0x37aa|chars=72]
+Neo: Voce ainda nao enviou\ntodos os Vegetais de Prima, nao e?
+
+[92|off=0x3846|chars=76]
+Neo: Once you ship\nall Spring Vegetables,\nMr. Liberta will gather new words!
+
+[93|off=0x38ea|chars=72]
+Neo: Voce ainda nao enviou\ntodos os Vegetais de Verao, nao e?
+
+[94|off=0x3986|chars=76]
+Neo: Once you ship\nall Summer Vegetables,\nMr. Liberta will gather new words!
+
+[95|off=0x3a2a|chars=70]
+Neo: Voce ainda nao enviou\ntodos os Vegetais de Outono, nao?
+
+[96|off=0x3ac2|chars=74]
+Neo: Once you ship\nall Fall Vegetables,\nMr. Liberta will gather new words!
+
+[97|off=0x3b62|chars=72]
+Neo: Voce ainda nao enviou\ntodas as Flores e Ervas, nao e?
+
+[98|off=0x3bfe|chars=76]
+Neo: Quando enviar todas as\nFlores e Ervas,\no Sr. Liberta juntara palavras!
+
+[99|off=0x3ca2|chars=55]
+Neo: You haven't mastered cooking skills\nyet, have you?
+
+[100|off=0x3d1c|chars=73]
+Neo: Once you complete the menu lists,\nMr. Liberta will gather new words!
+
+[101|off=0x3dba|chars=60]
+Neo: Voce ainda nao resolveu\ncom o Espirito do Fogo, nao e?
+
+[102|off=0x3e3e|chars=73]
+Neo: Once you win against Fire Spirit,\nMr. Liberta will gather new words!
+
+[103|off=0x3edc|chars=72]
+Neo: Voce ainda nao enviou\ntoda a Vegetacao Nativa, nao e?
+
+[104|off=0x3f78|chars=89]
+Neo: Quando enviar toda a\nVegetacao Nativa, o Sr. Liberta\njuntara palavras novas!
+
+[105|off=0x4036|chars=80]
+Neo: Se dominar mais tres habilidades,\no Dicionario que tem\nsera completado.
+
+[106|off=0x40e2|chars=23]
+Neo: Um, Nivel Humano.
+
+[107|off=0x411c|chars=22]
+Neo: Two, Tool Skills.
+
+[108|off=0x4154|chars=27]
+Neo: Three, Money you have.
+
+[109|off=0x4196|chars=47]
+Neo: Se entendeu, aja rapido!\nAgora mesmo!
+
+[110|off=0x4200|chars=69]
+Neo: E melhor ir ver\no Sr. Liberta e relatar\nseus feitos.
+
+[111|off=0x4296|chars=46]
+Neo: It seems that\nhe's expecting you as well.
+
+[112|off=0x42fe|chars=52]
+Neo: GRRR... E chato.\nE muito dificil, a serio.
+
+[113|off=0x4372|chars=85]
+Neo: Hmn, nao se preocupe.\nJa gravei a previsao do tempo\npara os proximos 1.000 anos.
+
+[114|off=0x4428|chars=74]
+Neo: A proposito, e realmente\nimpressivo o que fez\nate agora.
+
+[115|off=0x44c8|chars=71]
+Neo: Nao tenho direito de\nfalar de voce, mas voce\ne extraordinario...
+
+[116|off=0x4562|chars=14]
+Neo: Ga-ga ga!
+
+[117|off=0x458a|chars=14]
+Neo: Ga-ga ga!
+
+[118|off=0x45ae|chars=21]
+Neo shows you a note.
+
+[119|off=0x45e0|chars=21]
+Neo shows you a note.
+
+[120|off=0x4612|chars=113]
+"Nao se preocupe! Previ que\nisso aconteceria! Gravei a previsao\npara os proximos mil anos!"
+
+[121|off=0x46fc|chars=113]
+"Nao se preocupe! Previ que\nisso aconteceria! Gravei a previsao\npara os proximos mil anos!"
+
+[122|off=0x47ea|chars=14]
+Neo: Ga-ga ga!
+
+[123|off=0x480e|chars=21]
+Neo shows you a note.
+
+[124|off=0x4840|chars=113]
+"Nao se preocupe! Previ que\nisso aconteceria! Gravei a previsao\npara os proximos mil anos!"
+
+[125|off=0x492e|chars=16]
+Marco: Gaga! Ga!
+
+[126|off=0x495a|chars=12]
+Lucia: Gaga?
+
+[127|off=0x497a|chars=6]
+Ok\nNao

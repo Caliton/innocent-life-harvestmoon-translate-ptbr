@@ -1,0 +1,4947 @@
+# SI_LT00.DAT - 1647 strings UTF-16
+# Formato: [N|kind=K|chars=CC|id=0xID|hdr=0xHHHH|str=0xSSSS] linha de header.
+# kind: item (chunk com ID), cont (continuacao), flex (header simples).
+# Texto nas linhas seguintes ate proximo bloco. ESCAPE <HHLL> = 2 bytes brutos.
+# NAO mude o header. Mantenha chars EXATO (PT mesma quantidade de chars).
+
+[0|kind=flex|chars=0|hdr=0x1afc|str=0x1b02]
+
+
+[1|kind=flex|chars=0|hdr=0x1b18|str=0x1b1e]
+
+
+[2|kind=flex|chars=0|hdr=0x1b30|str=0x1b36]
+
+
+[3|kind=flex|chars=6|hdr=0x1b48|str=0x1b4e]
+ Semen
+
+[4|kind=flex|chars=6|hdr=0x1b5e|str=0x1b64]
+ Bulbo
+
+[5|kind=flex|chars=3|hdr=0x1b88|str=0x1b8e]
+Sim
+
+[6|kind=flex|chars=2|hdr=0x1b98|str=0x1b9e]
+Na
+
+[7|kind=flex|chars=34|hdr=0x1bb8|str=0x1bbe]
+Esta uma plantacao da sua fazenda.
+
+[8|kind=flex|chars=35|hdr=0x1c06|str=0x1c0c]
+O preco de venda muda de acordo
+
+[9|kind=cont|chars=40|hdr=0x1c54|str=0x1c5c]
+como voce cultiva e o frescor dele.
+
+[10|kind=flex|chars=0|hdr=0x1cb0|str=0x1cb6]
+
+
+[11|kind=cont|chars=0|hdr=0x1cb8|str=0x1cc0]
+
+
+[12|kind=cont|chars=36|hdr=0x1cd2|str=0x1cda]
+Um simbolo do Espirito do Fogo.
+
+[13|kind=flex|chars=34|hdr=0x1d26|str=0x1d2c]
+Uma chama parece arder no interior
+
+[14|kind=flex|chars=10|hdr=0x1d74|str=0x1d7a]
+do broche.
+
+[15|kind=flex|chars=0|hdr=0x1d92|str=0x1d98]
+
+
+[16|kind=cont|chars=0|hdr=0x1d9a|str=0x1da2]
+
+
+[17|kind=cont|chars=33|hdr=0x1e10|str=0x1e18]
+bonus SP a cada 2 usos do regador
+
+[18|kind=flex|chars=17|hdr=0x1e5e|str=0x1e64]
+o regador.
+
+[19|kind=flex|chars=0|hdr=0x1e8a|str=0x1e90]
+
+
+[20|kind=cont|chars=0|hdr=0x1e92|str=0x1e9a]
+
+
+[21|kind=item|chars=38|id=0x6f|hdr=0x1e9c|str=0x1ea8]
+Se colocado, sempre que voce usar
+
+[22|kind=cont|chars=36|hdr=0x1ef6|str=0x1efe]
+esta ferramenta, o solo ali sera
+
+[23|kind=flex|chars=19|hdr=0x1f4a|str=0x1f50]
+molhado tambem.
+
+[24|kind=flex|chars=0|hdr=0x1f7a|str=0x1f80]
+
+
+[25|kind=cont|chars=0|hdr=0x1f82|str=0x1f8a]
+
+
+[26|kind=item|chars=35|id=0x70|hdr=0x1f8c|str=0x1f98]
+Se colocado, pedras de outras cores
+
+[27|kind=cont|chars=33|hdr=0x1fe0|str=0x1fe8]
+nao-amarelas desta ferramenta
+
+[28|kind=flex|chars=31|hdr=0x202e|str=0x2034]
+podem ter seu poder restaurado.
+
+[29|kind=flex|chars=9|hdr=0x2076|str=0x207c]
+recarrega
+
+[30|kind=cont|chars=0|hdr=0x2090|str=0x2098]
+
+
+[31|kind=item|chars=0|id=0x70|hdr=0x209a|str=0x20a6]
+
+
+[32|kind=cont|chars=0|hdr=0x20a8|str=0x20b0]
+
+
+[33|kind=cont|chars=0|hdr=0x20b2|str=0x20ba]
+
+
+[34|kind=cont|chars=0|hdr=0x20bc|str=0x20c4]
+
+
+[35|kind=cont|chars=0|hdr=0x20c6|str=0x20ce]
+
+
+[36|kind=item|chars=35|id=0x71|hdr=0x20d0|str=0x20dc]
+Se colocado, as vezes voce nao
+
+[37|kind=cont|chars=25|hdr=0x2124|str=0x212c]
+de gastar energia ao usar
+
+[38|kind=flex|chars=22|hdr=0x2162|str=0x2168]
+esta ferramenta.
+
+[39|kind=flex|chars=0|hdr=0x2198|str=0x219e]
+
+
+[40|kind=cont|chars=0|hdr=0x21a0|str=0x21a8]
+
+
+[41|kind=item|chars=0|id=0x71|hdr=0x21aa|str=0x21b6]
+
+
+[42|kind=cont|chars=0|hdr=0x21b8|str=0x21c0]
+
+
+[43|kind=cont|chars=0|hdr=0x21c2|str=0x21ca]
+
+
+[44|kind=cont|chars=0|hdr=0x21cc|str=0x21d4]
+
+
+[45|kind=cont|chars=0|hdr=0x21d6|str=0x21de]
+
+
+[46|kind=item|chars=36|id=0x72|hdr=0x21e0|str=0x21ec]
+Se colocado, o SP ganho ao usar
+
+[47|kind=cont|chars=33|hdr=0x2236|str=0x223e]
+o Regador sera dobrado.
+
+[48|kind=flex|chars=16|hdr=0x2284|str=0x228a]
+sera dobrado.
+
+[49|kind=flex|chars=0|hdr=0x22ae|str=0x22b4]
+
+
+[50|kind=cont|chars=0|hdr=0x22b6|str=0x22be]
+
+
+[51|kind=item|chars=36|id=0x72|hdr=0x22c0|str=0x22cc]
+Se colocado, o terreno ao redor
+
+[52|kind=cont|chars=28|hdr=0x2316|str=0x231e]
+sera molhado sempre que
+
+[53|kind=cont|chars=14|hdr=0x2358|str=0x2360]
+voce a usar.
+
+[54|kind=flex|chars=0|hdr=0x2380|str=0x2386]
+
+
+[55|kind=cont|chars=0|hdr=0x2388|str=0x2390]
+
+
+[56|kind=item|chars=39|id=0x73|hdr=0x2392|str=0x239e]
+Se colocado, em alguns casos as
+
+[57|kind=cont|chars=30|hdr=0x23ee|str=0x23f6]
+pedras nao-amarelas desta
+
+[58|kind=flex|chars=35|hdr=0x2436|str=0x243c]
+ferramenta terao seu poder
+
+[59|kind=flex|chars=6|hdr=0x2486|str=0x248c]
+voltou
+
+[60|kind=flex|chars=0|hdr=0x249c|str=0x24a2]
+
+
+[61|kind=item|chars=0|id=0x73|hdr=0x24a4|str=0x24b0]
+
+
+[62|kind=cont|chars=0|hdr=0x24b2|str=0x24ba]
+
+
+[63|kind=cont|chars=0|hdr=0x24bc|str=0x24c4]
+
+
+[64|kind=cont|chars=0|hdr=0x24c6|str=0x24ce]
+
+
+[65|kind=cont|chars=0|hdr=0x24d0|str=0x24d8]
+
+
+[66|kind=item|chars=34|id=0x74|hdr=0x24da|str=0x24e6]
+Se equipado, ferramentas avancadas
+
+[67|kind=cont|chars=33|hdr=0x252c|str=0x2534]
+gastam o mesmo SP das basicas.
+
+[68|kind=flex|chars=22|hdr=0x257a|str=0x2580]
+das simples tambem.
+
+[69|kind=flex|chars=0|hdr=0x25b0|str=0x25b6]
+
+
+[70|kind=cont|chars=0|hdr=0x25b8|str=0x25c0]
+
+
+[71|kind=item|chars=0|id=0x74|hdr=0x25c2|str=0x25ce]
+
+
+[72|kind=cont|chars=0|hdr=0x25d0|str=0x25d8]
+
+
+[73|kind=cont|chars=0|hdr=0x25da|str=0x25e2]
+
+
+[74|kind=cont|chars=0|hdr=0x25e4|str=0x25ec]
+
+
+[75|kind=cont|chars=0|hdr=0x25ee|str=0x25f6]
+
+
+[76|kind=item|chars=39|id=0x75|hdr=0x25f8|str=0x2604]
+Se colocado, o SP ganho ao usar
+
+[77|kind=cont|chars=28|hdr=0x2654|str=0x265c]
+o Regador sera dobrado.
+
+[78|kind=cont|chars=16|hdr=0x2696|str=0x269e]
+sera dobrado.
+
+[79|kind=flex|chars=0|hdr=0x26c2|str=0x26c8]
+
+
+[80|kind=cont|chars=0|hdr=0x26ca|str=0x26d2]
+
+
+[81|kind=item|chars=38|id=0x75|hdr=0x26d4|str=0x26e0]
+Se colocado, sempre que voce usar
+
+[82|kind=cont|chars=29|hdr=0x272e|str=0x2736]
+esta ferramenta o solo sera
+
+[83|kind=flex|chars=28|hdr=0x2774|str=0x277a]
+molhado e o SP tambem sera
+
+[84|kind=cont|chars=8|hdr=0x27b4|str=0x27bc]
+dobrado.
+
+[85|kind=flex|chars=0|hdr=0x27d0|str=0x27d6]
+
+
+[86|kind=item|chars=32|id=0x76|hdr=0x27d8|str=0x27e4]
+Se equipado o poder das pedras
+
+[87|kind=cont|chars=29|hdr=0x2826|str=0x282e]
+nao-amarelas nao ira
+
+[88|kind=flex|chars=9|hdr=0x286c|str=0x2872]
+diminuir.
+
+[89|kind=cont|chars=0|hdr=0x2886|str=0x288e]
+
+
+[90|kind=cont|chars=0|hdr=0x2890|str=0x2898]
+
+
+[91|kind=item|chars=0|id=0x76|hdr=0x289a|str=0x28a6]
+
+
+[92|kind=cont|chars=0|hdr=0x28a8|str=0x28b0]
+
+
+[93|kind=cont|chars=0|hdr=0x28b2|str=0x28ba]
+
+
+[94|kind=cont|chars=0|hdr=0x28bc|str=0x28c4]
+
+
+[95|kind=cont|chars=0|hdr=0x28c6|str=0x28ce]
+
+
+[96|kind=item|chars=28|id=0x77|hdr=0x28d0|str=0x28dc]
+Se equipado, sua energia
+
+[97|kind=cont|chars=29|hdr=0x2916|str=0x291e]
+recarregara completamente
+
+[98|kind=flex|chars=20|hdr=0x295c|str=0x2962]
+antes de chegar a 0.
+
+[99|kind=flex|chars=0|hdr=0x298e|str=0x2994]
+
+
+[100|kind=cont|chars=0|hdr=0x2996|str=0x299e]
+
+
+[101|kind=item|chars=0|id=0x77|hdr=0x29a0|str=0x29ac]
+
+
+[102|kind=cont|chars=0|hdr=0x29ae|str=0x29b6]
+
+
+[103|kind=cont|chars=0|hdr=0x29b8|str=0x29c0]
+
+
+[104|kind=cont|chars=0|hdr=0x29c2|str=0x29ca]
+
+
+[105|kind=cont|chars=0|hdr=0x29cc|str=0x29d4]
+
+
+[106|kind=item|chars=0|id=0x78|hdr=0x29d6|str=0x29e2]
+
+
+[107|kind=cont|chars=0|hdr=0x29e4|str=0x29ec]
+
+
+[108|kind=cont|chars=0|hdr=0x29ee|str=0x29f6]
+
+
+[109|kind=cont|chars=0|hdr=0x29f8|str=0x2a00]
+
+
+[110|kind=cont|chars=0|hdr=0x2a02|str=0x2a0a]
+
+
+[111|kind=item|chars=0|id=0x78|hdr=0x2a0c|str=0x2a18]
+
+
+[112|kind=cont|chars=0|hdr=0x2a1a|str=0x2a22]
+
+
+[113|kind=cont|chars=0|hdr=0x2a24|str=0x2a2c]
+
+
+[114|kind=cont|chars=0|hdr=0x2a2e|str=0x2a36]
+
+
+[115|kind=cont|chars=0|hdr=0x2a38|str=0x2a40]
+
+
+[116|kind=item|chars=0|id=0x79|hdr=0x2a42|str=0x2a4e]
+
+
+[117|kind=cont|chars=0|hdr=0x2a50|str=0x2a58]
+
+
+[118|kind=cont|chars=0|hdr=0x2a5a|str=0x2a62]
+
+
+[119|kind=cont|chars=0|hdr=0x2a64|str=0x2a6c]
+
+
+[120|kind=cont|chars=0|hdr=0x2a6e|str=0x2a76]
+
+
+[121|kind=item|chars=0|id=0x79|hdr=0x2a78|str=0x2a84]
+
+
+[122|kind=cont|chars=0|hdr=0x2a86|str=0x2a8e]
+
+
+[123|kind=cont|chars=0|hdr=0x2a90|str=0x2a98]
+
+
+[124|kind=cont|chars=0|hdr=0x2a9a|str=0x2aa2]
+
+
+[125|kind=cont|chars=0|hdr=0x2aa4|str=0x2aac]
+
+
+[126|kind=item|chars=0|id=0x7a|hdr=0x2aae|str=0x2aba]
+
+
+[127|kind=cont|chars=0|hdr=0x2abc|str=0x2ac4]
+
+
+[128|kind=cont|chars=0|hdr=0x2ac6|str=0x2ace]
+
+
+[129|kind=cont|chars=0|hdr=0x2ad0|str=0x2ad8]
+
+
+[130|kind=cont|chars=0|hdr=0x2ada|str=0x2ae2]
+
+
+[131|kind=item|chars=0|id=0x7a|hdr=0x2ae4|str=0x2af0]
+
+
+[132|kind=cont|chars=0|hdr=0x2af2|str=0x2afa]
+
+
+[133|kind=cont|chars=0|hdr=0x2afc|str=0x2b04]
+
+
+[134|kind=cont|chars=0|hdr=0x2b06|str=0x2b0e]
+
+
+[135|kind=cont|chars=0|hdr=0x2b10|str=0x2b18]
+
+
+[136|kind=item|chars=35|id=0x7b|hdr=0x2b1a|str=0x2b26]
+Se equipado, usar ferramentas
+
+[137|kind=cont|chars=32|hdr=0x2b6e|str=0x2b76]
+nao gasta energia, mas voce
+
+[138|kind=flex|chars=26|hdr=0x2bba|str=0x2bc0]
+tambem nao ganhara SP.
+
+[139|kind=flex|chars=0|hdr=0x2bf8|str=0x2bfe]
+
+
+[140|kind=cont|chars=0|hdr=0x2c00|str=0x2c08]
+
+
+[141|kind=item|chars=0|id=0x7b|hdr=0x2c0a|str=0x2c16]
+
+
+[142|kind=cont|chars=0|hdr=0x2c18|str=0x2c20]
+
+
+[143|kind=cont|chars=0|hdr=0x2c22|str=0x2c2a]
+
+
+[144|kind=cont|chars=0|hdr=0x2c2c|str=0x2c34]
+
+
+[145|kind=cont|chars=0|hdr=0x2c36|str=0x2c3e]
+
+
+[146|kind=flex|chars=9|hdr=0x2c54|str=0x2c5a]
+Cha Ruim
+
+[147|kind=cont|chars=11|hdr=0x2c6e|str=0x2c76]
+Cha Simples
+
+[148|kind=flex|chars=9|hdr=0x2c90|str=0x2c96]
+Cha Maca
+
+[149|kind=cont|chars=9|hdr=0x2caa|str=0x2cb2]
+Cha Leite
+
+[150|kind=cont|chars=11|hdr=0x2cc6|str=0x2cce]
+Cafe Ruim
+
+[151|kind=flex|chars=6|hdr=0x2ce8|str=0x2cee]
+Cafe
+
+[152|kind=flex|chars=13|hdr=0x2d20|str=0x2d26]
+Cafe Viena
+
+[153|kind=flex|chars=14|hdr=0x2d44|str=0x2d4a]
+Cha Erva Ruim
+
+[154|kind=flex|chars=13|hdr=0x2d6a|str=0x2d70]
+Cha Camomila
+
+[155|kind=flex|chars=12|hdr=0x2d8e|str=0x2d94]
+Cha Lavanda
+
+[156|kind=flex|chars=8|hdr=0x2db0|str=0x2db6]
+Cha Mint
+
+[157|kind=flex|chars=11|hdr=0x2dca|str=0x2dd0]
+Salada Ruim
+
+[158|kind=flex|chars=13|hdr=0x2dea|str=0x2df0]
+Salada Itali.
+
+[159|kind=flex|chars=11|hdr=0x2e0e|str=0x2e14]
+Salada Viva
+
+[160|kind=flex|chars=13|hdr=0x2e2e|str=0x2e34]
+Salada Repol.
+
+[161|kind=flex|chars=12|hdr=0x2e52|str=0x2e58]
+Salada Tomat
+
+[162|kind=flex|chars=23|hdr=0x2e74|str=0x2e7a]
+Sobremesa Fruta Horriv.
+
+[163|kind=flex|chars=13|hdr=0x2eac|str=0x2eb2]
+Sobrem. Fruta
+
+[164|kind=flex|chars=23|hdr=0x2ed0|str=0x2ed6]
+Fruta com Molho Iogurte
+
+[165|kind=flex|chars=12|hdr=0x2f08|str=0x2f0e]
+Mamao Fresco
+
+[166|kind=flex|chars=17|hdr=0x2f2a|str=0x2f30]
+Coquetel Tropical
+
+[167|kind=flex|chars=11|hdr=0x2f56|str=0x2f5c]
+Prato Sushi
+
+[168|kind=flex|chars=20|hdr=0x2f76|str=0x2f7c]
+Prato Mestre Sushi
+
+[169|kind=flex|chars=15|hdr=0x2fa8|str=0x2fae]
+Sanduiche Comun
+
+[170|kind=flex|chars=14|hdr=0x2fd0|str=0x2fd6]
+Sanduiche Bom
+
+[171|kind=flex|chars=12|hdr=0x2ff6|str=0x2ffc]
+Sandw. BLT
+
+[172|kind=flex|chars=14|hdr=0x3018|str=0x301e]
+Sandw. Fruta
+
+[173|kind=flex|chars=12|hdr=0x303e|str=0x3044]
+Enso. Rapido
+
+[174|kind=flex|chars=9|hdr=0x3060|str=0x3066]
+Enso. Boi
+
+[175|kind=cont|chars=16|hdr=0x307a|str=0x3082]
+Enso. Boi Grosso
+
+[176|kind=flex|chars=19|hdr=0x30a6|str=0x30ac]
+Enso. Boi ao Vinho
+
+[177|kind=cont|chars=13|hdr=0x30d4|str=0x30dc]
+Curry Inst.
+
+[178|kind=flex|chars=17|hdr=0x30fa|str=0x3100]
+Curry Arroz Fraco
+
+[179|kind=flex|chars=19|hdr=0x3126|str=0x312c]
+Curry Arroz Medio
+
+[180|kind=cont|chars=18|hdr=0x3154|str=0x315c]
+Curry Arroz Pica.
+
+[181|kind=flex|chars=27|hdr=0x3184|str=0x318a]
+Suco Verde Sobra
+
+[182|kind=flex|chars=25|hdr=0x31c4|str=0x31ca]
+Suco Vermelho Sobra
+
+[183|kind=flex|chars=21|hdr=0x3200|str=0x3206]
+Suco Misto Vegetal
+
+[184|kind=flex|chars=19|hdr=0x3234|str=0x323a]
+Suco Verm. Vegetal
+
+[185|kind=cont|chars=21|hdr=0x3262|str=0x326a]
+Suco Verde Vegetal
+
+[186|kind=flex|chars=12|hdr=0x3298|str=0x329e]
+Suco Tomate
+
+[187|kind=flex|chars=11|hdr=0x32ba|str=0x32c0]
+Suco Fresco
+
+[188|kind=flex|chars=15|hdr=0x32da|str=0x32e0]
+Smooth. Iogurte
+
+[189|kind=flex|chars=12|hdr=0x3302|str=0x3308]
+Suco Soja
+
+[190|kind=flex|chars=10|hdr=0x3324|str=0x332a]
+Suco Kale
+
+[191|kind=flex|chars=17|hdr=0x3342|str=0x3348]
+Peixe Cozido Ruim
+
+[192|kind=flex|chars=11|hdr=0x336e|str=0x3374]
+Peixe Cozid
+
+[193|kind=flex|chars=17|hdr=0x338e|str=0x3394]
+Peixe Cozido Bom
+
+[194|kind=flex|chars=15|hdr=0x33ba|str=0x33c0]
+Linguado Cozido
+
+[195|kind=flex|chars=25|hdr=0x33e2|str=0x33e8]
+Carne e Batata Instante
+
+[196|kind=flex|chars=17|hdr=0x341e|str=0x3424]
+Carne e Batata
+
+[197|kind=flex|chars=23|hdr=0x344a|str=0x3450]
+Frango e Taro Cozidos
+
+[198|kind=flex|chars=17|hdr=0x3482|str=0x3488]
+Legumes Cozidos
+
+[199|kind=flex|chars=18|hdr=0x34ae|str=0x34b4]
+Pot-au-feu Inst.
+
+[200|kind=flex|chars=10|hdr=0x34dc|str=0x34e2]
+Pot-au-feu
+
+[201|kind=flex|chars=18|hdr=0x34fa|str=0x3500]
+Frango Pot-au-feu
+
+[202|kind=flex|chars=23|hdr=0x3528|str=0x352e]
+Rocambole Pot-au-feu
+
+[203|kind=flex|chars=20|hdr=0x3560|str=0x3566]
+Espaguete Queimado
+
+[204|kind=flex|chars=18|hdr=0x3592|str=0x3598]
+Molho Carne Inst.
+
+[205|kind=flex|chars=25|hdr=0x35c0|str=0x35c6]
+Espaguete ao Molho Carne
+
+[206|kind=flex|chars=16|hdr=0x35fc|str=0x3602]
+Espaguete c/Alho
+
+[207|kind=flex|chars=19|hdr=0x3626|str=0x362c]
+Espaguete Carbonara
+
+[208|kind=cont|chars=23|hdr=0x3654|str=0x365c]
+Espaguete c/Berinjela
+
+[209|kind=flex|chars=13|hdr=0x368e|str=0x3694]
+Omelete Torto
+
+[210|kind=flex|chars=6|hdr=0x36b2|str=0x36b8]
+Omelet
+
+[211|kind=flex|chars=13|hdr=0x36c8|str=0x36ce]
+Omelete Quijo
+
+[212|kind=flex|chars=23|hdr=0x36ec|str=0x36f2]
+Omelete Bacon e Batata
+
+[213|kind=flex|chars=19|hdr=0x3724|str=0x372a]
+Omelete Puro Mole
+
+[214|kind=cont|chars=26|hdr=0x3752|str=0x375a]
+Hamburguer Iniciante
+
+[215|kind=flex|chars=21|hdr=0x3792|str=0x3798]
+Hamburguer Queimado
+
+[216|kind=flex|chars=15|hdr=0x37c6|str=0x37cc]
+Hamburguer
+
+[217|kind=flex|chars=23|hdr=0x37ee|str=0x37f4]
+Hamburguer Saudavel
+
+[218|kind=flex|chars=24|hdr=0x3826|str=0x382c]
+Hamburguer c/Cogumelo
+
+[219|kind=flex|chars=10|hdr=0x3860|str=0x3866]
+Peixe Ruim
+
+[220|kind=flex|chars=12|hdr=0x387e|str=0x3884]
+Peixe Grill.
+
+[221|kind=flex|chars=22|hdr=0x38a0|str=0x38a6]
+Peixe Grelhado Perf.
+
+[222|kind=flex|chars=21|hdr=0x38d6|str=0x38dc]
+Cavalinha Grelh. Sal
+
+[223|kind=flex|chars=26|hdr=0x390a|str=0x3910]
+Bife Passado e Sem Sabor
+
+[224|kind=flex|chars=5|hdr=0x3948|str=0x394e]
+Bife
+
+[225|kind=flex|chars=23|hdr=0x395c|str=0x3962]
+Bife Grelhado Perfeito
+
+[226|kind=flex|chars=12|hdr=0x3994|str=0x399a]
+Bife ao Alho
+
+[227|kind=flex|chars=18|hdr=0x39b6|str=0x39bc]
+Bife Bovino Simpl.
+
+[228|kind=flex|chars=10|hdr=0x39e4|str=0x39ea]
+Rosbife
+
+[229|kind=flex|chars=21|hdr=0x3a02|str=0x3a08]
+Rosbife com Ervas
+
+[230|kind=flex|chars=19|hdr=0x3a36|str=0x3a3c]
+Rosbife Teriyaki
+
+[231|kind=cont|chars=25|hdr=0x3a64|str=0x3a6c]
+Macarrao c/Queijo Inst.
+
+[232|kind=flex|chars=23|hdr=0x3aa2|str=0x3aa8]
+Macarrao c/Quijo Grum.
+
+[233|kind=flex|chars=23|hdr=0x3ada|str=0x3ae0]
+Macarrao c/Queijo Bacon
+
+[234|kind=flex|chars=26|hdr=0x3b12|str=0x3b18]
+Macarrao c/Queijo Brocolis
+
+[235|kind=flex|chars=24|hdr=0x3b50|str=0x3b56]
+Macarrao c/Queijo Camara
+
+[236|kind=flex|chars=12|hdr=0x3b8a|str=0x3b90]
+Pizza Frozen
+
+[237|kind=flex|chars=15|hdr=0x3bac|str=0x3bb2]
+Pizza Pepperoni
+
+[238|kind=flex|chars=17|hdr=0x3bd4|str=0x3bda]
+Pizza 4 Queijos
+
+[239|kind=flex|chars=13|hdr=0x3c00|str=0x3c06]
+Pao Inst.
+
+[240|kind=flex|chars=17|hdr=0x3c24|str=0x3c2a]
+Pao Fresco Assado
+
+[241|kind=flex|chars=24|hdr=0x3c50|str=0x3c56]
+Pao Fresco c/Passas
+
+[242|kind=flex|chars=21|hdr=0x3c8a|str=0x3c90]
+Pao Noz & Amendoa
+
+[243|kind=flex|chars=13|hdr=0x3cbe|str=0x3cc4]
+Bolo Mediano
+
+[244|kind=flex|chars=9|hdr=0x3ce2|str=0x3ce8]
+Shortcake
+
+[245|kind=cont|chars=10|hdr=0x3cfc|str=0x3d04]
+Torta Fru.
+
+[246|kind=flex|chars=17|hdr=0x3d1c|str=0x3d22]
+Especial Chocola.
+
+[247|kind=flex|chars=14|hdr=0x3d48|str=0x3d4e]
+Especial Flore
+
+[248|kind=item|chars=10|id=0x1|hdr=0x3d8c|str=0x3d98]
+Morango
+
+[249|kind=item|chars=6|id=0x2|hdr=0x3dae|str=0x3dba]
+Nabo
+
+[250|kind=item|chars=6|id=0x3|hdr=0x3dc8|str=0x3dd4]
+Batata
+
+[251|kind=item|chars=7|id=0x4|hdr=0x3de2|str=0x3dee]
+Repolho
+
+[252|kind=item|chars=8|id=0x5|hdr=0x3dfe|str=0x3e0a]
+Pepino
+
+[253|kind=item|chars=9|id=0x6|hdr=0x3e1c|str=0x3e28]
+Aspargo
+
+[254|kind=item|chars=0|id=0x7|hdr=0x3e3c|str=0x3e48]
+
+
+[255|kind=item|chars=0|id=0x8|hdr=0x3e4a|str=0x3e56]
+
+
+[256|kind=item|chars=0|id=0x9|hdr=0x3e58|str=0x3e64]
+
+
+[257|kind=item|chars=0|id=0xa|hdr=0x3e66|str=0x3e72]
+
+
+[258|kind=item|chars=9|id=0xb|hdr=0x3e74|str=0x3e80]
+Abacaxi
+
+[259|kind=item|chars=10|id=0xc|hdr=0x3e94|str=0x3ea0]
+Melancia
+
+[260|kind=item|chars=5|id=0xd|hdr=0x3eb6|str=0x3ec2]
+Melao
+
+[261|kind=item|chars=6|id=0xe|hdr=0x3ece|str=0x3eda]
+Tomate
+
+[262|kind=item|chars=4|id=0xf|hdr=0x3ee8|str=0x3ef4]
+Milh
+
+[263|kind=item|chars=6|id=0x10|hdr=0x3efe|str=0x3f0a]
+Abobr.
+
+[264|kind=item|chars=5|id=0x11|hdr=0x3f18|str=0x3f24]
+Cebol
+
+[265|kind=item|chars=9|id=0x12|hdr=0x3f30|str=0x3f3c]
+Ervilha
+
+[266|kind=item|chars=5|id=0x13|hdr=0x3f50|str=0x3f5c]
+Limao
+
+[267|kind=item|chars=0|id=0x14|hdr=0x3f68|str=0x3f74]
+
+
+[268|kind=item|chars=8|id=0x15|hdr=0x3f76|str=0x3f82]
+Berinj.
+
+[269|kind=item|chars=12|id=0x16|hdr=0x3f94|str=0x3fa0]
+Batata Doce
+
+[270|kind=item|chars=12|id=0x17|hdr=0x3fba|str=0x3fc6]
+Piment.Verde
+
+[271|kind=item|chars=6|id=0x18|hdr=0x3fe0|str=0x3fec]
+Cenour
+
+[272|kind=item|chars=10|id=0x19|hdr=0x3ffa|str=0x4006]
+Pimenta Ht
+
+[273|kind=item|chars=9|id=0x1a|hdr=0x401c|str=0x4028]
+Tangerina
+
+[274|kind=item|chars=4|id=0x1b|hdr=0x403c|str=0x4048]
+Kiwi
+
+[275|kind=item|chars=0|id=0x1c|hdr=0x4052|str=0x405e]
+
+
+[276|kind=item|chars=0|id=0x1d|hdr=0x4060|str=0x406c]
+
+
+[277|kind=item|chars=0|id=0x1e|hdr=0x406e|str=0x407a]
+
+
+[278|kind=item|chars=4|id=0x1f|hdr=0x407c|str=0x4088]
+Kale
+
+[279|kind=item|chars=0|id=0x20|hdr=0x4092|str=0x409e]
+
+
+[280|kind=item|chars=0|id=0x21|hdr=0x40a0|str=0x40ac]
+
+
+[281|kind=item|chars=0|id=0x22|hdr=0x40ae|str=0x40ba]
+
+
+[282|kind=item|chars=0|id=0x23|hdr=0x40bc|str=0x40c8]
+
+
+[283|kind=item|chars=0|id=0x24|hdr=0x40ca|str=0x40d6]
+
+
+[284|kind=item|chars=0|id=0x25|hdr=0x40d8|str=0x40e4]
+
+
+[285|kind=item|chars=0|id=0x26|hdr=0x40e6|str=0x40f2]
+
+
+[286|kind=item|chars=0|id=0x27|hdr=0x40f4|str=0x4100]
+
+
+[287|kind=item|chars=5|id=0x28|hdr=0x4102|str=0x410e]
+Tulip
+
+[288|kind=item|chars=8|id=0x29|hdr=0x411a|str=0x4126]
+Jacinto
+
+[289|kind=item|chars=5|id=0x2a|hdr=0x4138|str=0x4144]
+Amor.
+
+[290|kind=item|chars=0|id=0x2b|hdr=0x4150|str=0x415c]
+
+
+[291|kind=item|chars=0|id=0x2c|hdr=0x415e|str=0x416a]
+
+
+[292|kind=item|chars=9|id=0x2d|hdr=0x416c|str=0x4178]
+Girassol
+
+[293|kind=item|chars=4|id=0x2e|hdr=0x418c|str=0x4198]
+Rosa
+
+[294|kind=item|chars=0|id=0x2f|hdr=0x41a2|str=0x41ae]
+
+
+[295|kind=item|chars=0|id=0x30|hdr=0x41b0|str=0x41bc]
+
+
+[296|kind=item|chars=0|id=0x31|hdr=0x41be|str=0x41ca]
+
+
+[297|kind=item|chars=6|id=0x32|hdr=0x41cc|str=0x41d8]
+Cosmos
+
+[298|kind=item|chars=10|id=0x33|hdr=0x41e6|str=0x41f2]
+Cauda Gato
+
+[299|kind=item|chars=0|id=0x34|hdr=0x4208|str=0x4214]
+
+
+[300|kind=item|chars=0|id=0x35|hdr=0x4216|str=0x4222]
+
+
+[301|kind=item|chars=0|id=0x36|hdr=0x4224|str=0x4230]
+
+
+[302|kind=item|chars=10|id=0x37|hdr=0x4232|str=0x423e]
+Poinsettia
+
+[303|kind=item|chars=0|id=0x38|hdr=0x4254|str=0x4260]
+
+
+[304|kind=item|chars=0|id=0x39|hdr=0x4262|str=0x426e]
+
+
+[305|kind=item|chars=10|id=0x3a|hdr=0x4270|str=0x427c]
+Hortela-P.
+
+[306|kind=item|chars=5|id=0x3b|hdr=0x4292|str=0x429e]
+Manj.
+
+[307|kind=item|chars=8|id=0x3c|hdr=0x42aa|str=0x42b6]
+Lavanda
+
+[308|kind=item|chars=8|id=0x3d|hdr=0x42c8|str=0x42d4]
+Alecrim
+
+[309|kind=item|chars=9|id=0x3e|hdr=0x42e6|str=0x42f2]
+Camomila
+
+[310|kind=item|chars=0|id=0x3f|hdr=0x4306|str=0x4312]
+
+
+[311|kind=item|chars=0|id=0x40|hdr=0x4314|str=0x4320]
+
+
+[312|kind=item|chars=0|id=0x41|hdr=0x4322|str=0x432e]
+
+
+[313|kind=item|chars=0|id=0x42|hdr=0x4330|str=0x433c]
+
+
+[314|kind=item|chars=0|id=0x43|hdr=0x433e|str=0x434a]
+
+
+[315|kind=item|chars=0|id=0x44|hdr=0x434c|str=0x4358]
+
+
+[316|kind=item|chars=0|id=0x45|hdr=0x435a|str=0x4366]
+
+
+[317|kind=item|chars=13|id=0x46|hdr=0x4368|str=0x4374]
+Trufa Preta
+
+[318|kind=item|chars=7|id=0x47|hdr=0x4390|str=0x439c]
+Porcini
+
+[319|kind=item|chars=5|id=0x48|hdr=0x43ac|str=0x43b8]
+Enoki
+
+[320|kind=item|chars=7|id=0x49|hdr=0x43c4|str=0x43d0]
+Shimeji
+
+[321|kind=item|chars=8|id=0x4a|hdr=0x43e0|str=0x43ec]
+Or.Madei
+
+[322|kind=item|chars=14|id=0x4b|hdr=0x43fe|str=0x440a]
+Or.Mad.Branca
+
+[323|kind=item|chars=9|id=0x4c|hdr=0x4428|str=0x4434]
+Matsutake
+
+[324|kind=item|chars=10|id=0x4d|hdr=0x4448|str=0x4454]
+Fly Agaric
+
+[325|kind=item|chars=14|id=0x4e|hdr=0x446a|str=0x4476]
+Shimeji Roxo
+
+[326|kind=item|chars=0|id=0x4f|hdr=0x4494|str=0x44a0]
+
+
+[327|kind=item|chars=0|id=0x50|hdr=0x44a2|str=0x44ae]
+
+
+[328|kind=item|chars=6|id=0x51|hdr=0x44b0|str=0x44bc]
+Mamao
+
+[329|kind=item|chars=6|id=0x52|hdr=0x44ca|str=0x44d6]
+Banana
+
+[330|kind=item|chars=8|id=0x53|hdr=0x44e4|str=0x44f0]
+Rambutan
+
+[331|kind=item|chars=5|id=0x54|hdr=0x4502|str=0x450e]
+Cacau
+
+[332|kind=item|chars=3|id=0x55|hdr=0x451a|str=0x4526]
+Fig
+
+[333|kind=item|chars=5|id=0x56|hdr=0x452e|str=0x453a]
+Oliva
+
+[334|kind=item|chars=15|id=0x57|hdr=0x4546|str=0x4552]
+Morango Falso
+
+[335|kind=item|chars=9|id=0x58|hdr=0x4572|str=0x457e]
+Caqui
+
+[336|kind=item|chars=8|id=0x59|hdr=0x4592|str=0x459e]
+Castanha
+
+[337|kind=item|chars=5|id=0x5a|hdr=0x45b0|str=0x45bc]
+Pess.
+
+[338|kind=item|chars=9|id=0x5b|hdr=0x45c8|str=0x45d4]
+Mirtilo
+
+[339|kind=item|chars=5|id=0x5c|hdr=0x45e8|str=0x45f4]
+Maca
+
+[340|kind=item|chars=6|id=0x5d|hdr=0x4600|str=0x460c]
+Pawpaw
+
+[341|kind=item|chars=6|id=0x5e|hdr=0x461a|str=0x4626]
+Pepino
+
+[342|kind=item|chars=0|id=0x5f|hdr=0x4634|str=0x4640]
+
+
+[343|kind=item|chars=0|id=0x60|hdr=0x4642|str=0x464e]
+
+
+[344|kind=item|chars=9|id=0x61|hdr=0x4650|str=0x465c]
+Lily Bell
+
+[345|kind=item|chars=4|id=0x62|hdr=0x4670|str=0x467c]
+Lily
+
+[346|kind=item|chars=0|id=0x63|hdr=0x4686|str=0x4692]
+
+
+[347|kind=item|chars=0|id=0x64|hdr=0x4694|str=0x46a0]
+
+
+[348|kind=item|chars=4|id=0x65|hdr=0x46a2|str=0x46ae]
+Erva
+
+[349|kind=item|chars=14|id=0x66|hdr=0x46b8|str=0x46c4]
+Erva Venenosa
+
+[350|kind=item|chars=4|id=0x67|hdr=0x46e2|str=0x46ee]
+Erv.
+
+[351|kind=item|chars=4|id=0x68|hdr=0x46f8|str=0x4704]
+Pedr
+
+[352|kind=item|chars=5|id=0x69|hdr=0x470e|str=0x471a]
+Galho
+
+[353|kind=item|chars=12|id=0x6a|hdr=0x4726|str=0x4732]
+Musgo Estr.
+
+[354|kind=item|chars=7|id=0x6b|hdr=0x474c|str=0x4758]
+Coc.Cao
+
+[355|kind=item|chars=10|id=0x6c|hdr=0x4768|str=0x4774]
+Pl.Morta
+
+[356|kind=item|chars=4|id=0x6d|hdr=0x478a|str=0x4796]
+Mad.
+
+[357|kind=item|chars=5|id=0x6e|hdr=0x47a0|str=0x47ac]
+Pedra
+
+[358|kind=item|chars=11|id=0x6f|hdr=0x47b8|str=0x47c4]
+Pedra Azul
+
+[359|kind=item|chars=11|id=0x70|hdr=0x47dc|str=0x47e8]
+Pedra Ocre
+
+[360|kind=item|chars=13|id=0x71|hdr=0x4800|str=0x480c]
+Pedra Carm.
+
+[361|kind=item|chars=10|id=0x72|hdr=0x4828|str=0x4834]
+Ped.Azul
+
+[362|kind=item|chars=12|id=0x73|hdr=0x484a|str=0x4856]
+Ped.Amarela
+
+[363|kind=item|chars=9|id=0x74|hdr=0x4870|str=0x487c]
+Ped.Verm.
+
+[364|kind=item|chars=10|id=0x75|hdr=0x4890|str=0x489c]
+Joia Azul
+
+[365|kind=item|chars=12|id=0x76|hdr=0x48b2|str=0x48be]
+Joia Amarela
+
+[366|kind=item|chars=9|id=0x77|hdr=0x48d8|str=0x48e4]
+Joia Verm
+
+[367|kind=item|chars=12|id=0x78|hdr=0x48f8|str=0x4904]
+Joia Roxa
+
+[368|kind=item|chars=11|id=0x79|hdr=0x491e|str=0x492a]
+Joia Verde
+
+[369|kind=item|chars=12|id=0x7a|hdr=0x4942|str=0x494e]
+Joia Laranja
+
+[370|kind=item|chars=11|id=0x7b|hdr=0x4968|str=0x4974]
+Joia Preta
+
+[371|kind=item|chars=16|id=0x7c|hdr=0x498c|str=0x4998]
+Areia P.Terra
+
+[372|kind=item|chars=0|id=0x7d|hdr=0x49ba|str=0x49c6]
+
+
+[373|kind=item|chars=0|id=0x7e|hdr=0x49c8|str=0x49d4]
+
+
+[374|kind=item|chars=0|id=0x7f|hdr=0x49d6|str=0x49e2]
+
+
+[375|kind=item|chars=0|id=0x80|hdr=0x49e4|str=0x49f0]
+
+
+[376|kind=item|chars=0|id=0x81|hdr=0x49f2|str=0x49fe]
+
+
+[377|kind=item|chars=10|id=0x82|hdr=0x4a00|str=0x4a0c]
+Mad.Grande
+
+[378|kind=item|chars=11|id=0x83|hdr=0x4a22|str=0x4a2e]
+Min.Vulcao
+
+[379|kind=item|chars=10|id=0x84|hdr=0x4a46|str=0x4a52]
+Min.Easter
+
+[380|kind=item|chars=9|id=0x85|hdr=0x4a68|str=0x4a74]
+Min.Puro
+
+[381|kind=item|chars=0|id=0x86|hdr=0x4a88|str=0x4a94]
+
+
+[382|kind=item|chars=0|id=0x87|hdr=0x4a96|str=0x4aa2]
+
+
+[383|kind=item|chars=0|id=0x88|hdr=0x4aa4|str=0x4ab0]
+
+
+[384|kind=item|chars=0|id=0x89|hdr=0x4ab2|str=0x4abe]
+
+
+[385|kind=item|chars=0|id=0x8a|hdr=0x4ac0|str=0x4acc]
+
+
+[386|kind=item|chars=0|id=0x8b|hdr=0x4ace|str=0x4ada]
+
+
+[387|kind=item|chars=14|id=0x8c|hdr=0x4adc|str=0x4ae8]
+Cesta Colheita
+
+[388|kind=item|chars=11|id=0x8d|hdr=0x4b06|str=0x4b12]
+Bas&Ket 20S
+
+[389|kind=item|chars=11|id=0x8e|hdr=0x4b2a|str=0x4b36]
+Bas&Ket 40H
+
+[390|kind=item|chars=11|id=0x8f|hdr=0x4b4e|str=0x4b5a]
+Bas&Ket 60T
+
+[391|kind=item|chars=12|id=0x90|hdr=0x4b72|str=0x4b7e]
+Bas&Ket Cart
+
+[392|kind=item|chars=14|id=0x91|hdr=0x4b98|str=0x4ba4]
+Bas&Ket Cart L
+
+[393|kind=item|chars=14|id=0x92|hdr=0x4bc2|str=0x4bce]
+Bas&Ket Cart H
+
+[394|kind=item|chars=14|id=0x93|hdr=0x4bec|str=0x4bf8]
+Bas&Ket Rail I
+
+[395|kind=item|chars=14|id=0x94|hdr=0x4c16|str=0x4c22]
+Bas&Ket Rail T
+
+[396|kind=item|chars=14|id=0x95|hdr=0x4c40|str=0x4c4c]
+Bas&Ket Rail L
+
+[397|kind=item|chars=12|id=0x96|hdr=0x4c6a|str=0x4c76]
+Par.Trilho
+
+[398|kind=item|chars=11|id=0x97|hdr=0x4c90|str=0x4c9c]
+Convey-R DX
+
+[399|kind=item|chars=14|id=0x98|hdr=0x4cb4|str=0x4cc0]
+Convey-R DXPRO
+
+[400|kind=item|chars=14|id=0x99|hdr=0x4cde|str=0x4cea]
+Convey-R Carry
+
+[401|kind=item|chars=11|id=0x9a|hdr=0x4d08|str=0x4d14]
+Carry SUPER
+
+[402|kind=item|chars=12|id=0x9b|hdr=0x4d2c|str=0x4d38]
+Convey-R Box
+
+[403|kind=item|chars=9|id=0x9c|hdr=0x4d52|str=0x4d5e]
+Auto Unit
+
+[404|kind=item|chars=15|id=0x9d|hdr=0x4d72|str=0x4d7e]
+Convey-R DXPRO2
+
+[405|kind=item|chars=0|id=0x9e|hdr=0x4d9e|str=0x4daa]
+
+
+[406|kind=item|chars=0|id=0x9f|hdr=0x4dac|str=0x4db8]
+
+
+[407|kind=item|chars=11|id=0xa0|hdr=0x4dba|str=0x4dc6]
+Doctor's WC
+
+[408|kind=item|chars=11|id=0xa1|hdr=0x4dde|str=0x4dea]
+Masami's WC
+
+[409|kind=item|chars=20|id=0xa2|hdr=0x4e02|str=0x4e0e]
+Regador Monsao
+
+[410|kind=item|chars=8|id=0xa3|hdr=0x4e38|str=0x4e44]
+Enxad.Fe
+
+[411|kind=item|chars=12|id=0xa4|hdr=0x4e56|str=0x4e62]
+Enxad.Mestre
+
+[412|kind=item|chars=13|id=0xa5|hdr=0x4e7c|str=0x4e88]
+Enxad.Encant.
+
+[413|kind=item|chars=11|id=0xa6|hdr=0x4ea4|str=0x4eb0]
+Mart.Ferro
+
+[414|kind=item|chars=13|id=0xa7|hdr=0x4ec8|str=0x4ed4]
+Mart.Easter
+
+[415|kind=item|chars=12|id=0xa8|hdr=0x4ef0|str=0x4efc]
+Mart.Terra
+
+[416|kind=item|chars=11|id=0xa9|hdr=0x4f16|str=0x4f22]
+Foice Ferro
+
+[417|kind=item|chars=14|id=0xaa|hdr=0x4f3a|str=0x4f46]
+Foice Vulcao
+
+[418|kind=item|chars=12|id=0xab|hdr=0x4f64|str=0x4f70]
+Foice Chama
+
+[419|kind=item|chars=8|id=0xac|hdr=0x4f8a|str=0x4f96]
+Mach.Fe
+
+[420|kind=item|chars=12|id=0xad|hdr=0x4fa8|str=0x4fb4]
+Mach.Mestre
+
+[421|kind=item|chars=11|id=0xae|hdr=0x4fce|str=0x4fda]
+Mach.Giant.
+
+[422|kind=item|chars=8|id=0xaf|hdr=0x4ff2|str=0x4ffe]
+BolsaSem
+
+[423|kind=item|chars=0|id=0xb0|hdr=0x5010|str=0x501c]
+
+
+[424|kind=item|chars=0|id=0xb1|hdr=0x501e|str=0x502a]
+
+
+[425|kind=item|chars=0|id=0xb2|hdr=0x502c|str=0x5038]
+
+
+[426|kind=item|chars=0|id=0xb3|hdr=0x503a|str=0x5046]
+
+
+[427|kind=item|chars=0|id=0xb4|hdr=0x5048|str=0x5054]
+
+
+[428|kind=item|chars=11|id=0xb5|hdr=0x5056|str=0x5062]
+Liv.Espir.
+
+[429|kind=item|chars=11|id=0xb6|hdr=0x507a|str=0x5086]
+Solas Poder
+
+[430|kind=item|chars=10|id=0xb7|hdr=0x509e|str=0x50aa]
+Solas Neve
+
+[431|kind=item|chars=11|id=0xb8|hdr=0x50c0|str=0x50cc]
+Crista Agua
+
+[432|kind=item|chars=12|id=0xb9|hdr=0x50e4|str=0x50f0]
+Crist.Flor.
+
+[433|kind=item|chars=10|id=0xba|hdr=0x510a|str=0x5116]
+Crist.Fogo
+
+[434|kind=item|chars=14|id=0xbb|hdr=0x512c|str=0x5138]
+Vajilha Branca
+
+[435|kind=item|chars=15|id=0xbc|hdr=0x5156|str=0x5162]
+Vajilha Prat.
+
+[436|kind=item|chars=16|id=0xbd|hdr=0x5182|str=0x518e]
+Vajilha Mist.
+
+[437|kind=item|chars=9|id=0xbe|hdr=0x51b0|str=0x51bc]
+Bumerang
+
+[438|kind=item|chars=12|id=0xbf|hdr=0x51d0|str=0x51dc]
+Pistola Agua
+
+[439|kind=item|chars=12|id=0xc0|hdr=0x51f6|str=0x5202]
+Fita de Anjo
+
+[440|kind=item|chars=9|id=0xc1|hdr=0x521c|str=0x5228]
+Alfinetes
+
+[441|kind=item|chars=14|id=0xc2|hdr=0x523c|str=0x5248]
+Toque Maternal
+
+[442|kind=item|chars=10|id=0xc3|hdr=0x5266|str=0x5272]
+Pelo Bril.
+
+[443|kind=item|chars=13|id=0xc4|hdr=0x5288|str=0x5294]
+Cor Saudavel
+
+[444|kind=item|chars=16|id=0xc5|hdr=0x52b0|str=0x52bc]
+Sement.Surpresa
+
+[445|kind=item|chars=8|id=0xc6|hdr=0x52de|str=0x52ea]
+Ovo Azul
+
+[446|kind=item|chars=12|id=0xc7|hdr=0x52fc|str=0x5308]
+Tenda Balao
+
+[447|kind=item|chars=16|id=0xc8|hdr=0x5322|str=0x532e]
+Chave Fam.Grao
+
+[448|kind=item|chars=10|id=0xc9|hdr=0x5350|str=0x535c]
+Kit Balan.
+
+[449|kind=item|chars=7|id=0xca|hdr=0x5372|str=0x537e]
+Leit.%s
+
+[450|kind=item|chars=9|id=0xcb|hdr=0x538e|str=0x539a]
+Queijo %s
+
+[451|kind=item|chars=13|id=0xcc|hdr=0x53ae|str=0x53ba]
+Maionese %s
+
+[452|kind=item|chars=6|id=0xcd|hdr=0x53d6|str=0x53e2]
+Ovo %s
+
+[453|kind=item|chars=7|id=0xce|hdr=0x53f0|str=0x53fc]
+La %s
+
+[454|kind=cont|chars=0|hdr=0x542e|str=0x5436]
+
+
+[455|kind=cont|chars=0|hdr=0x5438|str=0x5440]
+
+
+[456|kind=cont|chars=0|hdr=0x5442|str=0x544a]
+
+
+[457|kind=cont|chars=0|hdr=0x544c|str=0x5454]
+
+
+[458|kind=item|chars=32|id=0x1|hdr=0x5456|str=0x5462]
+Uma plant. cresce na Prima.
+
+[459|kind=cont|chars=36|hdr=0x54a4|str=0x54ac]
+Costuma ser colhida em 14 dias.
+
+[460|kind=cont|chars=29|hdr=0x54f6|str=0x54fe]
+Baixa sobrev. em tempestades.
+
+[461|kind=flex|chars=0|hdr=0x553c|str=0x5542]
+
+
+[462|kind=cont|chars=0|hdr=0x5544|str=0x554c]
+
+
+[463|kind=item|chars=32|id=0x2|hdr=0x554e|str=0x555a]
+Uma plant. cresce na Prima.
+
+[464|kind=cont|chars=35|hdr=0x559c|str=0x55a4]
+Costuma ser colhida em 6 dias.
+
+[465|kind=flex|chars=26|hdr=0x55ee|str=0x55f4]
+Pouco resistente a temp.
+
+[466|kind=flex|chars=0|hdr=0x562c|str=0x5632]
+
+
+[467|kind=cont|chars=0|hdr=0x5634|str=0x563c]
+
+
+[468|kind=item|chars=32|id=0x3|hdr=0x563e|str=0x564a]
+Uma plant. cresce na Prima.
+
+[469|kind=cont|chars=35|hdr=0x568c|str=0x5694]
+Costuma ser colhida em 5 dias.
+
+[470|kind=flex|chars=29|hdr=0x56de|str=0x56e4]
+Costuma sobreviver a temp.
+
+[471|kind=flex|chars=0|hdr=0x5722|str=0x5728]
+
+
+[472|kind=cont|chars=0|hdr=0x572a|str=0x5732]
+
+
+[473|kind=item|chars=32|id=0x4|hdr=0x5734|str=0x5740]
+Uma plant. cresce na Prima.
+
+[474|kind=cont|chars=36|hdr=0x5782|str=0x578a]
+Costuma ser colhida em 10 dias.
+
+[475|kind=cont|chars=24|hdr=0x57d4|str=0x57dc]
+Bastante resist. a temp.
+
+[476|kind=flex|chars=0|hdr=0x5810|str=0x5816]
+
+
+[477|kind=cont|chars=0|hdr=0x5818|str=0x5820]
+
+
+[478|kind=item|chars=32|id=0x5|hdr=0x5822|str=0x582e]
+Uma plant. cresce na Prima.
+
+[479|kind=cont|chars=36|hdr=0x5870|str=0x5878]
+Costuma ser colhida em 10 dias.
+
+[480|kind=cont|chars=29|hdr=0x58c2|str=0x58ca]
+Muito fragil em temp., plante
+
+[481|kind=flex|chars=10|hdr=0x5908|str=0x590e]
+c/cuidado.
+
+[482|kind=flex|chars=0|hdr=0x5926|str=0x592c]
+
+
+[483|kind=item|chars=32|id=0x6|hdr=0x592e|str=0x593a]
+Uma plant. cresce na Prima.
+
+[484|kind=cont|chars=35|hdr=0x597c|str=0x5984]
+Costuma ser colhida em 6 dias.
+
+[485|kind=flex|chars=29|hdr=0x59ce|str=0x59d4]
+Muito fragil em temp., plante
+
+[486|kind=flex|chars=10|hdr=0x5a12|str=0x5a18]
+c/cuidado.
+
+[487|kind=flex|chars=0|hdr=0x5a30|str=0x5a36]
+
+
+[488|kind=item|chars=0|id=0x7|hdr=0x5a38|str=0x5a44]
+
+
+[489|kind=cont|chars=0|hdr=0x5a46|str=0x5a4e]
+
+
+[490|kind=cont|chars=0|hdr=0x5a50|str=0x5a58]
+
+
+[491|kind=cont|chars=0|hdr=0x5a5a|str=0x5a62]
+
+
+[492|kind=cont|chars=0|hdr=0x5a64|str=0x5a6c]
+
+
+[493|kind=item|chars=0|id=0x8|hdr=0x5a6e|str=0x5a7a]
+
+
+[494|kind=cont|chars=0|hdr=0x5a7c|str=0x5a84]
+
+
+[495|kind=cont|chars=0|hdr=0x5a86|str=0x5a8e]
+
+
+[496|kind=cont|chars=0|hdr=0x5a90|str=0x5a98]
+
+
+[497|kind=cont|chars=0|hdr=0x5a9a|str=0x5aa2]
+
+
+[498|kind=item|chars=0|id=0x9|hdr=0x5aa4|str=0x5ab0]
+
+
+[499|kind=cont|chars=0|hdr=0x5ab2|str=0x5aba]
+
+
+[500|kind=cont|chars=0|hdr=0x5abc|str=0x5ac4]
+
+
+[501|kind=cont|chars=0|hdr=0x5ac6|str=0x5ace]
+
+
+[502|kind=cont|chars=0|hdr=0x5ad0|str=0x5ad8]
+
+
+[503|kind=item|chars=0|id=0xa|hdr=0x5ada|str=0x5ae6]
+
+
+[504|kind=cont|chars=0|hdr=0x5ae8|str=0x5af0]
+
+
+[505|kind=cont|chars=0|hdr=0x5af2|str=0x5afa]
+
+
+[506|kind=cont|chars=0|hdr=0x5afc|str=0x5b04]
+
+
+[507|kind=cont|chars=0|hdr=0x5b06|str=0x5b0e]
+
+
+[508|kind=item|chars=32|id=0xb|hdr=0x5b10|str=0x5b1c]
+Uma plant. cresce no Verao.
+
+[509|kind=cont|chars=36|hdr=0x5b5e|str=0x5b66]
+Costuma ser colhida em 14 dias.
+
+[510|kind=cont|chars=29|hdr=0x5bb0|str=0x5bb8]
+Muito fragil em temp., plante
+
+[511|kind=flex|chars=10|hdr=0x5bf6|str=0x5bfc]
+c/cuidado.
+
+[512|kind=flex|chars=0|hdr=0x5c14|str=0x5c1a]
+
+
+[513|kind=item|chars=32|id=0xc|hdr=0x5c1c|str=0x5c28]
+Uma plant. cresce no Verao.
+
+[514|kind=cont|chars=36|hdr=0x5c6a|str=0x5c72]
+Costuma ser colhida em 10 dias.
+
+[515|kind=cont|chars=29|hdr=0x5cbc|str=0x5cc4]
+Baixa sobrev. em tempestades.
+
+[516|kind=flex|chars=0|hdr=0x5d02|str=0x5d08]
+
+
+[517|kind=cont|chars=0|hdr=0x5d0a|str=0x5d12]
+
+
+[518|kind=item|chars=32|id=0xd|hdr=0x5d14|str=0x5d20]
+Uma plant. cresce no Verao.
+
+[519|kind=cont|chars=36|hdr=0x5d62|str=0x5d6a]
+Costuma ser colhida em 14 dias.
+
+[520|kind=cont|chars=35|hdr=0x5db4|str=0x5dbc]
+Fragil em temp., plante c/cuidado.
+
+[521|kind=flex|chars=0|hdr=0x5e06|str=0x5e0c]
+
+
+[522|kind=cont|chars=0|hdr=0x5e0e|str=0x5e16]
+
+
+[523|kind=item|chars=32|id=0xe|hdr=0x5e18|str=0x5e24]
+Uma plant. cresce no Verao.
+
+[524|kind=cont|chars=35|hdr=0x5e66|str=0x5e6e]
+Costuma ser colhida em 6 dias.
+
+[525|kind=flex|chars=35|hdr=0x5eb8|str=0x5ebe]
+Fragil em temp., plante c/cuidado.
+
+[526|kind=flex|chars=0|hdr=0x5f08|str=0x5f0e]
+
+
+[527|kind=cont|chars=0|hdr=0x5f10|str=0x5f18]
+
+
+[528|kind=item|chars=32|id=0xf|hdr=0x5f1a|str=0x5f26]
+Uma plant. cresce no Verao.
+
+[529|kind=cont|chars=35|hdr=0x5f68|str=0x5f70]
+Costuma ser colhida em 9 dias.
+
+[530|kind=flex|chars=29|hdr=0x5fba|str=0x5fc0]
+Muito fragil em temp., plante
+
+[531|kind=flex|chars=10|hdr=0x5ffe|str=0x6004]
+c/cuidado.
+
+[532|kind=flex|chars=0|hdr=0x601c|str=0x6022]
+
+
+[533|kind=item|chars=32|id=0x10|hdr=0x6024|str=0x6030]
+Uma plant. cresce no Verao.
+
+[534|kind=cont|chars=35|hdr=0x6072|str=0x607a]
+Costuma ser colhida em 9 dias.
+
+[535|kind=flex|chars=21|hdr=0x60c4|str=0x60ca]
+Resistente a temp.
+
+[536|kind=flex|chars=0|hdr=0x60f8|str=0x60fe]
+
+
+[537|kind=cont|chars=0|hdr=0x6100|str=0x6108]
+
+
+[538|kind=item|chars=32|id=0x11|hdr=0x610a|str=0x6116]
+Uma plant. cresce no Verao.
+
+[539|kind=cont|chars=35|hdr=0x6158|str=0x6160]
+Costuma ser colhida em 5 dias.
+
+[540|kind=flex|chars=28|hdr=0x61aa|str=0x61b0]
+Costuma sobreviver a temp.
+
+[541|kind=cont|chars=0|hdr=0x61ea|str=0x61f2]
+
+
+[542|kind=cont|chars=0|hdr=0x61f4|str=0x61fc]
+
+
+[543|kind=item|chars=32|id=0x12|hdr=0x61fe|str=0x620a]
+Uma plant. cresce no Verao.
+
+[544|kind=cont|chars=35|hdr=0x624c|str=0x6254]
+Costuma ser colhida em 7 dias.
+
+[545|kind=flex|chars=24|hdr=0x629e|str=0x62a4]
+Bastante resist. a temp.
+
+[546|kind=flex|chars=0|hdr=0x62d8|str=0x62de]
+
+
+[547|kind=cont|chars=0|hdr=0x62e0|str=0x62e8]
+
+
+[548|kind=item|chars=32|id=0x13|hdr=0x62ea|str=0x62f6]
+Uma plant. cresce no Verao.
+
+[549|kind=cont|chars=36|hdr=0x6338|str=0x6340]
+Costuma ser colhida em 12 dias.
+
+[550|kind=cont|chars=20|hdr=0x638a|str=0x6392]
+Nao resist. a temp.
+
+[551|kind=flex|chars=0|hdr=0x63be|str=0x63c4]
+
+
+[552|kind=cont|chars=0|hdr=0x63c6|str=0x63ce]
+
+
+[553|kind=item|chars=0|id=0x14|hdr=0x63d0|str=0x63dc]
+
+
+[554|kind=cont|chars=0|hdr=0x63de|str=0x63e6]
+
+
+[555|kind=cont|chars=0|hdr=0x63e8|str=0x63f0]
+
+
+[556|kind=cont|chars=0|hdr=0x63f2|str=0x63fa]
+
+
+[557|kind=cont|chars=0|hdr=0x63fc|str=0x6404]
+
+
+[558|kind=item|chars=32|id=0x15|hdr=0x6406|str=0x6412]
+Uma plant. cresce no Outono.
+
+[559|kind=cont|chars=35|hdr=0x6454|str=0x645c]
+Costuma ser colhida em 6 dias.
+
+[560|kind=flex|chars=35|hdr=0x64a6|str=0x64ac]
+Fragil em temp., plante c/cuidado.
+
+[561|kind=flex|chars=0|hdr=0x64f6|str=0x64fc]
+
+
+[562|kind=cont|chars=0|hdr=0x64fe|str=0x6506]
+
+
+[563|kind=item|chars=32|id=0x16|hdr=0x6508|str=0x6514]
+Uma plant. cresce no Outono.
+
+[564|kind=cont|chars=35|hdr=0x6556|str=0x655e]
+Costuma ser colhida em 5 dias.
+
+[565|kind=flex|chars=28|hdr=0x65a8|str=0x65ae]
+Costuma sobreviver a temp.
+
+[566|kind=cont|chars=0|hdr=0x65e8|str=0x65f0]
+
+
+[567|kind=cont|chars=0|hdr=0x65f2|str=0x65fa]
+
+
+[568|kind=item|chars=32|id=0x17|hdr=0x65fc|str=0x6608]
+Uma plant. cresce no Outono.
+
+[569|kind=cont|chars=35|hdr=0x664a|str=0x6652]
+Costuma ser colhida em 7 dias.
+
+[570|kind=flex|chars=35|hdr=0x669c|str=0x66a2]
+Fragil em temp., plante c/cuidado.
+
+[571|kind=flex|chars=0|hdr=0x66ec|str=0x66f2]
+
+
+[572|kind=cont|chars=0|hdr=0x66f4|str=0x66fc]
+
+
+[573|kind=item|chars=32|id=0x18|hdr=0x66fe|str=0x670a]
+Uma plant. cresce no Outono.
+
+[574|kind=cont|chars=35|hdr=0x674c|str=0x6754]
+Costuma ser colhida em 7 dias.
+
+[575|kind=flex|chars=21|hdr=0x679e|str=0x67a4]
+Resistente a temp.
+
+[576|kind=flex|chars=0|hdr=0x67d2|str=0x67d8]
+
+
+[577|kind=cont|chars=0|hdr=0x67da|str=0x67e2]
+
+
+[578|kind=item|chars=32|id=0x19|hdr=0x67e4|str=0x67f0]
+Uma plant. cresce no Outono.
+
+[579|kind=cont|chars=35|hdr=0x6832|str=0x683a]
+Costuma ser colhida em 7 dias.
+
+[580|kind=flex|chars=28|hdr=0x6884|str=0x688a]
+Costuma sobreviver a temp.
+
+[581|kind=cont|chars=0|hdr=0x68c4|str=0x68cc]
+
+
+[582|kind=cont|chars=0|hdr=0x68ce|str=0x68d6]
+
+
+[583|kind=item|chars=32|id=0x1a|hdr=0x68d8|str=0x68e4]
+Uma plant. cresce no Outono.
+
+[584|kind=cont|chars=36|hdr=0x6926|str=0x692e]
+Costuma ser colhida em 14 dias.
+
+[585|kind=cont|chars=35|hdr=0x6978|str=0x6980]
+Fragil em temp., plante c/cuidado.
+
+[586|kind=flex|chars=0|hdr=0x69ca|str=0x69d0]
+
+
+[587|kind=cont|chars=0|hdr=0x69d2|str=0x69da]
+
+
+[588|kind=item|chars=32|id=0x1b|hdr=0x69dc|str=0x69e8]
+Uma plant. cresce no Outono.
+
+[589|kind=cont|chars=36|hdr=0x6a2a|str=0x6a32]
+Costuma ser colhida em 12 dias.
+
+[590|kind=cont|chars=35|hdr=0x6a7c|str=0x6a84]
+Fragil em temp., plante c/cuidado.
+
+[591|kind=flex|chars=0|hdr=0x6ace|str=0x6ad4]
+
+
+[592|kind=cont|chars=0|hdr=0x6ad6|str=0x6ade]
+
+
+[593|kind=item|chars=0|id=0x1c|hdr=0x6ae0|str=0x6aec]
+
+
+[594|kind=cont|chars=0|hdr=0x6aee|str=0x6af6]
+
+
+[595|kind=cont|chars=0|hdr=0x6af8|str=0x6b00]
+
+
+[596|kind=cont|chars=0|hdr=0x6b02|str=0x6b0a]
+
+
+[597|kind=cont|chars=0|hdr=0x6b0c|str=0x6b14]
+
+
+[598|kind=item|chars=0|id=0x1d|hdr=0x6b16|str=0x6b22]
+
+
+[599|kind=cont|chars=0|hdr=0x6b24|str=0x6b2c]
+
+
+[600|kind=cont|chars=0|hdr=0x6b2e|str=0x6b36]
+
+
+[601|kind=cont|chars=0|hdr=0x6b38|str=0x6b40]
+
+
+[602|kind=cont|chars=0|hdr=0x6b42|str=0x6b4a]
+
+
+[603|kind=item|chars=0|id=0x1e|hdr=0x6b4c|str=0x6b58]
+
+
+[604|kind=cont|chars=0|hdr=0x6b5a|str=0x6b62]
+
+
+[605|kind=cont|chars=0|hdr=0x6b64|str=0x6b6c]
+
+
+[606|kind=cont|chars=0|hdr=0x6b6e|str=0x6b76]
+
+
+[607|kind=cont|chars=0|hdr=0x6b78|str=0x6b80]
+
+
+[608|kind=item|chars=36|id=0x1f|hdr=0x6b82|str=0x6b8e]
+Rara plant. que cresce no Invern.
+
+[609|kind=cont|chars=35|hdr=0x6bd8|str=0x6be0]
+Costuma ser colhida em 7 dias.
+
+[610|kind=flex|chars=28|hdr=0x6c2a|str=0x6c30]
+Sobrev. a nevascas em geral.
+
+[611|kind=cont|chars=0|hdr=0x6c6a|str=0x6c72]
+
+
+[612|kind=cont|chars=0|hdr=0x6c74|str=0x6c7c]
+
+
+[613|kind=item|chars=0|id=0x20|hdr=0x6c7e|str=0x6c8a]
+
+
+[614|kind=cont|chars=0|hdr=0x6c8c|str=0x6c94]
+
+
+[615|kind=cont|chars=0|hdr=0x6c96|str=0x6c9e]
+
+
+[616|kind=cont|chars=0|hdr=0x6ca0|str=0x6ca8]
+
+
+[617|kind=cont|chars=0|hdr=0x6caa|str=0x6cb2]
+
+
+[618|kind=item|chars=0|id=0x21|hdr=0x6cb4|str=0x6cc0]
+
+
+[619|kind=cont|chars=0|hdr=0x6cc2|str=0x6cca]
+
+
+[620|kind=cont|chars=0|hdr=0x6ccc|str=0x6cd4]
+
+
+[621|kind=cont|chars=0|hdr=0x6cd6|str=0x6cde]
+
+
+[622|kind=cont|chars=0|hdr=0x6ce0|str=0x6ce8]
+
+
+[623|kind=item|chars=0|id=0x22|hdr=0x6cea|str=0x6cf6]
+
+
+[624|kind=cont|chars=0|hdr=0x6cf8|str=0x6d00]
+
+
+[625|kind=cont|chars=0|hdr=0x6d02|str=0x6d0a]
+
+
+[626|kind=cont|chars=0|hdr=0x6d0c|str=0x6d14]
+
+
+[627|kind=cont|chars=0|hdr=0x6d16|str=0x6d1e]
+
+
+[628|kind=item|chars=0|id=0x23|hdr=0x6d20|str=0x6d2c]
+
+
+[629|kind=cont|chars=0|hdr=0x6d2e|str=0x6d36]
+
+
+[630|kind=cont|chars=0|hdr=0x6d38|str=0x6d40]
+
+
+[631|kind=cont|chars=0|hdr=0x6d42|str=0x6d4a]
+
+
+[632|kind=cont|chars=0|hdr=0x6d4c|str=0x6d54]
+
+
+[633|kind=item|chars=0|id=0x24|hdr=0x6d56|str=0x6d62]
+
+
+[634|kind=cont|chars=0|hdr=0x6d64|str=0x6d6c]
+
+
+[635|kind=cont|chars=0|hdr=0x6d6e|str=0x6d76]
+
+
+[636|kind=cont|chars=0|hdr=0x6d78|str=0x6d80]
+
+
+[637|kind=cont|chars=0|hdr=0x6d82|str=0x6d8a]
+
+
+[638|kind=item|chars=0|id=0x25|hdr=0x6d8c|str=0x6d98]
+
+
+[639|kind=cont|chars=0|hdr=0x6d9a|str=0x6da2]
+
+
+[640|kind=cont|chars=0|hdr=0x6da4|str=0x6dac]
+
+
+[641|kind=cont|chars=0|hdr=0x6dae|str=0x6db6]
+
+
+[642|kind=cont|chars=0|hdr=0x6db8|str=0x6dc0]
+
+
+[643|kind=item|chars=0|id=0x26|hdr=0x6dc2|str=0x6dce]
+
+
+[644|kind=cont|chars=0|hdr=0x6dd0|str=0x6dd8]
+
+
+[645|kind=cont|chars=0|hdr=0x6dda|str=0x6de2]
+
+
+[646|kind=cont|chars=0|hdr=0x6de4|str=0x6dec]
+
+
+[647|kind=cont|chars=0|hdr=0x6dee|str=0x6df6]
+
+
+[648|kind=item|chars=0|id=0x27|hdr=0x6df8|str=0x6e04]
+
+
+[649|kind=cont|chars=0|hdr=0x6e06|str=0x6e0e]
+
+
+[650|kind=cont|chars=0|hdr=0x6e10|str=0x6e18]
+
+
+[651|kind=cont|chars=0|hdr=0x6e1a|str=0x6e22]
+
+
+[652|kind=cont|chars=0|hdr=0x6e24|str=0x6e2c]
+
+
+[653|kind=item|chars=31|id=0x28|hdr=0x6e2e|str=0x6e3a]
+Flor que floresce na Prima.
+
+[654|kind=cont|chars=32|hdr=0x6e7a|str=0x6e82]
+Colhida em geral em 7 dias.
+
+[655|kind=flex|chars=26|hdr=0x6ec6|str=0x6ecc]
+Destruida em tempestades.
+
+[656|kind=flex|chars=0|hdr=0x6f04|str=0x6f0a]
+
+
+[657|kind=cont|chars=0|hdr=0x6f0c|str=0x6f14]
+
+
+[658|kind=item|chars=31|id=0x29|hdr=0x6f16|str=0x6f22]
+Flor que floresce na Prima.
+
+[659|kind=cont|chars=32|hdr=0x6f62|str=0x6f6a]
+Colhida em geral em 7 dias.
+
+[660|kind=flex|chars=28|hdr=0x6fae|str=0x6fb4]
+Destruida em geral nas temp.
+
+[661|kind=cont|chars=0|hdr=0x6fee|str=0x6ff6]
+
+
+[662|kind=cont|chars=0|hdr=0x6ff8|str=0x7000]
+
+
+[663|kind=item|chars=31|id=0x2a|hdr=0x7002|str=0x700e]
+Flor que floresce na Prima.
+
+[664|kind=cont|chars=32|hdr=0x704e|str=0x7056]
+Colhida em geral em 7 dias.
+
+[665|kind=flex|chars=28|hdr=0x709a|str=0x70a0]
+Destruida em geral nas temp.
+
+[666|kind=cont|chars=0|hdr=0x70da|str=0x70e2]
+
+
+[667|kind=cont|chars=0|hdr=0x70e4|str=0x70ec]
+
+
+[668|kind=item|chars=0|id=0x2b|hdr=0x70ee|str=0x70fa]
+
+
+[669|kind=cont|chars=0|hdr=0x70fc|str=0x7104]
+
+
+[670|kind=cont|chars=0|hdr=0x7106|str=0x710e]
+
+
+[671|kind=cont|chars=0|hdr=0x7110|str=0x7118]
+
+
+[672|kind=cont|chars=0|hdr=0x711a|str=0x7122]
+
+
+[673|kind=item|chars=0|id=0x2c|hdr=0x7124|str=0x7130]
+
+
+[674|kind=cont|chars=0|hdr=0x7132|str=0x713a]
+
+
+[675|kind=cont|chars=0|hdr=0x713c|str=0x7144]
+
+
+[676|kind=cont|chars=0|hdr=0x7146|str=0x714e]
+
+
+[677|kind=cont|chars=0|hdr=0x7150|str=0x7158]
+
+
+[678|kind=item|chars=31|id=0x2d|hdr=0x715a|str=0x7166]
+Flor que floresce no Verao.
+
+[679|kind=cont|chars=32|hdr=0x71a6|str=0x71ae]
+Colhida em geral em 8 dias.
+
+[680|kind=flex|chars=35|hdr=0x71f2|str=0x71f8]
+Fragil em temp., plante c/cuidado.
+
+[681|kind=flex|chars=0|hdr=0x7242|str=0x7248]
+
+
+[682|kind=cont|chars=0|hdr=0x724a|str=0x7252]
+
+
+[683|kind=item|chars=31|id=0x2e|hdr=0x7254|str=0x7260]
+Flor que floresce no Verao.
+
+[684|kind=cont|chars=33|hdr=0x72a0|str=0x72a8]
+Colhida em geral em 12 dias.
+
+[685|kind=flex|chars=33|hdr=0x72ee|str=0x72f4]
+Fragil demais p/ sobrev. temp.
+
+[686|kind=flex|chars=0|hdr=0x733a|str=0x7340]
+
+
+[687|kind=cont|chars=0|hdr=0x7342|str=0x734a]
+
+
+[688|kind=item|chars=0|id=0x2f|hdr=0x734c|str=0x7358]
+
+
+[689|kind=cont|chars=0|hdr=0x735a|str=0x7362]
+
+
+[690|kind=cont|chars=0|hdr=0x7364|str=0x736c]
+
+
+[691|kind=cont|chars=0|hdr=0x736e|str=0x7376]
+
+
+[692|kind=cont|chars=0|hdr=0x7378|str=0x7380]
+
+
+[693|kind=item|chars=0|id=0x30|hdr=0x7382|str=0x738e]
+
+
+[694|kind=cont|chars=0|hdr=0x7390|str=0x7398]
+
+
+[695|kind=cont|chars=0|hdr=0x739a|str=0x73a2]
+
+
+[696|kind=cont|chars=0|hdr=0x73a4|str=0x73ac]
+
+
+[697|kind=cont|chars=0|hdr=0x73ae|str=0x73b6]
+
+
+[698|kind=item|chars=0|id=0x31|hdr=0x73b8|str=0x73c4]
+
+
+[699|kind=cont|chars=0|hdr=0x73c6|str=0x73ce]
+
+
+[700|kind=cont|chars=0|hdr=0x73d0|str=0x73d8]
+
+
+[701|kind=cont|chars=0|hdr=0x73da|str=0x73e2]
+
+
+[702|kind=cont|chars=0|hdr=0x73e4|str=0x73ec]
+
+
+[703|kind=item|chars=31|id=0x32|hdr=0x73ee|str=0x73fa]
+Flor que floresce no Outono.
+
+[704|kind=cont|chars=32|hdr=0x743a|str=0x7442]
+Colhida em geral em 7 dias.
+
+[705|kind=flex|chars=28|hdr=0x7486|str=0x748c]
+Destruida em geral nas temp.
+
+[706|kind=cont|chars=0|hdr=0x74c6|str=0x74ce]
+
+
+[707|kind=cont|chars=0|hdr=0x74d0|str=0x74d8]
+
+
+[708|kind=item|chars=31|id=0x33|hdr=0x74da|str=0x74e6]
+Flor que floresce no Outono.
+
+[709|kind=cont|chars=32|hdr=0x7526|str=0x752e]
+Colhida em geral em 5 dias.
+
+[710|kind=flex|chars=35|hdr=0x7572|str=0x7578]
+Fragil em temp., plante c/cuidado.
+
+[711|kind=flex|chars=0|hdr=0x75c2|str=0x75c8]
+
+
+[712|kind=cont|chars=0|hdr=0x75ca|str=0x75d2]
+
+
+[713|kind=item|chars=0|id=0x34|hdr=0x75d4|str=0x75e0]
+
+
+[714|kind=cont|chars=0|hdr=0x75e2|str=0x75ea]
+
+
+[715|kind=cont|chars=0|hdr=0x75ec|str=0x75f4]
+
+
+[716|kind=cont|chars=0|hdr=0x75f6|str=0x75fe]
+
+
+[717|kind=cont|chars=0|hdr=0x7600|str=0x7608]
+
+
+[718|kind=item|chars=0|id=0x35|hdr=0x760a|str=0x7616]
+
+
+[719|kind=cont|chars=0|hdr=0x7618|str=0x7620]
+
+
+[720|kind=cont|chars=0|hdr=0x7622|str=0x762a]
+
+
+[721|kind=cont|chars=0|hdr=0x762c|str=0x7634]
+
+
+[722|kind=cont|chars=0|hdr=0x7636|str=0x763e]
+
+
+[723|kind=item|chars=0|id=0x36|hdr=0x7640|str=0x764c]
+
+
+[724|kind=cont|chars=0|hdr=0x764e|str=0x7656]
+
+
+[725|kind=cont|chars=0|hdr=0x7658|str=0x7660]
+
+
+[726|kind=cont|chars=0|hdr=0x7662|str=0x766a]
+
+
+[727|kind=cont|chars=0|hdr=0x766c|str=0x7674]
+
+
+[728|kind=item|chars=31|id=0x37|hdr=0x7676|str=0x7682]
+Flor que floresce no Invern.
+
+[729|kind=cont|chars=33|hdr=0x76c2|str=0x76ca]
+Colhida em geral em 14 dias.
+
+[730|kind=flex|chars=25|hdr=0x7710|str=0x7716]
+Resist. a nevascas.
+
+[731|kind=flex|chars=0|hdr=0x774c|str=0x7752]
+
+
+[732|kind=cont|chars=0|hdr=0x7754|str=0x775c]
+
+
+[733|kind=item|chars=0|id=0x38|hdr=0x775e|str=0x776a]
+
+
+[734|kind=cont|chars=0|hdr=0x776c|str=0x7774]
+
+
+[735|kind=cont|chars=0|hdr=0x7776|str=0x777e]
+
+
+[736|kind=cont|chars=0|hdr=0x7780|str=0x7788]
+
+
+[737|kind=cont|chars=0|hdr=0x778a|str=0x7792]
+
+
+[738|kind=item|chars=0|id=0x39|hdr=0x7794|str=0x77a0]
+
+
+[739|kind=cont|chars=0|hdr=0x77a2|str=0x77aa]
+
+
+[740|kind=cont|chars=0|hdr=0x77ac|str=0x77b4]
+
+
+[741|kind=cont|chars=0|hdr=0x77b6|str=0x77be]
+
+
+[742|kind=cont|chars=0|hdr=0x77c0|str=0x77c8]
+
+
+[743|kind=item|chars=28|id=0x3a|hdr=0x77ca|str=0x77d6]
+Cresce da Prima ao Outono.
+
+[744|kind=cont|chars=32|hdr=0x7810|str=0x7818]
+Colhida em geral em 7 dias.
+
+[745|kind=flex|chars=27|hdr=0x785c|str=0x7862]
+Levemente fragil a temp.
+
+[746|kind=flex|chars=0|hdr=0x789c|str=0x78a2]
+
+
+[747|kind=cont|chars=0|hdr=0x78a4|str=0x78ac]
+
+
+[748|kind=item|chars=28|id=0x3b|hdr=0x78ae|str=0x78ba]
+Cresce da Prima ao Outono.
+
+[749|kind=cont|chars=32|hdr=0x78f4|str=0x78fc]
+Colhida em geral em 7 dias.
+
+[750|kind=flex|chars=27|hdr=0x7940|str=0x7946]
+Levemente fragil a temp.
+
+[751|kind=flex|chars=0|hdr=0x7980|str=0x7986]
+
+
+[752|kind=cont|chars=0|hdr=0x7988|str=0x7990]
+
+
+[753|kind=item|chars=28|id=0x3c|hdr=0x7992|str=0x799e]
+Cresce da Prima ao Outono.
+
+[754|kind=cont|chars=33|hdr=0x79d8|str=0x79e0]
+Colhida em geral em 10 dias.
+
+[755|kind=flex|chars=35|hdr=0x7a26|str=0x7a2c]
+Fragil em temp., plante c/cuidado.
+
+[756|kind=flex|chars=0|hdr=0x7a76|str=0x7a7c]
+
+
+[757|kind=cont|chars=0|hdr=0x7a7e|str=0x7a86]
+
+
+[758|kind=item|chars=28|id=0x3d|hdr=0x7a88|str=0x7a94]
+Cresce da Prima ao Outono.
+
+[759|kind=cont|chars=32|hdr=0x7ace|str=0x7ad6]
+Colhida em geral em 7 dias.
+
+[760|kind=flex|chars=27|hdr=0x7b1a|str=0x7b20]
+Levemente fragil a temp.
+
+[761|kind=flex|chars=0|hdr=0x7b5a|str=0x7b60]
+
+
+[762|kind=cont|chars=0|hdr=0x7b62|str=0x7b6a]
+
+
+[763|kind=item|chars=28|id=0x3e|hdr=0x7b6c|str=0x7b78]
+Cresce da Prima ao Outono.
+
+[764|kind=cont|chars=33|hdr=0x7bb2|str=0x7bba]
+Colhida em geral em 10 dias.
+
+[765|kind=flex|chars=32|hdr=0x7c00|str=0x7c06]
+Excepcionalmente fragil temp.,
+
+[766|kind=flex|chars=19|hdr=0x7c4a|str=0x7c50]
+plante c/cuidado.
+
+[767|kind=cont|chars=0|hdr=0x7c78|str=0x7c80]
+
+
+[768|kind=item|chars=0|id=0x3f|hdr=0x7c82|str=0x7c8e]
+
+
+[769|kind=cont|chars=0|hdr=0x7c90|str=0x7c98]
+
+
+[770|kind=cont|chars=0|hdr=0x7c9a|str=0x7ca2]
+
+
+[771|kind=cont|chars=0|hdr=0x7ca4|str=0x7cac]
+
+
+[772|kind=cont|chars=0|hdr=0x7cae|str=0x7cb6]
+
+
+[773|kind=item|chars=0|id=0x40|hdr=0x7cb8|str=0x7cc4]
+
+
+[774|kind=cont|chars=0|hdr=0x7cc6|str=0x7cce]
+
+
+[775|kind=cont|chars=0|hdr=0x7cd0|str=0x7cd8]
+
+
+[776|kind=cont|chars=0|hdr=0x7cda|str=0x7ce2]
+
+
+[777|kind=cont|chars=0|hdr=0x7ce4|str=0x7cec]
+
+
+[778|kind=item|chars=0|id=0x41|hdr=0x7cee|str=0x7cfa]
+
+
+[779|kind=cont|chars=0|hdr=0x7cfc|str=0x7d04]
+
+
+[780|kind=cont|chars=0|hdr=0x7d06|str=0x7d0e]
+
+
+[781|kind=cont|chars=0|hdr=0x7d10|str=0x7d18]
+
+
+[782|kind=cont|chars=0|hdr=0x7d1a|str=0x7d22]
+
+
+[783|kind=item|chars=0|id=0x42|hdr=0x7d24|str=0x7d30]
+
+
+[784|kind=cont|chars=0|hdr=0x7d32|str=0x7d3a]
+
+
+[785|kind=cont|chars=0|hdr=0x7d3c|str=0x7d44]
+
+
+[786|kind=cont|chars=0|hdr=0x7d46|str=0x7d4e]
+
+
+[787|kind=cont|chars=0|hdr=0x7d50|str=0x7d58]
+
+
+[788|kind=item|chars=0|id=0x43|hdr=0x7d5a|str=0x7d66]
+
+
+[789|kind=cont|chars=0|hdr=0x7d68|str=0x7d70]
+
+
+[790|kind=cont|chars=0|hdr=0x7d72|str=0x7d7a]
+
+
+[791|kind=cont|chars=0|hdr=0x7d7c|str=0x7d84]
+
+
+[792|kind=cont|chars=0|hdr=0x7d86|str=0x7d8e]
+
+
+[793|kind=item|chars=0|id=0x44|hdr=0x7d90|str=0x7d9c]
+
+
+[794|kind=cont|chars=0|hdr=0x7d9e|str=0x7da6]
+
+
+[795|kind=cont|chars=0|hdr=0x7da8|str=0x7db0]
+
+
+[796|kind=cont|chars=0|hdr=0x7db2|str=0x7dba]
+
+
+[797|kind=cont|chars=0|hdr=0x7dbc|str=0x7dc4]
+
+
+[798|kind=item|chars=0|id=0x45|hdr=0x7dc6|str=0x7dd2]
+
+
+[799|kind=cont|chars=0|hdr=0x7dd4|str=0x7ddc]
+
+
+[800|kind=cont|chars=0|hdr=0x7dde|str=0x7de6]
+
+
+[801|kind=cont|chars=0|hdr=0x7de8|str=0x7df0]
+
+
+[802|kind=cont|chars=0|hdr=0x7df2|str=0x7dfa]
+
+
+[803|kind=item|chars=0|id=0x46|hdr=0x7dfc|str=0x7e08]
+
+
+[804|kind=cont|chars=0|hdr=0x7e0a|str=0x7e12]
+
+
+[805|kind=cont|chars=0|hdr=0x7e14|str=0x7e1c]
+
+
+[806|kind=cont|chars=0|hdr=0x7e1e|str=0x7e26]
+
+
+[807|kind=cont|chars=0|hdr=0x7e28|str=0x7e30]
+
+
+[808|kind=item|chars=0|id=0x47|hdr=0x7e32|str=0x7e3e]
+
+
+[809|kind=cont|chars=0|hdr=0x7e40|str=0x7e48]
+
+
+[810|kind=cont|chars=0|hdr=0x7e4a|str=0x7e52]
+
+
+[811|kind=cont|chars=0|hdr=0x7e54|str=0x7e5c]
+
+
+[812|kind=cont|chars=0|hdr=0x7e5e|str=0x7e66]
+
+
+[813|kind=item|chars=0|id=0x48|hdr=0x7e68|str=0x7e74]
+
+
+[814|kind=cont|chars=0|hdr=0x7e76|str=0x7e7e]
+
+
+[815|kind=cont|chars=0|hdr=0x7e80|str=0x7e88]
+
+
+[816|kind=cont|chars=0|hdr=0x7e8a|str=0x7e92]
+
+
+[817|kind=cont|chars=0|hdr=0x7e94|str=0x7e9c]
+
+
+[818|kind=item|chars=0|id=0x49|hdr=0x7e9e|str=0x7eaa]
+
+
+[819|kind=cont|chars=0|hdr=0x7eac|str=0x7eb4]
+
+
+[820|kind=cont|chars=0|hdr=0x7eb6|str=0x7ebe]
+
+
+[821|kind=cont|chars=0|hdr=0x7ec0|str=0x7ec8]
+
+
+[822|kind=cont|chars=0|hdr=0x7eca|str=0x7ed2]
+
+
+[823|kind=item|chars=0|id=0x4a|hdr=0x7ed4|str=0x7ee0]
+
+
+[824|kind=cont|chars=0|hdr=0x7ee2|str=0x7eea]
+
+
+[825|kind=cont|chars=0|hdr=0x7eec|str=0x7ef4]
+
+
+[826|kind=cont|chars=0|hdr=0x7ef6|str=0x7efe]
+
+
+[827|kind=cont|chars=0|hdr=0x7f00|str=0x7f08]
+
+
+[828|kind=item|chars=0|id=0x4b|hdr=0x7f0a|str=0x7f16]
+
+
+[829|kind=cont|chars=0|hdr=0x7f18|str=0x7f20]
+
+
+[830|kind=cont|chars=0|hdr=0x7f22|str=0x7f2a]
+
+
+[831|kind=cont|chars=0|hdr=0x7f2c|str=0x7f34]
+
+
+[832|kind=cont|chars=0|hdr=0x7f36|str=0x7f3e]
+
+
+[833|kind=item|chars=0|id=0x4c|hdr=0x7f40|str=0x7f4c]
+
+
+[834|kind=cont|chars=0|hdr=0x7f4e|str=0x7f56]
+
+
+[835|kind=cont|chars=0|hdr=0x7f58|str=0x7f60]
+
+
+[836|kind=cont|chars=0|hdr=0x7f62|str=0x7f6a]
+
+
+[837|kind=cont|chars=0|hdr=0x7f6c|str=0x7f74]
+
+
+[838|kind=item|chars=0|id=0x4d|hdr=0x7f76|str=0x7f82]
+
+
+[839|kind=cont|chars=0|hdr=0x7f84|str=0x7f8c]
+
+
+[840|kind=cont|chars=0|hdr=0x7f8e|str=0x7f96]
+
+
+[841|kind=cont|chars=0|hdr=0x7f98|str=0x7fa0]
+
+
+[842|kind=cont|chars=0|hdr=0x7fa2|str=0x7faa]
+
+
+[843|kind=item|chars=0|id=0x4e|hdr=0x7fac|str=0x7fb8]
+
+
+[844|kind=cont|chars=0|hdr=0x7fba|str=0x7fc2]
+
+
+[845|kind=cont|chars=0|hdr=0x7fc4|str=0x7fcc]
+
+
+[846|kind=cont|chars=0|hdr=0x7fce|str=0x7fd6]
+
+
+[847|kind=cont|chars=0|hdr=0x7fd8|str=0x7fe0]
+
+
+[848|kind=item|chars=0|id=0x4f|hdr=0x7fe2|str=0x7fee]
+
+
+[849|kind=cont|chars=0|hdr=0x7ff0|str=0x7ff8]
+
+
+[850|kind=cont|chars=0|hdr=0x7ffa|str=0x8002]
+
+
+[851|kind=cont|chars=0|hdr=0x8004|str=0x800c]
+
+
+[852|kind=cont|chars=0|hdr=0x800e|str=0x8016]
+
+
+[853|kind=item|chars=0|id=0x50|hdr=0x8018|str=0x8024]
+
+
+[854|kind=cont|chars=0|hdr=0x8026|str=0x802e]
+
+
+[855|kind=cont|chars=0|hdr=0x8030|str=0x8038]
+
+
+[856|kind=cont|chars=0|hdr=0x803a|str=0x8042]
+
+
+[857|kind=cont|chars=0|hdr=0x8044|str=0x804c]
+
+
+[858|kind=item|chars=0|id=0x51|hdr=0x804e|str=0x805a]
+
+
+[859|kind=cont|chars=0|hdr=0x805c|str=0x8064]
+
+
+[860|kind=cont|chars=0|hdr=0x8066|str=0x806e]
+
+
+[861|kind=cont|chars=0|hdr=0x8070|str=0x8078]
+
+
+[862|kind=cont|chars=0|hdr=0x807a|str=0x8082]
+
+
+[863|kind=item|chars=0|id=0x52|hdr=0x8084|str=0x8090]
+
+
+[864|kind=cont|chars=0|hdr=0x8092|str=0x809a]
+
+
+[865|kind=cont|chars=0|hdr=0x809c|str=0x80a4]
+
+
+[866|kind=cont|chars=0|hdr=0x80a6|str=0x80ae]
+
+
+[867|kind=cont|chars=0|hdr=0x80b0|str=0x80b8]
+
+
+[868|kind=item|chars=0|id=0x53|hdr=0x80ba|str=0x80c6]
+
+
+[869|kind=cont|chars=0|hdr=0x80c8|str=0x80d0]
+
+
+[870|kind=cont|chars=0|hdr=0x80d2|str=0x80da]
+
+
+[871|kind=cont|chars=0|hdr=0x80dc|str=0x80e4]
+
+
+[872|kind=cont|chars=0|hdr=0x80e6|str=0x80ee]
+
+
+[873|kind=item|chars=0|id=0x54|hdr=0x80f0|str=0x80fc]
+
+
+[874|kind=cont|chars=0|hdr=0x80fe|str=0x8106]
+
+
+[875|kind=cont|chars=0|hdr=0x8108|str=0x8110]
+
+
+[876|kind=cont|chars=0|hdr=0x8112|str=0x811a]
+
+
+[877|kind=cont|chars=0|hdr=0x811c|str=0x8124]
+
+
+[878|kind=item|chars=0|id=0x55|hdr=0x8126|str=0x8132]
+
+
+[879|kind=cont|chars=0|hdr=0x8134|str=0x813c]
+
+
+[880|kind=cont|chars=0|hdr=0x813e|str=0x8146]
+
+
+[881|kind=cont|chars=0|hdr=0x8148|str=0x8150]
+
+
+[882|kind=cont|chars=0|hdr=0x8152|str=0x815a]
+
+
+[883|kind=item|chars=0|id=0x56|hdr=0x815c|str=0x8168]
+
+
+[884|kind=cont|chars=0|hdr=0x816a|str=0x8172]
+
+
+[885|kind=cont|chars=0|hdr=0x8174|str=0x817c]
+
+
+[886|kind=cont|chars=0|hdr=0x817e|str=0x8186]
+
+
+[887|kind=cont|chars=0|hdr=0x8188|str=0x8190]
+
+
+[888|kind=item|chars=0|id=0x57|hdr=0x8192|str=0x819e]
+
+
+[889|kind=cont|chars=0|hdr=0x81a0|str=0x81a8]
+
+
+[890|kind=cont|chars=0|hdr=0x81aa|str=0x81b2]
+
+
+[891|kind=cont|chars=0|hdr=0x81b4|str=0x81bc]
+
+
+[892|kind=cont|chars=0|hdr=0x81be|str=0x81c6]
+
+
+[893|kind=item|chars=0|id=0x58|hdr=0x81c8|str=0x81d4]
+
+
+[894|kind=cont|chars=0|hdr=0x81d6|str=0x81de]
+
+
+[895|kind=cont|chars=0|hdr=0x81e0|str=0x81e8]
+
+
+[896|kind=cont|chars=0|hdr=0x81ea|str=0x81f2]
+
+
+[897|kind=cont|chars=0|hdr=0x81f4|str=0x81fc]
+
+
+[898|kind=item|chars=0|id=0x59|hdr=0x81fe|str=0x820a]
+
+
+[899|kind=cont|chars=0|hdr=0x820c|str=0x8214]
+
+
+[900|kind=cont|chars=0|hdr=0x8216|str=0x821e]
+
+
+[901|kind=cont|chars=0|hdr=0x8220|str=0x8228]
+
+
+[902|kind=cont|chars=0|hdr=0x822a|str=0x8232]
+
+
+[903|kind=item|chars=0|id=0x5a|hdr=0x8234|str=0x8240]
+
+
+[904|kind=cont|chars=0|hdr=0x8242|str=0x824a]
+
+
+[905|kind=cont|chars=0|hdr=0x824c|str=0x8254]
+
+
+[906|kind=cont|chars=0|hdr=0x8256|str=0x825e]
+
+
+[907|kind=cont|chars=0|hdr=0x8260|str=0x8268]
+
+
+[908|kind=item|chars=0|id=0x5b|hdr=0x826a|str=0x8276]
+
+
+[909|kind=cont|chars=0|hdr=0x8278|str=0x8280]
+
+
+[910|kind=cont|chars=0|hdr=0x8282|str=0x828a]
+
+
+[911|kind=cont|chars=0|hdr=0x828c|str=0x8294]
+
+
+[912|kind=cont|chars=0|hdr=0x8296|str=0x829e]
+
+
+[913|kind=item|chars=0|id=0x5c|hdr=0x82a0|str=0x82ac]
+
+
+[914|kind=cont|chars=0|hdr=0x82ae|str=0x82b6]
+
+
+[915|kind=cont|chars=0|hdr=0x82b8|str=0x82c0]
+
+
+[916|kind=cont|chars=0|hdr=0x82c2|str=0x82ca]
+
+
+[917|kind=cont|chars=0|hdr=0x82cc|str=0x82d4]
+
+
+[918|kind=item|chars=0|id=0x5d|hdr=0x82d6|str=0x82e2]
+
+
+[919|kind=cont|chars=0|hdr=0x82e4|str=0x82ec]
+
+
+[920|kind=cont|chars=0|hdr=0x82ee|str=0x82f6]
+
+
+[921|kind=cont|chars=0|hdr=0x82f8|str=0x8300]
+
+
+[922|kind=cont|chars=0|hdr=0x8302|str=0x830a]
+
+
+[923|kind=item|chars=0|id=0x5e|hdr=0x830c|str=0x8318]
+
+
+[924|kind=cont|chars=0|hdr=0x831a|str=0x8322]
+
+
+[925|kind=cont|chars=0|hdr=0x8324|str=0x832c]
+
+
+[926|kind=cont|chars=0|hdr=0x832e|str=0x8336]
+
+
+[927|kind=cont|chars=0|hdr=0x8338|str=0x8340]
+
+
+[928|kind=item|chars=0|id=0x5f|hdr=0x8342|str=0x834e]
+
+
+[929|kind=cont|chars=0|hdr=0x8350|str=0x8358]
+
+
+[930|kind=cont|chars=0|hdr=0x835a|str=0x8362]
+
+
+[931|kind=cont|chars=0|hdr=0x8364|str=0x836c]
+
+
+[932|kind=cont|chars=0|hdr=0x836e|str=0x8376]
+
+
+[933|kind=item|chars=0|id=0x60|hdr=0x8378|str=0x8384]
+
+
+[934|kind=cont|chars=0|hdr=0x8386|str=0x838e]
+
+
+[935|kind=cont|chars=0|hdr=0x8390|str=0x8398]
+
+
+[936|kind=cont|chars=0|hdr=0x839a|str=0x83a2]
+
+
+[937|kind=cont|chars=0|hdr=0x83a4|str=0x83ac]
+
+
+[938|kind=item|chars=0|id=0x61|hdr=0x83ae|str=0x83ba]
+
+
+[939|kind=cont|chars=0|hdr=0x83bc|str=0x83c4]
+
+
+[940|kind=cont|chars=0|hdr=0x83c6|str=0x83ce]
+
+
+[941|kind=cont|chars=0|hdr=0x83d0|str=0x83d8]
+
+
+[942|kind=cont|chars=0|hdr=0x83da|str=0x83e2]
+
+
+[943|kind=item|chars=0|id=0x62|hdr=0x83e4|str=0x83f0]
+
+
+[944|kind=cont|chars=0|hdr=0x83f2|str=0x83fa]
+
+
+[945|kind=cont|chars=0|hdr=0x83fc|str=0x8404]
+
+
+[946|kind=cont|chars=0|hdr=0x8406|str=0x840e]
+
+
+[947|kind=cont|chars=0|hdr=0x8410|str=0x8418]
+
+
+[948|kind=item|chars=0|id=0x63|hdr=0x841a|str=0x8426]
+
+
+[949|kind=cont|chars=0|hdr=0x8428|str=0x8430]
+
+
+[950|kind=cont|chars=0|hdr=0x8432|str=0x843a]
+
+
+[951|kind=cont|chars=0|hdr=0x843c|str=0x8444]
+
+
+[952|kind=cont|chars=0|hdr=0x8446|str=0x844e]
+
+
+[953|kind=item|chars=0|id=0x64|hdr=0x8450|str=0x845c]
+
+
+[954|kind=cont|chars=0|hdr=0x845e|str=0x8466]
+
+
+[955|kind=cont|chars=0|hdr=0x8468|str=0x8470]
+
+
+[956|kind=cont|chars=0|hdr=0x8472|str=0x847a]
+
+
+[957|kind=cont|chars=0|hdr=0x847c|str=0x8484]
+
+
+[958|kind=item|chars=21|id=0x65|hdr=0x8486|str=0x8492]
+Uma planta que deixa
+
+[959|kind=cont|chars=32|hdr=0x84be|str=0x84c6]
+os animais bem. Pegue e jogue
+
+[960|kind=flex|chars=28|hdr=0x850a|str=0x8510]
+em direcao ao animal.
+
+[961|kind=cont|chars=0|hdr=0x854a|str=0x8552]
+
+
+[962|kind=cont|chars=0|hdr=0x8554|str=0x855c]
+
+
+[963|kind=item|chars=36|id=0x66|hdr=0x855e|str=0x856a]
+Uma planta horrivel com odor ruim.
+
+[964|kind=cont|chars=35|hdr=0x85b4|str=0x85bc]
+Se colocada com suas plantacoes,
+
+[965|kind=flex|chars=36|hdr=0x8606|str=0x860c]
+as plant. murcham em 1 dia.
+
+[966|kind=cont|chars=24|hdr=0x8656|str=0x865e]
+e morrer em um dia.
+
+[967|kind=flex|chars=0|hdr=0x8692|str=0x8698]
+
+
+[968|kind=item|chars=17|id=0x67|hdr=0x869a|str=0x86a6]
+Erva danininha.
+
+[969|kind=cont|chars=31|hdr=0x86ca|str=0x86d2]
+Nao vale a pena carregar,
+
+[970|kind=flex|chars=32|hdr=0x8714|str=0x871a]
+entao tente se livrar dela
+
+[971|kind=flex|chars=20|hdr=0x875e|str=0x8764]
+logo que possivel.
+
+[972|kind=flex|chars=0|hdr=0x8790|str=0x8796]
+
+
+[973|kind=item|chars=0|id=0x68|hdr=0x8798|str=0x87a4]
+
+
+[974|kind=cont|chars=0|hdr=0x87a6|str=0x87ae]
+
+
+[975|kind=cont|chars=0|hdr=0x87b0|str=0x87b8]
+
+
+[976|kind=cont|chars=0|hdr=0x87ba|str=0x87c2]
+
+
+[977|kind=cont|chars=0|hdr=0x87c4|str=0x87cc]
+
+
+[978|kind=item|chars=0|id=0x69|hdr=0x87ce|str=0x87da]
+
+
+[979|kind=cont|chars=0|hdr=0x87dc|str=0x87e4]
+
+
+[980|kind=cont|chars=0|hdr=0x87e6|str=0x87ee]
+
+
+[981|kind=cont|chars=0|hdr=0x87f0|str=0x87f8]
+
+
+[982|kind=cont|chars=0|hdr=0x87fa|str=0x8802]
+
+
+[983|kind=item|chars=33|id=0x6a|hdr=0x8804|str=0x8810]
+Se espalhar isso nos campos, o
+
+[984|kind=cont|chars=35|hdr=0x8854|str=0x885c]
+solo retem agua por mais tempo.
+
+[985|kind=flex|chars=30|hdr=0x88a6|str=0x88ac]
+Cada um serve 9 quadrados de
+
+[986|kind=flex|chars=29|hdr=0x88ec|str=0x88f2]
+terreno. Colete mais quando
+
+[987|kind=flex|chars=24|hdr=0x8930|str=0x8936]
+a estacao mudar.
+
+[988|kind=cont|chars=0|hdr=0x8976|str=0x897e]
+
+
+[989|kind=cont|chars=0|hdr=0x8980|str=0x8988]
+
+
+[990|kind=cont|chars=0|hdr=0x898a|str=0x8992]
+
+
+[991|kind=cont|chars=0|hdr=0x8994|str=0x899c]
+
+
+[992|kind=item|chars=17|id=0x6c|hdr=0x899e|str=0x89aa]
+Plantacao morta.
+
+[993|kind=cont|chars=18|hdr=0x89ce|str=0x89d6]
+Jogue ela fora
+
+[994|kind=flex|chars=27|hdr=0x89fe|str=0x8a04]
+em algum lugar onde ninguem
+
+[995|kind=flex|chars=7|hdr=0x8a3e|str=0x8a44]
+vai ver
+
+[996|kind=flex|chars=0|hdr=0x8a56|str=0x8a5c]
+
+
+[997|kind=item|chars=0|id=0x6d|hdr=0x8a5e|str=0x8a6a]
+
+
+[998|kind=cont|chars=0|hdr=0x8a6c|str=0x8a74]
+
+
+[999|kind=cont|chars=0|hdr=0x8a76|str=0x8a7e]
+
+
+[1000|kind=cont|chars=0|hdr=0x8a80|str=0x8a88]
+
+
+[1001|kind=cont|chars=0|hdr=0x8a8a|str=0x8a92]
+
+
+[1002|kind=item|chars=0|id=0x6e|hdr=0x8a94|str=0x8aa0]
+
+
+[1003|kind=cont|chars=0|hdr=0x8aa2|str=0x8aaa]
+
+
+[1004|kind=cont|chars=0|hdr=0x8aac|str=0x8ab4]
+
+
+[1005|kind=cont|chars=0|hdr=0x8ab6|str=0x8abe]
+
+
+[1006|kind=cont|chars=0|hdr=0x8ac0|str=0x8ac8]
+
+
+[1007|kind=item|chars=37|id=0x6f|hdr=0x8aca|str=0x8ad6]
+Uma pedra azul brilhante. Use-a
+
+[1008|kind=cont|chars=37|hdr=0x8b22|str=0x8b2a]
+ao encontra-la e podera pegar
+
+[1009|kind=flex|chars=39|hdr=0x8b78|str=0x8b7e]
+pedras naquele nivel sem usar PP.
+
+[1010|kind=flex|chars=39|hdr=0x8bd0|str=0x8bd6]
+Saia sem colocar num socket e
+
+[1011|kind=flex|chars=39|hdr=0x8c28|str=0x8c2e]
+virara Minerio Puro.
+
+[1012|kind=cont|chars=38|hdr=0x8cd4|str=0x8cdc]
+ao encontra-la, o SP da ferramenta
+
+[1013|kind=flex|chars=38|hdr=0x8d2c|str=0x8d32]
+aumenta em casos raros. Sair sem
+
+[1014|kind=flex|chars=39|hdr=0x8d82|str=0x8d88]
+colocar num socket a transforma em
+
+[1015|kind=flex|chars=28|hdr=0x8dda|str=0x8de0]
+Minerio Puro.
+
+[1016|kind=item|chars=33|id=0x71|hdr=0x8e1a|str=0x8e26]
+Pedra vermelha brilhante. Use-a
+
+[1017|kind=cont|chars=39|hdr=0x8e6a|str=0x8e72]
+ao encontra-la e 1/4 do PP sera
+
+[1018|kind=flex|chars=39|hdr=0x8ec4|str=0x8eca]
+restaurado. Sair sem colocar num
+
+[1019|kind=flex|chars=39|hdr=0x8f1c|str=0x8f22]
+socket a transforma em
+
+[1020|kind=flex|chars=15|hdr=0x8f74|str=0x8f7a]
+Minerio Puro.
+
+[1021|kind=cont|chars=38|hdr=0x8fee|str=0x8ff6]
+ao encontra-la e podera pegar
+
+[1022|kind=flex|chars=36|hdr=0x9046|str=0x904c]
+pedras naquele nivel sem usar PP.
+
+[1023|kind=cont|chars=40|hdr=0x9096|str=0x909e]
+Sair sem colocar num socket a
+
+[1024|kind=flex|chars=39|hdr=0x90f2|str=0x90f8]
+transforma em Minerio Puro.
+
+[1025|kind=cont|chars=35|hdr=0x919a|str=0x91a2]
+ao encontra-la o SP da ferramenta
+
+[1026|kind=flex|chars=37|hdr=0x91ec|str=0x91f2]
+as vezes aumenta. Sair sem
+
+[1027|kind=flex|chars=26|hdr=0x9240|str=0x9246]
+colocar num socket a
+
+[1028|kind=flex|chars=35|hdr=0x927e|str=0x9284]
+transforma em Minerio Puro.
+
+[1029|kind=cont|chars=36|hdr=0x9318|str=0x9320]
+ao encontra-la, o PP sera
+
+[1030|kind=cont|chars=35|hdr=0x936a|str=0x9372]
+restaurado pela metade. Sair sem
+
+[1031|kind=flex|chars=30|hdr=0x93bc|str=0x93c2]
+colocar num socket a
+
+[1032|kind=flex|chars=26|hdr=0x9402|str=0x9408]
+vira em Minerio Puro.
+
+[1033|kind=cont|chars=37|hdr=0x9492|str=0x949a]
+pelo poder desta joia ficara
+
+[1034|kind=flex|chars=39|hdr=0x94e8|str=0x94ee]
+retida por 6 dias extras. Voce
+
+[1035|kind=flex|chars=39|hdr=0x9540|str=0x9546]
+pode sair sem colocar num socket.
+
+[1036|kind=flex|chars=23|hdr=0x9598|str=0x959e]
+colocar num socket.
+
+[1037|kind=cont|chars=37|hdr=0x9622|str=0x962a]
+pelo poder desta joia ficara
+
+[1038|kind=flex|chars=39|hdr=0x9678|str=0x967e]
+mais madura e retida por 1 dia.
+
+[1039|kind=flex|chars=38|hdr=0x96d0|str=0x96d6]
+Pode sair sem colocar num socket.
+
+[1040|kind=flex|chars=40|hdr=0x9726|str=0x972c]
+Sair sem colocar num socket.
+
+[1041|kind=cont|chars=37|hdr=0x97d2|str=0x97da]
+pelo poder desta joia ficara
+
+[1042|kind=flex|chars=40|hdr=0x9828|str=0x982e]
+mais madura, mas seca mais rapido.
+
+[1043|kind=flex|chars=37|hdr=0x9882|str=0x9888]
+Pode sair sem colocar num socket.
+
+[1044|kind=flex|chars=40|hdr=0x98d6|str=0x98dc]
+Sair sem colocar num socket.
+
+[1045|kind=cont|chars=38|hdr=0x9988|str=0x9990]
+poder espirito. Campos ao redor
+
+[1046|kind=flex|chars=37|hdr=0x99e0|str=0x99e6]
+do poder da joia ficam mais maduros
+
+[1047|kind=flex|chars=40|hdr=0x9a34|str=0x9a3a]
+e retidos por 4 dias. As plantacoes
+
+[1048|kind=flex|chars=37|hdr=0x9a8e|str=0x9a94]
+tambem vendem mais caro.
+
+[1049|kind=cont|chars=38|hdr=0x9b3a|str=0x9b42]
+poder espirito. Campos ao redor
+
+[1050|kind=flex|chars=38|hdr=0x9b92|str=0x9b98]
+do poder da joia ficam mais maduros
+
+[1051|kind=flex|chars=40|hdr=0x9be8|str=0x9bee]
+e retidos por 6 dias. As plantacoes
+
+[1052|kind=flex|chars=35|hdr=0x9c42|str=0x9c48]
+tambem vendem mais caro.
+
+[1053|kind=cont|chars=38|hdr=0x9cea|str=0x9cf2]
+poder espirito. Campos ao redor
+
+[1054|kind=flex|chars=36|hdr=0x9d42|str=0x9d48]
+do poder da joia amadurecem
+
+[1055|kind=cont|chars=40|hdr=0x9d92|str=0x9d9a]
+rapidamente. Agua retida igual.
+
+[1056|kind=flex|chars=40|hdr=0x9dee|str=0x9df4]
+Nao esqueca de regar.
+
+[1057|kind=cont|chars=38|hdr=0x9e94|str=0x9e9c]
+poder espirito. Campos ao redor
+
+[1058|kind=flex|chars=38|hdr=0x9eec|str=0x9ef2]
+do poder da joia superam todos.
+
+[1059|kind=flex|chars=36|hdr=0x9f42|str=0x9f48]
+Uma joia lendaria procurada por
+
+[1060|kind=cont|chars=24|hdr=0x9f92|str=0x9f9a]
+fazendeiros.
+
+[1061|kind=cont|chars=38|hdr=0xa01e|str=0xa026]
+bondade da terra. Segure e espalhe
+
+[1062|kind=flex|chars=35|hdr=0xa076|str=0xa07c]
+no chao p/ tornar fertil.
+
+[1063|kind=flex|chars=39|hdr=0xa0c6|str=0xa0cc]
+transforma terreno esteril em fertil.
+
+[1064|kind=flex|chars=29|hdr=0xa11e|str=0xa124]
+Pode ser usado 9 vezes.
+
+[1065|kind=cont|chars=0|hdr=0xa16e|str=0xa176]
+
+
+[1066|kind=cont|chars=0|hdr=0xa178|str=0xa180]
+
+
+[1067|kind=cont|chars=0|hdr=0xa182|str=0xa18a]
+
+
+[1068|kind=cont|chars=0|hdr=0xa18c|str=0xa194]
+
+
+[1069|kind=item|chars=0|id=0x7e|hdr=0xa196|str=0xa1a2]
+
+
+[1070|kind=cont|chars=0|hdr=0xa1a4|str=0xa1ac]
+
+
+[1071|kind=cont|chars=0|hdr=0xa1ae|str=0xa1b6]
+
+
+[1072|kind=cont|chars=0|hdr=0xa1b8|str=0xa1c0]
+
+
+[1073|kind=cont|chars=0|hdr=0xa1c2|str=0xa1ca]
+
+
+[1074|kind=item|chars=0|id=0x7f|hdr=0xa1cc|str=0xa1d8]
+
+
+[1075|kind=cont|chars=0|hdr=0xa1da|str=0xa1e2]
+
+
+[1076|kind=cont|chars=0|hdr=0xa1e4|str=0xa1ec]
+
+
+[1077|kind=cont|chars=0|hdr=0xa1ee|str=0xa1f6]
+
+
+[1078|kind=cont|chars=0|hdr=0xa1f8|str=0xa200]
+
+
+[1079|kind=item|chars=0|id=0x80|hdr=0xa202|str=0xa20e]
+
+
+[1080|kind=cont|chars=0|hdr=0xa210|str=0xa218]
+
+
+[1081|kind=cont|chars=0|hdr=0xa21a|str=0xa222]
+
+
+[1082|kind=cont|chars=0|hdr=0xa224|str=0xa22c]
+
+
+[1083|kind=cont|chars=0|hdr=0xa22e|str=0xa236]
+
+
+[1084|kind=item|chars=0|id=0x81|hdr=0xa238|str=0xa244]
+
+
+[1085|kind=cont|chars=0|hdr=0xa246|str=0xa24e]
+
+
+[1086|kind=cont|chars=0|hdr=0xa250|str=0xa258]
+
+
+[1087|kind=cont|chars=0|hdr=0xa25a|str=0xa262]
+
+
+[1088|kind=cont|chars=0|hdr=0xa264|str=0xa26c]
+
+
+[1089|kind=item|chars=0|id=0x82|hdr=0xa26e|str=0xa27a]
+
+
+[1090|kind=cont|chars=0|hdr=0xa27c|str=0xa284]
+
+
+[1091|kind=cont|chars=0|hdr=0xa286|str=0xa28e]
+
+
+[1092|kind=cont|chars=0|hdr=0xa290|str=0xa298]
+
+
+[1093|kind=cont|chars=0|hdr=0xa29a|str=0xa2a2]
+
+
+[1094|kind=item|chars=32|id=0x83|hdr=0xa2a4|str=0xa2b0]
+Minerio avermelhado encontrado
+
+[1095|kind=cont|chars=35|hdr=0xa2f2|str=0xa2fa]
+em regioes vulcanicas. Envie pelo
+
+[1096|kind=flex|chars=18|hdr=0xa344|str=0xa34a]
+Pod Remessa Azul.
+
+[1097|kind=flex|chars=0|hdr=0xa372|str=0xa378]
+
+
+[1098|kind=cont|chars=0|hdr=0xa37a|str=0xa382]
+
+
+[1099|kind=item|chars=36|id=0x84|hdr=0xa384|str=0xa390]
+Minerio leve e duro encontrado
+
+[1100|kind=cont|chars=36|hdr=0xa3da|str=0xa3e2]
+nas Ruinas Easter as vezes.
+
+[1101|kind=cont|chars=36|hdr=0xa42c|str=0xa434]
+Envie pelo Pod Remessa Azul.
+
+[1102|kind=cont|chars=0|hdr=0xa47e|str=0xa486]
+
+
+[1103|kind=cont|chars=0|hdr=0xa488|str=0xa490]
+
+
+[1104|kind=item|chars=39|id=0x85|hdr=0xa492|str=0xa49e]
+Origem desconhecida, mas parece
+
+[1105|kind=cont|chars=39|hdr=0xa4ee|str=0xa4f6]
+ser um tipo de minerio. Envie
+
+[1106|kind=flex|chars=28|hdr=0xa548|str=0xa54e]
+pelo Pod Remessa Azul.
+
+[1107|kind=cont|chars=0|hdr=0xa588|str=0xa590]
+
+
+[1108|kind=cont|chars=0|hdr=0xa592|str=0xa59a]
+
+
+[1109|kind=item|chars=0|id=0x86|hdr=0xa59c|str=0xa5a8]
+
+
+[1110|kind=cont|chars=0|hdr=0xa5aa|str=0xa5b2]
+
+
+[1111|kind=cont|chars=0|hdr=0xa5b4|str=0xa5bc]
+
+
+[1112|kind=cont|chars=0|hdr=0xa5be|str=0xa5c6]
+
+
+[1113|kind=cont|chars=0|hdr=0xa5c8|str=0xa5d0]
+
+
+[1114|kind=item|chars=0|id=0x87|hdr=0xa5d2|str=0xa5de]
+
+
+[1115|kind=cont|chars=0|hdr=0xa5e0|str=0xa5e8]
+
+
+[1116|kind=cont|chars=0|hdr=0xa5ea|str=0xa5f2]
+
+
+[1117|kind=cont|chars=0|hdr=0xa5f4|str=0xa5fc]
+
+
+[1118|kind=cont|chars=0|hdr=0xa5fe|str=0xa606]
+
+
+[1119|kind=item|chars=0|id=0x88|hdr=0xa608|str=0xa614]
+
+
+[1120|kind=cont|chars=0|hdr=0xa616|str=0xa61e]
+
+
+[1121|kind=cont|chars=0|hdr=0xa620|str=0xa628]
+
+
+[1122|kind=cont|chars=0|hdr=0xa62a|str=0xa632]
+
+
+[1123|kind=cont|chars=0|hdr=0xa634|str=0xa63c]
+
+
+[1124|kind=item|chars=0|id=0x89|hdr=0xa63e|str=0xa64a]
+
+
+[1125|kind=cont|chars=0|hdr=0xa64c|str=0xa654]
+
+
+[1126|kind=cont|chars=0|hdr=0xa656|str=0xa65e]
+
+
+[1127|kind=cont|chars=0|hdr=0xa660|str=0xa668]
+
+
+[1128|kind=cont|chars=0|hdr=0xa66a|str=0xa672]
+
+
+[1129|kind=item|chars=0|id=0x8a|hdr=0xa674|str=0xa680]
+
+
+[1130|kind=cont|chars=0|hdr=0xa682|str=0xa68a]
+
+
+[1131|kind=cont|chars=0|hdr=0xa68c|str=0xa694]
+
+
+[1132|kind=cont|chars=0|hdr=0xa696|str=0xa69e]
+
+
+[1133|kind=cont|chars=0|hdr=0xa6a0|str=0xa6a8]
+
+
+[1134|kind=item|chars=0|id=0x8b|hdr=0xa6aa|str=0xa6b6]
+
+
+[1135|kind=cont|chars=0|hdr=0xa6b8|str=0xa6c0]
+
+
+[1136|kind=cont|chars=0|hdr=0xa6c2|str=0xa6ca]
+
+
+[1137|kind=cont|chars=0|hdr=0xa6cc|str=0xa6d4]
+
+
+[1138|kind=cont|chars=0|hdr=0xa6d6|str=0xa6de]
+
+
+[1139|kind=item|chars=0|id=0x8c|hdr=0xa6e0|str=0xa6ec]
+
+
+[1140|kind=cont|chars=0|hdr=0xa6ee|str=0xa6f6]
+
+
+[1141|kind=cont|chars=0|hdr=0xa6f8|str=0xa700]
+
+
+[1142|kind=cont|chars=0|hdr=0xa702|str=0xa70a]
+
+
+[1143|kind=cont|chars=0|hdr=0xa70c|str=0xa714]
+
+
+[1144|kind=item|chars=0|id=0x8d|hdr=0xa716|str=0xa722]
+
+
+[1145|kind=cont|chars=0|hdr=0xa724|str=0xa72c]
+
+
+[1146|kind=cont|chars=0|hdr=0xa72e|str=0xa736]
+
+
+[1147|kind=cont|chars=0|hdr=0xa738|str=0xa740]
+
+
+[1148|kind=cont|chars=0|hdr=0xa742|str=0xa74a]
+
+
+[1149|kind=item|chars=0|id=0x8e|hdr=0xa74c|str=0xa758]
+
+
+[1150|kind=cont|chars=0|hdr=0xa75a|str=0xa762]
+
+
+[1151|kind=cont|chars=0|hdr=0xa764|str=0xa76c]
+
+
+[1152|kind=cont|chars=0|hdr=0xa76e|str=0xa776]
+
+
+[1153|kind=cont|chars=0|hdr=0xa778|str=0xa780]
+
+
+[1154|kind=item|chars=0|id=0x8f|hdr=0xa782|str=0xa78e]
+
+
+[1155|kind=cont|chars=0|hdr=0xa790|str=0xa798]
+
+
+[1156|kind=cont|chars=0|hdr=0xa79a|str=0xa7a2]
+
+
+[1157|kind=cont|chars=0|hdr=0xa7a4|str=0xa7ac]
+
+
+[1158|kind=cont|chars=0|hdr=0xa7ae|str=0xa7b6]
+
+
+[1159|kind=item|chars=0|id=0x90|hdr=0xa7b8|str=0xa7c4]
+
+
+[1160|kind=cont|chars=0|hdr=0xa7c6|str=0xa7ce]
+
+
+[1161|kind=cont|chars=0|hdr=0xa7d0|str=0xa7d8]
+
+
+[1162|kind=cont|chars=0|hdr=0xa7da|str=0xa7e2]
+
+
+[1163|kind=cont|chars=0|hdr=0xa7e4|str=0xa7ec]
+
+
+[1164|kind=item|chars=0|id=0x91|hdr=0xa7ee|str=0xa7fa]
+
+
+[1165|kind=cont|chars=0|hdr=0xa7fc|str=0xa804]
+
+
+[1166|kind=cont|chars=0|hdr=0xa806|str=0xa80e]
+
+
+[1167|kind=cont|chars=0|hdr=0xa810|str=0xa818]
+
+
+[1168|kind=cont|chars=0|hdr=0xa81a|str=0xa822]
+
+
+[1169|kind=item|chars=0|id=0x92|hdr=0xa824|str=0xa830]
+
+
+[1170|kind=cont|chars=0|hdr=0xa832|str=0xa83a]
+
+
+[1171|kind=cont|chars=0|hdr=0xa83c|str=0xa844]
+
+
+[1172|kind=cont|chars=0|hdr=0xa846|str=0xa84e]
+
+
+[1173|kind=cont|chars=0|hdr=0xa850|str=0xa858]
+
+
+[1174|kind=item|chars=39|id=0x93|hdr=0xa85a|str=0xa866]
+Um trilho reto da Convey-R Inc.
+
+[1175|kind=cont|chars=38|hdr=0xa8b6|str=0xa8be]
+Tire da bolsa e jogue no chao
+
+[1176|kind=flex|chars=34|hdr=0xa90e|str=0xa914]
+para posicionar. Para mudar a
+
+[1177|kind=flex|chars=40|hdr=0xa95c|str=0xa962]
+direcao, coloque no chao e depois
+
+[1178|kind=flex|chars=28|hdr=0xa9b6|str=0xa9bc]
+gire com o Botao Triangulo.
+
+[1179|kind=item|chars=0|id=0x94|hdr=0xa9f6|str=0xaa02]
+
+
+[1180|kind=cont|chars=0|hdr=0xaa04|str=0xaa0c]
+
+
+[1181|kind=cont|chars=0|hdr=0xaa0e|str=0xaa16]
+
+
+[1182|kind=cont|chars=0|hdr=0xaa18|str=0xaa20]
+
+
+[1183|kind=cont|chars=0|hdr=0xaa22|str=0xaa2a]
+
+
+[1184|kind=item|chars=37|id=0x95|hdr=0xaa2c|str=0xaa38]
+Um trilho curvo da Convey-R Inc.
+
+[1185|kind=cont|chars=38|hdr=0xaa84|str=0xaa8c]
+Tire da bolsa e jogue no chao
+
+[1186|kind=flex|chars=34|hdr=0xaadc|str=0xaae2]
+para posicionar. Para mudar a
+
+[1187|kind=flex|chars=40|hdr=0xab2a|str=0xab30]
+direcao, coloque no chao e depois
+
+[1188|kind=flex|chars=28|hdr=0xab84|str=0xab8a]
+gire com o Botao Triangulo.
+
+[1189|kind=item|chars=0|id=0x96|hdr=0xabc4|str=0xabd0]
+
+
+[1190|kind=cont|chars=0|hdr=0xabd2|str=0xabda]
+
+
+[1191|kind=cont|chars=0|hdr=0xabdc|str=0xabe4]
+
+
+[1192|kind=cont|chars=0|hdr=0xabe6|str=0xabee]
+
+
+[1193|kind=cont|chars=0|hdr=0xabf0|str=0xabf8]
+
+
+[1194|kind=item|chars=0|id=0x97|hdr=0xabfa|str=0xac06]
+
+
+[1195|kind=cont|chars=0|hdr=0xac08|str=0xac10]
+
+
+[1196|kind=cont|chars=0|hdr=0xac12|str=0xac1a]
+
+
+[1197|kind=cont|chars=0|hdr=0xac1c|str=0xac24]
+
+
+[1198|kind=cont|chars=0|hdr=0xac26|str=0xac2e]
+
+
+[1199|kind=item|chars=0|id=0x98|hdr=0xac30|str=0xac3c]
+
+
+[1200|kind=cont|chars=0|hdr=0xac3e|str=0xac46]
+
+
+[1201|kind=cont|chars=0|hdr=0xac48|str=0xac50]
+
+
+[1202|kind=cont|chars=0|hdr=0xac52|str=0xac5a]
+
+
+[1203|kind=cont|chars=0|hdr=0xac5c|str=0xac64]
+
+
+[1204|kind=item|chars=0|id=0x99|hdr=0xac66|str=0xac72]
+
+
+[1205|kind=cont|chars=0|hdr=0xac74|str=0xac7c]
+
+
+[1206|kind=cont|chars=0|hdr=0xac7e|str=0xac86]
+
+
+[1207|kind=cont|chars=0|hdr=0xac88|str=0xac90]
+
+
+[1208|kind=cont|chars=0|hdr=0xac92|str=0xac9a]
+
+
+[1209|kind=item|chars=0|id=0x9a|hdr=0xac9c|str=0xaca8]
+
+
+[1210|kind=cont|chars=0|hdr=0xacaa|str=0xacb2]
+
+
+[1211|kind=cont|chars=0|hdr=0xacb4|str=0xacbc]
+
+
+[1212|kind=cont|chars=0|hdr=0xacbe|str=0xacc6]
+
+
+[1213|kind=cont|chars=0|hdr=0xacc8|str=0xacd0]
+
+
+[1214|kind=item|chars=0|id=0x9b|hdr=0xacd2|str=0xacde]
+
+
+[1215|kind=cont|chars=0|hdr=0xace0|str=0xace8]
+
+
+[1216|kind=cont|chars=0|hdr=0xacea|str=0xacf2]
+
+
+[1217|kind=cont|chars=0|hdr=0xacf4|str=0xacfc]
+
+
+[1218|kind=cont|chars=0|hdr=0xacfe|str=0xad06]
+
+
+[1219|kind=item|chars=0|id=0x9c|hdr=0xad08|str=0xad14]
+
+
+[1220|kind=cont|chars=0|hdr=0xad16|str=0xad1e]
+
+
+[1221|kind=cont|chars=0|hdr=0xad20|str=0xad28]
+
+
+[1222|kind=cont|chars=0|hdr=0xad2a|str=0xad32]
+
+
+[1223|kind=cont|chars=0|hdr=0xad34|str=0xad3c]
+
+
+[1224|kind=item|chars=0|id=0x9d|hdr=0xad3e|str=0xad4a]
+
+
+[1225|kind=cont|chars=0|hdr=0xad4c|str=0xad54]
+
+
+[1226|kind=cont|chars=0|hdr=0xad56|str=0xad5e]
+
+
+[1227|kind=cont|chars=0|hdr=0xad60|str=0xad68]
+
+
+[1228|kind=cont|chars=0|hdr=0xad6a|str=0xad72]
+
+
+[1229|kind=item|chars=0|id=0x9e|hdr=0xad74|str=0xad80]
+
+
+[1230|kind=cont|chars=0|hdr=0xad82|str=0xad8a]
+
+
+[1231|kind=cont|chars=0|hdr=0xad8c|str=0xad94]
+
+
+[1232|kind=cont|chars=0|hdr=0xad96|str=0xad9e]
+
+
+[1233|kind=cont|chars=0|hdr=0xada0|str=0xada8]
+
+
+[1234|kind=item|chars=0|id=0x9f|hdr=0xadaa|str=0xadb6]
+
+
+[1235|kind=cont|chars=0|hdr=0xadb8|str=0xadc0]
+
+
+[1236|kind=cont|chars=0|hdr=0xadc2|str=0xadca]
+
+
+[1237|kind=cont|chars=0|hdr=0xadcc|str=0xadd4]
+
+
+[1238|kind=cont|chars=0|hdr=0xadd6|str=0xadde]
+
+
+[1239|kind=item|chars=30|id=0xa0|hdr=0xade0|str=0xadec]
+Pequeno regador do Dr. Hope.
+
+[1240|kind=cont|chars=43|hdr=0xae2a|str=0xae32]
+Equipe e pressione Triangulo para regar.
+
+[1241|kind=flex|chars=29|hdr=0xae8c|str=0xae92]
+Rega ate 25 quad.de solo.
+
+[1242|kind=flex|chars=0|hdr=0xaed0|str=0xaed6]
+
+
+[1243|kind=cont|chars=0|hdr=0xaed8|str=0xaee0]
+
+
+[1244|kind=item|chars=32|id=0xa1|hdr=0xaee2|str=0xaeee]
+Um regador util que rega
+
+[1245|kind=cont|chars=30|hdr=0xaf30|str=0xaf38]
+3 quad. de terreno por vez.
+
+[1246|kind=flex|chars=30|hdr=0xaf78|str=0xaf7e]
+Rega ate 100 quad.de solo.
+
+[1247|kind=flex|chars=0|hdr=0xafbe|str=0xafc4]
+
+
+[1248|kind=cont|chars=0|hdr=0xafc6|str=0xafce]
+
+
+[1249|kind=item|chars=36|id=0xa2|hdr=0xafd0|str=0xafdc]
+Um regador lendario que rega
+
+[1250|kind=cont|chars=32|hdr=0xb026|str=0xb02e]
+grandes extensoes de terreno.
+
+[1251|kind=flex|chars=32|hdr=0xb072|str=0xb078]
+Rega ate 9999 quad.de solo.
+
+[1252|kind=flex|chars=0|hdr=0xb0bc|str=0xb0c2]
+
+
+[1253|kind=cont|chars=0|hdr=0xb0c4|str=0xb0cc]
+
+
+[1254|kind=item|chars=34|id=0xa3|hdr=0xb0ce|str=0xb0da]
+Uma pequena enxada dada por Gayak.
+
+[1255|kind=cont|chars=34|hdr=0xb120|str=0xb128]
+Equipe e pressione Triangulo para
+
+[1256|kind=flex|chars=14|hdr=0xb170|str=0xb176]
+arar o solo.
+
+[1257|kind=flex|chars=0|hdr=0xb196|str=0xb19c]
+
+
+[1258|kind=cont|chars=0|hdr=0xb19e|str=0xb1a6]
+
+
+[1259|kind=item|chars=36|id=0xa4|hdr=0xb1a8|str=0xb1b4]
+Somente um fazendeiro mestre
+
+[1260|kind=cont|chars=38|hdr=0xb1fe|str=0xb206]
+poderia usar esta enxada ao maximo.
+
+[1261|kind=flex|chars=31|hdr=0xb256|str=0xb25c]
+Arar o solo e muito mais facil.
+
+[1262|kind=flex|chars=0|hdr=0xb29e|str=0xb2a4]
+
+
+[1263|kind=cont|chars=0|hdr=0xb2a6|str=0xb2ae]
+
+
+[1264|kind=item|chars=24|id=0xa5|hdr=0xb2b0|str=0xb2bc]
+Uma enxada divertida e
+
+[1265|kind=cont|chars=35|hdr=0xb2ee|str=0xb2f6]
+misteriosa dos Espiritos Natureza.
+
+[1266|kind=flex|chars=37|hdr=0xb340|str=0xb346]
+As vezes ajuda a encontrar coisas.
+
+[1267|kind=flex|chars=0|hdr=0xb394|str=0xb39a]
+
+
+[1268|kind=cont|chars=0|hdr=0xb39c|str=0xb3a4]
+
+
+[1269|kind=item|chars=36|id=0xa6|hdr=0xb3a6|str=0xb3b2]
+Um martelo comum vendido na loja
+
+[1270|kind=cont|chars=34|hdr=0xb3fc|str=0xb404]
+do Million. Use-o p/ quebrar
+
+[1271|kind=flex|chars=12|hdr=0xb44c|str=0xb452]
+no campo.
+
+[1272|kind=flex|chars=0|hdr=0xb46e|str=0xb474]
+
+
+[1273|kind=cont|chars=0|hdr=0xb476|str=0xb47e]
+
+
+[1274|kind=item|chars=31|id=0xa7|hdr=0xb480|str=0xb48c]
+Um martelo leve e duro feito de
+
+[1275|kind=cont|chars=38|hdr=0xb4cc|str=0xb4d4]
+Minerio Easter. Com forca suficiente
+
+[1276|kind=flex|chars=37|hdr=0xb524|str=0xb52a]
+voce pode ate quebrar pedregulhos.
+
+[1277|kind=flex|chars=0|hdr=0xb578|str=0xb57e]
+
+
+[1278|kind=cont|chars=0|hdr=0xb580|str=0xb588]
+
+
+[1279|kind=item|chars=33|id=0xa8|hdr=0xb58a|str=0xb596]
+Um martelo lendario que sacode
+
+[1280|kind=cont|chars=23|hdr=0xb5da|str=0xb5e2]
+os alicerces da Terra.
+
+[1281|kind=flex|chars=40|hdr=0xb614|str=0xb61a]
+Mais facil achar itens em cavernas.
+
+[1282|kind=flex|chars=0|hdr=0xb66e|str=0xb674]
+
+
+[1283|kind=cont|chars=0|hdr=0xb676|str=0xb67e]
+
+
+[1284|kind=item|chars=36|id=0xa9|hdr=0xb680|str=0xb68c]
+Uma foice comum vendida na loja
+
+[1285|kind=cont|chars=24|hdr=0xb6d6|str=0xb6de]
+Million.Cortar ervas
+
+[1286|kind=flex|chars=27|hdr=0xb712|str=0xb718]
+ervas daninhas e gramas.
+
+[1287|kind=flex|chars=0|hdr=0xb752|str=0xb758]
+
+
+[1288|kind=cont|chars=0|hdr=0xb75a|str=0xb762]
+
+
+[1289|kind=item|chars=35|id=0xaa|hdr=0xb764|str=0xb770]
+Uma foice afiada de Minerio Vulcao.
+
+[1290|kind=cont|chars=32|hdr=0xb7b8|str=0xb7c0]
+Corta 3 quad. de ervas com
+
+[1291|kind=flex|chars=18|hdr=0xb804|str=0xb80a]
+um unico golpe.
+
+[1292|kind=flex|chars=0|hdr=0xb832|str=0xb838]
+
+
+[1293|kind=cont|chars=0|hdr=0xb83a|str=0xb842]
+
+
+[1294|kind=item|chars=37|id=0xab|hdr=0xb844|str=0xb850]
+Esta foice em chamas queima ervas.
+
+[1295|kind=cont|chars=37|hdr=0xb89c|str=0xb8a4]
+Use com energia e todas as ervas
+
+[1296|kind=flex|chars=31|hdr=0xb8f2|str=0xb8f8]
+que ver vao sumir.
+
+[1297|kind=flex|chars=0|hdr=0xb93a|str=0xb940]
+
+
+[1298|kind=cont|chars=0|hdr=0xb942|str=0xb94a]
+
+
+[1299|kind=item|chars=33|id=0xac|hdr=0xb94c|str=0xb958]
+Uma machado comum vendido na
+
+[1300|kind=cont|chars=35|hdr=0xb99c|str=0xb9a4]
+loja do Million. Use-o para picar
+
+[1301|kind=flex|chars=31|hdr=0xb9ee|str=0xb9f4]
+galhos p/ vender a madeira.
+
+[1302|kind=flex|chars=0|hdr=0xba36|str=0xba3c]
+
+
+[1303|kind=cont|chars=0|hdr=0xba3e|str=0xba46]
+
+
+[1304|kind=item|chars=36|id=0xad|hdr=0xba48|str=0xba54]
+Somente um fazendeiro mestre
+
+[1305|kind=cont|chars=38|hdr=0xba9e|str=0xbaa6]
+poderia usar este machado ao maximo.
+
+[1306|kind=flex|chars=25|hdr=0xbaf6|str=0xbafc]
+Um corte e esta pronto.
+
+[1307|kind=flex|chars=0|hdr=0xbb32|str=0xbb38]
+
+
+[1308|kind=cont|chars=0|hdr=0xbb3a|str=0xbb42]
+
+
+[1309|kind=item|chars=32|id=0xae|hdr=0xbb44|str=0xbb50]
+Machado de um gigante lend.
+
+[1310|kind=cont|chars=27|hdr=0xbb92|str=0xbb9a]
+A madeira cortada por ele e
+
+[1311|kind=flex|chars=30|hdr=0xbbd4|str=0xbbda]
+sempre um recurso valioso.
+
+[1312|kind=flex|chars=0|hdr=0xbc1a|str=0xbc20]
+
+
+[1313|kind=cont|chars=0|hdr=0xbc22|str=0xbc2a]
+
+
+[1314|kind=item|chars=36|id=0xaf|hdr=0xbc2c|str=0xbc38]
+Bolsa de Sementes da Marlene.
+
+[1315|kind=cont|chars=30|hdr=0xbc82|str=0xbc8a]
+Coloque sementes e equipe
+
+[1316|kind=flex|chars=31|hdr=0xbcca|str=0xbcd0]
+a bolsa para plantar no campo.
+
+[1317|kind=flex|chars=0|hdr=0xbd12|str=0xbd18]
+
+
+[1318|kind=cont|chars=0|hdr=0xbd1a|str=0xbd22]
+
+
+[1319|kind=item|chars=0|id=0xb0|hdr=0xbd24|str=0xbd30]
+
+
+[1320|kind=cont|chars=0|hdr=0xbd32|str=0xbd3a]
+
+
+[1321|kind=cont|chars=0|hdr=0xbd3c|str=0xbd44]
+
+
+[1322|kind=cont|chars=0|hdr=0xbd46|str=0xbd4e]
+
+
+[1323|kind=cont|chars=0|hdr=0xbd50|str=0xbd58]
+
+
+[1324|kind=item|chars=0|id=0xb1|hdr=0xbd5a|str=0xbd66]
+
+
+[1325|kind=cont|chars=0|hdr=0xbd68|str=0xbd70]
+
+
+[1326|kind=cont|chars=0|hdr=0xbd72|str=0xbd7a]
+
+
+[1327|kind=cont|chars=0|hdr=0xbd7c|str=0xbd84]
+
+
+[1328|kind=cont|chars=0|hdr=0xbd86|str=0xbd8e]
+
+
+[1329|kind=item|chars=0|id=0xb2|hdr=0xbd90|str=0xbd9c]
+
+
+[1330|kind=cont|chars=0|hdr=0xbd9e|str=0xbda6]
+
+
+[1331|kind=cont|chars=0|hdr=0xbda8|str=0xbdb0]
+
+
+[1332|kind=cont|chars=0|hdr=0xbdb2|str=0xbdba]
+
+
+[1333|kind=cont|chars=0|hdr=0xbdbc|str=0xbdc4]
+
+
+[1334|kind=item|chars=0|id=0xb3|hdr=0xbdc6|str=0xbdd2]
+
+
+[1335|kind=cont|chars=0|hdr=0xbdd4|str=0xbddc]
+
+
+[1336|kind=cont|chars=0|hdr=0xbdde|str=0xbde6]
+
+
+[1337|kind=cont|chars=0|hdr=0xbde8|str=0xbdf0]
+
+
+[1338|kind=cont|chars=0|hdr=0xbdf2|str=0xbdfa]
+
+
+[1339|kind=item|chars=0|id=0xb4|hdr=0xbdfc|str=0xbe08]
+
+
+[1340|kind=cont|chars=0|hdr=0xbe0a|str=0xbe12]
+
+
+[1341|kind=cont|chars=0|hdr=0xbe14|str=0xbe1c]
+
+
+[1342|kind=cont|chars=0|hdr=0xbe1e|str=0xbe26]
+
+
+[1343|kind=cont|chars=0|hdr=0xbe28|str=0xbe30]
+
+
+[1344|kind=item|chars=0|id=0xb5|hdr=0xbe32|str=0xbe3e]
+
+
+[1345|kind=cont|chars=0|hdr=0xbe40|str=0xbe48]
+
+
+[1346|kind=cont|chars=0|hdr=0xbe4a|str=0xbe52]
+
+
+[1347|kind=cont|chars=0|hdr=0xbe54|str=0xbe5c]
+
+
+[1348|kind=cont|chars=0|hdr=0xbe5e|str=0xbe66]
+
+
+[1349|kind=item|chars=36|id=0xb6|hdr=0xbe68|str=0xbe74]
+Se colocar nas botas, o corpo
+
+[1350|kind=cont|chars=32|hdr=0xbebe|str=0xbec6]
+ficara leve e voce pode
+
+[1351|kind=flex|chars=40|hdr=0xbf0a|str=0xbf10]
+correr pressionando os direcionais.
+
+[1352|kind=flex|chars=36|hdr=0xbf64|str=0xbf6a]
+No Invern voce precisara usar
+
+[1353|kind=cont|chars=11|hdr=0xbfb4|str=0xbfbc]
+Solas Neve.
+
+[1354|kind=cont|chars=30|hdr=0xc028|str=0xc030]
+Ande rapido na neve usando
+
+[1355|kind=flex|chars=29|hdr=0xc070|str=0xc076]
+os direcionais. Na Prima,
+
+[1356|kind=flex|chars=26|hdr=0xc0b4|str=0xc0ba]
+volta Prima, troque Solas.
+
+[1357|kind=flex|chars=25|hdr=0xc0f2|str=0xc0f8]
+troque para Solas Poder.
+
+[1358|kind=cont|chars=34|hdr=0xc17e|str=0xc186]
+Espirito, isso foi roubado por
+
+[1359|kind=flex|chars=31|hdr=0xc1ce|str=0xc1d4]
+da torre no Lago Sereia.
+
+[1360|kind=flex|chars=0|hdr=0xc216|str=0xc21c]
+
+
+[1361|kind=cont|chars=0|hdr=0xc21e|str=0xc226]
+
+
+[1362|kind=item|chars=35|id=0xb9|hdr=0xc228|str=0xc234]
+Simbolo do poder do Espirito da
+
+[1363|kind=cont|chars=36|hdr=0xc27c|str=0xc284]
+Floresta. Mostre aos Espiritos da
+
+[1364|kind=cont|chars=30|hdr=0xc2ce|str=0xc2d6]
+Natureza e algo pode acontecer
+
+[1365|kind=flex|chars=0|hdr=0xc316|str=0xc31c]
+
+
+[1366|kind=cont|chars=0|hdr=0xc31e|str=0xc326]
+
+
+[1367|kind=item|chars=33|id=0xba|hdr=0xc328|str=0xc334]
+Simbolo do poder do Espirito do
+
+[1368|kind=cont|chars=38|hdr=0xc378|str=0xc380]
+Fogo. Quente e brilhante, como se
+
+[1369|kind=flex|chars=32|hdr=0xc3d0|str=0xc3d6]
+fosse irromper em chamas.
+
+[1370|kind=flex|chars=0|hdr=0xc41a|str=0xc420]
+
+
+[1371|kind=cont|chars=0|hdr=0xc422|str=0xc42a]
+
+
+[1372|kind=item|chars=0|id=0xbb|hdr=0xc42c|str=0xc438]
+
+
+[1373|kind=cont|chars=0|hdr=0xc43a|str=0xc442]
+
+
+[1374|kind=cont|chars=0|hdr=0xc444|str=0xc44c]
+
+
+[1375|kind=cont|chars=0|hdr=0xc44e|str=0xc456]
+
+
+[1376|kind=cont|chars=0|hdr=0xc458|str=0xc460]
+
+
+[1377|kind=item|chars=0|id=0xbc|hdr=0xc462|str=0xc46e]
+
+
+[1378|kind=cont|chars=0|hdr=0xc470|str=0xc478]
+
+
+[1379|kind=cont|chars=0|hdr=0xc47a|str=0xc482]
+
+
+[1380|kind=cont|chars=0|hdr=0xc484|str=0xc48c]
+
+
+[1381|kind=cont|chars=0|hdr=0xc48e|str=0xc496]
+
+
+[1382|kind=item|chars=0|id=0xbd|hdr=0xc498|str=0xc4a4]
+
+
+[1383|kind=cont|chars=0|hdr=0xc4a6|str=0xc4ae]
+
+
+[1384|kind=cont|chars=0|hdr=0xc4b0|str=0xc4b8]
+
+
+[1385|kind=cont|chars=0|hdr=0xc4ba|str=0xc4c2]
+
+
+[1386|kind=cont|chars=0|hdr=0xc4c4|str=0xc4cc]
+
+
+[1387|kind=item|chars=36|id=0xbe|hdr=0xc4ce|str=0xc4da]
+Um brinquedo da Banks Corporation.
+
+[1388|kind=cont|chars=33|hdr=0xc524|str=0xc52c]
+Se equipado e usado nos campos,
+
+[1389|kind=flex|chars=35|hdr=0xc572|str=0xc578]
+pode ser uma ferramenta agricola.
+
+[1390|kind=flex|chars=39|hdr=0xc5c2|str=0xc5c8]
+E divertido, nao requer PP, mas
+
+[1391|kind=flex|chars=34|hdr=0xc61a|str=0xc620]
+pode quebrar acidentalmente.
+
+[1392|kind=cont|chars=33|hdr=0xc6bc|str=0xc6c4]
+Se equipado e usado nos campos,
+
+[1393|kind=flex|chars=35|hdr=0xc70a|str=0xc710]
+pode ser uma ferramenta agricola.
+
+[1394|kind=flex|chars=39|hdr=0xc75a|str=0xc760]
+E divertido, nao requer PP, mas
+
+[1395|kind=flex|chars=34|hdr=0xc7b2|str=0xc7b8]
+pode quebrar acidentalmente.
+
+[1396|kind=cont|chars=35|hdr=0xc856|str=0xc85e]
+de um tipo especial de seda que
+
+[1397|kind=flex|chars=33|hdr=0xc8a8|str=0xc8ae]
+apenas anjos podem ver. Mulher
+
+[1398|kind=flex|chars=37|hdr=0xc8f4|str=0xc8fa]
+que usa atrai o homem dos sonhos.
+
+[1399|kind=flex|chars=0|hdr=0xc948|str=0xc94e]
+
+
+[1400|kind=item|chars=36|id=0xc1|hdr=0xc950|str=0xc95c]
+Um broche de alfinetes elegantes
+
+[1401|kind=cont|chars=39|hdr=0xc9a6|str=0xc9ae]
+como gelo, presente do Espirito
+
+[1402|kind=flex|chars=35|hdr=0xca00|str=0xca06]
+do Vento. Ajuda o homem a manter
+
+[1403|kind=flex|chars=36|hdr=0xca50|str=0xca56]
+a calma, especialmente se nervoso
+
+[1404|kind=cont|chars=25|hdr=0xcaa0|str=0xcaa8]
+com mulheres.
+
+[1405|kind=cont|chars=36|hdr=0xcb30|str=0xcb38]
+seus bichos, vacas, galinhas e
+
+[1406|kind=cont|chars=31|hdr=0xcb82|str=0xcb8a]
+ovelhas ficaram bem. Colheitas
+
+[1407|kind=flex|chars=33|hdr=0xcbcc|str=0xcbd2]
+colhidas valem mais dinheiro
+
+[1408|kind=flex|chars=16|hdr=0xcc18|str=0xcc1e]
+tambem.
+
+[1409|kind=cont|chars=33|hdr=0xcc94|str=0xcc9c]
+ficam brilhantes e limpas!
+
+[1410|kind=flex|chars=31|hdr=0xcce2|str=0xcce8]
+Mas fora isso, nao parece
+
+[1411|kind=flex|chars=24|hdr=0xcd2a|str=0xcd30]
+ter nenhum outro efeito.
+
+[1412|kind=flex|chars=0|hdr=0xcd64|str=0xcd6a]
+
+
+[1413|kind=item|chars=33|id=0xc4|hdr=0xcd6c|str=0xcd78]
+Equipe e borrife em uma plantacao
+
+[1414|kind=cont|chars=31|hdr=0xcdbc|str=0xcdc4]
+para mudar a cor da planta
+
+[1415|kind=flex|chars=29|hdr=0xce06|str=0xce0c]
+para parecer mais saudavel.
+
+[1416|kind=flex|chars=0|hdr=0xce4a|str=0xce50]
+
+
+[1417|kind=cont|chars=0|hdr=0xce52|str=0xce5a]
+
+
+[1418|kind=item|chars=36|id=0xc5|hdr=0xce5c|str=0xce68]
+Segure e jogue no campo para
+
+[1419|kind=cont|chars=38|hdr=0xceb2|str=0xceba]
+plantar uma semente misteriosa.
+
+[1420|kind=flex|chars=35|hdr=0xcf0a|str=0xcf10]
+Voce nunca sabe o que vai brotar.
+
+[1421|kind=flex|chars=20|hdr=0xcf5a|str=0xcf60]
+Pode usar 5 vezes.
+
+[1422|kind=flex|chars=0|hdr=0xcf8c|str=0xcf92]
+
+
+[1423|kind=item|chars=37|id=0xc6|hdr=0xcf94|str=0xcfa0]
+Borrife num ovo no chocadeiro
+
+[1424|kind=cont|chars=33|hdr=0xcfec|str=0xcff4]
+e um pintinho azul vai chocar.
+
+[1425|kind=flex|chars=28|hdr=0xd03a|str=0xd040]
+Pode ter efeitos colaterais.
+
+[1426|kind=cont|chars=0|hdr=0xd07a|str=0xd082]
+
+
+[1427|kind=cont|chars=0|hdr=0xd084|str=0xd08c]
+
+
+[1428|kind=item|chars=36|id=0xc7|hdr=0xd08e|str=0xd09a]
+Segure e jogue no chao para
+
+[1429|kind=cont|chars=35|hdr=0xd0e4|str=0xd0ec]
+montar uma tenda inflavel portatil.
+
+[1430|kind=flex|chars=33|hdr=0xd136|str=0xd13c]
+Pode usar em qualquer area aberta
+
+[1431|kind=flex|chars=39|hdr=0xd182|str=0xd188]
+do lado de fora. Otimo para dormir.
+
+[1432|kind=flex|chars=0|hdr=0xd1da|str=0xd1e0]
+
+
+[1433|kind=item|chars=36|id=0xc8|hdr=0xd1e2|str=0xd1ee]
+Se tiver isso, a porta trancada
+
+[1434|kind=cont|chars=29|hdr=0xd238|str=0xd240]
+na caverna ao sul da
+
+[1435|kind=flex|chars=36|hdr=0xd27e|str=0xd284]
+Ilha Heartflame vai abrir.
+
+[1436|kind=cont|chars=0|hdr=0xd2ce|str=0xd2d6]
+
+
+[1437|kind=cont|chars=0|hdr=0xd2d8|str=0xd2e0]
+
+
+[1438|kind=item|chars=0|id=0xc9|hdr=0xd2e2|str=0xd2ee]
+
+
+[1439|kind=cont|chars=0|hdr=0xd2f0|str=0xd2f8]
+
+
+[1440|kind=cont|chars=0|hdr=0xd2fa|str=0xd302]
+
+
+[1441|kind=cont|chars=0|hdr=0xd304|str=0xd30c]
+
+
+[1442|kind=cont|chars=0|hdr=0xd30e|str=0xd316]
+
+
+[1443|kind=item|chars=35|id=0xca|hdr=0xd318|str=0xd324]
+Leite especial de vaca feliz
+
+[1444|kind=cont|chars=34|hdr=0xd36c|str=0xd374]
+na Fazenda do %s. Rico e saboroso.
+
+[1445|kind=flex|chars=0|hdr=0xd3bc|str=0xd3c2]
+
+
+[1446|kind=cont|chars=37|hdr=0xd3c4|str=0xd3cc]
+O preco de venda e 150G por garrafa.
+
+[1447|kind=flex|chars=37|hdr=0xd41a|str=0xd420]
+O preco de venda e 500G por garrafa.
+
+[1448|kind=cont|chars=29|hdr=0xd4a4|str=0xd4ac]
+leite. Sabor simples, cremoso
+
+[1449|kind=flex|chars=6|hdr=0xd4ea|str=0xd4f0]
+sabor.
+
+[1450|kind=flex|chars=31|hdr=0xd500|str=0xd506]
+O preco de venda e 250G cada.
+
+[1451|kind=flex|chars=32|hdr=0xd548|str=0xd54e]
+O preco de venda e 1500G cada.
+
+[1452|kind=cont|chars=35|hdr=0xd5dc|str=0xd5e4]
+ovo posto na Fazenda do %s.
+
+[1453|kind=flex|chars=16|hdr=0xd62e|str=0xd634]
+Leve e saboroso.
+
+[1454|kind=flex|chars=31|hdr=0xd658|str=0xd65e]
+O preco de venda e 200G cada.
+
+[1455|kind=flex|chars=32|hdr=0xd6a0|str=0xd6a6]
+O preco de venda e 1200G cada.
+
+[1456|kind=cont|chars=13|hdr=0xd73c|str=0xd744]
+na Farm %s.
+
+[1457|kind=flex|chars=0|hdr=0xd762|str=0xd768]
+
+
+[1458|kind=cont|chars=30|hdr=0xd76a|str=0xd772]
+O preco de venda e 50G cada.
+
+[1459|kind=flex|chars=31|hdr=0xd7b2|str=0xd7b8]
+O preco de venda e 200G cada.
+
+[1460|kind=cont|chars=0|hdr=0xd806|str=0xd80e]
+
+
+[1461|kind=cont|chars=0|hdr=0xd810|str=0xd818]
+
+
+[1462|kind=cont|chars=0|hdr=0xd81a|str=0xd822]
+
+
+[1463|kind=cont|chars=0|hdr=0xd824|str=0xd82c]
+
+
+[1464|kind=flex|chars=7|hdr=0xd842|str=0xd848]
+Galinha
+
+[1465|kind=flex|chars=3|hdr=0xd85a|str=0xd860]
+Vac
+
+[1466|kind=flex|chars=5|hdr=0xd86a|str=0xd870]
+Ovelh
+
+[1467|kind=item|chars=7|id=0x1|hdr=0xd8ae|str=0xd8ba]
+Saffron
+
+[1468|kind=item|chars=7|id=0x2|hdr=0xd8ca|str=0xd8d6]
+Chicory
+
+[1469|kind=item|chars=6|id=0x3|hdr=0xd8e6|str=0xd8f2]
+Citrus
+
+[1470|kind=item|chars=4|id=0x4|hdr=0xd900|str=0xd90c]
+Aloe
+
+[1471|kind=item|chars=4|id=0x5|hdr=0xd916|str=0xd922]
+Mint
+
+[1472|kind=item|chars=4|id=0x6|hdr=0xd92c|str=0xd938]
+Sage
+
+[1473|kind=item|chars=7|id=0x7|hdr=0xd942|str=0xd94e]
+Parsley
+
+[1474|kind=item|chars=7|id=0x8|hdr=0xd95e|str=0xd96a]
+Mugwort
+
+[1475|kind=item|chars=6|id=0x9|hdr=0xd97a|str=0xd986]
+Braken
+
+[1476|kind=item|chars=7|id=0xa|hdr=0xd994|str=0xd9a0]
+Clucker
+
+[1477|kind=item|chars=6|id=0xb|hdr=0xd9b0|str=0xd9bc]
+Clucky
+
+[1478|kind=item|chars=7|id=0xc|hdr=0xd9ca|str=0xd9d6]
+Clucken
+
+[1479|kind=item|chars=5|id=0xd|hdr=0xd9e6|str=0xd9f2]
+Bucky
+
+[1480|kind=item|chars=6|id=0xe|hdr=0xd9fe|str=0xda0a]
+Chicky
+
+[1481|kind=item|chars=8|id=0xf|hdr=0xda18|str=0xda24]
+Chicklet
+
+[1482|kind=item|chars=6|id=0x10|hdr=0xda36|str=0xda42]
+Cheepy
+
+[1483|kind=item|chars=7|id=0x11|hdr=0xda50|str=0xda5c]
+Cheeper
+
+[1484|kind=item|chars=7|id=0x12|hdr=0xda6c|str=0xda78]
+Cheepet
+
+[1485|kind=item|chars=4|id=0x13|hdr=0xda88|str=0xda94]
+Eggy
+
+[1486|kind=item|chars=5|id=0x14|hdr=0xda9e|str=0xdaaa]
+Yolky
+
+[1487|kind=item|chars=6|id=0x15|hdr=0xdab6|str=0xdac2]
+Hennie
+
+[1488|kind=item|chars=4|id=0x16|hdr=0xdad0|str=0xdadc]
+Megg
+
+[1489|kind=item|chars=6|id=0x17|hdr=0xdae6|str=0xdaf2]
+Connie
+
+[1490|kind=item|chars=8|id=0x18|hdr=0xdb00|str=0xdb0c]
+Chickann
+
+[1491|kind=item|chars=7|id=0x19|hdr=0xdb1e|str=0xdb2a]
+Bernice
+
+[1492|kind=item|chars=5|id=0x1a|hdr=0xdb3a|str=0xdb46]
+Henna
+
+[1493|kind=item|chars=8|id=0x1b|hdr=0xdb52|str=0xdb5e]
+Chickpea
+
+[1494|kind=item|chars=7|id=0x1c|hdr=0xdb70|str=0xdb7c]
+Ovalina
+
+[1495|kind=item|chars=8|id=0x1d|hdr=0xdb8c|str=0xdb98]
+Hennifer
+
+[1496|kind=item|chars=6|id=0x1|hdr=0xdbd8|str=0xdbe4]
+Waffle
+
+[1497|kind=item|chars=5|id=0x2|hdr=0xdbf2|str=0xdbfe]
+Choco
+
+[1498|kind=item|chars=4|id=0x3|hdr=0xdc0a|str=0xdc16]
+Cake
+
+[1499|kind=item|chars=4|id=0x4|hdr=0xdc20|str=0xdc2c]
+Tart
+
+[1500|kind=item|chars=4|id=0x5|hdr=0xdc36|str=0xdc42]
+Chai
+
+[1501|kind=item|chars=6|id=0x6|hdr=0xdc4c|str=0xdc58]
+Muffin
+
+[1502|kind=item|chars=5|id=0x7|hdr=0xdc66|str=0xdc72]
+Donut
+
+[1503|kind=item|chars=6|id=0x8|hdr=0xdc7e|str=0xdc8a]
+Cookie
+
+[1504|kind=item|chars=5|id=0x9|hdr=0xdc98|str=0xdca4]
+Cocoa
+
+[1505|kind=item|chars=4|id=0xa|hdr=0xdcb0|str=0xdcbc]
+Mary
+
+[1506|kind=item|chars=8|id=0xb|hdr=0xdcc6|str=0xdcd2]
+Baabaara
+
+[1507|kind=item|chars=5|id=0xc|hdr=0xdce4|str=0xdcf0]
+Baart
+
+[1508|kind=item|chars=6|id=0xd|hdr=0xdcfc|str=0xdd08]
+Fluffy
+
+[1509|kind=item|chars=7|id=0xe|hdr=0xdd16|str=0xdd22]
+Ewenice
+
+[1510|kind=item|chars=6|id=0xf|hdr=0xdd32|str=0xdd3e]
+Cotton
+
+[1511|kind=item|chars=8|id=0x10|hdr=0xdd4c|str=0xdd58]
+Woolette
+
+[1512|kind=item|chars=5|id=0x11|hdr=0xdd6a|str=0xdd76]
+Lammy
+
+[1513|kind=item|chars=8|id=0x12|hdr=0xdd82|str=0xdd8e]
+Lambster
+
+[1514|kind=item|chars=8|id=0x13|hdr=0xdda0|str=0xddac]
+Lammykin
+
+[1515|kind=item|chars=8|id=0x14|hdr=0xddbe|str=0xddca]
+Lambette
+
+[1516|kind=item|chars=5|id=0x15|hdr=0xdddc|str=0xdde8]
+Lambi
+
+[1517|kind=item|chars=5|id=0x16|hdr=0xddf4|str=0xde00]
+Cloud
+
+[1518|kind=item|chars=6|id=0x17|hdr=0xde0c|str=0xde18]
+Flocky
+
+[1519|kind=item|chars=6|id=0x18|hdr=0xde26|str=0xde32]
+Flocka
+
+[1520|kind=item|chars=7|id=0x19|hdr=0xde40|str=0xde4c]
+Ewegina
+
+[1521|kind=item|chars=3|id=0x1a|hdr=0xde5c|str=0xde68]
+Bob
+
+[1522|kind=item|chars=7|id=0x1b|hdr=0xde70|str=0xde7c]
+Lambeth
+
+[1523|kind=item|chars=6|id=0x1c|hdr=0xde8c|str=0xde98]
+Elaine
+
+[1524|kind=item|chars=4|id=0x1d|hdr=0xdea6|str=0xdeb2]
+Evan
+
+[1525|kind=item|chars=6|id=0x1|hdr=0xdee4|str=0xdef0]
+Cherry
+
+[1526|kind=item|chars=6|id=0x2|hdr=0xdefe|str=0xdf0a]
+Orchid
+
+[1527|kind=item|chars=6|id=0x3|hdr=0xdf18|str=0xdf24]
+Violet
+
+[1528|kind=item|chars=8|id=0x4|hdr=0xdf32|str=0xdf3e]
+Camellia
+
+[1529|kind=item|chars=4|id=0x5|hdr=0xdf50|str=0xdf5c]
+Iris
+
+[1530|kind=item|chars=4|id=0x6|hdr=0xdf66|str=0xdf72]
+Plum
+
+[1531|kind=item|chars=3|id=0x7|hdr=0xdf7c|str=0xdf88]
+Mum
+
+[1532|kind=item|chars=4|id=0x8|hdr=0xdf90|str=0xdf9c]
+Lily
+
+[1533|kind=item|chars=6|id=0x9|hdr=0xdfa6|str=0xdfb2]
+Azalea
+
+[1534|kind=item|chars=8|id=0xa|hdr=0xdfc0|str=0xdfcc]
+Moonbeam
+
+[1535|kind=item|chars=6|id=0xb|hdr=0xdfde|str=0xdfea]
+Moolah
+
+[1536|kind=item|chars=5|id=0xc|hdr=0xdff8|str=0xe004]
+Milky
+
+[1537|kind=item|chars=5|id=0xd|hdr=0xe010|str=0xe01c]
+Cream
+
+[1538|kind=item|chars=5|id=0xe|hdr=0xe028|str=0xe034]
+Sauce
+
+[1539|kind=item|chars=7|id=0xf|hdr=0xe040|str=0xe04c]
+Cowella
+
+[1540|kind=item|chars=6|id=0x10|hdr=0xe05c|str=0xe068]
+Moolan
+
+[1541|kind=item|chars=6|id=0x11|hdr=0xe076|str=0xe082]
+Bessie
+
+[1542|kind=item|chars=6|id=0x12|hdr=0xe090|str=0xe09c]
+Bossie
+
+[1543|kind=item|chars=6|id=0x13|hdr=0xe0aa|str=0xe0b6]
+Cowdia
+
+[1544|kind=item|chars=7|id=0x14|hdr=0xe0c4|str=0xe0d0]
+Cowlene
+
+[1545|kind=item|chars=7|id=0x15|hdr=0xe0e0|str=0xe0ec]
+Moodine
+
+[1546|kind=item|chars=8|id=0x16|hdr=0xe0fc|str=0xe108]
+Udderina
+
+[1547|kind=item|chars=5|id=0x17|hdr=0xe11a|str=0xe126]
+Belle
+
+[1548|kind=item|chars=6|id=0x18|hdr=0xe132|str=0xe13e]
+Bovina
+
+[1549|kind=item|chars=8|id=0x19|hdr=0xe14c|str=0xe158]
+Cowbella
+
+[1550|kind=item|chars=7|id=0x1a|hdr=0xe16a|str=0xe176]
+Cuddles
+
+[1551|kind=item|chars=5|id=0x1b|hdr=0xe186|str=0xe192]
+Patty
+
+[1552|kind=item|chars=5|id=0x1c|hdr=0xe19e|str=0xe1aa]
+Calfy
+
+[1553|kind=item|chars=8|id=0x1d|hdr=0xe1b6|str=0xe1c2]
+Dairyann
+
+[1554|kind=flex|chars=8|hdr=0xe1ee|str=0xe1f4]
+Chicken1
+
+[1555|kind=flex|chars=8|hdr=0xe208|str=0xe20e]
+Chicken2
+
+[1556|kind=flex|chars=8|hdr=0xe222|str=0xe228]
+Chicken3
+
+[1557|kind=flex|chars=8|hdr=0xe23c|str=0xe242]
+Chicken4
+
+[1558|kind=flex|chars=8|hdr=0xe256|str=0xe25c]
+Chicken5
+
+[1559|kind=flex|chars=8|hdr=0xe270|str=0xe276]
+Chicken6
+
+[1560|kind=flex|chars=8|hdr=0xe28a|str=0xe290]
+Chicken7
+
+[1561|kind=flex|chars=8|hdr=0xe2a4|str=0xe2aa]
+Chicken8
+
+[1562|kind=flex|chars=8|hdr=0xe2be|str=0xe2c4]
+Chicken9
+
+[1563|kind=flex|chars=6|hdr=0xe2ee|str=0xe2f4]
+Sheep1
+
+[1564|kind=flex|chars=6|hdr=0xe304|str=0xe30a]
+Sheep2
+
+[1565|kind=flex|chars=6|hdr=0xe31a|str=0xe320]
+Sheep3
+
+[1566|kind=flex|chars=6|hdr=0xe330|str=0xe336]
+Sheep4
+
+[1567|kind=flex|chars=6|hdr=0xe346|str=0xe34c]
+Sheep5
+
+[1568|kind=flex|chars=6|hdr=0xe35c|str=0xe362]
+Sheep6
+
+[1569|kind=flex|chars=6|hdr=0xe372|str=0xe378]
+Sheep7
+
+[1570|kind=flex|chars=6|hdr=0xe388|str=0xe38e]
+Sheep8
+
+[1571|kind=flex|chars=6|hdr=0xe39e|str=0xe3a4]
+Sheep9
+
+[1572|kind=flex|chars=4|hdr=0xe3c8|str=0xe3ce]
+Cow1
+
+[1573|kind=flex|chars=4|hdr=0xe3da|str=0xe3e0]
+Cow2
+
+[1574|kind=flex|chars=4|hdr=0xe3ec|str=0xe3f2]
+Cow3
+
+[1575|kind=flex|chars=4|hdr=0xe3fe|str=0xe404]
+Cow4
+
+[1576|kind=flex|chars=4|hdr=0xe410|str=0xe416]
+Cow5
+
+[1577|kind=flex|chars=4|hdr=0xe422|str=0xe428]
+Cow6
+
+[1578|kind=flex|chars=4|hdr=0xe434|str=0xe43a]
+Cow7
+
+[1579|kind=flex|chars=4|hdr=0xe446|str=0xe44c]
+Cow8
+
+[1580|kind=flex|chars=4|hdr=0xe458|str=0xe45e]
+Cow9
+
+[1581|kind=item|chars=9|id=0x14|hdr=0xe46e|str=0xe47a]
+@Lambette
+
+[1582|kind=item|chars=6|id=0x15|hdr=0xe48e|str=0xe49a]
+@Lambi
+
+[1583|kind=item|chars=6|id=0x16|hdr=0xe4a8|str=0xe4b4]
+@Cloud
+
+[1584|kind=item|chars=7|id=0x17|hdr=0xe4c2|str=0xe4ce]
+@Flocky
+
+[1585|kind=item|chars=7|id=0x18|hdr=0xe4de|str=0xe4ea]
+@Flocka
+
+[1586|kind=item|chars=8|id=0x19|hdr=0xe4fa|str=0xe506]
+@Ewegina
+
+[1587|kind=item|chars=4|id=0x1a|hdr=0xe518|str=0xe524]
+@Bob
+
+[1588|kind=item|chars=8|id=0x1b|hdr=0xe52e|str=0xe53a]
+@Lambeth
+
+[1589|kind=item|chars=7|id=0x1c|hdr=0xe54c|str=0xe558]
+@Elaine
+
+[1590|kind=item|chars=5|id=0x1d|hdr=0xe568|str=0xe574]
+@Evan
+
+[1591|kind=item|chars=7|id=0x1|hdr=0xe5aa|str=0xe5b6]
+@Cherry
+
+[1592|kind=item|chars=7|id=0x2|hdr=0xe5c6|str=0xe5d2]
+@Orchid
+
+[1593|kind=item|chars=7|id=0x3|hdr=0xe5e2|str=0xe5ee]
+@Violet
+
+[1594|kind=item|chars=9|id=0x4|hdr=0xe5fe|str=0xe60a]
+@Camellia
+
+[1595|kind=item|chars=5|id=0x5|hdr=0xe61e|str=0xe62a]
+@Iris
+
+[1596|kind=item|chars=5|id=0x6|hdr=0xe636|str=0xe642]
+@Plum
+
+[1597|kind=item|chars=4|id=0x7|hdr=0xe64e|str=0xe65a]
+@Mum
+
+[1598|kind=item|chars=5|id=0x8|hdr=0xe664|str=0xe670]
+@Lily
+
+[1599|kind=item|chars=7|id=0x9|hdr=0xe67c|str=0xe688]
+@Azalea
+
+[1600|kind=item|chars=9|id=0xa|hdr=0xe698|str=0xe6a4]
+@Moonbeam
+
+[1601|kind=item|chars=7|id=0xb|hdr=0xe6b8|str=0xe6c4]
+@Moolah
+
+[1602|kind=item|chars=6|id=0xc|hdr=0xe6d4|str=0xe6e0]
+@Milky
+
+[1603|kind=item|chars=6|id=0xd|hdr=0xe6ee|str=0xe6fa]
+@Cream
+
+[1604|kind=item|chars=6|id=0xe|hdr=0xe708|str=0xe714]
+@Sauce
+
+[1605|kind=item|chars=8|id=0xf|hdr=0xe722|str=0xe72e]
+@Cowella
+
+[1606|kind=item|chars=7|id=0x10|hdr=0xe740|str=0xe74c]
+@Moolan
+
+[1607|kind=item|chars=7|id=0x11|hdr=0xe75c|str=0xe768]
+@Bessie
+
+[1608|kind=item|chars=7|id=0x12|hdr=0xe778|str=0xe784]
+@Bossie
+
+[1609|kind=item|chars=7|id=0x13|hdr=0xe794|str=0xe7a0]
+@Cowdia
+
+[1610|kind=item|chars=8|id=0x14|hdr=0xe7b0|str=0xe7bc]
+@Cowlene
+
+[1611|kind=item|chars=8|id=0x15|hdr=0xe7ce|str=0xe7da]
+@Moodine
+
+[1612|kind=item|chars=9|id=0x16|hdr=0xe7ec|str=0xe7f8]
+@Udderina
+
+[1613|kind=item|chars=6|id=0x17|hdr=0xe80c|str=0xe818]
+@Belle
+
+[1614|kind=item|chars=7|id=0x18|hdr=0xe826|str=0xe832]
+@Bovina
+
+[1615|kind=item|chars=9|id=0x19|hdr=0xe842|str=0xe84e]
+@Cowbella
+
+[1616|kind=item|chars=8|id=0x1a|hdr=0xe862|str=0xe86e]
+@Cuddles
+
+[1617|kind=item|chars=6|id=0x1b|hdr=0xe880|str=0xe88c]
+@Patty
+
+[1618|kind=item|chars=6|id=0x1c|hdr=0xe89a|str=0xe8a6]
+@Calfy
+
+[1619|kind=item|chars=9|id=0x1d|hdr=0xe8b4|str=0xe8c0]
+@Dairyann
+
+[1620|kind=flex|chars=9|hdr=0xe8ee|str=0xe8f4]
+@Chicken1
+
+[1621|kind=flex|chars=9|hdr=0xe90a|str=0xe910]
+@Chicken2
+
+[1622|kind=flex|chars=9|hdr=0xe926|str=0xe92c]
+@Chicken3
+
+[1623|kind=flex|chars=9|hdr=0xe942|str=0xe948]
+@Chicken4
+
+[1624|kind=flex|chars=9|hdr=0xe95e|str=0xe964]
+@Chicken5
+
+[1625|kind=flex|chars=9|hdr=0xe97a|str=0xe980]
+@Chicken6
+
+[1626|kind=flex|chars=9|hdr=0xe996|str=0xe99c]
+@Chicken7
+
+[1627|kind=flex|chars=9|hdr=0xe9b2|str=0xe9b8]
+@Chicken8
+
+[1628|kind=flex|chars=9|hdr=0xe9ce|str=0xe9d4]
+@Chicken9
+
+[1629|kind=flex|chars=7|hdr=0xea00|str=0xea06]
+@Sheep1
+
+[1630|kind=flex|chars=7|hdr=0xea18|str=0xea1e]
+@Sheep2
+
+[1631|kind=flex|chars=7|hdr=0xea30|str=0xea36]
+@Sheep3
+
+[1632|kind=flex|chars=7|hdr=0xea48|str=0xea4e]
+@Sheep4
+
+[1633|kind=flex|chars=7|hdr=0xea60|str=0xea66]
+@Sheep5
+
+[1634|kind=flex|chars=7|hdr=0xea78|str=0xea7e]
+@Sheep6
+
+[1635|kind=flex|chars=7|hdr=0xea90|str=0xea96]
+@Sheep7
+
+[1636|kind=flex|chars=7|hdr=0xeaa8|str=0xeaae]
+@Sheep8
+
+[1637|kind=flex|chars=7|hdr=0xeac0|str=0xeac6]
+@Sheep9
+
+[1638|kind=flex|chars=5|hdr=0xeaec|str=0xeaf2]
+@Cow1
+
+[1639|kind=flex|chars=5|hdr=0xeb00|str=0xeb06]
+@Cow2
+
+[1640|kind=flex|chars=5|hdr=0xeb14|str=0xeb1a]
+@Cow3
+
+[1641|kind=flex|chars=5|hdr=0xeb28|str=0xeb2e]
+@Cow4
+
+[1642|kind=flex|chars=5|hdr=0xeb3c|str=0xeb42]
+@Cow5
+
+[1643|kind=flex|chars=5|hdr=0xeb50|str=0xeb56]
+@Cow6
+
+[1644|kind=flex|chars=5|hdr=0xeb64|str=0xeb6a]
+@Cow7
+
+[1645|kind=flex|chars=5|hdr=0xeb78|str=0xeb7e]
+@Cow8
+
+[1646|kind=flex|chars=5|hdr=0xeb8c|str=0xeb92]
+@Cow9
+

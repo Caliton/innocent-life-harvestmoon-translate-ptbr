@@ -1,0 +1,1454 @@
+# ETOUT1.SCP - 483 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0xe5e|chars=14]
+Franco: Look, 
+
+[1|off=0xe7c|chars=57]
+P.\nThis is the top of Easter\nPlateau. And it's all yours.
+
+[2|off=0xefa|chars=90]
+Franco: I suppose it's a little\nhard for you to understand just what\nthat means right now.
+
+[3|off=0xfba|chars=88]
+Franco: Later you can walk around here\nand see just how magnificent this\nland really is.
+
+[4|off=0x1076|chars=79]
+Franco: But for now, you should plant\nyour seeds in the soil near the\nelevator.
+
+[5|off=0x1120|chars=103]
+Franco: I came here just after sunrise\nand tilled the soil for you, so it's\nall set for planting seeds.
+
+[6|off=0x11fa|chars=113]
+Franco: Oh, and this is a Shipping Pod.\nYou put the crops you harvest inside.\nYou saw one at Gayak's farm, right?
+
+[7|off=0x12e8|chars=129]
+Franco: If you put a crop in here,\nit will automatically go through\na pipe.\nThen it will arrive at market\nwhile it's still fresh.
+
+[8|off=0x13f6|chars=66]
+Franco: This pod is for shipping other\nthings like ore and lumber.
+
+[9|off=0x1486|chars=50]
+Franco: You won't be needing that for\na while yet.
+
+[10|off=0x14f6|chars=23]
+Franco: Come this way,\n
+
+[11|off=0x1536|chars=92]
+Franco: I only managed to till these 9\nsquares. I'm afraid I'm not as young as\nI used to be.
+
+[12|off=0x15fa|chars=58]
+Franco: Now then, why don't you go ahead\nand get started, 
+
+[13|off=0x1680|chars=96]
+Franco: Water them every day, and you'll\nbe able to harvest potatoes in 5\ndays and turnips in 6.
+
+[14|off=0x174c|chars=90]
+Franco: The passage of time is going to\nhave an important effect on your\nlife from now on.
+
+[15|off=0x180c|chars=84]
+Franco: You'll want to make the most of\nthe time you have each day and\nnot waste it.
+
+[16|off=0x18c0|chars=59]
+Franco: I'll just be resting over there,\nif you don't mind.
+
+[17|off=0x1942|chars=19]
+Franco: Listen up, 
+
+[18|off=0x196a|chars=76]
+P.\nOnce you've planted the seeds in the tilled\nsoil, you need to water them.
+
+[19|off=0x1a0e|chars=67]
+Franco: Luckily, there is plenty of\nspring water here on your farm.
+
+[20|off=0x1aa0|chars=79]
+Franco: Just equip the watering can, go\nto the edge of the water and press\nthe 
+
+[21|off=0x1b40|chars=8]
+ button.
+
+[22|off=0x1b5c|chars=78]
+Franco: The Doctor's Watering Can should\nhold about 25 squares worth of water.
+
+[23|off=0x1c04|chars=90]
+Franco: By the way, watering squares of\nground that haven't been tilled\nwon't do anything.
+
+[24|off=0x1cc4|chars=19]
+Franco: Listen up, 
+
+[25|off=0x1cec|chars=71]
+P.\nYou must remember to water the squares\nwith seeds in them every day.
+
+[26|off=0x1d86|chars=67]
+Franco: If you do that, you can harvest\nthe crops when they mature.
+
+[27|off=0x1e18|chars=109]
+Franco: The soil is so fertile here in\nthe Easter Ruins that plants won't\ndie even if you don't water them...
+
+[28|off=0x1efe|chars=111]
+Franco: But their growth will slow down.\nAnd they won't taste as good, so\nyou won't get as much money for them.
+
+[29|off=0x1fe8|chars=15]
+Franco: Got it?
+
+[30|off=0x2012|chars=72]
+Franco: All right then. Just remember to\nmake the most out of every day.
+
+[31|off=0x20ae|chars=80]
+Franco: I'm going to be keeping an eye\non you until you make your first\nharvest.
+
+[32|off=0x215a|chars=52]
+Franco: That's too bad.\nLet me try explaining again.
+
+[33|off=0x21ce|chars=50]
+Franco: Hey, it's already 5PM.\nAre you listening, 
+
+[34|off=0x2244|chars=44]
+Franco: You haven't watered your field\nyet, 
+
+[35|off=0x22ae|chars=80]
+Franco: The passage of time is going to\nhave an impact on your\nlife from now on.
+
+[36|off=0x235a|chars=80]
+Franco: Remember, you have to make the\nmost of every day and not waste\nany time.
+
+[37|off=0x2406|chars=16]
+Franco: Listen, 
+
+[38|off=0x2428|chars=77]
+P.\nAfter you've planted the seeds in the\ntilled soil, you have to water them.
+
+[39|off=0x24ce|chars=67]
+Franco: Luckily, there is plenty of\nspring water here on your farm.
+
+[40|off=0x2560|chars=79]
+Franco: Just equip the watering can, go\nto the edge of the water and press\nthe 
+
+[41|off=0x2600|chars=8]
+ button.
+
+[42|off=0x261c|chars=78]
+Franco: The Doctor's Watering Can should\nhold about 25 squares worth of water.
+
+[43|off=0x26c4|chars=90]
+Franco: By the way, watering squares of\nground that haven't been tilled\nwon't do anything.
+
+[44|off=0x2784|chars=76]
+Franco: You must remember to water\nthe squares with\nseeds in them every day.
+
+[45|off=0x2828|chars=67]
+Franco: If you do that, you can harvest\nthe crops when they mature.
+
+[46|off=0x28ba|chars=109]
+Franco: The soil is so fertile here in\nthe Easter Ruins that plants won't\ndie even if you don't water them...
+
+[47|off=0x29a0|chars=111]
+Franco: But their growth will slow down.\nAnd they won't taste as good, so\nyou won't get as much money for them.
+
+[48|off=0x2a8a|chars=15]
+Franco: Got it?
+
+[49|off=0x2ab4|chars=72]
+Franco: All right then. Just remember to\nmake the most out of every day.
+
+[50|off=0x2b50|chars=80]
+Franco: I'm going to be keeping an eye\non you until you make your first\nharvest.
+
+[51|off=0x2bfc|chars=52]
+Franco: That's too bad.\nLet me try explaining again.
+
+[52|off=0x2c70|chars=50]
+Franco: Hey, it's already 5PM.\nAre you listening, 
+
+[53|off=0x2ce6|chars=16]
+Franco: Listen, 
+
+[54|off=0x2d08|chars=70]
+P You must\nremember to water the squares with\nseeds in them every day.
+
+[55|off=0x2da0|chars=67]
+Franco: If you do that, you can harvest\nthe crops when they mature.
+
+[56|off=0x2e32|chars=109]
+Franco: The soil is so fertile here in\nthe Easter Ruins that plants won't\ndie even if you don't water them...
+
+[57|off=0x2f18|chars=111]
+Franco: But their growth will slow down.\nAnd they won't taste as good, so\nyou won't get as much money for them.
+
+[58|off=0x3002|chars=15]
+Franco: Got it?
+
+[59|off=0x302c|chars=72]
+Franco: All right then. Just remember to\nmake the most out of every day.
+
+[60|off=0x30c8|chars=80]
+Franco: I'm going to be keeping an eye\non you until you make your first\nharvest.
+
+[61|off=0x3174|chars=52]
+Franco: That's too bad.\nLet me try explaining again.
+
+[62|off=0x31e8|chars=15]
+Sharon: Hello, 
+
+[63|off=0x3208|chars=54]
+P.\nMy name is Sharon. I'm a\nteacher at Volcano School.
+
+[64|off=0x3280|chars=105]
+Sharon: I understand that Dr. Hope\nisn't going to have you enter our\nschool, but you're welcome to visit.
+
+[65|off=0x335e|chars=79]
+Sharon: I wanted to introduce you to my\nstudents, so I brought them\nhere today.
+
+[66|off=0x3408|chars=117]
+Sharon: After all, it takes a lot of\ncourage to work such a large farm all by\nyourself! I want my students to see it!
+
+[67|off=0x34fe|chars=64]
+Sharon: I'm sure that you can make\nfriends with them if you try.
+
+[68|off=0x358a|chars=34]
+Simon: Um... I'm Simon.\nSo you're 
+
+[69|off=0x35e0|chars=98]
+Simon: Marcia told me that you're a\nrelative of Dr. Hope's. I guess you\nmust be really smart, hmm?
+
+[70|off=0x36b0|chars=62]
+Simon: You can come to my house to\nvisit sometime if you like.
+
+[71|off=0x3738|chars=81]
+Simon: My family runs the Branch Farm\nin Volcano Town. It's a great big\nautofarm.
+
+[72|off=0x37e6|chars=92]
+Lionel: When you ask somebody their\nname, you're supposed to say\nyours first. Mine's Lionel.
+
+[73|off=0x38aa|chars=100]
+Lionel: They say that this big stone\nthing is actually an altar used to\nbreak the seal on the field.
+
+[74|off=0x397e|chars=45]
+Lionel: Everybody in Volcano Town knows\nthat.
+
+[75|off=0x39e4|chars=50]
+Lionel: But nobody actually farms by\nhand anymore!
+
+[76|off=0x3a54|chars=86]
+Lionel: Even old Gayak retired recently.\nYou should really think\nabout giving up too, 
+
+[77|off=0x3b12|chars=15]
+Max: Hi there, 
+
+[78|off=0x3b32|chars=44]
+P!\nI'm Max. I'm a teacher at\nVolcano School.
+
+[79|off=0x3b96|chars=56]
+Max: This certainly is an impressive\nlocation, isn't it!
+
+[80|off=0x3c12|chars=51]
+Max: Oh, I'm not talking about these\nbarren fields!
+
+[81|off=0x3c84|chars=75]
+Max: It's the scenery that you can see\nfrom this plateau that's so amazing!
+
+[82|off=0x3d26|chars=84]
+Max: This is a great place for\njogging. You should try it!\nI sure am jealous of you!
+
+[83|off=0x3dda|chars=85]
+Becky: Hi! My name's Becky!\nI feel kind of like a princess locked\nup in a tower here.
+
+[84|off=0x3e90|chars=117]
+Becky: They say that these fields were\nsealed off long ago, but I guess there's\nstill a bit of land that can be used.
+
+[85|off=0x3f86|chars=117]
+Becky: I suppose if you're just going to\nbe working the farm alone, you won't\nhave to worry about breaking the seals.
+
+[86|off=0x407c|chars=118]
+Becky: I mean, even if you were able to\nbreak all of the seals, you wouldn't be\nable work the entire farm by yourself.
+
+[87|off=0x4174|chars=49]
+Big: Hey, don't bother me.\nHm? Oh, my name's Big.
+
+[88|off=0x41e2|chars=75]
+Big: I'm analyzing the water in this\nspring right now, so don't talk\nto me.
+
+[89|off=0x4284|chars=114]
+Big: If you're going to be growing crops\nhere and selling them in the town,\nwe have to make sure the water's safe.
+
+[90|off=0x4374|chars=72]
+Big: I don't want to get sick from\neating some kind of mutant\nvegetable.
+
+[91|off=0x4410|chars=12]
+Marcia: Oh, 
+
+[92|off=0x442a|chars=39]
+P!\nYou're finally getting started, huh?
+
+[93|off=0x4484|chars=64]
+Marcia: It's pretty amazing to have a\nfarm in a place like this.
+
+[94|off=0x4510|chars=119]
+Marcia: You probably don't have many\nseeds right now, but if you save\nyour money,\nyou can buy more at the shop in\ntown.
+
+[95|off=0x460a|chars=113]
+Marcia: There's a shop called Shop-a-\nMillion. The guy who runs it is nice\nenough, but maybe a little unreliable.
+
+[96|off=0x46f8|chars=78]
+Marcia: Anyway, I'll show you the shop\nthe next time you go to visit\nDr. Hope.
+
+[97|off=0x47a0|chars=78]
+Franco: It's been a very long time\nsince anyone from Volcano Town\ncame here...
+
+[98|off=0x4848|chars=8]
+Franco: 
+
+[99|off=0x485a|chars=70]
+P, I suppose\nyou'd like to know why you have to work\nthese fields, eh?
+
+[100|off=0x48f2|chars=33]
+Franco: All right, I'll tell you.
+
+[101|off=0x4940|chars=55]
+Franco: It was the Spirits who sealed\noff these fields.
+
+[102|off=0x49ba|chars=115]
+Franco: You see, long ago the Easter\nPeople and the Volcano People fought a\nterrible war over control of this land.
+
+[103|off=0x4aac|chars=55]
+Franco: The behavior of the humans\nangered the Spirits.
+
+[104|off=0x4b26|chars=115]
+Franco: And so they decided to seal off\nthis fertile land. The Easter People\nthen left the island, never to return.
+
+[105|off=0x4c18|chars=75]
+Franco: But the Spirits did leave us one\nchance to make up for what we\ndid.
+
+[106|off=0x4cba|chars=116]
+Franco: If someone could once again love\nthis land and nurture life on it with\nhis own hands, the seals would break.
+
+[107|off=0x4dae|chars=111]
+Franco: But the people in Volcano Town\nonly care about autofarming. I'm afraid\nthey've given up on this land...
+
+[108|off=0x4e98|chars=117]
+Franco: And I doubt that there is\nanyone left in this day and age\nwho still believes in the\nexistence of the Spirits.
+
+[109|off=0x4f8e|chars=111]
+Franco: But if something isn't done,\nsooner or later the anger of the Spirits\ncould destroy this entire island.
+
+[110|off=0x5078|chars=27]
+Franco: Do you understand,\n
+
+[111|off=0x50b0|chars=50]
+P?  You are the only one\nwho can save this island.
+
+[112|off=0x5120|chars=42]
+Franco: Well I'm going to tell you\nanyway.
+
+[113|off=0x5180|chars=78]
+Franco: It's been a very long time\nsince anyone from Volcano Town\ncame here...
+
+[114|off=0x5228|chars=8]
+Franco: 
+
+[115|off=0x523a|chars=82]
+P, when you're done\ntaking care of your fields, you\nshould try to get a good rest.
+
+[116|off=0x52ea|chars=102]
+Franco: Starting tomorrow, you're going\nto have to get up on your own and\nwork the fields by yourself.
+
+[117|off=0x53c2|chars=115]
+Franco: And you should promise yourself\nthat you won't leave the Easter Ruins\nuntil you've made your first harvest.
+
+[118|off=0x54b4|chars=51]
+Franco: Don't worry. I'll be keeping an\neye on you.
+
+[119|off=0x5526|chars=67]
+Sharon: My, it certainly has grown\nlate. We should be heading home.
+
+[120|off=0x55b8|chars=60]
+Sharon: Thank you for everything.\nI enjoyed talking to you,\n
+
+[121|off=0x5642|chars=59]
+Sharon: All right, everyone!\nOur field trip is almost over!
+
+[122|off=0x56c4|chars=62]
+Sharon: Let's all go back to Volcano\nTown! Come on! Follow me!
+
+[123|off=0x574c|chars=59]
+Big: It looks like the water in that\nspring is safe enough.
+
+[124|off=0x57ce|chars=86]
+Big: Of course, it can never compare to\nBrilliant Water. My dad invented it,\nyou know.
+
+[125|off=0x5886|chars=19]
+Big: Well, see you!
+
+[126|off=0x58b8|chars=21]
+Lionel: Ow! Ow!\nMax!!
+
+[127|off=0x58ee|chars=50]
+Max: You're always doing things like\nthis, Lionel!
+
+[128|off=0x595e|chars=66]
+Max: I told you over and over not to\nmess around with the altars!!
+
+[129|off=0x59ee|chars=16]
+Max: Honestly...
+
+[130|off=0x5a1a|chars=84]
+Max: Sorry for all the excitement!\nI'll come and see you again sometime.\nGood luck, 
+
+[131|off=0x5ad4|chars=20]
+Lionel: That hurt...
+
+[132|off=0x5b08|chars=59]
+Becky: Lionel sure is dumb.\nI can't believe I'm his sister!
+
+[133|off=0x5b8a|chars=66]
+Marcia: Oh, did the teachers leave\nalready? We'd better get going!
+
+[134|off=0x5c1a|chars=80]
+Becky: Are you still here, Marcia?\nIf you don't hurry, Sharon'll\nget mad at you!
+
+[135|off=0x5cc6|chars=29]
+Marcia: We'll see you later,\n
+
+[136|off=0x5d12|chars=95]
+Marcia: I'll show you around Volcano\nTown next Sunday. Just wait at the\nDoc's house for me, OK?
+
+[137|off=0x5ddc|chars=70]
+*: Hmm....\nThis farm is even bigger than the\nrumors led me to believe.
+
+[138|off=0x5e74|chars=58]
+*: Trying to farm a place like this\nby hand is ridiculous.
+
+[139|off=0x5ef4|chars=32]
+*: You're absolutely right, sir.
+
+[140|off=0x5f40|chars=96]
+*: I thought Dr. Hope was going to\ninvent some amazing new farming\nmachine, but it's just a boy?
+
+[141|off=0x600c|chars=106]
+Marco: All the more reason for the\nBanks Corporation to take the lead in\ncarving out this island's future!
+
+[142|off=0x60ec|chars=117]
+Marco: I really hope you don't believe what\nthat crazy old man said about the\nSpirits destroying the island, Charles.
+
+[143|off=0x61e2|chars=85]
+Charles: Of course not.\nAs if something like that could\nhappen in this day and age...
+
+[144|off=0x6298|chars=75]
+Charles: Let's get back to town.\nWould you like to try driving my\ncar, sir?
+
+[145|off=0x633a|chars=71]
+Marco: No, I'd better not. I'd hate to\nput a dent in that car of yours.
+
+[146|off=0x63d4|chars=26]
+Marco: Shall we get going?
+
+[147|off=0x6414|chars=35]
+Marco: Oh! I-It's you...\nPardon us.
+
+[148|off=0x6466|chars=100]
+Marco: We heard that Dr. Hope had\nbought a new farm, so we decided to\ncome and see it for ourselves.
+
+[149|off=0x653a|chars=21]
+Marco: Well, goodbye!
+
+[150|off=0x6570|chars=87]
+Charles: Nice to meet you!\nI'm Charles Gremley. My father is\nthe mayor of Volcano Town.
+
+[151|off=0x662a|chars=37]
+Charles: Dr. Hope told me about you,\n
+
+[152|off=0x6686|chars=83]
+Charles: Neither I nor my father want\nto poke our noses into Dr. Hope's\nbusiness...
+
+[153|off=0x6738|chars=94]
+Charles: But if it were to get around\nthat you weren't really a human\nit could cause problems.
+
+[154|off=0x6800|chars=100]
+Charles: You can keep a secret, right?\nJust tell everyone that you're one\nof the doctor's relatives.
+
+[155|off=0x68d4|chars=18]
+Charles: Farewell!
+
+[156|off=0x6904|chars=21]
+Million: Hey, you're 
+
+[157|off=0x6930|chars=51]
+P, right?\nMy name's Million.\nI run a store in town.
+
+[158|off=0x69a2|chars=104]
+Million: I'll probably be selling your\ncrops at my place, so I thought I'd\ncome and check your farm out.
+
+[159|off=0x6a7e|chars=68]
+Million: I hope you'll make a lot of\nfresh and tasty veggies for me!
+
+[160|off=0x6b12|chars=67]
+*: Ugh, what a pain...\nWhy do I have to come all the\nway down here?
+
+[161|off=0x6ba4|chars=76]
+*: Couldn't he have just come\nby himself? I'm missing my\nfavorite TV show...
+
+[162|off=0x6c48|chars=67]
+*: Ugh, what a pain...\nWhy do I have to come all the\nway down here?
+
+[163|off=0x6cda|chars=17]
+*: Hm? So you're 
+
+[164|off=0x6cfe|chars=18]
+P, huh?\nWho cares?
+
+[165|off=0x6d2e|chars=55]
+Million: Lenny!\nWhy do you always have to\nbe like that?
+
+[166|off=0x6da8|chars=96]
+Million: You're never going to get\nanywhere with that attitude!\nWhy can't you be more like Emma?
+
+[167|off=0x6e74|chars=86]
+Lenny: Here we go again. You always\nhave to compare me to my sister...\nFine. Whatever.
+
+[168|off=0x6f2c|chars=33]
+Million: Hmph...\nDon't mind him, 
+
+[169|off=0x6f70|chars=25]
+P.\nHe's always like this.
+
+[170|off=0x6fae|chars=78]
+Million: Come here, you! Maybe I\ncan knock some sense into\nthat head of yours!
+
+[171|off=0x7056|chars=30]
+Lenny: Ow! Hey, stop it!\nOuch!
+
+[172|off=0x709e|chars=94]
+Franco: Another lovely morning.\nSometimes it's nice to just\ngo for a leisurely stroll outside.
+
+[173|off=0x7166|chars=61]
+Franco: What's that?\nWhat do you mean, I'm in your way?\nHmph!
+
+[174|off=0x71ec|chars=24]
+Emma: Oh, hello.\nYou're 
+
+[175|off=0x721e|chars=19]
+P, right?\nI'm Emma.
+
+[176|off=0x7250|chars=37]
+Emma: Sorry for barging in like this.
+
+[177|off=0x72a6|chars=108]
+Emma: It's just that Big keeps talking\nabout how good the water is here,\nso I wanted to try it for myself...
+
+[178|off=0x738a|chars=58]
+Emma: I work in a winery, so I'm pretty\npicky about water.
+
+[179|off=0x740a|chars=71]
+Emma: It is quite good, but it seems\nto be missing a certain\nsomething.
+
+[180|off=0x74a4|chars=98]
+Emma: There's supposed to be a spring\nof holy water somewhere in these\nruins. Have you heard that?
+
+[181|off=0x7574|chars=24]
+Emma: Oh, hello.\nYou're 
+
+[182|off=0x75a6|chars=19]
+P, right?\nI'm Emma.
+
+[183|off=0x75d8|chars=37]
+Emma: Sorry for barging in like this.
+
+[184|off=0x762e|chars=108]
+Emma: It's just that Big keeps talking\nabout how good the water is here,\nso I wanted to try it for myself...
+
+[185|off=0x7712|chars=58]
+Emma: I work in a winery, so I'm pretty\npicky about water.
+
+[186|off=0x7792|chars=71]
+Emma: It is quite good, but it seems\nto be missing a certain\nsomething.
+
+[187|off=0x782c|chars=98]
+Emma: There's supposed to be a spring\nof holy water somewhere in these\nruins. Have you heard that?
+
+[188|off=0x78fc|chars=105]
+Emma: By the way, Million was bragging\nabout how he was going to sell your\ncrops when you harvested them.
+
+[189|off=0x79da|chars=105]
+Emma: It's been many years since anyone\ngrew anything by hand in these\nparts. You might get a good price.
+
+[190|off=0x7ab8|chars=105]
+Franco: It's almost time. Just one more\nday and you'll be able to harvest\nyour crops. Exciting, isn't it?
+
+[191|off=0x7b96|chars=59]
+Franco: Whatever you do, don't forget to\nwater them today, 
+
+[192|off=0x7c0e|chars=18]
+P.\nWe harvest the 
+
+[193|off=0x7c34|chars=11]
+I tomorrow!
+
+[194|off=0x7c56|chars=61]
+Franco: What's that?\nWhat do you mean, I'm in your way?\nHmph!
+
+[195|off=0x7cdc|chars=9]
+Max: Hey 
+
+[196|off=0x7cf0|chars=16]
+P!\nIt's me! Max!
+
+[197|off=0x7d1c|chars=77]
+Max: The weather is clear today and\nthe sky is beautiful!\nJust smell the air!
+
+[198|off=0x7dc2|chars=69]
+Max: But this barren land and these\nseals do present some problems...
+
+[199|off=0x7e58|chars=115]
+Max: Since the Spirits are said to be\nthe ones who sealed this land off, maybe\na Spirit Stone could break the seal.
+
+[200|off=0x7f4a|chars=53]
+Max: But Spirit Stones don't exactly\ngrow on trees...
+
+[201|off=0x7fc0|chars=63]
+Max: Well, for the moment I'm just\ngoing to enjoy this air! Ah!
+
+[202|off=0x804a|chars=78]
+Max: It's almost dark.\nYou should be getting back\nto your room, shouldn't you?
+
+[203|off=0x80f2|chars=45]
+Nana: I wish we lived in a place like\nthis...
+
+[204|off=0x8158|chars=64]
+Nana: But it would be inconvenient\nnot having any stores nearby.
+
+[205|off=0x81e4|chars=48]
+Franco: Go ahead and harvest your crops!\nTake a 
+
+[206|off=0x8246|chars=49]
+I in your\nhand and toss it into the Shipping Pod!
+
+[207|off=0x82b4|chars=26]
+Moonlight: Zzzz... Zzzz...
+
+[208|off=0x82f4|chars=48]
+Franco: Go ahead and harvest your crops!\nTake a 
+
+[209|off=0x8356|chars=49]
+I in your\nhand and toss it into the Shipping Pod!
+
+[210|off=0x83c4|chars=69]
+Franco: Good!\nHow does it feel to ship crops\nthat you grew yourself, 
+
+[211|off=0x8460|chars=64]
+Franco: But there are still some crops\nleft that can be shipped.
+
+[212|off=0x84ec|chars=117]
+Franco: I think you'd better postpone going\nto Volcano Town until you've put all\nof your crops into the Shipping Pod.
+
+[213|off=0x85e2|chars=69]
+Franco: That's right.\nCome and talk to me again when\nyou're finished.
+
+[214|off=0x8678|chars=69]
+Franco: That's right.\nCome and talk to me again when\nyou're finished.
+
+[215|off=0x870e|chars=94]
+Franco: You should really finish your\nharvest all in one day. Are you sure\nyou want to go out?
+
+[216|off=0x87d6|chars=75]
+Franco: I see...\nI guess it can't be helped.\nYou can go out with Moonlight.
+
+[217|off=0x8878|chars=39]
+Franco: Hey! Wake up!\nYou have to take 
+
+[218|off=0x88c8|chars=22]
+P\nto Dr. Hope's house!
+
+[219|off=0x8900|chars=23]
+Franco: Snap out of it!
+
+[220|off=0x893a|chars=32]
+Franco: Hey!\nEarth to Moonlight!
+
+[221|off=0x8982|chars=77]
+A little while later...\nMoonlight somehow managed to\nleave with you in tow...
+
+[222|off=0x8a28|chars=40]
+Franco: Good!\nYou've mastered shipping,\n
+
+[223|off=0x8a8a|chars=90]
+Franco: The crops that you put into the\nShipping Pod will be sent to the market\nat 5:30PM.
+
+[224|off=0x8b4a|chars=81]
+Franco: The crops will be sent\nautomatically, so you don't have to\nlift a finger.
+
+[225|off=0x8bf8|chars=82]
+Franco: Now then...\nYou've shipped your crops, so how\nabout going to Volcano Town?
+
+[226|off=0x8ca8|chars=48]
+Franco: All right then!\nMoonlight will take you.
+
+[227|off=0x8d14|chars=100]
+Franco: Oh! It looks like you still\nhave some work to do in your fields.\nCome back when you're done.
+
+[228|off=0x8de8|chars=13]
+Franco: Hey! 
+
+[229|off=0x8e04|chars=64]
+P!\nIf you don't leave for the Easter Ruins\nsoon, you'll be late!
+
+[230|off=0x8e90|chars=90]
+Franco: The crops that you put into the\nShipping Pod will be sent to the market\nat 5:30PM.
+
+[231|off=0x8f50|chars=81]
+Franco: The crops will be sent\nautomatically, so you don't have to\nlift a finger.
+
+[232|off=0x8ffe|chars=26]
+Franco: Come on over here.
+
+[233|off=0x903e|chars=52]
+Franco: All right.\nLet's leave for the Easter Ruins.
+
+[234|off=0x90b2|chars=13]
+Franco: Hey! 
+
+[235|off=0x90ce|chars=64]
+P!\nIf you don't leave for the Easter Ruins\nsoon, you'll be late!
+
+[236|off=0x915a|chars=26]
+Franco: Come on over here.
+
+[237|off=0x919a|chars=21]
+Franco: What's this? 
+
+[238|off=0x91c6|chars=53]
+P!\nYou haven't put a single crop\nin the Shipping Pod.
+
+[239|off=0x923c|chars=33]
+Franco: You're not lazy, are you?
+
+[240|off=0x928a|chars=84]
+Franco: I'll have to admit that you're\nmaking me a little worried about\nyour future.
+
+[241|off=0x933e|chars=96]
+Franco: But I told Dr. Hope that I\nmust look after you, and that's\nexactly what I'm going to do.
+
+[242|off=0x940a|chars=62]
+Franco: I'll ship your crops for you.\nYou can go ahead and go.
+
+[243|off=0x9492|chars=61]
+Franco: You can tell Dr. Hope that you\nshipped them yourself.
+
+[244|off=0x9518|chars=34]
+Franco: It's lying, but oh well...
+
+[245|off=0x9568|chars=66]
+Franco: But maybe this will teach you\na lesson. I hope so, anyway.
+
+[246|off=0x95f8|chars=22]
+Franco: Now go. Go on!
+
+[247|off=0x9630|chars=94]
+Franco: Hmm... Are you telling me that\nyou don't understand how to harvest\nor ship your crops?
+
+[248|off=0x96f8|chars=110]
+Franco: You should have learned all that\nover at Gayak's place, but I suppose\nit's possible that you forgot...
+
+[249|off=0x97e0|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[250|off=0x985c|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[251|off=0x9942|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[252|off=0x9a2e|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[253|off=0x9ab4|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[254|off=0x9b54|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[255|off=0x9c14|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[256|off=0x9cb0|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[257|off=0x9d6e|chars=11]
+Moonlight: 
+
+[258|off=0x9d86|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[259|off=0x9dfa|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[260|off=0x9e84|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[261|off=0x9f08|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[262|off=0x9fa6|chars=11]
+Moonlight: 
+
+[263|off=0x9fbe|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[264|off=0xa03c|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[265|off=0xa0e2|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[266|off=0xa150|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[267|off=0xa24c|chars=21]
+Franco: I can't wait!
+
+[268|off=0xa282|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[269|off=0xa2e0|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[270|off=0xa3ac|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[271|off=0xa46a|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[272|off=0xa4de|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[273|off=0xa596|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[274|off=0xa5ec|chars=12]
+P. I am too.
+
+[275|off=0xa610|chars=31]
+Franco: He was a good friend...
+
+[276|off=0xa65a|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[277|off=0xa6c6|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[278|off=0xa766|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[279|off=0xa82e|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[280|off=0xa8b6|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[281|off=0xa984|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[282|off=0xaa0a|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[283|off=0xaa6c|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[284|off=0xab3a|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[285|off=0xabc0|chars=11]
+Moonlight: 
+
+[286|off=0xabd8|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[287|off=0xac7c|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[288|off=0xacec|chars=12]
+N: Arf! Arf!
+
+[289|off=0xad0e|chars=11]
+N: Whimper.
+
+[290|off=0xad2e|chars=11]
+N: Whimper.
+
+[291|off=0xad4e|chars=11]
+N: Whimper.
+
+[292|off=0xad72|chars=33]
+R:\nI WILL BEGIN WORKING TOMORROW.
+
+[293|off=0xadc2|chars=79]
+R: PRESS THE R1 BUTTON\nAND MAKE A SELECTION FROM THE MENU\nTO GIVE ME A COMMAND.
+
+[294|off=0xae6e|chars=84]
+R: I MUST FINISH MY SCAN\nTODAY, SO YOU MUST WAIT UNTIL\nTOMORROW TO GIVE ME COMMANDS.
+
+[295|off=0xaf24|chars=12]
+R:\nSCANNING 
+
+[296|off=0xaf3e|chars=9]
+P'S FARM.
+
+[297|off=0xaf52|chars=42]
+\nCALCULATING AREA...\nCHECKING OBSTACLES...
+
+[298|off=0xafb4|chars=69]
+R: PREPARATION COMPLETE.\nUSE THE R1 BUTTON MENU TO\nGIVE ME A COMMAND.
+
+[299|off=0xb04c|chars=79]
+R: I CANNOT PLANT SEEDS\nOR HARVEST CROPS, BUT I CAN\nWATER THEM OR CLEAR FIELDS.
+
+[300|off=0xb0f8|chars=24]
+R: I AWAIT YOUR COMMAND.
+
+[301|off=0xb130|chars=90]
+There's a terrible storm raging\noutside! You won't be able to move\nvery quickly in that...
+
+[302|off=0xb1ec|chars=106]
+The blowing snow makes it almost\nimpossible to see anything! You'd never\nbe able to walk around in that...
+
+[303|off=0xb2c8|chars=54]
+It's raining. You won't have to water\nthe crops today.
+
+[304|off=0xb33c|chars=76]
+The power of the jewel you placed on\nthe altar broke the seal on this\nfield!
+
+[305|off=0xb3dc|chars=75]
+Do you want to empty the contents\nof your Scale Pack into the Shipping\nPod?
+
+[306|off=0xb47a|chars=50]
+You emptied your Scale Pack into\nthe Shipping Pod.
+
+[307|off=0xb4e6|chars=65]
+Do you want to empty the crops\nin your bag into the Shipping Pod?
+
+[308|off=0xb570|chars=52]
+Which crop do you want to put into\nthe Shipping Pod?
+
+[309|off=0xb5e0|chars=56]
+You emptied the crops in your bag\ninto the Shipping Pod!
+
+[310|off=0xb658|chars=84]
+This is a Shipping Pod. The items inside\nare sent to the market every day at\n5:30PM.
+
+[311|off=0xb708|chars=84]
+This is a Shipping Pod. The items inside\nare sent to the market every day at\n5:30PM.
+
+[312|off=0xb7b8|chars=102]
+This Shipping Pod is for crops and other\nfood items. Place building materials\nand ore in the blue pod.
+
+[313|off=0xb88c|chars=94]
+This Shipping Pod is for stone, lumber,\nand ore. Place crops and other foods\nin the green pod.
+
+[314|off=0xb950|chars=61]
+You emptied the contents of the\nbasket into the Shipping Pod!
+
+[315|off=0xb9d2|chars=36]
+There's nothing in the Shipping Pod!
+
+[316|off=0xba22|chars=36]
+There's nothing in the Shipping Pod!
+
+[317|off=0xba72|chars=30]
+There's nothing in the basket!
+
+[318|off=0xbab6|chars=76]
+Do you want to put the resources\nyou have in your bag into the\nShipping Pod?
+
+[319|off=0xbb56|chars=56]
+Which resource do you want to\nput into the Shipping Pod?
+
+[320|off=0xbbce|chars=58]
+You put the resources from your\nbag into the Shipping Pod!
+
+[321|off=0xbc4a|chars=29]
+Your bag can't hold any more!
+
+[322|off=0xbc8c|chars=29]
+Your bag can't hold any more!
+
+[323|off=0xbcce|chars=29]
+Your bag can't hold any more!
+
+[324|off=0xbd10|chars=44]
+Would you like to set a\njewel on this altar?
+
+[325|off=0xbd70|chars=17]
+You have set the\n
+
+[326|off=0xbd94|chars=15]
+I\non the altar.
+
+[327|off=0xbdba|chars=17]
+You have set the\n
+
+[328|off=0xbdde|chars=15]
+I\non the altar.
+
+[329|off=0xbe04|chars=17]
+You have set the\n
+
+[330|off=0xbe28|chars=15]
+I\non the altar.
+
+[331|off=0xbe4e|chars=31]
+All four jewels glow\nin unison!
+
+[332|off=0xbe94|chars=31]
+All four jewels glow\nin unison!
+
+[333|off=0xbeda|chars=34]
+There was no effect on the jewels.
+
+[334|off=0xbf26|chars=34]
+There was no effect on the jewels.
+
+[335|off=0xbf72|chars=24]
+Remove jewel from altar?
+
+[336|off=0xbfaa|chars=16]
+You removed the\n
+
+[337|off=0xbfcc|chars=17]
+I\nfrom the altar.
+
+[338|off=0xbff6|chars=16]
+You removed the 
+
+[339|off=0xc018|chars=29]
+J\nfrom the altar and put the\n
+
+[340|off=0xc054|chars=15]
+I in its place!
+
+[341|off=0xc07a|chars=16]
+You removed the 
+
+[342|off=0xc09c|chars=29]
+J\nfrom the altar and put the\n
+
+[343|off=0xc0d8|chars=15]
+I in its place!
+
+[344|off=0xc0fe|chars=4]
+The 
+
+[345|off=0xc108|chars=29]
+I\nreleases a brilliant light!
+
+[346|off=0xc14a|chars=4]
+The 
+
+[347|off=0xc154|chars=29]
+I\nreleases a brilliant light!
+
+[348|off=0xc196|chars=4]
+The 
+
+[349|off=0xc1a0|chars=63]
+I's energy\nalso radiates into\nthe field surrounding this altar.
+
+[350|off=0xc226|chars=53]
+The altars begin to float,\nreleasing a luminous aura!
+
+[351|off=0xc298|chars=26]
+You don't have any jewels.
+
+[352|off=0xc2d4|chars=26]
+You don't have any jewels.
+
+[353|off=0xc310|chars=26]
+The jewel's color changes!
+
+[354|off=0xc34c|chars=68]
+It seems the 4 jewels joined their\nauras to increase their energy...
+
+[355|off=0xc3dc|chars=66]
+Would you like to replace the jewel\non the altar with another one?
+
+[356|off=0xc468|chars=92]
+This is the Item Box. Store unneeded\nfarming tools or any other tools you\ncannot carry here.
+
+[357|off=0xc528|chars=55]
+To store or take out items,\nface the box and press the 
+
+[358|off=0xc598|chars=8]
+\nbutton.
+
+[359|off=0xc5b0|chars=71]
+You can store tools you can't keep in\nyour bag by tossing them in here.
+
+[360|off=0xc646|chars=12]
+You put the 
+
+[361|off=0xc660|chars=18]
+I in\nthe Item Box.
+
+[362|off=0xc68c|chars=12]
+Putting the 
+
+[363|off=0xc6a6|chars=75]
+I in the\nItem Box will lower its quality and\nlower its value. Are you sure?
+
+[364|off=0xc744|chars=12]
+You put the 
+
+[365|off=0xc75e|chars=18]
+I in\nthe Item Box.
+
+[366|off=0xc78a|chars=18]
+You can't put the 
+
+[367|off=0xc7b0|chars=20]
+I\ninto the Item Box!
+
+[368|off=0xc7e0|chars=32]
+What would you like to take out?
+
+[369|off=0xc828|chars=49]
+ itemname xxxxx\n itemname2 xxxxx\n itemname3 xxxxx
+
+[370|off=0xc892|chars=45]
+There's currently nothing in your\nItem Box...
+
+[371|off=0xc8f4|chars=43]
+You can't put any more items into\nyour bag!
+
+[372|off=0xc952|chars=8]
+You put 
+
+[373|off=0xc96a|chars=16]
+i\ninto your bag!
+
+[374|off=0xc992|chars=17]
+You took out the 
+
+[375|off=0xc9b6|chars=25]
+I\nand put it in your bag!
+
+[376|off=0xc9f0|chars=23]
+You can't take out the\n
+
+[377|off=0xca20|chars=27]
+I while you're\nholding the 
+
+[378|off=0xca64|chars=13]
+You took the 
+
+[379|off=0xca80|chars=47]
+I out\nof the Item Box and put it\nin your hands!
+
+[380|off=0xcae6|chars=27]
+You're already\nholding the 
+
+[381|off=0xcb2a|chars=12]
+Putting the 
+
+[382|off=0xcb44|chars=87]
+J in the\nItem Box will lower its quality, in turn\nlowering selling value. Are you sure?
+
+[383|off=0xcbfa|chars=13]
+You took out 
+
+[384|off=0xcc1c|chars=14]
+i and put\nthe 
+
+[385|off=0xcc3a|chars=5]
+J in!
+
+[386|off=0xcc4c|chars=13]
+You took out 
+
+[387|off=0xcc6e|chars=14]
+i and put\nthe 
+
+[388|off=0xcc8c|chars=5]
+J in!
+
+[389|off=0xcc9e|chars=17]
+You took out the 
+
+[390|off=0xccc2|chars=19]
+I\nand put back the 
+
+[391|off=0xccea|chars=16]
+J\nthat you held!
+
+[392|off=0xcd12|chars=17]
+You took out the 
+
+[393|off=0xcd36|chars=19]
+I\nand put back the 
+
+[394|off=0xcd5e|chars=16]
+J\nthat you held!
+
+[395|off=0xcd86|chars=43]
+What would you like to put in\nthe Item Box?
+
+[396|off=0xcde4|chars=36]
+You don't have anything in your\nbag.
+
+[397|off=0xce34|chars=8]
+You put 
+
+[398|off=0xce4c|chars=18]
+i\nin the Item Box.
+
+[399|off=0xce78|chars=12]
+Putting the 
+
+[400|off=0xce92|chars=87]
+I in the\nItem Box will lower its quality, in turn\nlowering selling value. Are you sure?
+
+[401|off=0xcf48|chars=12]
+Putting the 
+
+[402|off=0xcf62|chars=87]
+I in the\nItem Box will lower its quality, in turn\nlowering selling value. Are you sure?
+
+[403|off=0xd018|chars=13]
+You took the 
+
+[404|off=0xd034|chars=43]
+I\nfrom your bag and put\nit in the Item Box.
+
+[405|off=0xd092|chars=13]
+You took the 
+
+[406|off=0xd0ae|chars=43]
+I\nfrom your bag and put\nit in the Item Box.
+
+[407|off=0xd10c|chars=49]
+You took the Seed Bag\nand put it in the Item Box.
+
+[408|off=0xd176|chars=99]
+If you put that Seed Bag into the\nbox, the seeds inside will be sent\nto the Seed Box. Is that okay?
+
+[409|off=0xd244|chars=48]
+You currently have these items\nin your Item Box:
+
+[410|off=0xd2ac|chars=90]
+Anything you purchase besides\nbaskets will be sent here, so\nkeep an eye out for new items!
+
+[411|off=0xd368|chars=30]
+This is the Item Box. Use\nthe 
+
+[412|off=0xd3a6|chars=25]
+ button to view the menu.
+
+[413|off=0xd3e0|chars=72]
+This is the Seed Box. Use it to\nempty or put new seeds in your\nSeed Bag.
+
+[414|off=0xd478|chars=85]
+To look inside the Seed Box or to\nput in or remove seeds, face the box\nand press the 
+
+[415|off=0xd524|chars=8]
+ button.
+
+[416|off=0xd53c|chars=36]
+What seeds would you like to remove?
+
+[417|off=0xd58c|chars=42]
+You don't have a Seed Bag\nfor those seeds.
+
+[418|off=0xd5e8|chars=9]
+You  put 
+
+[419|off=0xd5fc|chars=19]
+K squares worth\nof 
+
+[420|off=0xd624|chars=24]
+I seeds in\nthe Seed Bag!
+
+[421|off=0xd65c|chars=39]
+Which seeds would you like to put away?
+
+[422|off=0xd6c2|chars=51]
+You don't have any Seed Bags\nthat hold seeds now...
+
+[423|off=0xd730|chars=51]
+You don't have any Seed Bags\nthat hold seeds now...
+
+[424|off=0xd79e|chars=9]
+You  put 
+
+[425|off=0xd7b2|chars=19]
+K squares worth\nof 
+
+[426|off=0xd7da|chars=24]
+I seeds in the\nSeed Box!
+
+[427|off=0xd812|chars=55]
+You put all of the seeds in your bag\ninto the Seed Box!
+
+[428|off=0xd888|chars=53]
+These seeds and bulbs are\ncurrently in your Seed Box:
+
+[429|off=0xd8fa|chars=67]
+Take out seeds\nPut away seeds\nPut away all seeds\nLook in box\nCancel
+
+[430|off=0xd988|chars=52]
+Take out an item\nPut away an item\nLook in box\nCancel
+
+[431|off=0xd9f8|chars=6]
+Yes\nNo
+
+[432|off=0xda0c|chars=6]
+Yes\nNo
+
+[433|off=0xda20|chars=6]
+Yes\nNo
+
+[434|off=0xda34|chars=6]
+Yes\nNo
+
+[435|off=0xda48|chars=6]
+Yes\nNo
+
+[436|off=0xda5c|chars=6]
+Yes\nNo
+
+[437|off=0xda70|chars=6]
+Yes\nNo
+
+[438|off=0xda84|chars=6]
+Yes\nNo
+
+[439|off=0xda98|chars=6]
+Yes\nNo
+
+[440|off=0xdaac|chars=6]
+Yes\nNo
+
+[441|off=0xdac0|chars=6]
+Yes\nNo
+
+[442|off=0xdad4|chars=6]
+Yes\nNo
+
+[443|off=0xdae8|chars=6]
+Yes\nNo
+
+[444|off=0xdafc|chars=6]
+Yes\nNo
+
+[445|off=0xdb10|chars=6]
+Yes\nNo
+
+[446|off=0xdb24|chars=6]
+Yes\nNo
+
+[447|off=0xdb38|chars=6]
+Yes\nNo
+
+[448|off=0xdb4c|chars=6]
+Yes\nNo
+
+[449|off=0xdb60|chars=6]
+Yes\nNo
+
+[450|off=0xdb74|chars=84]
+Go down to your room.\nGo down to the storage area.\nGo to the ruins entrance.\nCancel.
+
+[451|off=0xdc24|chars=23]
+Start.\nBack up.\nCancel.
+
+[452|off=0xdc5a|chars=51]
+Look inside the basket.\nStart the Life Arm.\nCancel.
+
+[453|off=0xdcc8|chars=55]
+Look inside the basket.\nCall the Life Arm back.\nCancel.
+
+[454|off=0xdd3e|chars=31]
+Look inside the basket.\nCancel.
+
+[455|off=0xdd84|chars=95]
+This is not a field square, so you\ncan't start the Life Arm! Move the\nbasket to a field square.
+
+[456|off=0xde4a|chars=95]
+This is not a field square, so you\ncan't start the Life Arm! Move the\nbasket to a field square.
+
+[457|off=0xdf10|chars=75]
+This is a Shipping Pod.\nYou can only put things inside\nthat can be shipped.
+
+[458|off=0xdfae|chars=75]
+This is a Shipping Pod.\nYou can only put things inside\nthat can be shipped.
+
+[459|off=0xe04c|chars=37]
+Look inside the Shipping Pod.\nCancel.
+
+[460|off=0xe09e|chars=37]
+Look inside the Shipping Pod.\nCancel.
+
+[461|off=0xe0f0|chars=4]
+Life
+
+[462|off=0xe100|chars=5]
+Forte
+
+[463|off=0xe112|chars=7]
+Chocobi
+
+[464|off=0xe128|chars=5]
+Cocoa
+
+[465|off=0xe13a|chars=4]
+Yogi
+
+[466|off=0xe14a|chars=5]
+Cow 1
+
+[467|off=0xe15c|chars=5]
+Cow 2
+
+[468|off=0xe16e|chars=5]
+Cow 3
+
+[469|off=0xe180|chars=5]
+Cow 4
+
+[470|off=0xe192|chars=5]
+Cow 5
+
+[471|off=0xe1a4|chars=7]
+Sheep 1
+
+[472|off=0xe1ba|chars=7]
+Sheep 2
+
+[473|off=0xe1d0|chars=7]
+Sheep 3
+
+[474|off=0xe1e6|chars=7]
+Sheep 4
+
+[475|off=0xe1fc|chars=7]
+Sheep 5
+
+[476|off=0xe212|chars=9]
+Chicken 1
+
+[477|off=0xe22c|chars=9]
+Chicken 2
+
+[478|off=0xe246|chars=9]
+Chicken 3
+
+[479|off=0xe260|chars=9]
+Chicken 4
+
+[480|off=0xe27a|chars=9]
+Chicken 5
+
+[481|off=0xe294|chars=4]
+Yogi
+
+[482|off=0xe2a8|chars=78]
+Franco: Water them every day, and you'll\nbe able to harvest turnips in 6 days.

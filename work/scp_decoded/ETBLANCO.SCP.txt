@@ -1,0 +1,854 @@
+# ETBLANCO.SCP - 283 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x92e|chars=8]
+Franco: 
+
+[1|off=0x940|chars=70]
+P, I suppose\nyou'd like to know why you have to work\nthese fields, eh?
+
+[2|off=0x9d8|chars=33]
+Franco: All right, I'll tell you.
+
+[3|off=0xa26|chars=55]
+Franco: It was the Spirits who sealed\noff these fields.
+
+[4|off=0xaa0|chars=115]
+Franco: You see, long ago the Easter\nPeople and the Volcano People fought a\nterrible war over control of this land.
+
+[5|off=0xb92|chars=55]
+Franco: The behavior of the humans\nangered the Spirits.
+
+[6|off=0xc0c|chars=115]
+Franco: And so they decided to seal off\nthis fertile land. The Easter People\nthen left the island, never to return.
+
+[7|off=0xcfe|chars=74]
+Franco: But the Spirits did give us one\nchance to make up for what we\ndid.
+
+[8|off=0xd9e|chars=119]
+Franco: If someone could once again\nlove this land and nurture life on\nit with his own hands,\nthe seals will be broken.
+
+[9|off=0xe98|chars=107]
+Franco: But the people in Volcano Town\nonly care about autofarming. I'm afraid\nthey gave up on this land...
+
+[10|off=0xf7a|chars=117]
+Franco: And I doubt that there is\nanyone left in this day and\nage who still believes\nin the existence of the\nSpirits.
+
+[11|off=0x1070|chars=105]
+Franco: But if something isn't done,\nsooner or later the Spirits' anger\ncould destroy this entire island.
+
+[12|off=0x114e|chars=27]
+Franco: Do you understand,\n
+
+[13|off=0x1186|chars=50]
+P?  You are the only one\nwho can save this island.
+
+[14|off=0x11f6|chars=42]
+Franco: Well I'm going to tell you\nanyway.
+
+[15|off=0x1256|chars=64]
+Franco: How are things on the farm?\nAre your crops growing well?
+
+[16|off=0x12e2|chars=32]
+Franco: Ah. That's good to hear.
+
+[17|off=0x132e|chars=113]
+Franco: You don't have much land to farm\nat the moment, but once you have your\nfirst harvest, you can go to town.
+
+[18|off=0x141c|chars=100]
+Franco: For the moment, just do your\nbest to grow a few things in the places\nthat aren't sealed off.
+
+[19|off=0x14f0|chars=73]
+Franco: You could even stick to just the\n9 squares that I tilled for you.
+
+[20|off=0x158e|chars=88]
+Franco: If you plant some seeds and\nwater them, you should see some\nsprouts by tomorrow.
+
+[21|off=0x164a|chars=73]
+Franco: Once they start to sprout, come\nto me again for some more advice.
+
+[22|off=0x16e8|chars=64]
+Franco: How are things on the farm?\nAre your crops growing well?
+
+[23|off=0x1774|chars=32]
+Franco: Ah. That's good to hear.
+
+[24|off=0x17c0|chars=113]
+Franco: You don't have much land to farm\nat the moment, but once you have your\nfirst harvest, you can visit town.
+
+[25|off=0x18ae|chars=100]
+Franco: For the moment, just do your\nbest to grow a few things in the\nplaces that aren't sealed off.
+
+[26|off=0x1982|chars=73]
+Franco: You could even stick to just the\n9 squares that I tilled for you.
+
+[27|off=0x1a20|chars=88]
+Franco: If you plant some seeds and\nwater them, you should see some\nsprouts by tomorrow.
+
+[28|off=0x1adc|chars=73]
+Franco: Once they start to sprout, come\nto me again for some more advice.
+
+[29|off=0x1b7a|chars=23]
+Franco: Zzzz... Zzzz...
+
+[30|off=0x1bb4|chars=8]
+Franco: 
+
+[31|off=0x1bc6|chars=87]
+P, you can't leave\nthe Easter Ruins until you've shipped\nsome of your crops... Zzzz....
+
+[32|off=0x1c80|chars=23]
+Franco: Zzzz... Zzzz...
+
+[33|off=0x1cba|chars=8]
+Franco: 
+
+[34|off=0x1ccc|chars=44]
+P, you should\nreally be in bed...\nZzzzz.....
+
+[35|off=0x1d30|chars=8]
+Franco: 
+
+[36|off=0x1d42|chars=77]
+P, it seems like your\nbody restores a lot of its power\nwhile you're sleeping.
+
+[37|off=0x1de8|chars=99]
+Franco: Don't work too hard. If you\nget tired, just take a rest in bed.\nFace the bed and press the 
+
+[38|off=0x1eb0|chars=8]
+ button.
+
+[39|off=0x1ecc|chars=66]
+Franco: Oh, by the way, your seeds\nare already starting to sprout.
+
+[40|off=0x1f5c|chars=104]
+Franco: The potatoes should really start\nto grow by tomorrow. The turnips\nwill take until the day after.
+
+[41|off=0x2038|chars=74]
+Franco: Just remember to always water\nyour crops every day after planting.
+
+[42|off=0x20d8|chars=49]
+Franco: If you don't, they won't grow as\nquickly.
+
+[43|off=0x2146|chars=8]
+Franco: 
+
+[44|off=0x2158|chars=77]
+P, it seems like your\nbody restores a lot of its power\nwhile you're sleeping.
+
+[45|off=0x21fe|chars=99]
+Franco: Don't work too hard. If you\nget tired, just take a rest in bed.\nFace the bed and press the 
+
+[46|off=0x22c6|chars=8]
+ button.
+
+[47|off=0x22e2|chars=89]
+Franco: If everything goes well, you\nshould be able to harvest your\ncrops by this Sunday.
+
+[48|off=0x23a0|chars=99]
+Franco: After that, if you go and tell\nDr. Hope how you did, he might\ngive you some kind of reward.
+
+[49|off=0x2472|chars=23]
+Franco: Zzzz... Zzzz...
+
+[50|off=0x24ac|chars=8]
+Franco: 
+
+[51|off=0x24be|chars=87]
+P, you can't leave\nthe Easter Ruins until you've shipped\nsome of your crops... Zzzz....
+
+[52|off=0x2578|chars=23]
+Franco: Zzzz... Zzzz...
+
+[53|off=0x25b2|chars=8]
+Franco: 
+
+[54|off=0x25c4|chars=44]
+P, you should\nreally be in bed...\nZzzzz.....
+
+[55|off=0x2628|chars=18]
+Franco: Oh, hello 
+
+[56|off=0x264e|chars=33]
+P.\nAre you used to farm\nwork yet?
+
+[57|off=0x269c|chars=59]
+Franco: That's good. Then maybe you'll\nbe able to use this.
+
+[58|off=0x271a|chars=31]
+Franco gave you an\nIron Sickle!
+
+[59|off=0x2764|chars=89]
+Franco: If you have a sickle, you can\nget rid of any grass or weeds\nthat are in your way.
+
+[60|off=0x2822|chars=73]
+Franco: Why don't you try using it\nwhen you're done watering\nfor the day?
+
+[61|off=0x28c0|chars=45]
+Franco: Hang on a minute...\nYour bag is full.
+
+[62|off=0x2926|chars=66]
+Franco: All right then. I'll just put\nit in your Item Box for you.
+
+[63|off=0x29b6|chars=66]
+Franco: I don't think there's anything\nleft for me to teach you...
+
+[64|off=0x2a46|chars=96]
+Franco: Farming should get more\nenjoyable once you harvest the crops\nthat you watered every day.
+
+[65|off=0x2b12|chars=20]
+Franco: By the way, 
+
+[66|off=0x2b3c|chars=48]
+P,\nhave you ever seen the sunset\nfrom your farm?
+
+[67|off=0x2ba8|chars=95]
+Franco: Hm? You look a little confused.\nDon't you know what a sunset is?\nIt's really beautiful.
+
+[68|off=0x2c72|chars=88]
+Franco: If you head toward the northern\ncliffs of your fields around 4:30\nyou'll see it.
+
+[69|off=0x2d2e|chars=28]
+Franco: Oh, one more thing,\n
+
+[70|off=0x2d78|chars=75]
+Franco: Million from Volcano town\nstopped by and left you a\nlittle present.
+
+[71|off=0x2e1a|chars=90]
+Franco: I think they're Asparagus Seeds.\nI left them in your Seed Box in\nthe Storage Area.
+
+[72|off=0x2eda|chars=100]
+Franco: The Storage Area is that big\nspace beneath your room. Why\ndon't you go and see for yourself?
+
+[73|off=0x2fae|chars=20]
+Franco: By the way, 
+
+[74|off=0x2fd8|chars=48]
+P,\nhave you ever seen the sunset\nfrom your farm?
+
+[75|off=0x3044|chars=95]
+Franco: Hm? You look a little confused.\nDon't you know what a sunset is?\nIt's really beautiful.
+
+[76|off=0x310e|chars=88]
+Franco: If you head toward the northern\ncliffs of your fields around 4:30\nyou'll see it.
+
+[77|off=0x31ca|chars=73]
+Franco: I love watching time pass.\nSeeing one season blend into\nthe next.
+
+[78|off=0x3268|chars=103]
+Franco: The rising sun is pretty, but\nthe sunsets around here are just\namazing. Particularly in autumn.
+
+[79|off=0x3342|chars=88]
+Franco: If you head toward the northern\ncliffs of your fields around 4:30\nyou'll see it.
+
+[80|off=0x33fe|chars=23]
+Franco: Zzzz... Zzzz...
+
+[81|off=0x3438|chars=89]
+Franco: I could sure go for some\nAsparagus sauteed in olive\noil right about now. Zzzz....
+
+[82|off=0x34f6|chars=50]
+Franco: Zzzz... Zzzz...\nJust a bit more...\nZzzz...
+
+[83|off=0x3566|chars=37]
+Franco: Zzzz.... Zzzz....\nGo to bed, 
+
+[84|off=0x35b2|chars=10]
+P.\nZzzz...
+
+[85|off=0x35d2|chars=63]
+Franco: Zzzz... Zzzz...\nI watered your crops for you...\nZzzz...
+
+[86|off=0x365c|chars=95]
+Franco: What can I do for you so early\nin the morning? I'm a little busy right\nat the moment...
+
+[87|off=0x3726|chars=111]
+Franco: I just love the quiet stillness\nof the morning... Close your eyes\nand take a deep breath. That's right.
+
+[88|off=0x3810|chars=62]
+Franco: Have you been clearing your\nfields of weeds and rocks?
+
+[89|off=0x3898|chars=98]
+Franco: Ah, I see.\nDr. Hope always did like to keep things\nclean, and I guess you're no different.
+
+[90|off=0x3968|chars=104]
+Franco: There are some kinds of weeds\nthat can be used for medicine. You can\nsell them if you find them.
+
+[91|off=0x3a44|chars=86]
+Franco: But remember that if you\nlet weeds grow unchecked,\nthey can kill nearby crops.
+
+[92|off=0x3afc|chars=110]
+Franco: Oh, and if you smash the rocks\nin your field with a hammer, you\ncan sometimes find building materials.
+
+[93|off=0x3be4|chars=71]
+Franco: You can ship the stone building\nmaterials using a Shipping Pod.
+
+[94|off=0x3c7e|chars=65]
+Franco: Oh! You like to keep things\nthe way nature made them, eh?
+
+[95|off=0x3d0c|chars=92]
+Franco: That's commendable, but you\nshould really think about cleaning\nup your fields a bit.
+
+[96|off=0x3dd0|chars=23]
+Franco: Zzzz... zzZZzz!
+
+[97|off=0x3e0a|chars=118]
+Franco: That tea really hit the spot!\nWhen the weather's bad, there's nothing\nbetter than staying warm and dry inside.
+
+[98|off=0x3f02|chars=95]
+Franco: What can I do for you so early\nin the morning? I'm a little busy right\nat the moment...
+
+[99|off=0x3fcc|chars=111]
+Franco: I just love the quiet stillness\nof the morning... Close your eyes and\ntake a deep breath. That's right.
+
+[100|off=0x40b6|chars=84]
+Franco: Farm work can sometimes be a\nlittle repetitive. Do you ever get\ntired of it?
+
+[101|off=0x416a|chars=99]
+Franco: Hoo hoo! I suppose that can't be\nhelped. You're young, after all. But\nthat's good in a way.
+
+[102|off=0x423c|chars=76]
+Franco: When you start to feel bored,\nthat's when the real challenge\nbegins.
+
+[103|off=0x42e0|chars=113]
+Franco: You have to see how you can make\nyour work more efficient. See how you\ncan be the best farmer you can be!
+
+[104|off=0x43ce|chars=23]
+Franco: Zzzz... zzZZzz!
+
+[105|off=0x4408|chars=21]
+Franco: Ugh... Ugh...
+
+[106|off=0x443e|chars=77]
+Franco: I think the milk I drank in\nMoonlight's room yesterday was\nspoiled...
+
+[107|off=0x44e4|chars=111]
+Franco: I just love the quiet stillness\nof the morning... Close your eyes\nand take a deep breath. That's right.
+
+[108|off=0x45ce|chars=84]
+Franco: Farm work can sometimes be a\nlittle repetitive. Do you ever get\ntired of it?
+
+[109|off=0x4682|chars=99]
+Franco: Hoo hoo! I suppose that can't be\nhelped. You're young, after all. But\nthat's good in a way.
+
+[110|off=0x4754|chars=76]
+Franco: When you start to feel bored,\nthat's when the real challenge begins.
+
+[111|off=0x47f8|chars=113]
+Franco: You have to see how you can make\nyour work more efficient. See how you\ncan be the best farmer you can be!
+
+[112|off=0x48e6|chars=23]
+Franco: Zzzz... Zzzz...
+
+[113|off=0x4920|chars=18]
+Franco: Oh hello, 
+
+[114|off=0x4946|chars=29]
+P.\nYou're certainly up early.
+
+[115|off=0x498c|chars=42]
+Franco: I'm going into Volcano Town\ntoday.
+
+[116|off=0x49ec|chars=65]
+Franco: There's nothing better than an\nearly bath on the weekend.
+
+[117|off=0x4a7a|chars=49]
+Moonlight: Franco has quite a collection\nof pots.
+
+[118|off=0x4ae8|chars=50]
+Moonlight: But he never lets me touch\nany of them!
+
+[119|off=0x4b58|chars=85]
+Moonlight: That's why I have to sneak in\nhere and do it when he's not around.\nHahaha!
+
+[120|off=0x4c0e|chars=75]
+Franco: Yawn.\nIsn't it about time we told our\ntrue feelings, Rose?  Zzzz...
+
+[121|off=0x4cb0|chars=74]
+Franco: I heard that you were asked\nto grow crops for the Spring\nFestival.
+
+[122|off=0x4d50|chars=106]
+Franco: That's a big responsibility!\nAnd it's the perfect chance to show\neveryone how good your crops are.
+
+[123|off=0x4e30|chars=106]
+Franco: That's a big responsibility!\nAnd it's the perfect chance to show\neveryone how good your crops are.
+
+[124|off=0x4f10|chars=95]
+Franco: I saw that robot of yours!\nIt's pretty "cool!" Is that what\nyoung folks say these days?
+
+[125|off=0x4fda|chars=95]
+Franco: I saw that robot of yours!\nIt's pretty "cool!" Is that what\nyoung folks say these days?
+
+[126|off=0x50a4|chars=90]
+Franco: And he can talk quite well, too!\nMaybe he and I can go out for a\ndrink sometime...
+
+[127|off=0x5164|chars=90]
+Franco: And he can talk quite well, too!\nMaybe he and I can go out for a\ndrink sometime...
+
+[128|off=0x5224|chars=87]
+Franco: Just kidding.\nDr. Hope would kill me if I did anything\nthat damaged that robot.
+
+[129|off=0x52de|chars=87]
+Franco: Just kidding.\nDr. Hope would kill me if I did anything\nthat damaged that robot.
+
+[130|off=0x5398|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[131|off=0x5414|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[132|off=0x54fa|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[133|off=0x55e6|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[134|off=0x566c|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[135|off=0x570c|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[136|off=0x57cc|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[137|off=0x5868|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[138|off=0x5926|chars=11]
+Moonlight: 
+
+[139|off=0x593e|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[140|off=0x59b2|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[141|off=0x5a3c|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[142|off=0x5ac0|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[143|off=0x5b5e|chars=11]
+Moonlight: 
+
+[144|off=0x5b76|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[145|off=0x5bf4|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[146|off=0x5c9a|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[147|off=0x5d08|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[148|off=0x5e04|chars=21]
+Franco: I can't wait!
+
+[149|off=0x5e3a|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[150|off=0x5e98|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[151|off=0x5f64|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[152|off=0x6022|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[153|off=0x6096|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[154|off=0x614e|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[155|off=0x61a4|chars=12]
+P. I am too.
+
+[156|off=0x61c8|chars=31]
+Franco: He was a good friend...
+
+[157|off=0x6212|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[158|off=0x627e|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[159|off=0x631e|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[160|off=0x63e6|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[161|off=0x646e|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[162|off=0x653c|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[163|off=0x65c2|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[164|off=0x6624|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[165|off=0x66f2|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[166|off=0x6778|chars=11]
+Moonlight: 
+
+[167|off=0x6790|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[168|off=0x6834|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[169|off=0x68a6|chars=20]
+Franco: Gaga gagaga.
+
+[170|off=0x68da|chars=20]
+Franco: Gaga gagaga.
+
+[171|off=0x690e|chars=20]
+Franco: Gaga gagaga.
+
+[172|off=0x6942|chars=20]
+Franco: Gaga gagaga.
+
+[173|off=0x6976|chars=20]
+Franco: Gaga gagaga.
+
+[174|off=0x69aa|chars=20]
+Franco: Gaga gagaga.
+
+[175|off=0x69de|chars=20]
+Franco: Gaga gagaga.
+
+[176|off=0x6a12|chars=20]
+Franco: Gaga gagaga.
+
+[177|off=0x6a46|chars=20]
+Franco: Gaga gagaga.
+
+[178|off=0x6a7a|chars=20]
+Franco: Ga... Zzz...
+
+[179|off=0x6aae|chars=20]
+Franco: Ga... Zzz...
+
+[180|off=0x6ae2|chars=20]
+Franco: Ga... Zzz...
+
+[181|off=0x6b16|chars=20]
+Franco: Ga... Zzz...
+
+[182|off=0x6b4a|chars=20]
+Franco: Ga... Zzz...
+
+[183|off=0x6b7e|chars=20]
+Franco: Ga... Zzz...
+
+[184|off=0x6bb2|chars=20]
+Franco: Ga... Zzz...
+
+[185|off=0x6be6|chars=35]
+Moonlight: Gaagaa!\nGaga gagagagaga!
+
+[186|off=0x6c34|chars=44]
+This is a very expensive looking\nwardrobe...
+
+[187|off=0x6c94|chars=31]
+There are dishes lined up here.
+
+[188|off=0x6cda|chars=27]
+You try washing your hands.
+
+[189|off=0x6d18|chars=30]
+This sink is very easy to use.
+
+[190|off=0x6d5c|chars=25]
+Your hands are now clean.
+
+[191|off=0x6d96|chars=24]
+But there was no soap...
+
+[192|off=0x6dce|chars=40]
+The water pressure seems a little\nlow...
+
+[193|off=0x6e26|chars=48]
+You were surprised at how dirty\nyour hands were.
+
+[194|off=0x6e8e|chars=43]
+There's water splashed all around\nthe sink!
+
+[195|off=0x6eec|chars=24]
+You wipe the area clean.
+
+[196|off=0x6f24|chars=26]
+Lukewarm water came out...
+
+[197|off=0x6f60|chars=49]
+The drain doesn't seem to be\nworking very well...
+
+[198|off=0x6fca|chars=41]
+Hot water came out with\nincredible force!
+
+[199|off=0x7024|chars=44]
+A very nice smell surrounds the\nsoap here...
+
+[200|off=0x7084|chars=55]
+You try washing your face.\nYou feel somewhat refreshed.
+
+[201|off=0x70fa|chars=42]
+There are lots of things on the\nshelves...
+
+[202|off=0x7156|chars=19]
+There is wine here.
+
+[203|off=0x7184|chars=23]
+You look at the toilet.
+
+[204|off=0x71ba|chars=32]
+It seems to have been flushed...
+
+[205|off=0x7202|chars=21]
+It's sparkling clean!
+
+[206|off=0x7234|chars=28]
+You push the "Flush" button.
+
+[207|off=0x7274|chars=30]
+There is a note on the toilet.
+
+[208|off=0x72b8|chars=20]
+"Please keep clean!"
+
+[209|off=0x72e8|chars=70]
+It appears to have a toilet seat\nthat raises and lowers automatically.
+
+[210|off=0x737c|chars=68]
+There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+
+[211|off=0x740c|chars=53]
+The scent of aromatic oil floats\naround the toilet...
+
+[212|off=0x747e|chars=29]
+This is an automatic bathtub.
+
+[213|off=0x74c0|chars=62]
+You opened the drawer.\nThere are many different things\ninside.
+
+[214|off=0x7544|chars=64]
+This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+
+[215|off=0x75cc|chars=38]
+There are many books in the\nbookshelf.
+
+[216|off=0x7620|chars=45]
+But there's no reason for you to\nread them...
+
+[217|off=0x7682|chars=26]
+You open the refrigerator.
+
+[218|off=0x76be|chars=65]
+But you quickly close it again\nto prevent the food from spoiling.
+
+[219|off=0x7748|chars=75]
+"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+
+[220|off=0x77e6|chars=86]
+"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+
+[221|off=0x789a|chars=63]
+"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+
+[222|off=0x7920|chars=50]
+"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+
+[223|off=0x798c|chars=71]
+"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+
+[224|off=0x7a22|chars=39]
+"Here and There"\n  Where on earth am I?
+
+[225|off=0x7a78|chars=39]
+"Straight Ahead: South Heartflame\nCave"
+
+[226|off=0x7ace|chars=30]
+"Straight Ahead: Easter Ruins"
+
+[227|off=0x7b12|chars=45]
+"Straight Ahead: Southeast Bank\nof East Lake"
+
+[228|off=0x7b74|chars=23]
+"East: Mushroom Forest"
+
+[229|off=0x7baa|chars=45]
+"Straight Ahead: Southwest Bank\nof East Lake"
+
+[230|off=0x7c0c|chars=37]
+"Danger! Fallen Trees.\nDo Not Enter."
+
+[231|off=0x7c5e|chars=25]
+"East: Heartflame Desert"
+
+[232|off=0x7c98|chars=18]
+"Heartflame Dunes"
+
+[233|off=0x7cc4|chars=26]
+"North: Heartflame Plains"
+
+[234|off=0x7d00|chars=19]
+"Heartflame Plains"
+
+[235|off=0x7d2e|chars=32]
+"Southeast Bank of Mermaid Lake"
+
+[236|off=0x7d76|chars=14]
+"Mermaid Lake"
+
+[237|off=0x7d9a|chars=24]
+"South: Mushroom Forest"
+
+[238|off=0x7dd2|chars=32]
+"Southwest Bank of Mermaid Lake"
+
+[239|off=0x7e1a|chars=11]
+"East Lake"
+
+[240|off=0x7e38|chars=54]
+I found a TV schedule wedged\nbetween sodden magazines.
+
+[241|off=0x7eac|chars=73]
+Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+
+[242|off=0x7f46|chars=70]
+Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+
+[243|off=0x7fdc|chars=28]
+How to play with Cart Rails,
+
+[244|off=0x8016|chars=7]
+ ~Rails
+
+[245|off=0x802c|chars=57]
+First, lay rails and\nprepare conditions to use Pod Rails.
+
+[246|off=0x80a6|chars=113]
+You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+
+[247|off=0x8194|chars=28]
+How to play with Cart Rails,
+
+[248|off=0x81ce|chars=8]
+ ~Motors
+
+[249|off=0x81e6|chars=102]
+Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+
+[250|off=0x82ba|chars=96]
+You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+
+[251|off=0x837c|chars=8]
+ button.
+
+[252|off=0x8394|chars=38]
+"How to play with Cart Rails," ~ Carts
+
+[253|off=0x83e8|chars=118]
+Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+
+[254|off=0x84dc|chars=62]
+You can be a driver\nif you operate Motors\nwhile riding a Cart.
+
+[255|off=0x8560|chars=40]
+"How to play with Cart Rails," ~Shipping
+
+[256|off=0x85b8|chars=95]
+If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+
+[257|off=0x867e|chars=120]
+Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+
+[258|off=0x8778|chars=22]
+Physiocracy and Magic,
+
+[259|off=0x87a6|chars=21]
+\n~or "Book of Spirit"
+
+[260|off=0x87d8|chars=69]
+If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+
+[261|off=0x886a|chars=75]
+You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+
+[262|off=0x8908|chars=59]
+It's a book with Fairy Tales\nfor early childhood education.
+
+[263|off=0x8986|chars=91]
+I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+
+[264|off=0x8a44|chars=28]
+My heart is twinging...\nWhy?
+
+[265|off=0x8a84|chars=44]
+It's a Haiku Book\nwritten by Principle Rose.
+
+[266|off=0x8ae4|chars=68]
+There are more Haikus about love\nthan about scenery or daily life...
+
+[267|off=0x8b74|chars=69]
+It's like reading someone else's diary.\nI feel a little bit guilty...
+
+[268|off=0x8c08|chars=30]
+Tale of the Love & Bow Knight,
+
+[269|off=0x8c46|chars=7]
+ Vol. 1
+
+[270|off=0x8c5c|chars=63]
+Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+
+[271|off=0x8ce2|chars=108]
+There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+
+[272|off=0x8dc4|chars=30]
+Tale of the Love & Bow Knight,
+
+[273|off=0x8e02|chars=7]
+ Vol. 2
+
+[274|off=0x8e18|chars=73]
+Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+
+[275|off=0x8eb2|chars=106]
+They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+
+[276|off=0x8f8e|chars=6]
+Yes\nNo
+
+[277|off=0x8fa2|chars=6]
+Yes\nNo
+
+[278|off=0x8fb6|chars=6]
+Yes\nNo
+
+[279|off=0x8fca|chars=6]
+Yes\nNo
+
+[280|off=0x8fde|chars=6]
+Yes\nNo
+
+[281|off=0x8ff2|chars=6]
+Yes\nNo
+
+[282|off=0x9006|chars=6]
+Yes\nNo

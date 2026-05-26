@@ -1,0 +1,50 @@
+# SI_DB00.DAT - 15 strings UTF-16
+# Formato: [N|kind=K|chars=CC|id=0xID|hdr=0xHHHH|str=0xSSSS] linha de header.
+# kind: item (chunk com ID), cont (continuacao), flex (header simples).
+# Texto nas linhas seguintes ate proximo bloco. ESCAPE <HHLL> = 2 bytes brutos.
+# NAO mude o header. Mantenha chars EXATO (PT mesma quantidade de chars).
+
+[0|kind=flex|chars=9|hdr=0x654|str=0x65a]
+Vegetable
+
+[1|kind=flex|chars=5|hdr=0x670|str=0x676]
+Fruit
+
+[2|kind=flex|chars=6|hdr=0x684|str=0x68a]
+Flower
+
+[3|kind=flex|chars=4|hdr=0x69a|str=0x6a0]
+Herb
+
+[4|kind=flex|chars=8|hdr=0x6ac|str=0x6b2]
+Mushroom
+
+[5|kind=flex|chars=15|hdr=0x6c6|str=0x6cc]
+Poison Mushroom
+
+[6|kind=flex|chars=4|hdr=0x6ee|str=0x6f4]
+Bean
+
+[7|kind=flex|chars=5|hdr=0x700|str=0x706]
+Grass
+
+[8|kind=flex|chars=5|hdr=0x714|str=0x71a]
+Trash
+
+[9|kind=flex|chars=8|hdr=0x728|str=0x72e]
+Resource
+
+[10|kind=flex|chars=12|hdr=0x742|str=0x748]
+Spirit Stone
+
+[11|kind=flex|chars=3|hdr=0x764|str=0x76a]
+Ore
+
+[12|kind=flex|chars=4|hdr=0x774|str=0x77a]
+Tool
+
+[13|kind=flex|chars=14|hdr=0x786|str=0x78c]
+Farming Equip.
+
+[14|kind=flex|chars=12|hdr=0x7ac|str=0x7b2]
+Farming Tool

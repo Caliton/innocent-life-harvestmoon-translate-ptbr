@@ -1,0 +1,263 @@
+# D05F1B.SCP - 86 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x38a|chars=76]
+This is your bed...\nBut you can't take a nap now.\nFranco is waiting for you.
+
+[1|off=0x42e|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[2|off=0x4aa|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[3|off=0x590|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[4|off=0x67c|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[5|off=0x702|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[6|off=0x7a2|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[7|off=0x862|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[8|off=0x8fe|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[9|off=0x9bc|chars=11]
+Moonlight: 
+
+[10|off=0x9d4|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[11|off=0xa48|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[12|off=0xad2|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[13|off=0xb56|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[14|off=0xbf4|chars=11]
+Moonlight: 
+
+[15|off=0xc0c|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[16|off=0xc8a|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[17|off=0xd30|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[18|off=0xd9e|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[19|off=0xe9a|chars=21]
+Franco: I can't wait!
+
+[20|off=0xed0|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[21|off=0xf2e|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[22|off=0xffa|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[23|off=0x10b8|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[24|off=0x112c|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[25|off=0x11e4|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[26|off=0x123a|chars=12]
+P. I am too.
+
+[27|off=0x125e|chars=31]
+Franco: He was a good friend...
+
+[28|off=0x12a8|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[29|off=0x1314|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[30|off=0x13b4|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[31|off=0x147c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[32|off=0x1504|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[33|off=0x15d2|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[34|off=0x1658|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[35|off=0x16ba|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[36|off=0x1788|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[37|off=0x180e|chars=11]
+Moonlight: 
+
+[38|off=0x1826|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[39|off=0x18ca|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[40|off=0x193c|chars=72]
+*: I'm the Nature Sprite of Knowledge.\nI am one of the 3 Nature Sprites.
+
+[41|off=0x19d8|chars=89]
+*: Who are you?\nIf you're able to enter this forest,\nyou must be a friend of the mermaid.
+
+[42|off=0x1a96|chars=108]
+*: Then maybe you know where the\nForest Spirit is sleeping. We're lost\nand we can't find our way back there.
+
+[43|off=0x1b7a|chars=75]
+*: The Nature Sprite of Memory is gone\nand without him we can't\nremember...
+
+[44|off=0x1c1c|chars=109]
+*: The Nature Sprite of Memory is the only\none who knows the way back to where\nthe Forest Spirit is sleeping.
+
+[45|off=0x1d02|chars=30]
+*: He's our memory, after all.
+
+[46|off=0x1d4a|chars=73]
+*: I'm the Nature Sprite of Friendship.\nI am one of the 3 Nature Sprites.
+
+[47|off=0x1de8|chars=94]
+*: Who are you? If you're able to enter\nthis forest, you must be a friend of\nthe Water Spirit.
+
+[48|off=0x1eb0|chars=79]
+*: Then maybe you know why the Nature\nSprite of Memory won't come back\nto us...
+
+[49|off=0x1f5a|chars=76]
+*: His sad memories were too much for\nhim and so he went somewhere far\naway.
+
+[50|off=0x1ffe|chars=102]
+*: The Nature Sprite of Memory loves\nflowers. I can tell because I love\nthem too, and we're connected.
+
+[51|off=0x20d6|chars=106]
+*: I particularly like winter flowers.\nI love seeing lots of poinsettias\ngrowing in the pure white snow...
+
+[52|off=0x21b6|chars=123]
+*: We three Nature Sprites are part\nof one whole.\nIf we had the Crest of the\nForest Spirit, we could become\none once again.
+
+[53|off=0x22b8|chars=83]
+*: He's back. He's back!\nIf the Nature Sprite of Memory was\nhere, we could go home.
+
+[54|off=0x236a|chars=65]
+*: Hm? You don't have it with you?\nThen please come back with it.
+
+[55|off=0x23f8|chars=30]
+*: I've been waiting for you,\n
+
+[56|off=0x2436|chars=46]
+P. Do you have the\nCrest of the Forest Spirit?
+
+[57|off=0x249e|chars=30]
+*: I've been waiting for you,\n
+
+[58|off=0x24dc|chars=46]
+P. Do you have the\nCrest of the Forest Spirit?
+
+[59|off=0x2544|chars=97]
+*: Thank you. Now we can use my memory\nto go to where the Forest Spirit sleeps.\nPlease follow me.
+
+[60|off=0x2612|chars=97]
+*: Thank you. Now we can use my memory\nto go to where the Forest Spirit sleeps.\nPlease follow me.
+
+[61|off=0x26dc|chars=28]
+I must have been dreaming...
+
+[62|off=0x271e|chars=58]
+P tried to sleep,\nbut he kept thinking he forgot\nsomething
+
+[63|off=0x279c|chars=32]
+Before you know it,\nit's dawn...
+
+[64|off=0x27e6|chars=43]
+R is waiting!\nMaybe you should talk to him.
+
+[65|off=0x2844|chars=60]
+You heard a voice that sounds like\nMax's somewhere nearby...
+
+[66|off=0x28c4|chars=66]
+Your activities from the previous\nday increased your Human\nStatus!
+
+[67|off=0x2950|chars=59]
+Do you want to go to bed and\nsleep for the rest of the day?
+
+[68|off=0x29ce|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[69|off=0x2a4a|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[70|off=0x2ac6|chars=36]
+Do you want to sleep here for today?
+
+[71|off=0x2b16|chars=76]
+Then do you want to use the tent's\nwarp function to return to your own\nroom?
+
+[72|off=0x2bb6|chars=44]
+There's no place for\nyou to pitch your tent!
+
+[73|off=0x2c16|chars=6]
+Yes\nNo
+
+[74|off=0x2c2a|chars=6]
+Yes\nNo
+
+[75|off=0x2c3e|chars=6]
+Yes\nNo
+
+[76|off=0x2c52|chars=6]
+Yes\nNo
+
+[77|off=0x2c66|chars=57]
+Save and go to sleep.\nGo to sleep without saving.\nCancel.
+
+[78|off=0x2ce0|chars=21]
+Challenge increased!\n
+
+[79|off=0x2d20|chars=21]
+Challenge increased!\n
+
+[80|off=0x2d60|chars=16]
+Love increased!\n
+
+[81|off=0x2d96|chars=24]
+Intelligence increased!\n
+
+[82|off=0x2ddc|chars=19]
+Cooking increased!\n
+
+[83|off=0x2e18|chars=22]
+Creativity increased!\n
+
+[84|off=0x2e5a|chars=17]
+Humor increased!\n
+
+[85|off=0x2e92|chars=58]
+You haven't gone to Dr. Hope's\nfor your maintenance today!

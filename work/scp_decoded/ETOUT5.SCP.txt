@@ -1,0 +1,281 @@
+# ETOUT5.SCP - 92 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x3aa|chars=76]
+This is your bed...\nBut you can't take a nap now.\nFranco is waiting for you.
+
+[1|off=0x44e|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[2|off=0x4ca|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[3|off=0x5b0|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[4|off=0x69c|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[5|off=0x722|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[6|off=0x7c2|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[7|off=0x882|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[8|off=0x91e|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[9|off=0x9dc|chars=11]
+Moonlight: 
+
+[10|off=0x9f4|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[11|off=0xa68|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[12|off=0xaf2|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[13|off=0xb76|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[14|off=0xc14|chars=11]
+Moonlight: 
+
+[15|off=0xc2c|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[16|off=0xcaa|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[17|off=0xd50|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[18|off=0xdbe|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[19|off=0xeba|chars=21]
+Franco: I can't wait!
+
+[20|off=0xef0|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[21|off=0xf4e|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[22|off=0x101a|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[23|off=0x10d8|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[24|off=0x114c|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[25|off=0x1204|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[26|off=0x125a|chars=12]
+P. I am too.
+
+[27|off=0x127e|chars=31]
+Franco: He was a good friend...
+
+[28|off=0x12c8|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[29|off=0x1334|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[30|off=0x13d4|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[31|off=0x149c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[32|off=0x1524|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[33|off=0x15f2|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[34|off=0x1678|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[35|off=0x16da|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[36|off=0x17a8|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[37|off=0x182e|chars=11]
+Moonlight: 
+
+[38|off=0x1846|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[39|off=0x18ea|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[40|off=0x195c|chars=13]
+Becky: Look! 
+
+[41|off=0x1988|chars=34]
+Becky: A white rose in the snow...
+
+[42|off=0x19d8|chars=93]
+Becky: The old tale was about\nthe snow falling in summer,\nnot the rose blooming in winter...!
+
+[43|off=0x1a9a|chars=4]
+But 
+
+[44|off=0x1aa4|chars=53]
+P's hands\nsomehow felt too weak\nto check the items...
+
+[45|off=0x1b18|chars=16]
+P looked around.
+
+[46|off=0x1b40|chars=37]
+The snow all around was too bright...
+
+[47|off=0x1b92|chars=37]
+The snow all around was too bright...
+
+[48|off=0x1be4|chars=51]
+The cold air was flowing out of\nthe Shipping Pod...
+
+[49|off=0x1c52|chars=51]
+The cold air was flowing out of\nthe Shipping Pod...
+
+[50|off=0x1cc4|chars=29]
+Gayak: What's wrong with you\n
+
+[51|off=0x1d00|chars=59]
+P, staring at me like that?\nDo I have something on my face?
+
+[52|off=0x1d82|chars=82]
+Gayak: I'd better take Master Lionel home\nnow, otherwise Marco will be very upset.
+
+[53|off=0x1e32|chars=22]
+Lionel: Zzzz... Zzz...
+
+[54|off=0x1e6a|chars=44]
+Lionel: Grrrr...\nMy fifth serving of crepe~!
+
+[55|off=0x1ece|chars=28]
+Lionel: ...Zzzzz...  Zzzz...
+
+[56|off=0x1f12|chars=14]
+Simon: Sorry, 
+
+[57|off=0x1f30|chars=41]
+P.\nLionel doesn't mean to be mean to you.
+
+[58|off=0x1f8e|chars=59]
+Simon: I just flunked making a crepe\nfor fortune telling...
+
+[59|off=0x2010|chars=75]
+Becky: Honey,\ndo you still remember the promise\nwe made on our wedding day?
+
+[60|off=0x20b2|chars=36]
+Becky: It's the rose of happiness...
+
+[61|off=0x2106|chars=46]
+Becky: ...I wish I could show it to my dad\ntoo
+
+[62|off=0x2170|chars=82]
+Becky: We came a long way, didn't we...?\nWe had hard time, but I'm very happy now.
+
+[63|off=0x2220|chars=7]
+Becky: 
+
+[64|off=0x2230|chars=20]
+P,\nare you happy...?
+
+[65|off=0x2264|chars=18]
+Becky: Ha...he...?
+
+[66|off=0x2294|chars=49]
+Becky: ...Sorry...\n...need to sneeze...*achoo*...
+
+[67|off=0x22fe|chars=18]
+BLESSSS YOUUUUU!!!
+
+[68|off=0x232c|chars=58]
+P tried to sleep,\nbut he kept thinking he forgot\nsomething
+
+[69|off=0x23aa|chars=32]
+Before you know it,\nit's dawn...
+
+[70|off=0x23f4|chars=43]
+R is waiting!\nMaybe you should talk to him.
+
+[71|off=0x2452|chars=60]
+You heard a voice that sounds like\nMax's somewhere nearby...
+
+[72|off=0x24d2|chars=66]
+Your activities from the previous\nday increased your Human\nStatus!
+
+[73|off=0x255e|chars=59]
+Do you want to go to bed and\nsleep for the rest of the day?
+
+[74|off=0x25dc|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[75|off=0x2658|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[76|off=0x26d4|chars=36]
+Do you want to sleep here for today?
+
+[77|off=0x2724|chars=76]
+Then do you want to use the tent's\nwarp function to return to your own\nroom?
+
+[78|off=0x27c4|chars=6]
+Yes\nNo
+
+[79|off=0x27d8|chars=6]
+Yes\nNo
+
+[80|off=0x27ec|chars=6]
+Yes\nNo
+
+[81|off=0x2800|chars=6]
+Yes\nNo
+
+[82|off=0x2814|chars=6]
+Yes\nNo
+
+[83|off=0x2828|chars=57]
+Save and go to sleep.\nGo to sleep without saving.\nCancel.
+
+[84|off=0x28a2|chars=21]
+Challenge increased!\n
+
+[85|off=0x28e2|chars=21]
+Challenge increased!\n
+
+[86|off=0x2922|chars=16]
+Love increased!\n
+
+[87|off=0x2958|chars=24]
+Intelligence increased!\n
+
+[88|off=0x299e|chars=19]
+Cooking increased!\n
+
+[89|off=0x29da|chars=22]
+Creativity increased!\n
+
+[90|off=0x2a1c|chars=17]
+Humor increased!\n
+
+[91|off=0x2a54|chars=58]
+You haven't gone to Dr. Hope's\nfor your maintenance today!

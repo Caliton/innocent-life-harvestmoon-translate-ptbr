@@ -1,0 +1,311 @@
+# VTCHF1A.SCP - 102 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x416|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x492|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x578|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x664|chars=61]
+Franco: Ouvi thnoy ainda usar them\nbastante muito overseas.
+
+[4|off=0x6ea|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x78a|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x84a|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x8e6|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0x9a4|chars=11]
+Moonlight: 
+
+[9|off=0x9bc|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0xa30|chars=63]
+Moonlight: You can ir so about\nanyonde in a buggy gostar esse!
+
+[11|off=0xaba|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0xb3e|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0xbdc|chars=11]
+Moonlight: 
+
+[14|off=0xbf4|chars=57]
+P!\nOuvi they had alguns trouble na\nVolcano Town gruta.
+
+[15|off=0xc72|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xd18|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0xd86|chars=120]
+Franco: If you can homemage to ship muito\ndam pelo dia antes Christmas Eve,\nthey can usar them to decorate the cidade.
+
+[18|off=0xe82|chars=21]
+Franco: Mal posso esp
+
+[19|off=0xeb8|chars=41]
+Franco: Ouvi esse Dr. Hope\ncollapsed...
+
+[20|off=0xf16|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0xfe2|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0x10a0|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0x1114|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x11cc|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x1222|chars=12]
+P. Eu tambem
+
+[26|off=0x1246|chars=31]
+Franco: Era um bom amigo...
+
+[27|off=0x1290|chars=48]
+Moonlight: Ouvid the voice da\nFire Spirit!
+
+[28|off=0x12fc|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x139c|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x1464|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x14ec|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x15ba|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x1640|chars=43]
+Franco: An alien is living na novo\nquarto?
+
+[34|off=0x16a2|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x1770|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x17f6|chars=11]
+Moonlight: 
+
+[37|off=0x180e|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x18b2|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x1924|chars=130]
+Charles: My job is listening to what the\npeople have to say and conveying\ninformation to my father.\nPlease talk to me at any time.
+
+[40|off=0x1a34|chars=100]
+Charles: What am I saying? I should be\ncoming to you for help! You're the\none who saved this island!
+
+[41|off=0x1b08|chars=62]
+Liberta: Nobody really thinks the mayor\nknows what he's doing.
+
+[42|off=0x1b90|chars=84]
+Liberta: You can't expect a man who\ndoesn't even appreciate good wine\nto protect us.
+
+[43|off=0x1c44|chars=29]
+Liberta: Hmph. Oh, e you, 
+
+[44|off=0x1c80|chars=64]
+P.\nWhen you grow up, remind me to give\nyou a bottle of our wine.
+
+[45|off=0x1d0c|chars=86]
+Jessica: An impressive statue like this\ndoesn't really fit in here. It seems\nso empty.
+
+[46|off=0x1dc4|chars=73]
+Jessica: Oh, I'm sorry. My name is\nJessica. Please excuse my bad manners!
+
+[47|off=0x1e62|chars=48]
+Jessica: My, o que a bem ribbon.\nIs it for me?
+
+[48|off=0x1ece|chars=111]
+Jessica: Are you sure? It looks\nvaluable. It's so shiny. Almost like it\nis from some other world. Are you sure?
+
+[49|off=0x1fb8|chars=86]
+Jessica: Thank you!\nBut I can't just take it without\ngiving something in return. Here.
+
+[50|off=0x206c|chars=39]
+Jessica took out a sparkling\nred stone.
+
+[51|off=0x20c2|chars=17]
+It's a Red Jewel!
+
+[52|off=0x20f0|chars=55]
+Jessica: I'll send it on to your Item\nBox, Don't worry.
+
+[53|off=0x216a|chars=46]
+Jessica: No, I didn't think so.\nIt's too nice.
+
+[54|off=0x21d2|chars=96]
+Jessica: It's so hard to find a man\nwho's really worth something. Oh,\nI'm not talking about you.
+
+[55|off=0x229e|chars=72]
+Jessica: Because of you, I was able to\nmarry a wonderful man. Thank you.
+
+[56|off=0x233a|chars=103]
+Jessica: We'll be living apart for a\nwhile because of our jobs, but he's very\nunderstanding about that.
+
+[57|off=0x2414|chars=103]
+Jessica: We'll be living apart for a\nwhile because of our jobs, but he's very\nunderstanding about that.
+
+[58|off=0x24ee|chars=64]
+Liberta: Hm. A boy, eh...?\nYou're Dr. Hope's son,\naren't you...?
+
+[59|off=0x257a|chars=75]
+Liberta: ...Hm.\nYour face looks tender,\nbut you've got wise looking eyes...
+
+[60|off=0x261c|chars=82]
+Liberta: ...Hm.\nI will pass this Dictionary that\nI, Liberta, have complied to you!
+
+[61|off=0x26cc|chars=24]
+Liberta: Here, take it. 
+
+[62|off=0x270c|chars=96]
+Liberta: Hm? Your hands are full...\nThen, I will have someone bring it\nto you later at the site.
+
+[63|off=0x27d8|chars=95]
+Liberta: I'm not finished writing it yet,\nbut my words will ripen\nwhen the boy meets the world.
+
+[64|off=0x28a2|chars=76]
+Liberta: Let's see...\nWhy don't you come see me\nwhen the new season arrives?
+
+[65|off=0x2946|chars=12]
+Liberta: If 
+
+[66|off=0x2960|chars=92]
+P works hard,\nyou may have words to register in my\nDictionary which should be ready by then.
+
+[67|off=0x2a24|chars=19]
+Liberta: It's you, 
+
+[68|off=0x2a4c|chars=34]
+P.\nAre you using my Dictionary...?
+
+[69|off=0x2a9c|chars=113]
+Liberta: Ho, ho. You are expanding your\nadventure world. You completed shipping\nthe Spring Vegetables already...!
+
+[70|off=0x2b8a|chars=98]
+Liberta: Hm. You are working really hard!\nYou completed shipping\nthe Summer Vegetables already...!
+
+[71|off=0x2c5a|chars=80]
+Liberta: Oh! You completed shipping\nall Fall Vegetables already...\nWay to go...!
+
+[72|off=0x2d06|chars=94]
+Liberta: Oh, I just remembered...\nI heard that you were a great help\nwhen Million got married!
+
+[73|off=0x2dce|chars=92]
+Liberta: I see... You understand the Arts.\nYou've seen the works that\nMoonlight created, eh?
+
+[74|off=0x2e92|chars=90]
+Liberta: Well, voce e truly a gnossomet.\nYou've ja completed\nmaking the menu lists, eh?
+
+[75|off=0x2f52|chars=87]
+Liberta: That's great!\nYou finally were able to ship\nall sorts of flowers and herbs...!
+
+[76|off=0x300c|chars=72]
+Liberta: By the way, is it true that you\nstopped the aliens? That's the\n
+
+[77|off=0x309e|chars=25]
+P Sei, Eu should dizer...
+
+[78|off=0x30dc|chars=102]
+Liberta: HOORAY! You finally shipped\nall of the Native Vegetation\nthat you can get on this island....!
+
+[79|off=0x31b4|chars=114]
+Liberta: No way! Amazing... You're saying\nthat you disciplined spirits, mastered\nskills and made a fortune, right?
+
+[80|off=0x32a4|chars=89]
+Liberta: Oh...! As a matter of fact, Estava\nso gatsuaing possible words\nna crueltempo.
+
+[81|off=0x3362|chars=106]
+Liberta: These words will mature like wine.\nThey will fill the warehouse of\nyour intelligence even more...
+
+[82|off=0x343e|chars=55]
+A new word has been registered\nin Liberta's Dictionary!
+
+[83|off=0x34b8|chars=20]
+Liberta: Well done, 
+
+[84|off=0x34e2|chars=58]
+P.\nI'm impressed. That's Dr. Hope's beloved\nInnocent Life!
+
+[85|off=0x3562|chars=72]
+Liberta: I must say my Dictionary has\nreached its peak.\nI owe it to you.
+
+[86|off=0x35fe|chars=64]
+Liberta: Hm....\nIt's not such a bad idea\nto share this joy with 
+
+[87|off=0x3690|chars=55]
+Liberta: OK! I will give you\nfour Ripened Black Jewels.
+
+[88|off=0x3708|chars=30]
+P received four Black Jewels.\n
+
+[89|off=0x3754|chars=95]
+Liberta: Hm? Your hands are full...\nThen, I'll have someone\nbring it to you later at the ruins.
+
+[90|off=0x381e|chars=79]
+Liberta: ...I thought that was all,\nbut there seem to be even more things\nthat 
+
+[91|off=0x38be|chars=19]
+P has accomplished.
+
+[92|off=0x38f0|chars=70]
+Liberta: Even ordinary words have\nendless possibilities\nhidden within.
+
+[93|off=0x3988|chars=81]
+Liberta: It's just like fine wine.\nLove and time,\nthat's what it takes to mature.
+
+[94|off=0x3a36|chars=20]
+Liberta: Well done, 
+
+[95|off=0x3a60|chars=58]
+P.\nI'm impressed. That's Dr. Hope's beloved\nInnocent Life!
+
+[96|off=0x3ae0|chars=72]
+Liberta: I must say my Dictionary has\nreached its peak.\nI owe it to you.
+
+[97|off=0x3b7c|chars=18]
+Charles: Ga! Gaga!
+
+[98|off=0x3bac|chars=16]
+Liberta: Ga! Ga!
+
+[99|off=0x3bd8|chars=20]
+Jessica: Ga... ga...
+
+[100|off=0x3c08|chars=6]
+Yes\nNo
+
+[101|off=0x3c1c|chars=6]
+Yes\nNo

@@ -1,0 +1,2150 @@
+# SYSTEM.MSG - 715 mensagens
+# Formato: [N|slot=SS|id=0xMID] linha de header.
+# Texto nas linhas seguintes ate proximo bloco.
+# Tokens <XX> = byte de controle, <HHLL> = 2 bytes brutos.
+# Quebra de linha vira \n literal. NAO mude o header [N|...].
+
+[0|slot=100|id=0x18d]
+
+
+[1|slot=120|id=0x44d]
+<0002>Seu receptor auricular captou uma\nmensagem do Dr. Hope!<02>\n
+
+[2|slot=110|id=0x44e]
+
+
+[3|slot=124|id=0x952]
+<0002><08><02>Franco: Voce ja comecou a criar\ngado, hein?<02>\n
+
+[4|slot=230|id=0x953]
+<0002><08><02>Franco: Sabia que os robos de criacao\nde gado tipo o Cluck-o-Matic tambem\nsao invencoes do Dr. Hope?<02>\n
+
+[5|slot=236|id=0x954]
+<0002><08><02>Franco: Hoje em dia tudo na fazenda\ne automatico, mas no comeco usar robos\nera uma ideia bem revolucionaria.<02>\n
+
+[6|slot=134|id=0x955]
+
+
+[7|slot=160|id=0x958]
+<0002><08><02>Moonlight: O balido dos animais\nsoa de novo entre estas\nruinas!<02>\n
+
+[8|slot=192|id=0x959]
+
+
+[9|slot=156|id=0x95c]
+<0002><08><02>Franco: Uau!\nVoce e sortudo, hein!\nGanhar um buggy desses de presente!<02>\n
+
+[10|slot=190|id=0x95d]
+
+
+[11|slot=140|id=0x960]
+<0002><08><02>Moonlight: <06>P! Vi que ganhou um\npresente bem legal do Dr. Hope.<02>\n
+
+[12|slot=138|id=0x961]
+
+
+[13|slot=132|id=0x964]
+<0002><08><02>Franco: Nem acredito que Marco fez\numa besteira dessas.<02>\n
+
+[14|slot=158|id=0x965]
+
+
+[15|slot=150|id=0x968]
+<0002><08><02>Moonlight: <06>P!\nSoube de um problema na caverna\nde Volcano Town.<02>\n
+
+[16|slot=166|id=0x969]
+
+
+[17|slot=110|id=0x96c]
+<0002><08><02>Franco: Soube que voce plantou\numas poinsetias.<02>\n
+
+[18|slot=252|id=0x96d]
+<0002><08><02>Franco: Se voce conseguir enviar muitas\nantes da vespera de Natal, elas podem\nser usadas para enfeitar a cidade.<02>\n
+
+[19|slot=54|id=0x96e]
+
+
+[20|slot=94|id=0x971]
+<0002><08><02>Franco: Soube que o Dr. Hope\ndesmaiou...<02>\n
+
+[21|slot=204|id=0x972]
+<0002><08><02>Franco: Sei que voce esta preocupado\ncom ele, mas tem trabalho importante\nseu pra terminar.<02>\n
+
+[22|slot=190|id=0x973]
+
+
+[23|slot=116|id=0x976]
+<0002><08><02>Moonlight: Nao sabia que o Dr.\nHope estava doente...<02>\n
+
+[24|slot=184|id=0x977]
+
+
+[25|slot=122|id=0x97a]
+<0002><08><02>Franco: Triste pelo Dr. Hope,\n<06>P? Eu tambem.<02>\n
+
+[26|slot=74|id=0x97b]
+
+
+[27|slot=108|id=0x97e]
+<0002><08><02>Moonlight: Eu ouvi a voz do\nEspirito do Fogo!<02>\n
+
+[28|slot=160|id=0x97f]
+<0002><08><02>Moonlight: Ele me disse que ha mais\nneste mundo do que se ve aos\nolhos!<02>\n
+
+[29|slot=200|id=0x980]
+
+
+[30|slot=136|id=0x99a]
+<0002><08><02>Franco: Quem e o estranho que\nmora agora no quarto novo?<02>\n
+
+[31|slot=206|id=0x99b]
+<0002><08><02>Franco: Bem, aquela area ficou trancada\npor muito tempo, entao nao era de\nninguem mesmo...<02>\n
+
+[32|slot=134|id=0x99c]
+
+
+[33|slot=98|id=0x9b3]
+<0002><08><02>Franco: Um alien morando no quarto\nnovo?<02>\n
+
+[34|slot=206|id=0x9b4]
+<0002><08><02>Franco: Bem, aquela area ficou trancada\npor muito tempo, entao nao era de\nninguem mesmo...<02>\n
+
+[35|slot=134|id=0x9b5]
+
+
+[36|slot=188|id=0x9b8]
+<0002><08><02>Moonlight: <06>P!\nVi uma coisa estranha tipo bicho de\npelucia naquele quarto novo.<02>\n
+
+[37|slot=114|id=0x9b9]
+
+
+[38|slot=138|id=0x178c]
+<0002>Voce ouve a voz do Espirito do Fogo\nvinda de toda parte!<02>\n
+
+[39|slot=146|id=0x178d]
+
+
+[40|slot=70|id=0x7595]
+
+
+[41|slot=116|id=0x1482a]
+<0002><06>P captou uma transmissao\nde radio da Vita!<02>\n
+
+[42|slot=188|id=0x1482b]
+<0002><08><03>Vita: Mestre <06>P,\nPor favor, venha ao Bar do Masami ja.\nTodos estao esperando voce...<02>\n
+
+[43|slot=76|id=0x1482c]
+
+
+[44|slot=64|id=0xbbfd1]
+<0002>Seu Nivel Humano\naumentou!<02>\n
+
+[45|slot=64|id=0xbbfd1]
+<0002>Seu Nivel Humano\naumentou!<02>\n
+
+[46|slot=140|id=0xbbfd5]
+<0002>Suas atividades do dia anterior\naumentaram seu Nivel\nHumano!<02>\n
+
+[47|slot=140|id=0xbbfd5]
+<0002>Suas atividades do dia anterior\naumentaram seu Nivel\nHumano!<02>\n
+
+[48|slot=126|id=0xbbfd9]
+
+
+[49|slot=126|id=0xbbfd9]
+
+
+[50|slot=124|id=0xbbfdc]
+
+
+[51|slot=124|id=0xbbfdc]
+
+
+[52|slot=124|id=0xbbfe1]
+
+
+[53|slot=124|id=0xbbfe1]
+
+
+[54|slot=62|id=0xbbfe6]
+
+
+[55|slot=62|id=0xbbfe6]
+
+
+[56|slot=66|id=0xbbfe8]
+
+
+[57|slot=66|id=0xbbfe8]
+
+
+[58|slot=62|id=0xbbfea]
+
+
+[59|slot=62|id=0xbbfea]
+
+
+[60|slot=58|id=0xbbfec]
+
+
+[61|slot=58|id=0xbbfec]
+
+
+[62|slot=122|id=0xbbfee]
+
+
+[63|slot=122|id=0xbbfee]
+
+
+[64|slot=82|id=0xbbff0]
+
+
+[65|slot=82|id=0xbbff0]
+
+
+[66|slot=48|id=0xbbff2]
+<0002>Porta trancada!<02>\n
+
+[67|slot=48|id=0xbbff2]
+<0002>Porta trancada!<02>\n
+
+[68|slot=84|id=0xbbff3]
+
+
+[69|slot=84|id=0xbbff3]
+
+
+[70|slot=110|id=0xbbff5]
+
+
+[71|slot=110|id=0xbbff5]
+
+
+[72|slot=188|id=0xbbff7]
+
+
+[73|slot=188|id=0xbbff7]
+
+
+[74|slot=220|id=0xbbff9]
+
+
+[75|slot=220|id=0xbbff9]
+
+
+[76|slot=116|id=0xbbffb]
+
+
+[77|slot=116|id=0xbbffb]
+
+
+[78|slot=160|id=0xbbffd]
+
+
+[79|slot=160|id=0xbbffd]
+
+
+[80|slot=76|id=0xbc000]
+
+
+[81|slot=76|id=0xbc000]
+
+
+[82|slot=174|id=0xbc003]
+
+
+[83|slot=174|id=0xbc003]
+
+
+[84|slot=196|id=0xbc005]
+<0002>Obrigado por escolher a Green Network\nTV, o canal que pensa no futuro\ndo planeta.<02>\n
+
+[85|slot=196|id=0xbc005]
+<0002>Obrigado por escolher a Green Network\nTV, o canal que pensa no futuro\ndo planeta.<02>\n
+
+[86|slot=66|id=0xbc006]
+<0002>Estamos fora do ar agora.<02>\n
+
+[87|slot=66|id=0xbc006]
+<0002>Estamos fora do ar agora.<02>\n
+
+[88|slot=170|id=0xbc007]
+
+
+[89|slot=170|id=0xbc007]
+
+
+[90|slot=80|id=0xbc00a]
+
+
+[91|slot=80|id=0xbc00a]
+
+
+[92|slot=160|id=0xbc00c]
+
+
+[93|slot=160|id=0xbc00c]
+
+
+[94|slot=124|id=0xbc00f]
+
+
+[95|slot=124|id=0xbc00f]
+
+
+[96|slot=124|id=0xbc014]
+
+
+[97|slot=124|id=0xbc014]
+
+
+[98|slot=96|id=0xbc01a]
+
+
+[99|slot=96|id=0xbc01a]
+
+
+[100|slot=158|id=0xbc01c]
+
+
+[101|slot=158|id=0xbc01c]
+
+
+[102|slot=108|id=0xbc01d]
+
+
+[103|slot=108|id=0xbc01d]
+
+
+[104|slot=138|id=0xbc021]
+
+
+[105|slot=138|id=0xbc021]
+
+
+[106|slot=112|id=0xbc022]
+
+
+[107|slot=112|id=0xbc022]
+
+
+[108|slot=120|id=0xbc025]
+
+
+[109|slot=120|id=0xbc025]
+
+
+[110|slot=176|id=0xbc029]
+
+
+[111|slot=176|id=0xbc029]
+
+
+[112|slot=212|id=0xbc02b]
+
+
+[113|slot=212|id=0xbc02b]
+
+
+[114|slot=196|id=0xbc02d]
+
+
+[115|slot=196|id=0xbc02d]
+
+
+[116|slot=120|id=0xbc030]
+<0002>Seu receptor auricular captou uma\nmensagem do Dr. Hope!<02>\n
+
+[117|slot=120|id=0xbc030]
+<0002>Seu receptor auricular captou uma\nmensagem do Dr. Hope!<02>\n
+
+[118|slot=116|id=0xbc031]
+
+
+[119|slot=116|id=0xbc031]
+
+
+[120|slot=120|id=0xbc034]
+<0002>Seu receptor auricular captou uma\nmensagem do Dr. Hope!<02>\n
+
+[121|slot=120|id=0xbc034]
+<0002>Seu receptor auricular captou uma\nmensagem do Dr. Hope!<02>\n
+
+[122|slot=166|id=0xbc035]
+
+
+[123|slot=166|id=0xbc035]
+
+
+[124|slot=130|id=0xbc038]
+
+
+[125|slot=130|id=0xbc038]
+
+
+[126|slot=70|id=0xbc03b]
+
+
+[127|slot=70|id=0xbc03b]
+
+
+[128|slot=80|id=0xbc03d]
+
+
+[129|slot=80|id=0xbc03d]
+
+
+[130|slot=70|id=0xbc041]
+
+
+[131|slot=70|id=0xbc041]
+
+
+[132|slot=68|id=0xbc043]
+
+
+[133|slot=68|id=0xbc043]
+
+
+[134|slot=96|id=0xbc045]
+
+
+[135|slot=96|id=0xbc045]
+
+
+[136|slot=134|id=0xbc047]
+
+
+[137|slot=134|id=0xbc047]
+
+
+[138|slot=118|id=0xbc049]
+
+
+[139|slot=118|id=0xbc049]
+
+
+[140|slot=154|id=0xbc04b]
+
+
+[141|slot=154|id=0xbc04b]
+
+
+[142|slot=152|id=0xbc04d]
+
+
+[143|slot=152|id=0xbc04d]
+
+
+[144|slot=170|id=0xbc04f]
+
+
+[145|slot=170|id=0xbc04f]
+
+
+[146|slot=112|id=0xbc051]
+<0002>Seu receptor auricular captou uma\nmensagem da Vita!<02>\n
+
+[147|slot=112|id=0xbc051]
+<0002>Seu receptor auricular captou uma\nmensagem da Vita!<02>\n
+
+[148|slot=112|id=0xbc052]
+
+
+[149|slot=112|id=0xbc052]
+
+
+[150|slot=132|id=0xbd359]
+
+
+[151|slot=132|id=0xbd35b]
+
+
+[152|slot=154|id=0xbd35d]
+
+
+[153|slot=150|id=0xbd35f]
+
+
+[154|slot=204|id=0xbd361]
+
+
+[155|slot=154|id=0xbd363]
+
+
+[156|slot=150|id=0xbd365]
+
+
+[157|slot=210|id=0xbd367]
+
+
+[158|slot=160|id=0xbd369]
+
+
+[159|slot=176|id=0xbd36b]
+
+
+[160|slot=230|id=0xbd36d]
+
+
+[161|slot=180|id=0xbd36f]
+
+
+[162|slot=158|id=0xbd371]
+
+
+[163|slot=216|id=0xbd373]
+
+
+[164|slot=166|id=0xbd375]
+
+
+[165|slot=174|id=0xbd377]
+
+
+[166|slot=222|id=0xbd379]
+
+
+[167|slot=148|id=0xbd37b]
+
+
+[168|slot=154|id=0xbd37d]
+
+
+[169|slot=208|id=0xbd37f]
+
+
+[170|slot=158|id=0xbd381]
+
+
+[171|slot=220|id=0xbd383]
+
+
+[172|slot=216|id=0xbd385]
+
+
+[173|slot=166|id=0xbd387]
+
+
+[174|slot=150|id=0xbd389]
+
+
+[175|slot=210|id=0xbd38b]
+
+
+[176|slot=160|id=0xbd38d]
+
+
+[177|slot=138|id=0xbd38f]
+
+
+[178|slot=210|id=0xbd391]
+
+
+[179|slot=160|id=0xbd393]
+
+
+[180|slot=96|id=0xbd396]
+
+
+[181|slot=70|id=0xbd398]
+
+
+[182|slot=62|id=0xbd39a]
+
+
+[183|slot=68|id=0xbd39c]
+
+
+[184|slot=58|id=0xbd39e]
+
+
+[185|slot=56|id=0xbd3a0]
+
+
+[186|slot=88|id=0xbd3a2]
+
+
+[187|slot=104|id=0xbd3a4]
+
+
+[188|slot=94|id=0xbd3a6]
+<0002>Tem agua espalhada por\ntoda a pia!<02>\n
+
+[189|slot=56|id=0xbd3a7]
+
+
+[190|slot=60|id=0xbd3a9]
+
+
+[191|slot=106|id=0xbd3ab]
+
+
+[192|slot=90|id=0xbd3ad]
+
+
+[193|slot=96|id=0xbd3af]
+
+
+[194|slot=118|id=0xbd3b1]
+
+
+[195|slot=92|id=0xbd3b3]
+
+
+[196|slot=46|id=0xbd3b5]
+
+
+[197|slot=54|id=0xbd3b7]
+
+
+[198|slot=72|id=0xbd3b9]
+
+
+[199|slot=50|id=0xbd3bb]
+
+
+[200|slot=64|id=0xbd3bd]
+
+
+[201|slot=68|id=0xbd3bf]
+<0002>Tem um bilhete no vaso.<02>\n
+
+[202|slot=48|id=0xbd3c0]
+
+
+[203|slot=148|id=0xbd3c2]
+
+
+[204|slot=144|id=0xbd3c4]
+
+
+[205|slot=114|id=0xbd3c6]
+
+
+[206|slot=66|id=0xbd3c8]
+
+
+[207|slot=132|id=0xbd3ca]
+
+
+[208|slot=136|id=0xbd3cc]
+
+
+[209|slot=84|id=0xbd3ce]
+<0002>Ha muitos livros na\nestante.<02>\n
+
+[210|slot=98|id=0xbd3cf]
+
+
+[211|slot=60|id=0xbd3d1]
+<0002>Voce abre a geladeira.<02>\n
+
+[212|slot=138|id=0xbd3d2]
+
+
+[213|slot=64|id=0xbd3d4]
+
+
+[214|slot=62|id=0xbd3d6]
+
+
+[215|slot=66|id=0xbd3d9]
+<0002>Sua bolsa esta cheia!<02>\n
+
+[216|slot=96|id=0xbd3da]
+
+
+[217|slot=106|id=0xbd3db]
+
+
+[218|slot=74|id=0xbd3dd]
+
+
+[219|slot=50|id=0xbd3e0]
+
+
+[220|slot=54|id=0xbd3e2]
+
+
+[221|slot=78|id=0xbd3e5]
+<0002>Mas nao cabe mais\ndinheiro!<02>\n
+
+[222|slot=132|id=0xbd3e6]
+
+
+[223|slot=128|id=0xbd3e7]
+
+
+[224|slot=74|id=0xbd3e9]
+
+
+[225|slot=120|id=0xbd3ec]
+
+
+[226|slot=158|id=0xbd3ee]
+
+
+[227|slot=180|id=0xbd3f0]
+
+
+[228|slot=134|id=0xbd3f2]
+
+
+[229|slot=108|id=0xbd3f4]
+
+
+[230|slot=150|id=0xbd3f6]
+
+
+[231|slot=86|id=0xbd3f8]
+
+
+[232|slot=100|id=0xbd3fa]
+
+
+[233|slot=96|id=0xbd3fc]
+
+
+[234|slot=116|id=0xbd3fe]
+
+
+[235|slot=102|id=0xbd400]
+
+
+[236|slot=218|id=0xbd402]
+
+
+[237|slot=144|id=0xbd404]
+
+
+[238|slot=180|id=0xbd406]
+
+
+[239|slot=112|id=0xbd408]
+
+
+[240|slot=126|id=0xbd40a]
+
+
+[241|slot=62|id=0xbd40c]
+<0002>Rooooooaaaar!\nRooooooaaaar!<02>\n
+
+[242|slot=88|id=0xbd40d]
+
+
+[243|slot=128|id=0xbd40f]
+
+
+[244|slot=86|id=0xbd411]
+
+
+[245|slot=68|id=0xbd413]
+
+
+[246|slot=98|id=0xbd415]
+
+
+[247|slot=54|id=0xbd417]
+
+
+[248|slot=98|id=0xbd419]
+
+
+[249|slot=82|id=0xbd41b]
+
+
+[250|slot=58|id=0xbd41d]
+
+
+[251|slot=44|id=0xbd41f]
+
+
+[252|slot=60|id=0xbd421]
+
+
+[253|slot=46|id=0xbd423]
+
+
+[254|slot=72|id=0xbd425]
+
+
+[255|slot=36|id=0xbd427]
+
+
+[256|slot=56|id=0xbd429]
+
+
+[257|slot=72|id=0xbd42b]
+
+
+[258|slot=30|id=0xbd42d]
+
+
+[259|slot=44|id=0xbd42f]
+
+
+[260|slot=62|id=0xbd431]
+
+
+[261|slot=66|id=0xbd434]
+<0002>Sua bolsa esta cheia!<02>\n
+
+[262|slot=96|id=0xbd435]
+
+
+[263|slot=106|id=0xbd436]
+
+
+[264|slot=74|id=0xbd438]
+
+
+[265|slot=44|id=0xbd43a]
+<0002>Voce achou um\n<06>I!<02>\n
+
+[266|slot=84|id=0xbd43b]
+
+
+[267|slot=84|id=0xbd43d]
+
+
+[268|slot=62|id=0xbd43f]
+
+
+[269|slot=66|id=0xbd442]
+<0002>Sua bolsa esta cheia!<02>\n
+
+[270|slot=96|id=0xbd443]
+
+
+[271|slot=208|id=0xbd444]
+
+
+[272|slot=106|id=0xbd445]
+
+
+[273|slot=130|id=0xbd448]
+
+
+[274|slot=156|id=0xbd44a]
+
+
+[275|slot=106|id=0xbd44c]
+
+
+[276|slot=68|id=0xbd44e]
+
+
+[277|slot=128|id=0xbd450]
+
+
+[278|slot=158|id=0xbd452]
+
+
+[279|slot=108|id=0xbd454]
+
+
+[280|slot=50|id=0xbd456]
+
+
+[281|slot=116|id=0xbd458]
+<0002>Achei a grade da TV entre\nrevistas encharcadas.<02>\n
+
+[282|slot=154|id=0xbd459]
+<0002>Seg. Qua. Sex.\n"Cade Mamae? Jornada do Gatinho,"\n"Z Rangers Final,"<02>\n
+
+[283|slot=148|id=0xbd45a]
+
+
+[284|slot=82|id=0xbd45c]
+<0002><1c20>Como usar Trilhos,<1d20> ~Trilhos<02>\n
+
+[285|slot=122|id=0xbd45d]
+<0002>Ponha os trilhos e prepare\npara usar os Vagoes.<02>\n
+
+[286|slot=234|id=0xbd45e]
+
+
+[287|slot=86|id=0xbd460]
+<0002> <1c20>Como usar Trilhos,<1d20> ~Motores<02>\n
+
+[288|slot=212|id=0xbd461]
+<0002>Motores sao como locomotivas.\nColoque-os nos trilhos para\nmover os vagoes acoplados.<02>\n
+
+[289|slot=218|id=0xbd462]
+
+
+[290|slot=84|id=0xbd464]
+<0002>"Como usar Trilhos," ~ Vagoes<02>\n
+
+[291|slot=244|id=0xbd465]
+<0002>Vagoes servem como carga e passageiros.\nUsando Motores, voce pode faze-los\nrodar nos trilhos com carga ou pessoas.<02>\n
+
+[292|slot=132|id=0xbd466]
+
+
+[293|slot=88|id=0xbd468]
+<0002>"Como usar Trilhos," ~Despacho<02>\n
+
+[294|slot=198|id=0xbd469]
+<0002>Comprando Unidades Auto, elas serao\npostas entre dois Depositos\nde Envio na Fazenda.<02>\n
+
+[295|slot=248|id=0xbd46a]
+
+
+[296|slot=98|id=0xbd46c]
+<0002><1c20>Fisiocracia e Magia,<1d20>\n~ou "Livro do Espir."<02>\n
+
+[297|slot=146|id=0xbd46d]
+<0002>Regue Agua Sagrada com\no Regador Mistico\npara derreter a neve.<02>\n
+
+[298|slot=158|id=0xbd46e]
+
+
+[299|slot=126|id=0xbd470]
+<0002>E um livro de Contos de Fadas\npara educacao infantil.<02>\n
+
+[300|slot=190|id=0xbd471]
+<0002>Parei numa pagina com\nilustracao de um boneco de pau\nengolido por uma baleia...<02>\n
+
+[301|slot=64|id=0xbd472]
+
+
+[302|slot=96|id=0xbd474]
+<0002>E um Livro de Haikai\nda Diretora Rose.<02>\n
+
+[303|slot=144|id=0xbd475]
+<0002>Tem mais Haikais sobre amor\ndo que sobre paisagem ou vida...<02>\n
+
+[304|slot=146|id=0xbd476]
+
+
+[305|slot=86|id=0xbd478]
+<0002><1c20>Conto do Cavaleiro do Arco,<1d20> Vol. 1<02>\n
+
+[306|slot=134|id=0xbd479]
+<0002>Cavaleiro: T-tome este arco!\nPrincesa: ...sou eu que quer?<02>\n
+
+[307|slot=224|id=0xbd47a]
+
+
+[308|slot=86|id=0xbd47c]
+<0002><1c20>Conto do Cavaleiro do Arco,<1d20> Vol. 2<02>\n
+
+[309|slot=154|id=0xbd47d]
+<0002>Princesa: Tenho algo a te dar,\nCavaleiro: I-isso e... um broche!?<02>\n
+
+[310|slot=220|id=0xbd47e]
+
+
+[311|slot=48|id=0xc3501]
+
+
+[312|slot=48|id=0xc3501]
+
+
+[313|slot=52|id=0xc3503]
+
+
+[314|slot=52|id=0xc3503]
+
+
+[315|slot=38|id=0xc3505]
+
+
+[316|slot=38|id=0xc3505]
+
+
+[317|slot=46|id=0xc3507]
+
+
+[318|slot=46|id=0xc3507]
+
+
+[319|slot=48|id=0xc3509]
+
+
+[320|slot=48|id=0xc3509]
+
+
+[321|slot=122|id=0xc350b]
+
+
+[322|slot=122|id=0xc350b]
+
+
+[323|slot=124|id=0xc350c]
+
+
+[324|slot=124|id=0xc350c]
+
+
+[325|slot=8|id=0xc350d]
+
+
+[326|slot=112|id=0xc350f]
+
+
+[327|slot=112|id=0xc350f]
+
+
+[328|slot=76|id=0xc3510]
+
+
+[329|slot=76|id=0xc3510]
+
+
+[330|slot=8|id=0xc3511]
+
+
+[331|slot=76|id=0xc3513]
+
+
+[332|slot=76|id=0xc3513]
+
+
+[333|slot=76|id=0xc3515]
+
+
+[334|slot=76|id=0xc3515]
+
+
+[335|slot=146|id=0xc3517]
+
+
+[336|slot=146|id=0xc3517]
+
+
+[337|slot=104|id=0xc3519]
+
+
+[338|slot=104|id=0xc3519]
+
+
+[339|slot=44|id=0xc351c]
+
+
+[340|slot=44|id=0xc351c]
+
+
+[341|slot=90|id=0xc351e]
+
+
+[342|slot=76|id=0xc3520]
+
+
+[343|slot=52|id=0xc3564]
+
+
+[344|slot=42|id=0xc3565]
+
+
+[345|slot=38|id=0xc3566]
+
+
+[346|slot=72|id=0xc3567]
+
+
+[347|slot=72|id=0xc3568]
+
+
+[348|slot=60|id=0xc3569]
+
+
+[349|slot=62|id=0xc356a]
+
+
+[350|slot=214|id=0xc356b]
+
+
+[351|slot=52|id=0xc356c]
+
+
+[352|slot=58|id=0xc356d]
+
+
+[353|slot=100|id=0xc356e]
+
+
+[354|slot=76|id=0xc356f]
+
+
+[355|slot=180|id=0xc3570]
+
+
+[356|slot=88|id=0xc3571]
+
+
+[357|slot=82|id=0xc3577]
+
+
+[358|slot=128|id=0xd1f63]
+<0002>Esta e uma queijeira.\nJogue leite dentro\npara fazer queijo.<02>\n
+
+[359|slot=98|id=0xd1f64]
+
+
+[360|slot=144|id=0xd1f66]
+<0002>Esta e uma maioneseira.\nJogue ovos dentro\npara fazer maionese.<02>\n
+
+[361|slot=106|id=0xd1f67]
+
+
+[362|slot=144|id=0xd1f6a]
+
+
+[363|slot=152|id=0xd1f6c]
+
+
+[364|slot=146|id=0xd1f6e]
+
+
+[365|slot=84|id=0xd1f70]
+
+
+[366|slot=112|id=0xd1f73]
+
+
+[367|slot=82|id=0xd1f76]
+<0002>Um <06>I foi\ncavado pela Enxada\nMagica.<02>\n
+
+[368|slot=72|id=0xd1f77]
+
+
+[369|slot=130|id=0xd1f7a]
+
+
+[370|slot=110|id=0xd1f7c]
+
+
+[371|slot=112|id=0xd1f7e]
+
+
+[372|slot=110|id=0xd716a]
+<0002><1030>A<1130> Aventura\n<6024> Algo estranho acontece com voce.<02>\n
+
+[373|slot=160|id=0xd716b]
+<0002><6124> Desafio como lutar com tigres de\n   maos nuas, ou cruzar um grande rio.<02>\n
+
+[374|slot=210|id=0xd716c]
+
+
+[375|slot=56|id=0xd716e]
+<0002><1030>A<1130> Alien\n<6024> Estranho.<02>\n
+
+[376|slot=142|id=0xd716f]
+<0002><6124> Alguem que nao e so de fora da\n   cidade, mas de fora da galaxia.<02>\n
+
+[377|slot=146|id=0xd7170]
+
+
+[378|slot=8|id=0xd7171]
+
+
+[379|slot=74|id=0xd7173]
+<0002><1030>A<1130> Maca\n<6024> Fruta de Adao.<02>\n
+
+[380|slot=76|id=0xd7174]
+<0002><6124> Veneno da Branca de Neve.<02>\n
+
+[381|slot=76|id=0xd7175]
+<0002><6224> Demonstra a Lei da Gravidade.<02>\n
+
+[382|slot=126|id=0xd7176]
+
+
+[383|slot=244|id=0xd7178]
+<0002><1030>A<1130> Arte\n<6024> Pinturas e esculturas, assim como\nculinaria, arquitetura e paisagens;\nmuita coisa pode ser arte.<02>\n
+
+[384|slot=70|id=0xd7179]
+
+
+[385|slot=104|id=0xd717b]
+<0002><1030>A<1130> Autor\n<6024> Pessoa que escreve obras literarias.<02>\n
+
+[386|slot=180|id=0xd717c]
+
+
+[387|slot=152|id=0xd717e]
+<0002><1030>B<1130> Banana\n<6024> A favorita do gorila.\n...E talvez a favorita do humano.<02>\n
+
+[388|slot=150|id=0xd717f]
+<0002><6124> Pensavam que crescia em arvores,\n   mas vem de grama bem alta.<02>\n
+
+[389|slot=228|id=0xd7180]
+
+
+[390|slot=8|id=0xd7181]
+
+
+[391|slot=8|id=0xd7182]
+
+
+[392|slot=130|id=0xd7184]
+<0002><1030>B<1130><0030>Bilionario\n<6024> Pessoa com muito dinheiro;\n   celebridade.<02>\n
+
+[393|slot=200|id=0xd7185]
+<0002><6124> Herda muito da familia.\n   Mais comum: ganha vasta soma\n   por meios proprios.<02>\n
+
+[394|slot=148|id=0xd7186]
+<0002><6224> Resposta da pergunta "o que voce\n   quer ser quando crescer?"<02>\n
+
+[395|slot=76|id=0xd7187]
+
+
+[396|slot=168|id=0xd7189]
+<0002><1030>B<1130> Trufa Negra\n<6024>A <1c20>Gema Negra.<1d20> Uma das\niguarias mais notaveis do mundo.<02>\n
+
+[397|slot=142|id=0xd718a]
+
+
+[398|slot=152|id=0xd718c]
+<0002><1030>B<1130> Mirtilo\n<6024> Fruta boa para os olhos.\n   Pode virar geleia.<02>\n
+
+[399|slot=174|id=0xd718d]
+
+
+[400|slot=160|id=0xd718f]
+<0002><1030>B<1130> noiva\n<6024> Mulher que possui a felicidade\n   do mundo por apenas um dia.<02>\n
+
+[401|slot=154|id=0xd7190]
+<0002><6124> Um pouco egoista... joga o buque\n   para dividir a alegria com outra.<02>\n
+
+[402|slot=140|id=0xd7191]
+<0002><6224> Precisa de dois coadjuvantes.\nUm jura amor eterno\nao lado dela.<02>\n
+
+[403|slot=76|id=0xd7192]
+
+
+[404|slot=98|id=0xd7194]
+<0002><1030>B<1130> Buggy\n<6024> Antes, carroca de um cavalo.<02>\n
+
+[405|slot=144|id=0xd7195]
+<0002><6124> Carro que crianca dirige. Cruza\n  pantanos duas vezes mais rapido.<02>\n
+
+[406|slot=112|id=0xd7196]
+
+
+[407|slot=8|id=0xd7197]
+
+
+[408|slot=104|id=0xd7199]
+<0002><1030>B<1130> Lenda\n<6024> Conto popular.\n Recontado a outros.<02>\n
+
+[409|slot=104|id=0xd719a]
+<0002><6124> Velhas ferramentas.\n   Nao da pra jogar.<02>\n
+
+[410|slot=150|id=0xd719b]
+<0002><6224> Erro que so o jovem cometeria.\n   Nao da pra desfazer, porem...<02>\n
+
+[411|slot=86|id=0xd719c]
+
+
+[412|slot=140|id=0xd719f]
+<0002><1030>C<1130> Repolho\n<6024> Tem cabeca e coracao,\n   mas e vegetal, nao gente.<02>\n
+
+[413|slot=158|id=0xd71a0]
+<0002><6124> Dificil distinguir da alface,\n  mas facil distinguir\n  de humano...<02>\n
+
+[414|slot=118|id=0xd71a1]
+
+
+[415|slot=142|id=0xd71a3]
+<0002><1030>C<1130> Cacau\n<6024> "Comida dos deuses."\n  Vem do obeche perene.<02>\n
+
+[416|slot=144|id=0xd71a4]
+<0002><6124> Sementes do cacau viram\n   chocolate e cacau\n   em po.<02>\n
+
+[417|slot=156|id=0xd71a5]
+<0002><6224> Seu polifenol ajuda em dietas\n   e previne arteriosclerose.<02>\n
+
+[418|slot=142|id=0xd71a6]
+
+
+[419|slot=166|id=0xd71a8]
+<0002><1030>C<1130> Bolo\n<6024> Doce indispensavel em eventos.\nVai bem com morango e chocolate.<02>\n
+
+[420|slot=148|id=0xd71a9]
+<0002><6124> Come-lo em dias comuns pode\n   deixar a pessoa muito\n   feliz<2620><02>\n
+
+[421|slot=202|id=0xd71aa]
+
+
+[422|slot=64|id=0xd71ac]
+<0002><1030>C<1130> Gato\n<6024> Rival dos caes.<02>\n
+
+[423|slot=140|id=0xd71ad]
+
+
+[424|slot=8|id=0xd71ae]
+
+
+[425|slot=152|id=0xd71b0]
+<0002><1030>C<1130> Cerejeira\n<6024> Flores caem na primavera.\n   Caducifolia das Rosaceas.<02>\n
+
+[426|slot=144|id=0xd71b1]
+<0002><6124> Madeira usada em arquitetura,\n   moveis, arte, intercambio...<02>\n
+
+[427|slot=224|id=0xd71b2]
+
+
+[428|slot=8|id=0xd71b3]
+
+
+[429|slot=160|id=0xd71b5]
+<0002><1030>C<1130> Bau\n<6024> Caixa que cria expectativas\n   de que tem coisas boas dentro.<02>\n
+
+[430|slot=150|id=0xd71b6]
+<0002><6124> Alguns sao esmagados pela pressao\n   e nao atendem as expectativas.<02>\n
+
+[431|slot=170|id=0xd71b7]
+
+
+[432|slot=166|id=0xd71b9]
+<0002><1030>C<1130> Galinha\n<6024> Ave que sabe a hora. Da culpa\na apostolos traidores.<02>\n
+
+[433|slot=40|id=0xd71ba]
+<0002><6124> Ave caseira.<02>\n
+
+[434|slot=162|id=0xd71bb]
+<0002><6224> Sua origem tem duas teorias: Gallus\n   gallus domesticus e Gallus gallus.<02>\n
+
+[435|slot=216|id=0xd71bc]
+
+
+[436|slot=98|id=0xd71be]
+<0002><1030>D<1130> Sobremesa\n<6024> Engorda se voce come demais.<02>\n
+
+[437|slot=170|id=0xd71bf]
+
+
+[438|slot=112|id=0xd71c1]
+<0002><1030>D<1130> Prato\n<6024> Talher.\n   Pratos, garfos, colheres.<02>\n
+
+[439|slot=200|id=0xd71c2]
+<0002><6124> Comida servida em pratos.\n   Italiana, Francesa, Japonesa,\n   varios tipos internacionais.<02>\n
+
+[440|slot=100|id=0xd71c3]
+
+
+[441|slot=64|id=0xd71c5]
+<0002><1030>D<1130> Cao\n<6024> Rival dos gatos.<02>\n
+
+[442|slot=148|id=0xd71c6]
+
+
+[443|slot=8|id=0xd71c7]
+
+
+[444|slot=158|id=0xd71c9]
+<0002><1030>D<1130> Sonho\n<6024> Visoes ao dormir. Parece\n   a realidade, mas e fantasia.<02>\n
+
+[445|slot=164|id=0xd71ca]
+<0002><6124> Visao do futuro.\n   Parece factivel, mas pode ter\n   pegadinha. Tudo ideal.<02>\n
+
+[446|slot=212|id=0xd71cb]
+
+
+[447|slot=8|id=0xd71cc]
+
+
+[448|slot=8|id=0xd71cd]
+
+
+[449|slot=100|id=0xd71d0]
+<0002><1030>E<1130> Orelha\n<6024> Das mais belas partes\ndo corpo.<02>\n
+
+[450|slot=68|id=0xd71d1]
+<0002><6124> Ouve, mantem equilibrio.<02>\n
+
+[451|slot=112|id=0xd71d2]
+
+
+[452|slot=72|id=0xd71d4]
+<0002><1030>E<1130> Terra\n<6024> Um dos elementos.<02>\n
+
+[453|slot=174|id=0xd71d5]
+
+
+[454|slot=8|id=0xd71d6]
+
+
+[455|slot=168|id=0xd71d8]
+<0002><1030>E<1130> Marco-Historico\n<6024> Estado revolucionario que\n   para o tempo e supera anos.<02>\n
+
+[456|slot=132|id=0xd71d9]
+
+
+[457|slot=8|id=0xd71da]
+
+
+[458|slot=102|id=0xd71dc]
+<0002><1030>E<1130> Equador\n<6024> Linha imaginaria com LAT 0 <b0>.<02>\n
+
+[459|slot=214|id=0xd71dd]
+<0002><6124> Linha que corta a terra\n   ao meio por plano que cruza\n   o eixo perpendicularmente.<02>\n
+
+[460|slot=130|id=0xd71de]
+
+
+[461|slot=144|id=0xd71e0]
+<0002><1030>F<1130> Outono\n<6024> Cair, ou estacao em que\n   as folhas caem.<02>\n
+
+[462|slot=238|id=0xd71e1]
+
+
+[463|slot=108|id=0xd71e3]
+<0002><1030>F<1130> Fazenda\n<6024> Onde se planta legume e grao.<02>\n
+
+[464|slot=164|id=0xd71e4]
+<0002><6124> Cultivar legumes, frutas,\n   ervas, o que voce quiser...\n   Uma experiencia.<02>\n
+
+[465|slot=168|id=0xd71e5]
+
+
+[466|slot=162|id=0xd71e7]
+<0002><1030>F<1130> Pesca\n<6024> Esporte de pegar peixe\n   com vara longa e linha.<02>\n
+
+[467|slot=146|id=0xd71e8]
+<0002><6124> Dois tipos: Acrobatica <1c20>O Velho e\n   o Mar<1d20> e Banal <1c20>Pescador.<1d20><02>\n
+
+[468|slot=138|id=0xd71e9]
+
+
+[469|slot=8|id=0xd71ea]
+
+
+[470|slot=90|id=0xd71ec]
+<0002><1030>F<1130> Liberdade\n<6024> Preco do arco do amor.<02>\n
+
+[471|slot=72|id=0xd71ed]
+<0002><6124> Vida sem qualquer restricao.<02>\n
+
+[472|slot=178|id=0xd71ee]
+
+
+[473|slot=8|id=0xd71ef]
+
+
+[474|slot=88|id=0xd71f1]
+<0002><1030>F<1130> Futurista\n<6024>Historia que se passa la.<02>\n
+
+[475|slot=34|id=0xd71f2]
+<0002><6124> Gosto bom.<02>\n
+
+[476|slot=44|id=0xd71f3]
+<0002><6224> Sempre evolui.<02>\n
+
+[477|slot=96|id=0xd71f4]
+<0002><6324> Logo, o cenario deve\n   ser infinito.<02>\n
+
+[478|slot=52|id=0xd71f5]
+
+
+[479|slot=100|id=0xd71f7]
+<0002><1030>G<1130> Gigante\n<6024> Homenzao em mitos e contos.<02>\n
+
+[480|slot=80|id=0xd71f8]
+<0002><6124> Manda na politica e negocios.<02>\n
+
+[481|slot=142|id=0xd71f9]
+
+
+[482|slot=126|id=0xd71fb]
+<0002><1030>G<1130> Cabra\n<6024> Animal que diz <1c20>Beee,<1d20>\n   mas nao e ovelha.<02>\n
+
+[483|slot=132|id=0xd71fc]
+
+
+[484|slot=102|id=0xd71ff]
+<0002><1030>H<1130> Colheita\n<6024> Processo de colher os cultivos.<02>\n
+
+[485|slot=80|id=0xd7200]
+
+
+[486|slot=128|id=0xd7202]
+<0002><1030>H<1130> Eremita\n<6024> Quem abandonou o mundo\n   por algum motivo.<02>\n
+
+[487|slot=78|id=0xd7203]
+<0002><6124> Vive em lugares\ndesertos.<02>\n
+
+[488|slot=80|id=0xd7204]
+
+
+[489|slot=130|id=0xd7206]
+<0002><1030>H<1130> Esperanca\n<6024> Pensar positivo do qual\n nunca se desiste.<02>\n
+
+[490|slot=96|id=0xd7207]
+<0002><6124> Expectativa ou alguem\n   que e esperado.<02>\n
+
+[491|slot=40|id=0xd7208]
+
+
+[492|slot=8|id=0xd7209]
+
+
+[493|slot=146|id=0xd720b]
+<0002><1030>H<1130> Humor\n<6024> Natureza ludica, expressao\n   de quem tem grande coracao.<02>\n
+
+[494|slot=118|id=0xd720c]
+<0002><6124> Usado pra relaxar, imitar,\n   apelar pra satira.<02>\n
+
+[495|slot=102|id=0xd720d]
+
+
+[496|slot=122|id=0xd720f]
+<0002><1030>I<1130> Gelo\n<6024> Agua congelada\n   abaixo de 0 C.<02>\n
+
+[497|slot=148|id=0xd7210]
+
+
+[498|slot=8|id=0xd7211]
+
+
+[499|slot=114|id=0xd7213]
+<0002><1030>I<1130> Impossivel\n<6024> <1d20>So existe no dicionario do tolo.<1d20><02>\n
+
+[500|slot=74|id=0xd7214]
+<0002><6124> Palavras de figura historica...<02>\n
+
+[501|slot=62|id=0xd7215]
+<0002><6224> Decidi acrescentar isso.<02>\n
+
+[502|slot=80|id=0xd7216]
+
+
+[503|slot=8|id=0xd7217]
+
+
+[504|slot=114|id=0xd7219]
+<0002><1030>I<1130> Invencao\n<6024> Produto de 1% inspiracao, 99% suor.<02>\n
+
+[505|slot=58|id=0xd721a]
+<0002><6124> Filha da <1c20>Necessidade.<1d20><02>\n
+
+[506|slot=144|id=0xd721b]
+
+
+[507|slot=8|id=0xd721c]
+
+
+[508|slot=8|id=0xd721d]
+
+
+[509|slot=8|id=0xd721e]
+
+
+[510|slot=154|id=0xd7220]
+<0002><1030>I<1130> Ilha\n<6024> Onde o protagonista estava\n   quando a consciencia voltou.<02>\n
+
+[511|slot=148|id=0xd7221]
+
+
+[512|slot=8|id=0xd7222]
+
+
+[513|slot=92|id=0xd7224]
+<0002><1030>J<1130> Jack Frost\n<6024> Espirito da neve e gelo.<02>\n
+
+[514|slot=162|id=0xd7225]
+
+
+[515|slot=8|id=0xd7226]
+
+
+[516|slot=8|id=0xd7227]
+
+
+[517|slot=8|id=0xd7228]
+
+
+[518|slot=90|id=0xd722a]
+<0002><1030>J<1130> Joia\n<6024> Pedra colorida e radiante.<02>\n
+
+[519|slot=82|id=0xd722b]
+<0002><6124> Tem poderes misticos e contos.<02>\n
+
+[520|slot=152|id=0xd722c]
+
+
+[521|slot=68|id=0xd722e]
+<0002><1030>K<1130> Chave\n<6024> Abre fechaduras.<02>\n
+
+[522|slot=138|id=0xd722f]
+<0002><6124> Necessaria pra romper duros,\n   ou moldar o futuro.<02>\n
+
+[523|slot=176|id=0xd7230]
+
+
+[524|slot=8|id=0xd7231]
+
+
+[525|slot=8|id=0xd7232]
+
+
+[526|slot=8|id=0xd7233]
+
+
+[527|slot=82|id=0xd7235]
+<0002><1030>K<1130> Saber\n<6024> Banco de Informacoes.<02>\n
+
+[528|slot=144|id=0xd7236]
+
+
+[529|slot=162|id=0xd7238]
+<0002><1030>L<1130> Preguica\n<6024> Modo de vida dos gafanhotos\n   vs. formigas. E relativo.<02>\n
+
+[530|slot=182|id=0xd7239]
+
+
+[531|slot=8|id=0xd723a]
+
+
+[532|slot=136|id=0xd723c]
+<0002><1030>L<1130> Limao\n<6024> Cresce em arvore.\n   N.1 entre as frutas citricas.<02>\n
+
+[533|slot=116|id=0xd723d]
+
+
+[534|slot=8|id=0xd723e]
+
+
+[535|slot=140|id=0xd7240]
+<0002>L<1130> Obra-Prima\n<6024> Trabalho feito ao longo\nda vida. Tema varia.<02>\n
+
+[536|slot=220|id=0xd7241]
+<0002><6124> Pode ser poema epico ou serie,\n   pintura magnifica, invencao do\n   seculo, ou expedicao...<02>\n
+
+[537|slot=178|id=0xd7242]
+<0002><6224>Fazer bom vinho, vigiar cidade,\n   mestre da pesca de rio,\n   pesquisar abelhas...<02>\n
+
+[538|slot=76|id=0xd7243]
+
+
+[539|slot=162|id=0xd7245]
+<0002><1030>L<1130> Amor\n<6024> Um dos Niveis Humanos. Compaixao\npor pessoas, animais e plantas.<02>\n
+
+[540|slot=86|id=0xd7246]
+
+
+[541|slot=88|id=0xd7248]
+<0002><1030>M<1130> Mapa\n<6024> Costuma perder a gente...<02>\n
+
+[542|slot=146|id=0xd7249]
+
+
+[543|slot=166|id=0xd724b]
+<0002><1030>M<1130> Sereia\n<6024> Humano/peixe lindo e misterioso,\n   bem maior do que se imagina.<02>\n
+
+[544|slot=118|id=0xd724c]
+<0002><6124> Vigia do Lago da Sereia.\n   Vista numa enseada.<02>\n
+
+[545|slot=98|id=0xd724d]
+
+
+[546|slot=164|id=0xd724f]
+<0002><1030>M<1130> Neblina\n<6024> Bruma branca na Floresta\n   do Gigante. Tampa o avanco.<02>\n
+
+[547|slot=138|id=0xd7250]
+<0002><6124> Mesmo achando um ponto pra entrar,\n   nunca ponha o pe la.<02>\n
+
+[548|slot=130|id=0xd7251]
+
+
+[549|slot=142|id=0xd7253]
+<0002><1030>M<1130> Lua\n<6024> Um espelho que flutua no ceu.\n   Reflete a luz do sol.<02>\n
+
+[550|slot=142|id=0xd7254]
+<0002><6124> Seu poder magico e forte\n   pra virar uma pessoa em lobo.<02>\n
+
+[551|slot=138|id=0xd7255]
+<0002><6224> Um boato diz\n   que caranguejoes vivem\n   nos buracos escuros.<02>\n
+
+[552|slot=154|id=0xd7256]
+
+
+[553|slot=104|id=0xd7259]
+<0002><1030>N<1130> Noite\n<6024> Otima pra ver lua e estrelas.<02>\n
+
+[554|slot=158|id=0xd725a]
+<0002><6124> Voce achara uma surpresa\n   se andar num lago no inverno.<02>\n
+
+[555|slot=144|id=0xd725b]
+
+
+[556|slot=108|id=0xd725d]
+<0002>N<1130> Acenar\n<6024> Mover cabeca pra\ncima e baixo em sim.<02>\n
+
+[557|slot=134|id=0xd725e]
+
+
+[558|slot=8|id=0xd725f]
+
+
+[559|slot=210|id=0xd7261]
+<0002><1030>N<1130> Nostradamus, Michel\n<6024> Boticario renomado. Profetico, e\n um astrologo. Sabe de porcos pretos.<02>\n
+
+[560|slot=208|id=0xd7262]
+<0002><6124>Autor de  <1c20>Les Centuries.<1d20> Livro\n   interpretado de muitos modos,\n   deixou gente preocupada.<02>\n
+
+[561|slot=162|id=0xd7263]
+<0002><6224> Um grande "rei do terror"\n   nao apareceu em\n   julho de 1999, no fim...<02>\n
+
+[562|slot=152|id=0xd7264]
+
+
+[563|slot=102|id=0xd7266]
+<0002><1030>O<1130> Oliveira\n<6024> Perene que da frutos no outono.<02>\n
+
+[564|slot=186|id=0xd7267]
+
+
+[565|slot=8|id=0xd7268]
+
+
+[566|slot=128|id=0xd726a]
+<0002><1030>O<1130> Coruja\n<6024> Ave simbolo do saber.\n   Diz, <1c20>Pio, pio.<1d20><02>\n
+
+[567|slot=148|id=0xd726b]
+<0002><6124> Se alguem anda fora a noite,\n   seu som pode ser ouvido mas...<02>\n
+
+[568|slot=120|id=0xd726c]
+
+
+[569|slot=126|id=0xd726e]
+<0002><1030>P<1130> Palma\n<6024> Parte de dentro da mao.\n   Tem a linha da vida.<02>\n
+
+[570|slot=76|id=0xd726f]
+<0002><6124> Vira bandeja ao receber troco.<02>\n
+
+[571|slot=134|id=0xd7270]
+<0002><6224> Para o gesto do outro\n   ao se erguer, dizendo, <1d20>Um momento.<1d20><02>\n
+
+[572|slot=160|id=0xd7271]
+<0002><6324> Usada pra dar tapa no rosto de quem\n   adormece em montanha nevada.<02>\n
+
+[573|slot=48|id=0xd7272]
+
+
+[574|slot=94|id=0xd7274]
+<0002><1030>P<1130> Caixa de Pandora\n<6024> Cilada dos Gregos.<02>\n
+
+[575|slot=164|id=0xd7275]
+<0002><6124> E da natureza humana querer abri-la,\n   ainda mais depois de ser proibido.<02>\n
+
+[576|slot=102|id=0xd7276]
+
+
+[577|slot=186|id=0xd7278]
+<0002><1030>P<1130> Pepino\n<6024> Fruta dourada. Planta solanacea, mas\n   nome vem da imagem <1c20>tipo abobora.<1d20><02>\n
+
+[578|slot=160|id=0xd7279]
+
+
+[579|slot=8|id=0xd727a]
+
+
+[580|slot=154|id=0xd727c]
+<0002><1030>P<1130> Travesseiro\n<6024> Apoia a cabeca.\n   Pode ser usado em guerra tambem.<02>\n
+
+[581|slot=174|id=0xd727d]
+
+
+[582|slot=148|id=0xd727f]
+<0002><1030>P<1130> Por favor\n<6024> Palavra magica. Use quando\n   quiser algo de alguem.<02>\n
+
+[583|slot=38|id=0xd7280]
+
+
+[584|slot=8|id=0xd7281]
+
+
+[585|slot=54|id=0xd7283]
+<0002><1030>P<1130> Bolso\n<6024> Bolsinha.<02>\n
+
+[586|slot=120|id=0xd7284]
+
+
+[587|slot=120|id=0xd7286]
+<0002><1030>P<1130> Porcini\n<6024> Rei dos cogumelos.\n   Agaricus Boletaceae.<02>\n
+
+[588|slot=216|id=0xd7287]
+
+
+[589|slot=110|id=0xd7289]
+<0002><1030>P<1130> Promessa\n<6024> Muitas vezes quebrada,\nou esquecida<2620><02>\n
+
+[590|slot=80|id=0xd728a]
+
+
+[591|slot=132|id=0xd728d]
+<0002><1030>Q<1130> Pergunta\n<6024> Precisa ser feita varias\n   vezes em vida.<02>\n
+
+[592|slot=178|id=0xd728e]
+<0002><6124> As vezes respondida por\n   sim ou nao mesmo quando\n   nenhum dos dois cabe...<02>\n
+
+[593|slot=110|id=0xd728f]
+
+
+[594|slot=58|id=0xd7291]
+<0002><1030>Q<1130> Sair\n<6024> Largar, ir.<02>\n
+
+[595|slot=58|id=0xd7292]
+<0002> <6124> Desistir no meio.<02>\n
+
+[596|slot=56|id=0xd7293]
+
+
+[597|slot=156|id=0xd7295]
+<0002><1030>R<1130> Rambutan\n<6024> Fruta tropical com pelo rubro.\n   Perene das Sapindaceas.<02>\n
+
+[598|slot=140|id=0xd7296]
+<0002><6124> Alem de comida, pode\n   ser usada pra fazer oleo\n   ou sopa.<02>\n
+
+[599|slot=134|id=0xd7297]
+
+
+[600|slot=120|id=0xd7299]
+<0002><1030>R<1130> Fita\n<6024> Tecido estreito,\n   ou coisa de mesma forma.<02>\n
+
+[601|slot=196|id=0xd729a]
+
+
+[602|slot=90|id=0xd729c]
+<0002><1030>R<1130> Robo\n<6024> Deus fez o homem a Sua imagem.<02>\n
+
+[603|slot=70|id=0xd729d]
+<0002><6124>Homem fez robo a sua imagem.<02>\n
+
+[604|slot=102|id=0xd729e]
+
+
+[605|slot=8|id=0xd729f]
+
+
+[606|slot=8|id=0xd72a0]
+
+
+[607|slot=96|id=0xd72a2]
+<0002><1030>S<1130> Mar\n<6024> Poca mistica onde a vida nasceu.<02>\n
+
+[608|slot=200|id=0xd72a3]
+<0002><6124> Acreditam que se voce ouvir, pode\n   ouvir um som chiando\n   quando o sol toca o horizonte.<02>\n
+
+[609|slot=216|id=0xd72a4]
+<0002><6224> Mar cobre <be> da superficie.\n   E salgado por causa das lagrimas\n   choradas na praia, dizem.<02>\n
+
+[610|slot=84|id=0xd72a5]
+
+
+[611|slot=108|id=0xd72a7]
+<0002>S<1130> Estacao\n<6024> Mostra a hora\n   de plantar.<02>\n
+
+[612|slot=180|id=0xd72a8]
+
+
+[613|slot=152|id=0xd72aa]
+<0002><1030>S<1130> Segredo\n<6024> Informacao privada que nunca\n   deve ser dita a ninguem.<02>\n
+
+[614|slot=96|id=0xd72ab]
+<0002><6124> Ex: orelhas do rei sao\n   de burro.<02>\n
+
+[615|slot=212|id=0xd72ac]
+
+
+[616|slot=136|id=0xd72ae]
+<0002><1030>S<1130> Buscar\n<6024> Achar o que se perdeu.\n   Procurar o que nao se ve.<02>\n
+
+[617|slot=100|id=0xd72af]
+<0002><6124> Personagens sao\n   buscadores ou vitimas.<02>\n
+
+[618|slot=152|id=0xd72b0]
+
+
+[619|slot=106|id=0xd72b2]
+<0002><1030>S<1130> Ovelha\n<6024> Animal pra contar sem dormir.<02>\n
+
+[620|slot=76|id=0xd72b3]
+
+
+[621|slot=8|id=0xd72b4]
+
+
+[622|slot=110|id=0xd72b6]
+<0002><1030>S<1130> verao\n<6024> Melancia e boa nesta estacao.<02>\n
+
+[623|slot=80|id=0xd72b7]
+<0002><6124> Girassois florem nesta estacao.<02>\n
+
+[624|slot=80|id=0xd72b8]
+<0002><6224> Nuvens se estendem nesta estacao.<02>\n
+
+[625|slot=82|id=0xd72b9]
+<0002><6324> Se sente aventureiro nesta estacao.<02>\n
+
+[626|slot=142|id=0xd72ba]
+
+
+[627|slot=118|id=0xd72bd]
+<0002><1030>T<1130> Sabor\n<6024> Gosto.\n   Salgado, doce, amargo, azedo.<02>\n
+
+[628|slot=86|id=0xd72be]
+<0002><6124> Sentir gosto\n   por varios itens.<02>\n
+
+[629|slot=104|id=0xd72bf]
+
+
+[630|slot=158|id=0xd72c1]
+<0002><1030>T<1130> Televisao\n<6024> Ferramenta vidente que permite\n   ver algo distante.<02>\n
+
+[631|slot=208|id=0xd72c2]
+
+
+[632|slot=106|id=0xd72c4]
+<0002><1030>T<1130> Amanha\n<6024> Dia depois de hoje, ou logo.<02>\n
+
+[633|slot=98|id=0xd72c5]
+<0002><6124> Voce nao pode fazer o que pode\n   amanha...<02>\n
+
+[634|slot=126|id=0xd72c6]
+
+
+[635|slot=100|id=0xd72c8]
+<0002><1030>T<1130> Lixeira\n<6024> Lugar pra jogar o que sobra.<02>\n
+
+[636|slot=138|id=0xd72c9]
+
+
+[637|slot=64|id=0xd72cb]
+<0002><1030>U<1130> Sombrinha\n<6024> Sombra.<02>\n
+
+[638|slot=126|id=0xd72cc]
+<0002><6124> Ninguem usa nesta ilha,\n   nem mesmo quando chove.<02>\n
+
+[639|slot=140|id=0xd72cd]
+
+
+[640|slot=66|id=0xd72cf]
+<0002><1030>U<1130> Andar Cima\n<6024> Andar acima.<02>\n
+
+[641|slot=156|id=0xd72d0]
+
+
+[642|slot=82|id=0xd72d3]
+<0002><1030>V<1130> Vale\n<6024> Lugar baixo entre colinas.<02>\n
+
+[643|slot=80|id=0xd72d4]
+<0002><6124> Lar de ervas raras e frutos.<02>\n
+
+[644|slot=110|id=0xd72d5]
+
+
+[645|slot=100|id=0xd72d7]
+<0002><1030>V<1130> Vegetal\n<6024> Comida que da forca a gente.<02>\n
+
+[646|slot=68|id=0xd72d8]
+<0002><6124> Varias cores e formas...<02>\n
+
+[647|slot=100|id=0xd72d9]
+
+
+[648|slot=8|id=0xd72da]
+
+
+[649|slot=90|id=0xd72dc]
+<0002><1030>V<1130> Virtude\n<6024> Forte e bela. Viril.<02>\n
+
+[650|slot=62|id=0xd72dd]
+<0002><6124> Coragem pra fazer o bem.<02>\n
+
+[651|slot=76|id=0xd72de]
+
+
+[652|slot=8|id=0xd72df]
+
+
+[653|slot=8|id=0xd72e0]
+
+
+[654|slot=92|id=0xd72e2]
+<0002><1030>W<1130> Guerra\n<6024> Perde muito, ganha pouco.<02>\n
+
+[655|slot=120|id=0xd72e3]
+
+
+[656|slot=72|id=0xd72e5]
+<0002><1030>W<1130> Agua\n<6024> Um dos elementos.<02>\n
+
+[657|slot=124|id=0xd72e6]
+
+
+[658|slot=92|id=0xd72e8]
+<0002><1030>W<1130> Erva\n<6024> Crescida natural, sem uso.<02>\n
+
+[659|slot=70|id=0xd72e9]
+<0002><6124> Por vezes (raro) venenosa.<02>\n
+
+[660|slot=162|id=0xd72ea]
+
+
+[661|slot=142|id=0xd72ec]
+<0002><1030>W<1130> Assobio\n<6024> Usado como sinal, chamado,\n   ou teste se soprar.<02>\n
+
+[662|slot=172|id=0xd72ed]
+<0002><6124> Como quem cantarola, se um\n   esta tocando melodia,\n   parece estar feliz.<02>\n
+
+[663|slot=124|id=0xd72ee]
+<0002><6224> E so como ele parece estar,\n   nao sabemos a verdade...<02>\n
+
+[664|slot=120|id=0xd72ef]
+
+
+[665|slot=172|id=0xd72f1]
+<0002><1030>W<1130> Vinho\n<6024> Faz, envelhece, cheira. Bom\n   licor de uva com historia e amor.<02>\n
+
+[666|slot=148|id=0xd72f2]
+<0002><6124> Fruta fermentada num pote que um rei\n   amante de uvas escondia.<02>\n
+
+[667|slot=226|id=0xd72f3]
+<0002><6224> Garota de coracao partido bebeu,\n   pensando ser veneno, mas serviu\n   como remedio pra cura-la.<02>\n
+
+[668|slot=162|id=0xd72f4]
+<0002><6324> E tao calmo o modo como brilha ao\n   inclinar a taca, ate o tempo para.<02>\n
+
+[669|slot=148|id=0xd72f5]
+
+
+[670|slot=62|id=0xd72f7]
+<0002><1030>W<1130> La\n<6024> Dom da ovelha.<02>\n
+
+[671|slot=160|id=0xd72f8]
+<0002><6124> Usada pra roupas pela sua\n   capacidade de aquecer,\n   e toque macio...<02>\n
+
+[672|slot=92|id=0xd72f9]
+
+
+[673|slot=96|id=0xd72fb]
+<0002><1030>W<1130> Mundo\n<6024> Apos a Era dos Deuses/Gigantes.<02>\n
+
+[674|slot=148|id=0xd72fc]
+<0002><6124> Outros nomes pra universo,\n   terra, sociedade, etc.<02>\n
+
+[675|slot=142|id=0xd72fd]
+
+
+[676|slot=80|id=0xd72ff]
+<0002><1030>X<1130> Xanadu\n<6024> Cidade do eterno verao.<02>\n
+
+[677|slot=84|id=0xd7300]
+<0002><6124> Aparece em poemas. Ninguem a viu.<02>\n
+
+[678|slot=98|id=0xd7301]
+
+
+[679|slot=8|id=0xd7302]
+
+
+[680|slot=80|id=0xd7304]
+<0002><1030>X<1130> Xmas\n<6024> Missa de Cristo. Feriado.<02>\n
+
+[681|slot=132|id=0xd7305]
+<0002><6124> Esta ilha fica no sul,\n   mas e feriado de inverno...<02>\n
+
+[682|slot=98|id=0xd7306]
+
+
+[683|slot=8|id=0xd7307]
+
+
+[684|slot=8|id=0xd7308]
+
+
+[685|slot=112|id=0xd730a]
+<0002><1030>Y<1130> Ontem\n<6024> Um dia antes de hoje. Ou, passado.<02>\n
+
+[686|slot=104|id=0xd730b]
+<0002><6124> Meu principio e\n   esquecer do passado...<02>\n
+
+[687|slot=120|id=0xd730c]
+
+
+[688|slot=8|id=0xd730d]
+
+
+[689|slot=72|id=0xd730f]
+<0002><1030>Y<1130> Natal\n<6024> Epoca natalina.<02>\n
+
+[690|slot=200|id=0xd7310]
+
+
+[691|slot=58|id=0xd7312]
+<0002><1030>Z<1130> Zefiro\n<6024> Vento suave.<02>\n
+
+[692|slot=160|id=0xd7313]
+
+
+[693|slot=92|id=0xd7315]
+<0002><1030>Z<1130> zzz\n<6024> Onomatopeia, indica roncar.<02>\n
+
+[694|slot=106|id=0xd7316]
+<0002><6124> Soa como asa de inseto,\n  ou maquina pulsando.<02>\n
+
+[695|slot=174|id=0xd7317]
+
+
+[696|slot=70|id=0xd7319]
+
+
+[697|slot=20|id=0xf1b30]
+
+
+[698|slot=132|id=0xf1b32]
+
+
+[699|slot=8|id=0xf1b33]
+
+
+[700|slot=62|id=0xf1b34]
+
+
+[701|slot=60|id=0xf1b35]
+
+
+[702|slot=62|id=0xf1b36]
+
+
+[703|slot=58|id=0xf1b37]
+
+
+[704|slot=38|id=0xf33cc]
+
+
+[705|slot=60|id=0xf33cd]
+
+
+[706|slot=54|id=0xf33ce]
+
+
+[707|slot=110|id=0xf33e0]
+
+
+[708|slot=118|id=0xf33e1]
+
+
+[709|slot=70|id=0xf33e2]
+
+
+[710|slot=198|id=0xf33e5]
+
+
+[711|slot=96|id=0xf33eb]
+
+
+[712|slot=122|id=0xf33ec]
+
+
+[713|slot=118|id=0xf33ed]
+
+
+[714|slot=76|id=0xf33ee]
+

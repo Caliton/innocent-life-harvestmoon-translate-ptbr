@@ -1,0 +1,560 @@
+# VTSCF3.SCP - 185 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x656|chars=56]
+Franco: Entao voce finalmente\ncomeou a criar animais, hein?
+
+[1|off=0x6d2|chars=109]
+Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?
+
+[2|off=0x7b8|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatizado, mas antes usar robos\nera uma ideia bem revolucionaria.
+
+[3|off=0x8a4|chars=61]
+Franco: Ouvi que eles ainda usam\nbastante isso no exterior.
+
+[4|off=0x92a|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido de novo\nentre essas ruinas!
+
+[5|off=0x9ca|chars=90]
+Moonlight: Tenho certeza que sua\nforca vital vai revitalizar esta\nterra e a natureza!
+
+[6|off=0xa8a|chars=72]
+Franco: Uau!\nQue sortudo voce e!\nGanhar um buggy desse de presente!
+
+[7|off=0xb26|chars=89]
+Franco: Se eu tivesse um buggy\ndesse, levaria a Rose num passeio\ninesquecivel!
+
+[8|off=0xbe4|chars=11]
+Moonlight:
+
+[9|off=0xbfc|chars=52]
+<06>P! Vi que voce ganhou\num presente do Dr. Hope.
+
+[10|off=0xc70|chars=63]
+Moonlight: Voce pode ir a\nqualquer lugar com um\nbuggy desse!
+
+[11|off=0xcfa|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.
+
+[12|off=0xd7e|chars=73]
+Franco: Quando era jovem, todos\nlevavam suas paqueras\npara aquela caverna.
+
+[13|off=0xe1c|chars=11]
+Moonlight:
+
+[14|off=0xe34|chars=57]
+<06>P!\nOuvi que houve problemas na\ncaverna de Volcano Town.
+
+[15|off=0xeb2|chars=77]
+Moonlight: Vai levar tempo e\nesforco para voltar\nao estado original.
+
+[16|off=0xf58|chars=49]
+Franco: Ouvi que voce plantou\nalgunas poinsetias.
+
+[17|off=0xfc6|chars=120]
+Franco: Se conseguir enviar\nbastante ate a vespera do Natal,\npode usar para decorar a cidade.
+
+[18|off=0x10c2|chars=21]
+Franco: Mal posso esperar!
+
+[19|off=0x10f8|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[20|off=0x1156|chars=96]
+Franco: Sei que deve estar\npreocupado, mas voce tem\num trabalho importante a terminar.
+
+[21|off=0x1222|chars=89]
+Franco: Tenho certeza que a melhor\ncoisa pro Dr. Hope e ver\nvoce trabalhando duro.
+
+[22|off=0x12e0|chars=52]
+Moonlight: Nunca soube que o\nDr. Hope estava tao doente...
+
+[23|off=0x1354|chars=86]
+Moonlight: Acho que foi por isso\nque ele estava com tanta pressa\nde terminar seu trabalho...
+
+[24|off=0x140c|chars=42]
+Franco: Sei que voce esta triste\npelo Dr. Hope,
+
+[25|off=0x1462|chars=12]
+<06>P. Eu tambem.
+
+[26|off=0x1486|chars=31]
+Franco: Ele era um bom amigo...
+
+[27|off=0x14d0|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[28|off=0x153c|chars=74]
+Moonlight: Ele me disse que ha\nmuito mais neste mundo\ndo que parece!
+
+[29|off=0x15dc|chars=91]
+Moonlight: O que quero dizer e...\nTenho certeza que o Dr. Hope\nolhara por voce, <06>P.
+
+[30|off=0x16a4|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?
+
+[31|off=0x172c|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, mas\nnao era de ninguem mesmo...
+
+[32|off=0x17fa|chars=61]
+Franco: Bom, acho que nao\ndevemos nos preocupar tanto.
+
+[33|off=0x1880|chars=43]
+Franco: Um alien morando\nno novo quarto?
+
+[34|off=0x18e2|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, mas\nnao era de ninguem mesmo...
+
+[35|off=0x19b0|chars=61]
+Franco: Bom, acho que nao\ndevemos nos preocupar tanto.
+
+[36|off=0x1a36|chars=11]
+Moonlight:
+
+[37|off=0x1a4e|chars=76]
+<06>P!\nVi uma coisa estranha parecendo\nbicho de pelucia no novo quarto.
+
+[38|off=0x1af2|chars=51]
+Moonlight: Voce que fez isso?\nQue impressionante!
+
+[39|off=0x1b64|chars=48]
+Jessica: Que laco bonito.\nE para mim?
+
+[40|off=0x1bd0|chars=111]
+Jessica: Tem certeza? Parece valioso.\nTao brilhante. Quase como se fosse\nde outro mundo. Tem certeza?
+
+[41|off=0x1cba|chars=86]
+Jessica: Obrigada!\nMas nao posso aceitar sem\ndar algo em troca. Aqui.
+
+[42|off=0x1d6e|chars=39]
+Jessica tirou uma pedra\nvermelhinha brilhante.
+
+[43|off=0x1dc4|chars=17]
+E uma Joia Vermelha!
+
+[44|off=0x1df2|chars=55]
+Jessica: Vou enviar pra sua\nCaixa de Itens. Nao se preocupe.
+
+[45|off=0x1e6c|chars=46]
+Jessica: Nao, achei que nao.\nE bom demais.
+
+[46|off=0x1ed4|chars=96]
+Jessica: E tao dificil achar um\nhomem que presta de verdade. Ah,\nnao estou falando de voce.
+
+[47|off=0x1fa0|chars=72]
+Jessica: Por sua causa, pude me\ncasar com um homem maravilhoso.\nObrigada.
+
+[48|off=0x203c|chars=103]
+Jessica: Ficamos separados por\num tempo por causa do trabalho,\nmas ele entende muito bem.
+
+[49|off=0x2116|chars=82]
+Diretora Rose: Sim. Voces dois\nrealmente se preocupam muito\ncom essa ilha.
+
+[50|off=0x21c6|chars=88]
+Dorothy: Entendo muito bem\ncomo Lucia se sente. Se houver\nalgo que eu possa fazer...
+
+[51|off=0x2282|chars=77]
+Lucia: Nao e uma quantia muito\ngrande. Poderia pelo menos\nconsiderar?
+
+[52|off=0x2328|chars=23]
+Diretora Rose: Ola, <06>
+
+[53|off=0x2358|chars=54]
+<06>P.\nBem-vindo a Escola Vulcao.\nSou a diretora, Rose.
+
+[54|off=0x23d0|chars=105]
+Diretora Rose: Voce tem a coragem\ne o amor do doutor te apoiando.\nPor favor, faca o que achar melhor.
+
+[55|off=0x24ae|chars=30]
+Diretora Rose: Boa noite,\n<06>P.
+
+[56|off=0x24ec|chars=54]
+<06>P. Bem-vindo a Escola\nVulcao. Sou a diretora, Rose.
+
+[57|off=0x2564|chars=30]
+Diretora Rose: Boa noite,\n<06>P.
+
+[58|off=0x25a2|chars=54]
+<06>P. Bem-vindo a Escola\nVulcao. Sou a diretora, Rose.
+
+[59|off=0x261a|chars=65]
+Diretora Rose: Os programas de TV\nhoje em dia sao terriveis.
+
+[60|off=0x26a8|chars=74]
+Diretora Rose: Esse "Final\nnao-sei-o-que" e particularmente ruim.
+
+[61|off=0x2748|chars=68]
+Diretora Rose: Bom entao, voce\nvai continuar sendo pesquisadora?
+
+[62|off=0x27dc|chars=95]
+Jessica: Amo a pesquisa que estou\nfazendo agora e nao tenho intencao\nde deixar a ilha.
+
+[63|off=0x28a6|chars=32]
+Dorothy: Ah, que bom que veio,\n<06>
+
+[64|off=0x28f8|chars=97]
+<06>P. Estou procurando\nalguem para ajudar a fazer bolos\npara a Festa de Natal.
+
+[65|off=0x29c6|chars=56]
+Dorothy: Ja assistiu meu\nprograma de TV, Vida de Cozinha?
+
+[66|off=0x2a42|chars=70]
+Dorothy: Se assistir o\nultimo episodio, vai ver\ncomo fazer bolos.
+
+[67|off=0x2ada|chars=112]
+Dorothy: Se quiser ajudar,\nvenha a minha casa a noite do dia\n23 do inverno, antes da festa.
+
+[68|off=0x2bc6|chars=54]
+Dorothy: Claro, vou compensar\npelo seu tempo.
+
+[69|off=0x2c3e|chars=86]
+Diretora Rose: Sim, o prefeito\nrealmente se preocupa com\nos moradores desta ilha.
+
+[70|off=0x2cf6|chars=17]
+Prefeito: Ah, ola <06>
+
+[71|off=0x2d1a|chars=92]
+<06>P. Desculpe,\nmas se tiver algo a dizer\nà diretora, vai ter que ser depois.
+
+[72|off=0x2dde|chars=91]
+Diretora Rose: Fico me perguntando\nse ele esta bem nas Ruinas\nde Pascoa sozinho.
+
+[73|off=0x2ea0|chars=27]
+Franco: Ah, esta la, <06>
+
+[74|off=0x2ed8|chars=76]
+<06>P.\nPode nao atrapalhar minha\nconversa com minha ex-esposa?
+
+[75|off=0x2f7c|chars=30]
+Diretora Rose: Bom dia,\n<06>P.
+
+[76|off=0x2fba|chars=49]
+<06>P. Bem-vindo a Escola\nVulcao. Sou a Diretora Rose.
+
+[77|off=0x3028|chars=65]
+Diretora Rose: Os programas de TV\nhoje em dia sao terriveis.
+
+[78|off=0x30b6|chars=97]
+Diretora Rose: Mas aquele programa\nda bruxa pequena o-que-e-isso\ne bem bonito, devo admitir.
+
+[79|off=0x3184|chars=40]
+Diretora Rose: Hmm... Bocejo...\nCocochilo...
+
+[80|off=0x31e0|chars=40]
+Diretora Rose: Hmm... Bocejo...\nCocochilo...
+
+[81|off=0x323c|chars=21]
+Diretora Rose: Gaga.
+
+[82|off=0x3272|chars=19]
+Dorothy: Gagaaa ga!
+
+[83|off=0x32a4|chars=12]
+Lucia: Gaga?
+
+[84|off=0x32c8|chars=21]
+Diretora Rose: Gaga.
+
+[85|off=0x32fe|chars=21]
+Diretora Rose: Gaga.
+
+[86|off=0x3334|chars=21]
+Diretora Rose: Gaga.
+
+[87|off=0x336a|chars=21]
+Diretora Rose: Gaga.
+
+[88|off=0x33a0|chars=21]
+Diretora Rose: Gaga.
+
+[89|off=0x33d6|chars=20]
+Jessica: Ga... ga...
+
+[90|off=0x340a|chars=13]
+Prefeito: Ga-ga.
+
+[91|off=0x3430|chars=20]
+Franco: Gaga gagaga.
+
+[92|off=0x3464|chars=28]
+Diretora Rose: Ga... Zzz...
+
+[93|off=0x34a4|chars=44]
+Um guarda-roupa de aparencia\nmuito cara...
+
+[94|off=0x3504|chars=31]
+Ha pratos enfileirados aqui.
+
+[95|off=0x354a|chars=27]
+Voce tenta lavar as maos.
+
+[96|off=0x3588|chars=30]
+Esta pia e muito facil de usar.
+
+[97|off=0x35cc|chars=25]
+Suas maos estao limpas.
+
+[98|off=0x3606|chars=24]
+Mas nao tinha sabao...
+
+[99|off=0x363e|chars=40]
+A pressao da agua esta um\npouco fraca...
+
+[100|off=0x3696|chars=48]
+Ficou surpreso com o quanto\nsuas maos estavam sujas.
+
+[101|off=0x36fe|chars=43]
+Ha agua espirrada por toda\na pia!
+
+[102|off=0x375c|chars=24]
+Voce limpa a area.
+
+[103|off=0x3794|chars=26]
+Saiu agua morna...
+
+[104|off=0x37d0|chars=49]
+O ralo nao parece estar\nfuncionando muito bem...
+
+[105|off=0x383a|chars=41]
+Saiu agua quente com\nforca incrivel!
+
+[106|off=0x3894|chars=44]
+Um cheiro muito agradavel\nvem do sabao aqui...
+
+[107|off=0x38f4|chars=55]
+Voce tenta lavar o rosto.\nSente-se um pouco mais refrescado.
+
+[108|off=0x396a|chars=42]
+Ha muitas coisas\nnas prateleiras...
+
+[109|off=0x39c6|chars=19]
+Ha vinho aqui.
+
+[110|off=0x39f4|chars=23]
+Voce olha o banheiro.
+
+[111|off=0x3a2a|chars=32]
+Parece ter sido dada descarga...
+
+[112|off=0x3a72|chars=21]
+Esta brilhando limpo!
+
+[113|off=0x3aa4|chars=28]
+Voce aperta o botao "Flush".
+
+[114|off=0x3ae4|chars=30]
+Ha um bilhete no banheiro.
+
+[115|off=0x3b28|chars=20]
+"Mantenha limpo!"
+
+[116|off=0x3b58|chars=70]
+Parece ter um assento\nque sobe e desce automaticamente.
+
+[117|off=0x3bec|chars=68]
+Ha um adesivo da Banks\nCorporation na lateral\ndo assento do banheiro.
+
+[118|off=0x3c7c|chars=53]
+O aroma de oleo flutuando\nao redor do banheiro...
+
+[119|off=0x3cee|chars=29]
+Esta e uma banheira automatica.
+
+[120|off=0x3d30|chars=62]
+Abriu a gaveta.\nHa muitas coisas diferentes\nla dentro.
+
+[121|off=0x3db4|chars=64]
+Este e um guarda-roupa.\nNao ha nada particularmente\nincomum dentro.
+
+[122|off=0x3e3c|chars=38]
+Ha muitos livros\nna estante.
+
+[123|off=0x3e90|chars=45]
+Mas nao ha razao para\nvoce los ler...
+
+[124|off=0x3ef2|chars=26]
+Voce abre a geladeira.
+
+[125|off=0x3f2e|chars=65]
+Mas fecha rapidamente\npara nao estragar a comida.
+
+[126|off=0x3fb8|chars=75]
+"Serpente do Arco-iris"\n  Leva pela floresta\nou pela tentacao?
+
+[127|off=0x4056|chars=86]
+"Arvores Sussurrantes"\n  Vozes distantes. Proximas.\nEcos do ceu. O som do lago.
+
+[128|off=0x410a|chars=63]
+"Lua do Deserto"\n  As estrelas viram areia\ne voltam a terra.
+
+[129|off=0x4190|chars=50]
+"Valsa"\n  Visitantes do mar. Gira gira\ngira...
+
+[130|off=0x41fc|chars=71]
+"Constelacao do Sul"\n  Veja, o Centauro.\nEscultura e pintura.
+
+[131|off=0x4292|chars=39]
+"Aqui e Ali"\n  Onde eu estou?
+
+[132|off=0x42e8|chars=39]
+"Em Frente: Caverna Sul\nde Heartflame"
+
+[133|off=0x433e|chars=30]
+"Em Frente: Ruinas de Pascoa"
+
+[134|off=0x4382|chars=45]
+"Em Frente: Margem Sudeste\ndo Lago Leste"
+
+[135|off=0x43e4|chars=23]
+"Leste: Floresta Cogumelo"
+
+[136|off=0x441a|chars=45]
+"Em Frente: Margem Sudoeste\ndo Lago Leste"
+
+[137|off=0x447c|chars=37]
+"Perigo! Arvores Caidas.\nNao Entre."
+
+[138|off=0x44ce|chars=25]
+"Leste: Deserto Heartflame"
+
+[139|off=0x4508|chars=18]
+"Dunas Heartflame"
+
+[140|off=0x4534|chars=26]
+"Norte: Planicie Heartflame"
+
+[141|off=0x4570|chars=19]
+"Planicie Heartflame"
+
+[142|off=0x459e|chars=32]
+"Margem Sudeste do Lago Sereia"
+
+[143|off=0x45e6|chars=14]
+"Lago Sereia"
+
+[144|off=0x460a|chars=24]
+"Sul: Floresta Cogumelo"
+
+[145|off=0x4642|chars=32]
+"Margem Sudoeste do Lago Sereia"
+
+[146|off=0x468a|chars=11]
+"Lago Leste"
+
+[147|off=0x46a8|chars=54]
+Encontrei uma grade de TV\nentre revistas encharcadas.
+
+[148|off=0x471c|chars=73]
+Seg. Qua. Sex.\n"Cade Minha Mamae? A Jornada do Gatinho,"\n"Final Z Rangers,"
+
+[149|off=0x47b6|chars=70]
+Ter. Qui. "Floresta Melancolica,"\nSab&Dom. "Miss Cute, Bruxa em Treinamento,"
+
+[150|off=0x484c|chars=28]
+Como jogar com Trilhos,
+
+[151|off=0x4886|chars=7]
+ ~Trilho
+
+[152|off=0x489c|chars=57]
+Primeiro, coloque trilhos e\nprepare as condicoes do Pod.
+
+[153|off=0x4916|chars=113]
+Pode fazer o trem rodar em circulo,\nou entre dois pontos.\nOnde ha trilho, ha caminho.
+
+[154|off=0x4a04|chars=28]
+Como jogar com Trilhos,
+
+[155|off=0x4a3e|chars=8]
+ ~Motores
+
+[156|off=0x4a56|chars=102]
+Motores funcionam como locomotivas.\nSe colocar nos trilhos,\npode mover vagoes juntos.
+
+[157|off=0x4b2a|chars=96]
+Pode controlar o motor pelo\nMenu de Comandos ou diretamente\nno monitor com o botao <06>P.
+
+[158|off=0x4bec|chars=8]
+ botao.
+
+[159|off=0x4c04|chars=38]
+"Como jogar com Trilhos," ~ Vagoes
+
+[160|off=0x4c58|chars=118]
+Vagoes servem como Carga e Passageiros.\nUsando Motores, pode faze-los\ncorrer com Carga ou Pessoas.
+
+[161|off=0x4d4c|chars=62]
+Pode ser motorista\nse operar Motores\nenquanto estiver num Vagao.
+
+[162|off=0x4dd0|chars=40]
+"Como jogar com Trilhos," ~Envio
+
+[163|off=0x4e28|chars=95]
+Se comprar Unidades Auto,\nserao colocadas automaticamente\nentre dois Bins na Fazenda.
+
+[164|off=0x4eee|chars=120]
+Coloque Trilhos pelo Quadrado na\nfrente da Unidade Auto. Itens\nno Vagao serao enviados. Conveniente.
+
+[165|off=0x4fe8|chars=22]
+Fisiocracia e Magia,
+
+[166|off=0x5016|chars=21]
+\n~ou "Livro do Espirito"
+
+[167|off=0x5048|chars=69]
+Se despejar Agua Sagrada\ncom um Regador Mistico,\npode derreter a neve.
+
+[168|off=0x50da|chars=75]
+So pode usar um Regador Mistico\nse trabalhou duro na Fazenda...
+
+[169|off=0x5178|chars=59]
+E um livro de Contos de Fadas\npara educacao infantil.
+
+[170|off=0x51f6|chars=91]
+Parei numa pagina com\nilustração de um boneco de madeira\nsendo engolido por uma baleia enorme.
+
+[171|off=0x52b4|chars=28]
+Meu coracao aperta...\nPor que?
+
+[172|off=0x52f4|chars=44]
+E um Livro de Haiku\nescrito pela Diretora Rose.
+
+[173|off=0x5354|chars=68]
+Ha mais Haikus sobre amor\ndo que sobre paisagem ou cotidiano.
+
+[174|off=0x53e4|chars=69]
+E como ler o diario de outra\npessoa. Sinto-me um pouco culpado.
+
+[175|off=0x5478|chars=30]
+Conto do Cavaleiro Arco e Amor,
+
+[176|off=0x54b6|chars=7]
+ Vol. 1
+
+[177|off=0x54cc|chars=63]
+Cavaleiro: P-p-pega este arco!\nPrincesa: ... sou eu que voce quer?
+
+[178|off=0x5552|chars=108]
+Nao havia mais hesitacao.\nEle tomou coragem e deu um presente.\nO por do sol enrubesceu as bochechas.
+
+[179|off=0x5634|chars=30]
+Conto do Cavaleiro Arco e Amor,
+
+[180|off=0x5672|chars=7]
+ Vol. 2
+
+[181|off=0x5688|chars=73]
+Princesa: Tambem tenho algo pra\nte dar, Cavaleiro: I-isso e...um broche!?
+
+[182|off=0x5722|chars=106]
+Apaixonaram-se um pelo outro.\nEstavam quase 100 pixels mais pertos\nquando a escuridao os cobriu.
+
+[183|off=0x57fe|chars=6]
+Sim\nNao
+
+[184|off=0x5812|chars=6]
+Sim\nNao

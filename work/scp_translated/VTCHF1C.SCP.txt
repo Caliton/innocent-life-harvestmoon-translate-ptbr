@@ -1,0 +1,1142 @@
+# VTCHF1C.SCP - 379 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0xbde|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0xc5a|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0xd40|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0xe2c|chars=61]
+Franco: Ouvi thnoy ainda usar them\nbastante muito overseas.
+
+[4|off=0xeb2|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0xf52|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x1012|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x10ae|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0x116c|chars=11]
+Moonlight: 
+
+[9|off=0x1184|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0x11f8|chars=63]
+Moonlight: You can ir so about\nanyonde in a buggy gostar esse!
+
+[11|off=0x1282|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0x1306|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0x13a4|chars=11]
+Moonlight: 
+
+[14|off=0x13bc|chars=57]
+P!\nOuvi they had alguns trouble na\nVolcano Town gruta.
+
+[15|off=0x143a|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0x14e0|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0x154e|chars=120]
+Franco: If you can homemage to ship muito\ndam pelo dia antes Christmas Eve,\nthey can usar them to decorate the cidade.
+
+[18|off=0x164a|chars=21]
+Franco: Mal posso esp
+
+[19|off=0x1680|chars=41]
+Franco: Ouvi esse Dr. Hope\ncollapsed...
+
+[20|off=0x16de|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0x17aa|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0x1868|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0x18dc|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x1994|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x19ea|chars=12]
+P. Eu tambem
+
+[26|off=0x1a0e|chars=31]
+Franco: Era um bom amigo...
+
+[27|off=0x1a58|chars=48]
+Moonlight: Ouvid the voice da\nFire Spirit!
+
+[28|off=0x1ac4|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x1b64|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x1c2c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x1cb4|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x1d82|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x1e08|chars=43]
+Franco: An alien is living na novo\nquarto?
+
+[34|off=0x1e6a|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x1f38|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x1fbe|chars=11]
+Moonlight: 
+
+[37|off=0x1fd6|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x207a|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x20ec|chars=24]
+Masami: Oh, you must be 
+
+[40|off=0x211e|chars=41]
+P.\nMy name is Masami.\nI run the town bar.
+
+[41|off=0x217c|chars=24]
+Masami: Oh, you must be 
+
+[42|off=0x21ae|chars=41]
+P.\nMy name is Masami.\nI run the town bar.
+
+[43|off=0x220c|chars=41]
+Masami: Old Franco talks a lot about\nyou.
+
+[44|off=0x226a|chars=41]
+Masami: Old Franco talks a lot about\nyou.
+
+[45|off=0x22c8|chars=61]
+Masami: He says he's training you so\nyou can save the island.
+
+[46|off=0x234e|chars=61]
+Masami: He says he's training you so\nyou can save the island.
+
+[47|off=0x23d4|chars=29]
+Masami: Heeheehee.\nHe's cute.
+
+[48|off=0x241a|chars=29]
+Masami: Heeheehee.\nHe's cute.
+
+[49|off=0x2460|chars=20]
+Masami: Well oi, 
+
+[50|off=0x248a|chars=79]
+P. Did\nGayak tell you about the Spring Festival?\nIt's the 4th Sunday in Spring.
+
+[51|off=0x2534|chars=20]
+Masami: Well oi, 
+
+[52|off=0x255e|chars=79]
+P. Did\nGayak tell you about the Spring Festival?\nIt's the 4th Sunday in Spring.
+
+[53|off=0x2608|chars=108]
+Masami: Gayak keeps saying how he wants\nthe offering this year to be made\nup only of handcrafted vegetables.
+
+[54|off=0x26ec|chars=108]
+Masami: Gayak keeps saying how he wants\nthe offering this year to be made\nup only of handcrafted vegetables.
+
+[55|off=0x27d0|chars=108]
+Masami: He says that autofarmed\nvegetables just don't taste right. Did\nhe ask you to grow something for him?
+
+[56|off=0x28b4|chars=108]
+Masami: He says that autofarmed\nvegetables just don't taste right. Did\nhe ask you to grow something for him?
+
+[57|off=0x2998|chars=89]
+Masami: You just have to ship them as\nyou usually do and they'll get to Gayak.\nGood luck.
+
+[58|off=0x2a56|chars=89]
+Masami: You just have to ship them as\nyou usually do and they'll get to Gayak.\nGood luck.
+
+[59|off=0x2b14|chars=113]
+Masami: I believe that plants have\nsouls. If you look at them long enough,\nyou might guess what they're thinking.
+
+[60|off=0x2c02|chars=88]
+Masami: When I do my flower\narrangements, I just listen to what\nthe flowers have to say.
+
+[61|off=0x2cbe|chars=12]
+Masami: Oh, 
+
+[62|off=0x2cd8|chars=90]
+P. You must be\nquite good at using a watering can.\nIf you like, I'd like you to have this.
+
+[63|off=0x2d98|chars=12]
+Masami: Oh, 
+
+[64|off=0x2db2|chars=90]
+P. You must be\nquite good at using a watering can.\nIf you like, I'd like you to have this.
+
+[65|off=0x2e6e|chars=48]
+Masami took out a strangely shaped\nwatering can!
+
+[66|off=0x2ed6|chars=48]
+Masami took out a strangely shaped\nwatering can!
+
+[67|off=0x2f42|chars=60]
+Masami: Vou so enviar it alonir to seu\nItem Box, certo?
+
+[68|off=0x2fc6|chars=60]
+Masami: Vou so enviar it alonir to seu\nItem Box, certo?
+
+[69|off=0x304a|chars=82]
+Masami: Even though I work, I always\nmake it a point to cook lunch for\nmy husband.
+
+[70|off=0x30fa|chars=74]
+Masami: After all, the poor dear is all\nalone at night when I'm at my bar.
+
+[71|off=0x319a|chars=25]
+Masami: Snore... Snore...
+
+[72|off=0x31d4|chars=54]
+Tseu wohomem is appaily Masami,\nthe owner da bar.
+
+[73|off=0x324c|chars=48]
+Jessica: My, o que a bem ribbon.\nIs it for me?
+
+[74|off=0x32b8|chars=111]
+Jessica: Are you sure? It looks\nvaluable. It's so shiny. Almost like it\nis from some other world. Are you sure?
+
+[75|off=0x33a2|chars=86]
+Jessica: Thank you!\nBut I can't just take it without\ngiving something in return. Here.
+
+[76|off=0x3456|chars=39]
+Jessica took out a sparkling\nred stone.
+
+[77|off=0x34ac|chars=17]
+It's a Red Jewel!
+
+[78|off=0x34da|chars=55]
+Jessica: I'll send it on to your Item\nBox, Don't worry.
+
+[79|off=0x3554|chars=46]
+Jessica: No, I didn't think so.\nIt's too nice.
+
+[80|off=0x35bc|chars=96]
+Jessica: It's so hard to find a man\nwho's really worth something. Oh,\nI'm not talking about you.
+
+[81|off=0x3688|chars=72]
+Jessica: Because of you, I was able to\nmarry a wonderful man. Thank you.
+
+[82|off=0x3724|chars=103]
+Jessica: We'll be living apart for a\nwhile because of our jobs, but he's very\nunderstanding about that.
+
+[83|off=0x37fe|chars=62]
+Jessica: It sure is a lot of work to\nmake breakfast every day.
+
+[84|off=0x3886|chars=90]
+Jessica: My mother may have a cooking\nshow on TV, but at home she hardly\nlifts a finger...
+
+[85|off=0x3946|chars=73]
+Jessica: Oh, sorry. My name is Jessica.\nYou must be Dr. Hope's relative,\n
+
+[86|off=0x39da|chars=24]
+P. Eu ouvird about you.
+
+[87|off=0x3a16|chars=16]
+Dorothy: Oi, 
+
+[88|off=0x3a38|chars=33]
+P.\nI'm the mayor's wife, Dorothy.
+
+[89|off=0x3a86|chars=16]
+Dorothy: Oi, 
+
+[90|off=0x3aa8|chars=33]
+P.\nI'm the mayor's wife, Dorothy.
+
+[91|off=0x3af6|chars=72]
+Dorothy: Dr. Hope has been a great deal\nof help to our daughter Jessica.
+
+[92|off=0x3b92|chars=72]
+Dorothy: Dr. Hope has been a great deal\nof help to our daughter Jessica.
+
+[93|off=0x3c2e|chars=67]
+Dorothy: I wonder when Jessica is going\nto get better at cooking...
+
+[94|off=0x3cc0|chars=60]
+Dorothy: Do you suppose she's really\nwatching my TV program?
+
+[95|off=0x3d44|chars=26]
+Mayor: Snooze... Snooze...
+
+[96|off=0x3d84|chars=82]
+Dorothy: This is all so worrying.\nI wish there was something I could\ndo to help...
+
+[97|off=0x3e34|chars=104]
+Lucia: My husband is working day and\nnight on a solution. If only the\nmayor would give him permission...
+
+[98|off=0x3f10|chars=6]
+Nana: 
+
+[99|off=0x3f1e|chars=71]
+P! You came at just\nthe right time! I have something I want\nto ask you.
+
+[100|off=0x3fb8|chars=109]
+Nana: I really want to win the Mushroom\nCooking Festival this year. But I\ncan't do it with my usual dishes...
+
+[101|off=0x409e|chars=111]
+Nana: So I wonder if you wouldn't mind\ngetting me some Porcini mushrooms.\nThey should be in season by tomorrow.
+
+[102|off=0x4188|chars=122]
+Nana: I'll be sure to give you a\nlittle gift if you'll do it\nfor me!\nJust put them in your Scale\nPack and bring them here.
+
+[103|off=0x4288|chars=49]
+Nana: Let's ver... Acho 100g should\nbe enough.
+
+[104|off=0x42f6|chars=6]
+Nana: 
+
+[105|off=0x4304|chars=52]
+P! You got some\nPorcini mushrooms for me!\nThank you!
+
+[106|off=0x4378|chars=84]
+Nana: I'll just take them then.\nI'm a cinch to win the Mushroom\nCooking Contest now.
+
+[107|off=0x442c|chars=6]
+Nana: 
+
+[108|off=0x443a|chars=41]
+P! You got some\nPorcini mushrooms for me!
+
+[109|off=0x4498|chars=81]
+Nana: But I'm afraid this won't be\nquite enough. I could really use\n100g of them.
+
+[110|off=0x4546|chars=114]
+Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+
+[111|off=0x4636|chars=114]
+Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+
+[112|off=0x4726|chars=53]
+Nana: I guess she's a better cook than\nI am, overall.
+
+[113|off=0x479c|chars=53]
+Nana: I guess she's a better cook than\nI am, overall.
+
+[114|off=0x4812|chars=101]
+Masami: The Cogumelo Cooking Contest is\nalmost suae. It's sempre held suae\nno 4th Sundia in fall.
+
+[115|off=0x48e8|chars=101]
+Masami: The Cogumelo Cooking Contest is\nalmost suae. It's sempre held suae\nno 4th Sundia in fall.
+
+[116|off=0x49be|chars=75]
+Masami: It lasts from evening to\nnighttime, so please feel free to\nstop by.
+
+[117|off=0x4a60|chars=75]
+Masami: It lasts from evening to\nnighttime, so please feel free to\nstop by.
+
+[118|off=0x4b02|chars=81]
+Masami: The accident that happened in\nthe cave certainly was terrible,\nwasn't it?
+
+[119|off=0x4bb0|chars=81]
+Masami: The accident that happened in\nthe cave certainly was terrible,\nwasn't it?
+
+[120|off=0x4c5e|chars=99]
+Masami: With all those fumes around, I\nsuppose the Nature Sprites won't\ncome near the cave anymore.
+
+[121|off=0x4d30|chars=99]
+Masami: With all those fumes around, I\nsuppose the Nature Sprites won't\ncome near the cave anymore.
+
+[122|off=0x4e02|chars=116]
+Masami: What are Nature Sprites?\nWhy, they're tiny little creatures that live in\nthe Giant Forest, far to the north.
+
+[123|off=0x4ef6|chars=116]
+Masami: What are Nature Sprites?\nWhy, they're tiny little creatures that live in\nthe Giant Forest, far to the north.
+
+[124|off=0x4fea|chars=90]
+Masami: We used to see them all the time\nhere in town and in the surrounding\nwoods, but...
+
+[125|off=0x50aa|chars=90]
+Masami: We used to see them all the time\nhere in town and in the surrounding\nwoods, but...
+
+[126|off=0x516a|chars=81]
+Masami: What?\nYou mean you've seen them?\nYes, that sounds like a Nature Sprite...
+
+[127|off=0x5218|chars=81]
+Masami: What?\nYou mean you've seen them?\nYes, that sounds like a Nature Sprite...
+
+[128|off=0x52c6|chars=54]
+Masami: Maybe eles chamaring you para o\nGiant Forest.
+
+[129|off=0x533e|chars=54]
+Masami: Maybe eles chamaring you para o\nGiant Forest.
+
+[130|off=0x53b6|chars=32]
+Dorothy: Oh, I'm glad you came,\n
+
+[131|off=0x5408|chars=32]
+Dorothy: Oh, I'm glad you came,\n
+
+[132|off=0x545a|chars=32]
+Dorothy: Oh, I'm glad you came,\n
+
+[133|off=0x54ac|chars=97]
+Dorothy: You see, I'm looking for\nsomeone to help make some cakes\nfor our annual Christmas Party.
+
+[134|off=0x557a|chars=97]
+Dorothy: You see, I'm looking for\nsomeone to help make some cakes\nfor our annual Christmas Party.
+
+[135|off=0x5648|chars=97]
+Dorothy: You see, I'm looking for\nsomeone to help make some cakes\nfor our annual Christmas Party.
+
+[136|off=0x5716|chars=56]
+Dorothy: Have you seen my television\nshow, Cooking Life?
+
+[137|off=0x5792|chars=56]
+Dorothy: Have you seen my television\nshow, Cooking Life?
+
+[138|off=0x580e|chars=56]
+Dorothy: Have you seen my television\nshow, Cooking Life?
+
+[139|off=0x588a|chars=70]
+Dorothy: If you watch the final\nepisode, you'll see how to\nmake cakes.
+
+[140|off=0x5922|chars=70]
+Dorothy: If you watch the final\nepisode, you'll see how to\nmake cakes.
+
+[141|off=0x59ba|chars=70]
+Dorothy: If you watch the final\nepisode, you'll see how to\nmake cakes.
+
+[142|off=0x5a52|chars=112]
+Dorothy: If you would like to help out,\nplease come to my house at night on the\n23rd of winter before the party.
+
+[143|off=0x5b3e|chars=112]
+Dorothy: If you would like to help out,\nplease come to my house at night on the\n23rd of winter before the party.
+
+[144|off=0x5c2a|chars=112]
+Dorothy: If you would like to help out,\nplease come to my house at night on the\n23rd of winter before the party.
+
+[145|off=0x5d16|chars=54]
+Dorothy: Claro, Vou compensate you\nfor seu tempo.
+
+[146|off=0x5d8e|chars=54]
+Dorothy: Claro, Vou compensate you\nfor seu tempo.
+
+[147|off=0x5e06|chars=54]
+Dorothy: Claro, Vou compensate you\nfor seu tempo.
+
+[148|off=0x5e7e|chars=106]
+Masami: Time certainly does fly. I can't\nbelieve we have to worry about the\nChristmas Party again so soon.
+
+[149|off=0x5f5e|chars=106]
+Masami: Time certainly does fly. I can't\nbelieve we have to worry about the\nChristmas Party again so soon.
+
+[150|off=0x603e|chars=109]
+Masami: You'll have to get ready too.\nThe mayor usually only buys enough\npoinsettias to decorate Town Hall...
+
+[151|off=0x6124|chars=109]
+Masami: You'll have to get ready too.\nThe mayor usually only buys enough\npoinsettias to decorate Town Hall...
+
+[152|off=0x620a|chars=105]
+Masami: But if you could grow and ship\nsome poinsettias too, we could decorate\nthe entire town with them!
+
+[153|off=0x62e8|chars=105]
+Masami: But if you could grow and ship\nsome poinsettias too, we could decorate\nthe entire town with them!
+
+[154|off=0x63c6|chars=113]
+Masami: Let's ver... If you could ship\n20 dam, Acho esse would be enough\nto reach as lonire Dr. Hope's casa.
+
+[155|off=0x64b4|chars=113]
+Masami: Let's ver... If you could ship\n20 dam, Acho esse would be enough\nto reach as lonire Dr. Hope's casa.
+
+[156|off=0x65a2|chars=78]
+Masami: He'd be so surprised, he might\nate ir para o Christmas Party himself!
+
+[157|off=0x664a|chars=78]
+Masami: He'd be so surprised, he might\nate ir para o Christmas Party himself!
+
+[158|off=0x66f2|chars=86]
+Masami: Flower arranging helps you\nobtain inner peace... but maybe you\nprefer fishing.
+
+[159|off=0x67aa|chars=86]
+Masami: Flower arranging helps you\nobtain inner peace... but maybe you\nprefer fishing.
+
+[160|off=0x6862|chars=61]
+Masami: I'm sorry, but I'm busy\npreparing for my haiku class.
+
+[161|off=0x68e8|chars=61]
+Masami: I'm sorry, but I'm busy\npreparing for my haiku class.
+
+[162|off=0x696e|chars=127]
+Charles: Actually, I'd like to just\nsleep late on my days off, but...\nMy father has some great\nideas that we have to implement.
+
+[163|off=0x6a78|chars=83]
+Mayor: I think one should make time to\neat with one's family, at least on\ndays off.
+
+[164|off=0x6b2a|chars=23]
+Principal Rose: Oi, 
+
+[165|off=0x6b5a|chars=33]
+P.\nI'm Rose, from Volcano School.
+
+[166|off=0x6ba8|chars=116]
+Principal Rose: Oh, are you attending\nthis cooking class too?\nIt's a lot more\ndifficult than the cooking show on TV.
+
+[167|off=0x6c9c|chars=111]
+Masami: Whether it's cooking, haiku, or\nflower arranging, the smallest\nmiscalculation can cause major problems.
+
+[168|off=0x6d86|chars=111]
+Masami: Whether it's cooking, haiku, or\nflower arranging, the smallest\nmiscalculation can cause major problems.
+
+[169|off=0x6e70|chars=111]
+Masami: Whether it's cooking, haiku, or\nflower arranging, the smallest\nmiscalculation can cause major problems.
+
+[170|off=0x6f5a|chars=111]
+Masami: Whether it's cooking, haiku, or\nflower arranging, the smallest\nmiscalculation can cause major problems.
+
+[171|off=0x7044|chars=113]
+Dorothy: It's important to have a\nlittle time alone with your spouse, even\nif you've been married for many years.
+
+[172|off=0x7132|chars=84]
+Mayor: I'll have to admit, I still get a\nlittle bashful when I'm alone with\nmy wife.
+
+[173|off=0x71e6|chars=80]
+Dorothy: My cooking program is aimed at\nbeginners and covers the\ncooking basics.
+
+[174|off=0x7292|chars=60]
+Dorothy: I teach the more advanced\nsubjects here, in person.
+
+[175|off=0x7316|chars=125]
+Masami: A haiku is a kind of poetry\nthat's made up of 3 lines.\nThe first has 5 syllables,\nthe second 7, and the last 5 again.
+
+[176|off=0x741c|chars=125]
+Masami: A haiku is a kind of poetry\nthat's made up of 3 lines.\nThe first has 5 syllables,\nthe second 7, and the last 5 again.
+
+[177|off=0x7522|chars=51]
+Masami: Why don't you try making a haiku\nyourself, 
+
+[178|off=0x758a|chars=44]
+P? Don't forget\nto use a seasonal word, now.
+
+[179|off=0x75ee|chars=51]
+Masami: Why don't you try making a haiku\nyourself, 
+
+[180|off=0x7656|chars=44]
+P? Don't forget\nto use a seasonal word, now.
+
+[181|off=0x76ba|chars=64]
+Masami: Lenny always makes dinner on\nSundays. It's a great help.
+
+[182|off=0x7746|chars=64]
+Masami: Lenny always makes dinner on\nSundays. It's a great help.
+
+[183|off=0x77d2|chars=85]
+Dorothy: Have you noticed thno\nrefrigerator in seu quarto is\nsempre fully stocked?
+
+[184|off=0x7888|chars=90]
+Dorothy: Dr. Hope asked Gallion to set\nup a system that automatically\ndelivers food there.
+
+[185|off=0x7948|chars=95]
+Dorothy: So you should try and cook\nfairly often. If not every day, at least\nonce a week or so.
+
+[186|off=0x7a12|chars=24]
+Mayor: Oh, oi tsuae, 
+
+[187|off=0x7a44|chars=71]
+P.\nI'm always terribly busy just before\nthe Christmas Party every year.
+
+[188|off=0x7ade|chars=68]
+Mayor: After all, we have to get\neverything ready in a single night.
+
+[189|off=0x7b72|chars=100]
+Mayor: And while the Banks Corporation\nhas offered to donate some poinsettias\nfor the celebration...
+
+[190|off=0x7c46|chars=114]
+Mayor: They nao vai be suae ate the\nhomemha da party,\nand we nao have enough\nto decorate past the cidade hall.
+
+[191|off=0x7d36|chars=39]
+Dorothy: Oh, did you come to help out,\n
+
+[192|off=0x7d86|chars=12]
+P? How nice.
+
+[193|off=0x7daa|chars=107]
+Dorothy: I'd like to have you help with\nthe cake baking, but you don't know\nhow to make a cake yet, do you?
+
+[194|off=0x7e8c|chars=60]
+Dorothy: Just vir para o party\nahomemha and enjoy seusarlf.
+
+[195|off=0x7f10|chars=39]
+Dorothy: Oh, did you come to help out,\n
+
+[196|off=0x7f60|chars=12]
+P? How nice.
+
+[197|off=0x7f84|chars=65]
+Dorothy: Well then, let's make some\nnice cake together, shall we?
+
+[198|off=0x8012|chars=126]
+Dorothy: We have a lot to get ready, so\nwe may not be finished until midday\ntomorrow.\nAre you sure that you want\nto start now?
+
+[199|off=0x811a|chars=76]
+Dorothy: All right, let's get going!\nFirst, I need you to sift this flour...
+
+[200|off=0x81ba|chars=71]
+And so you began to help Dorothy make\na cake for the Christmas Party...
+
+[201|off=0x8250|chars=109]
+Not only that, you also helped clean\nup the Town Hall. It grew late and you\nfinally fell into a deep sleep...
+
+[202|off=0x8336|chars=108]
+Dorothy: Oh, is there something you\nneed to do first? All right then. Talk\nto me again when you're finished.
+
+[203|off=0x841a|chars=59]
+Jessica: I'm not much for parties, but I\ndo like Christmas.
+
+[204|off=0x849c|chars=14]
+Gayak: Oi, 
+
+[205|off=0x84ba|chars=57]
+P!\nThe mayor sure knows how to throw\na party, doesn't he?
+
+[206|off=0x8538|chars=68]
+Gayak: It must have been\ndifficult to ship all of those\npoinsettias.
+
+[207|off=0x85cc|chars=62]
+Gayak: But surprisingly enough, Dr. Hope\nis suae no party.
+
+[208|off=0x8654|chars=98]
+Gayak: He hasn't been out since his\nhealth problems started. This is all\nthanks to your hard work.
+
+[209|off=0x8724|chars=34]
+Gayak: It's Christmas time again,\n
+
+[210|off=0x877a|chars=72]
+Gayak: I feel like Dr. Hope is somewhere\nwatching this party, don't you?
+
+[211|off=0x8816|chars=18]
+Marlene: Welcome, 
+
+[212|off=0x884c|chars=44]
+Marlene: I made a Christmas present for\nyou.
+
+[213|off=0x88b0|chars=86]
+Marlene: Well, it's just a plain Seed\nBag. I'm sorry it couldn't be\nsomething fancier.
+
+[214|off=0x8968|chars=73]
+Marlene: I sent the Seed Bag to your\nItem Box, so keep an eye out for it.
+
+[215|off=0x8a06|chars=78]
+Simon: I always thought Dr. Hope was\nkinda scary, but I guess he's a nice\nguy.
+
+[216|off=0x8aae|chars=86]
+Simon: That cake is delicious, but I\nbet it's very fattening. Better not eat\ntoo much.
+
+[217|off=0x8b66|chars=81]
+Becky: You shipped so homemy poinsettias\nthnoy ate decorated\nDr. Hope's casa!
+
+[218|off=0x8c14|chars=42]
+Becky: The Nature Sprites might ate\nvir!
+
+[219|off=0x8c74|chars=81]
+Becky: You shipped so homemy poinsettias\nthnoy ate decorated\nDr. Hope's casa!
+
+[220|off=0x8d22|chars=41]
+Becky: I'm sure Dr. Hope is very\npleased.
+
+[221|off=0x8d80|chars=84]
+Becky: About the only time everyone in\ntown gets together is at the Christmas\nParty.
+
+[222|off=0x8e34|chars=94]
+Big: The poinsettias no Town\nHall were donated by meu dad's company.\nThey do it emuito ano.
+
+[223|off=0x8efc|chars=34]
+Bobby: S-Sorry.\nYou can't come in.
+
+[224|off=0x8f4c|chars=105]
+Marcia: Lionel's been trying to say\nsomething for a while now, but I can't\nmake heads or tails out of it.
+
+[225|off=0x902a|chars=39]
+Marcia: Why can't you just spit it out?
+
+[226|off=0x9084|chars=43]
+Lionel: I-I've been t-trying to tell\nyou...
+
+[227|off=0x90e6|chars=27]
+Lionel: I l-l-l-love y-y...
+
+[228|off=0x9128|chars=52]
+Lionel: Eu amar seu skirt...\nHaha! Sim, isso it...
+
+[229|off=0x919c|chars=51]
+Marcia: Hmph! You're making fun of me,\naren't you?!
+
+[230|off=0x920e|chars=43]
+Lionel: W-what? Don't look at me like\nthat!
+
+[231|off=0x9270|chars=36]
+Lionel: Um... I, uh...\nL-l-l-love...
+
+[232|off=0x92c4|chars=105]
+Marcia: Lionel's been trying to say\nsomething for a while now, but I can't\nmake heads or tails out of it.
+
+[233|off=0x93a2|chars=35]
+Lenny: How long are you gonna wait?
+
+[234|off=0x93f4|chars=82]
+Lenny: If you don't do something soon,\nanother woman is gonna snap old\nMillion up.
+
+[235|off=0x94a4|chars=72]
+Emma: Oh, be quiet...\nLike you're a big expert on these\nkinds of things!
+
+[236|off=0x9540|chars=59]
+Emma: Million and I have been friends\nsince we were kids...
+
+[237|off=0x95c2|chars=84]
+Emma: Our relationship is much more\nimportant to me than any garden\nvariety romance.
+
+[238|off=0x9676|chars=29]
+Lenny: Okay. If you say so...
+
+[239|off=0x96bc|chars=44]
+Emma: Don't you have some work to do,\nLenny?
+
+[240|off=0x9720|chars=17]
+Emma: Oh, oi, 
+
+[241|off=0x9744|chars=35]
+P.\nI hope you're enjoying yourself.
+
+[242|off=0x9796|chars=109]
+Lenny: I'll never understand her. She's\nnot bad looking, but she's never going\nto make her move at this rate.
+
+[243|off=0x987c|chars=68]
+Lenny: Claro, Million nao e exactly\nthe perfeito pegar, eseuua...
+
+[244|off=0x9910|chars=86]
+Lenny: If only he had something that\ncould give him a little more\nconfidence as a man.
+
+[245|off=0x99c8|chars=21]
+Lenny: Oh, e you, 
+
+[246|off=0x99f4|chars=49]
+P.\nI'm here helping out with the\nChristmas Party.
+
+[247|off=0x9a62|chars=22]
+Becky: Huh? It's you, 
+
+[248|off=0x9a90|chars=25]
+P.\nLooking for something?
+
+[249|off=0x9ace|chars=78]
+Becky: I heard that you're addicted to\nsome kind of weird Dictionary lately...
+
+[250|off=0x9b76|chars=84]
+Becky: I always carry this weird book that\nI found one day.\nDo you want to read it, 
+
+[251|off=0x9c30|chars=24]
+Becky: Here, tseu is it.
+
+[252|off=0x9c6a|chars=25]
+White Rose Story-Volume 2
+
+[253|off=0x9ca6|chars=52]
+Masso failed the city college\nentrance exam again...
+
+[254|off=0x9d16|chars=98]
+He boarded a train to return home.\nHe lamented his misfortune to an\nold man riding the same train.
+
+[255|off=0x9de2|chars=26]
+...Then the old mad said,\n
+
+[256|off=0x9e18|chars=44]
+Smell this white rose,\nand rest for a while.
+
+[257|off=0x9e7c|chars=38]
+The scent holds the key to your luck."
+
+[258|off=0x9ed0|chars=78]
+Even though Masso was suspicious,\nhe sniffed the white rose\nand fell asleep...
+
+[259|off=0x9f74|chars=111]
+One year later, Masso passed the\nentrance exam for an elite university.\nIt may be due to the scent of the rose.
+
+[260|off=0xa05a|chars=109]
+Later, he achieved great success in\nbusiness, established a happy family\nwith a beautiful wife and many kids.
+
+[261|off=0xa13c|chars=55]
+His happy and affluent life continued.\nUntil one day...
+
+[262|off=0xa1b2|chars=30]
+An ear-piercing wseutle blew!!
+
+[263|off=0xa1f6|chars=21]
+...and Masso woke up.
+
+[264|off=0xa228|chars=78]
+The train had just reached the last\nstop. The old man was nowhere to be\nfound.
+
+[265|off=0xa2cc|chars=100]
+Only the scent of wbatere rose was\nleft, lingering na air.\n                                The end
+
+[266|off=0xa3a0|chars=77]
+Becky: Acho ha an velho tale about\nwbatere roses in tseu area too,\ncerto?
+
+[267|off=0xa446|chars=101]
+Becky: Those who find a white rose in the\nwhite snow will have\neverlasting happiness...isn't that so?
+
+[268|off=0xa51c|chars=57]
+Becky: But I wonder what kind of rose\nblooms in winter...
+
+[269|off=0xa59a|chars=66]
+Becky: I see... Let me know if you\nfeel like reading it again, OK?
+
+[270|off=0xa62a|chars=27]
+Becky: Do you want to read 
+
+[271|off=0xa662|chars=25]
+White Rose\nStory - Vol.2,
+
+[272|off=0xa696|chars=28]
+ que Eu fortely recommend?
+
+[273|off=0xa6da|chars=19]
+Masami: Ga... gaga!
+
+[274|off=0xa70c|chars=26]
+Masami: Ga... Zzz... Ga...
+
+[275|off=0xa74c|chars=20]
+Jessica: Ga... ga...
+
+[276|off=0xa780|chars=19]
+Dorothy: Gagaaa ga!
+
+[277|off=0xa7b2|chars=19]
+Dorothy: Gagaaa ga!
+
+[278|off=0xa7e4|chars=13]
+Mayor: Ga-ga.
+
+[279|off=0xa80a|chars=19]
+Dorothy: Gagaaa ga!
+
+[280|off=0xa83c|chars=12]
+Lucia: Gaga?
+
+[281|off=0xa860|chars=26]
+Masami: Ga... Zzz... Ga...
+
+[282|off=0xa8a0|chars=18]
+Charles: Ga! Gaga!
+
+[283|off=0xa8d0|chars=13]
+Mayor: Ga-ga.
+
+[284|off=0xa8f6|chars=21]
+Principal Rose: Gaga.
+
+[285|off=0xa928|chars=44]
+This is a very expensive looking\nwardrobe...
+
+[286|off=0xa988|chars=31]
+Tsuae are dishes lined up suae.
+
+[287|off=0xa9ce|chars=27]
+You try washing your hands.
+
+[288|off=0xaa0c|chars=30]
+This sink is very easy to use.
+
+[289|off=0xaa50|chars=25]
+Your hands are now clean.
+
+[290|off=0xaa8a|chars=24]
+But tsuae was no soap...
+
+[291|off=0xaac2|chars=40]
+The water pressure seems a little\nlow...
+
+[292|off=0xab1a|chars=48]
+You were surprised at how dirty\nyour hands were.
+
+[293|off=0xab82|chars=43]
+There's water splashed all around\nthe sink!
+
+[294|off=0xabe0|chars=24]
+You wipe the area clean.
+
+[295|off=0xac18|chars=26]
+Lukewarm water came out...
+
+[296|off=0xac54|chars=49]
+The drain doesn't seem to be\nworking very well...
+
+[297|off=0xacbe|chars=41]
+Hot agua came out with\nincredible force!
+
+[298|off=0xad18|chars=44]
+A very nice smell surrounds the\nsoap here...
+
+[299|off=0xad78|chars=55]
+You try washing your face.\nYou feel somewhat refreshed.
+
+[300|off=0xadee|chars=42]
+Tsuae are lots of things no\nshelves...
+
+[301|off=0xae4a|chars=19]
+There is wine here.
+
+[302|off=0xae78|chars=23]
+You olhar no toilet.
+
+[303|off=0xaeae|chars=32]
+It verms to have been flushed...
+
+[304|off=0xaef6|chars=21]
+It's sparkling clean!
+
+[305|off=0xaf28|chars=28]
+You push the "Flush" button.
+
+[306|off=0xaf68|chars=30]
+Tsuae is a note no toilet.
+
+[307|off=0xafac|chars=20]
+"Please keep clean!"
+
+[308|off=0xafdc|chars=70]
+It appears to have a toilet seat\nthat raises and lowers automatically.
+
+[309|off=0xb070|chars=68]
+Tsuae is a Banks Corporation\nsticker no side da toilet\nsvirr.
+
+[310|off=0xb100|chars=53]
+The scent of aromatic oil floats\naround the toilet...
+
+[311|off=0xb172|chars=29]
+This is an automatic bathtub.
+
+[312|off=0xb1b4|chars=62]
+You opened the drawer.\nThere are many different things\ninside.
+
+[313|off=0xb238|chars=64]
+This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+
+[314|off=0xb2c0|chars=38]
+Tsuae are homemy books na\nbookshelf.
+
+[315|off=0xb314|chars=45]
+But ha no reafilho for you to\nread them...
+
+[316|off=0xb376|chars=26]
+You open the refrigerator.
+
+[317|off=0xb3b2|chars=65]
+But you quickly close it again\nto prevent the food from spoiling.
+
+[318|off=0xb43c|chars=75]
+"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+
+[319|off=0xb4da|chars=86]
+"Wseupering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound da lake.
+
+[320|off=0xb58e|chars=63]
+"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+
+[321|off=0xb614|chars=50]
+"Waltz"\n  Visitors da sea. Turn turn\nturn...
+
+[322|off=0xb680|chars=71]
+"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+
+[323|off=0xb716|chars=39]
+"Here and There"\n  Where on earth am I?
+
+[324|off=0xb76c|chars=39]
+"Straight Ahead: South Heartflame\nCave"
+
+[325|off=0xb7c2|chars=30]
+"Straight Ahead: Easter Ruins"
+
+[326|off=0xb806|chars=45]
+"Straight Ahead: Southeast Bank\nof East Lake"
+
+[327|off=0xb868|chars=23]
+"East: Cogumelo Forest"
+
+[328|off=0xb89e|chars=45]
+"Straight Ahead: Southwest Bank\nof East Lake"
+
+[329|off=0xb900|chars=37]
+"Danger! Fallen Trees.\nDo Not Enter."
+
+[330|off=0xb952|chars=25]
+"East: Heartflame Desert"
+
+[331|off=0xb98c|chars=18]
+"Heartflame Dunes"
+
+[332|off=0xb9b8|chars=26]
+"North: Heartflame Plains"
+
+[333|off=0xb9f4|chars=19]
+"Heartflame Plains"
+
+[334|off=0xba22|chars=32]
+"Southeast Bank of Mermaid Lake"
+
+[335|off=0xba6a|chars=14]
+"Mermaid Lake"
+
+[336|off=0xba8e|chars=24]
+"South: Cogumelo Forest"
+
+[337|off=0xbac6|chars=32]
+"Southwest Bank of Mermaid Lake"
+
+[338|off=0xbb0e|chars=11]
+"East Lake"
+
+[339|off=0xbb2c|chars=54]
+I found a TV schedule wedged\nbetween sodden magazines.
+
+[340|off=0xbba0|chars=73]
+Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+
+[341|off=0xbc3a|chars=70]
+Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+
+[342|off=0xbcd0|chars=28]
+How to play with Cart Rails,
+
+[343|off=0xbd0a|chars=7]
+ ~Rails
+
+[344|off=0xbd20|chars=57]
+First, lay rails and\nprepare conditions to use Pod Rails.
+
+[345|off=0xbd9a|chars=113]
+You can let the train correr in a circle,\nor back and forth between two points.\nWsuae ha a rail, ha a caminho.
+
+[346|off=0xbe88|chars=28]
+How to play with Cart Rails,
+
+[347|off=0xbec2|chars=8]
+ ~Motors
+
+[348|off=0xbeda|chars=102]
+Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+
+[349|off=0xbfae|chars=96]
+You can control the motor da\nComhomemd Menu, or directly control\nit no monitor com o 
+
+[350|off=0xc070|chars=8]
+ button.
+
+[351|off=0xc088|chars=38]
+"How to play with Cart Rails," ~ Carts
+
+[352|off=0xc0dc|chars=118]
+Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+
+[353|off=0xc1d0|chars=62]
+You can be a driver\nif you operate Motors\nwhile riding a Cart.
+
+[354|off=0xc254|chars=40]
+"How to play with Cart Rails," ~Shipping
+
+[355|off=0xc2ac|chars=95]
+If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+
+[356|off=0xc372|chars=120]
+Place Cart Rails to pass Square in front\nof Auto Unit. Items na Cart will be\nautomaticoally shipped. It's convenient.
+
+[357|off=0xc46c|chars=22]
+Physiocracy and Magic,
+
+[358|off=0xc49a|chars=21]
+\n~or "Book of Spirit"
+
+[359|off=0xc4cc|chars=69]
+If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+
+[360|off=0xc55e|chars=75]
+You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+
+[361|off=0xc5fc|chars=59]
+It's a book with Fairy Tales\nfor early childhood education.
+
+[362|off=0xc67a|chars=91]
+I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+
+[363|off=0xc738|chars=28]
+My heart is twinging...\nWhy?
+
+[364|off=0xc778|chars=44]
+It's a Haiku Book\nwritten by Principle Rose.
+
+[365|off=0xc7d8|chars=68]
+There are more Haikus about love\nthan about scenery or daily life...
+
+[366|off=0xc868|chars=69]
+It's like reading someone else's diary.\nI feel a little bit guilty...
+
+[367|off=0xc8fc|chars=30]
+Tale da Love & Bow Knoite,
+
+[368|off=0xc93a|chars=7]
+ Vol. 1
+
+[369|off=0xc950|chars=63]
+Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+
+[370|off=0xc9d6|chars=108]
+There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+
+[371|off=0xcab8|chars=30]
+Tale da Love & Bow Knoite,
+
+[372|off=0xcaf6|chars=7]
+ Vol. 2
+
+[373|off=0xcb0c|chars=73]
+Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+
+[374|off=0xcba6|chars=106]
+They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+
+[375|off=0xcc82|chars=6]
+Yes\nNo
+
+[376|off=0xcc96|chars=6]
+Yes\nNo
+
+[377|off=0xccaa|chars=6]
+Yes\nNo
+
+[378|off=0xccbe|chars=6]
+Yes\nNo

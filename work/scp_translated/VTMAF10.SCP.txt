@@ -1,0 +1,794 @@
+# VTMAF10.SCP - 263 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x8de|chars=56]
+Franco: Entao voce finalmente\ncomeou a criar animais, hein?
+
+[1|off=0x95a|chars=109]
+Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?
+
+[2|off=0xa40|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatizado, mas antes usar robos\nera uma ideia bem revolucionaria.
+
+[3|off=0xb2c|chars=61]
+Franco: Ouvi que eles ainda usam\nbastante isso no exterior.
+
+[4|off=0xbb2|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido de novo\nentre essas ruinas!
+
+[5|off=0xc52|chars=90]
+Moonlight: Tenho certeza que sua\nforca vital vai revitalizar esta\nterra e a natureza!
+
+[6|off=0xd12|chars=72]
+Franco: Uau!\nQue sortudo voce e!\nGanhar um buggy desse de presente!
+
+[7|off=0xdae|chars=89]
+Franco: Se eu tivesse um buggy\ndesse, levaria a Rose num passeio\ninesquecivel!
+
+[8|off=0xe6c|chars=11]
+Moonlight:
+
+[9|off=0xe84|chars=52]
+<06>P! Vi que voce ganhou\num presente do Dr. Hope.
+
+[10|off=0xef8|chars=63]
+Moonlight: Voce pode ir a\nqualquer lugar com um\nbuggy desse!
+
+[11|off=0xf82|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.
+
+[12|off=0x1006|chars=73]
+Franco: Quando era jovem, todos\nlevavam suas paqueras\npara aquela caverna.
+
+[13|off=0x10a4|chars=11]
+Moonlight:
+
+[14|off=0x10bc|chars=57]
+<06>P!\nOuvi que houve problemas na\ncaverna de Volcano Town.
+
+[15|off=0x113a|chars=77]
+Moonlight: Vai levar tempo e\nesforco para voltar\nao estado original.
+
+[16|off=0x11e0|chars=49]
+Franco: Ouvi que voce plantou\nalgunas poinsetias.
+
+[17|off=0x124e|chars=120]
+Franco: Se conseguir enviar\nbastante ate a vespera do Natal,\npode usar para decorar a cidade.
+
+[18|off=0x134a|chars=21]
+Franco: Mal posso esperar!
+
+[19|off=0x1380|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[20|off=0x13de|chars=96]
+Franco: Sei que deve estar\npreocupado, mas voce tem\num trabalho importante a terminar.
+
+[21|off=0x14aa|chars=89]
+Franco: Tenho certeza que a melhor\ncoisa pro Dr. Hope e ver\nvoce trabalhando duro.
+
+[22|off=0x1568|chars=52]
+Moonlight: Nunca soube que o\nDr. Hope estava tao doente...
+
+[23|off=0x15dc|chars=86]
+Moonlight: Acho que foi por isso\nque ele estava com tanta pressa\nde terminar seu trabalho...
+
+[24|off=0x1694|chars=42]
+Franco: Sei que voce esta triste\npelo Dr. Hope,
+
+[25|off=0x16ea|chars=12]
+<06>P. Eu tambem.
+
+[26|off=0x170e|chars=31]
+Franco: Ele era um bom amigo...
+
+[27|off=0x1758|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[28|off=0x17c4|chars=74]
+Moonlight: Ele me disse que ha\nmuito mais neste mundo\ndo que parece!
+
+[29|off=0x1864|chars=91]
+Moonlight: O que quero dizer e...\nTenho certeza que o Dr. Hope\nolhara por voce, <06>P.
+
+[30|off=0x192c|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?
+
+[31|off=0x19b4|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, mas\nnao era de ninguem mesmo...
+
+[32|off=0x1a82|chars=61]
+Franco: Bom, acho que nao\ndevemos nos preocupar tanto.
+
+[33|off=0x1b08|chars=43]
+Franco: Um alien morando\nno novo quarto?
+
+[34|off=0x1b6a|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, mas\nnao era de ninguem mesmo...
+
+[35|off=0x1c38|chars=61]
+Franco: Bom, acho que nao\ndevemos nos preocupar tanto.
+
+[36|off=0x1cbe|chars=11]
+Moonlight:
+
+[37|off=0x1cd6|chars=76]
+<06>P!\nVi uma coisa estranha parecendo\nbicho de pelucia no novo quarto.
+
+[38|off=0x1d7a|chars=51]
+Moonlight: Voce que fez isso?\nQue impressionante!
+
+[39|off=0x1dec|chars=35]
+*: Hm? Quem e voce?\nAh espera, voce e <06>
+
+[40|off=0x1e34|chars=9]
+<06>P, ne?
+
+[41|off=0x1e52|chars=61]
+Jonathan: Sou Jonathan Branch.\nCuido da fazenda no alto da colina.
+
+[42|off=0x1ed8|chars=99]
+Jonathan: Ouvi sobre voce. Muito\nimpressionate! Cultivar na\nRuinas de Pascoa sozinho!
+
+[43|off=0x1faa|chars=102]
+Jonathan: Se decidir criar animais\nalgum dia, venha me ver.\nPosso te ensinar muita coisa.
+
+[44|off=0x2082|chars=111]
+Jonathan: Toda nossa fazenda e\nautomatizada, incluindo os animais,\nentao nao precisamos fazer muito...
+
+[45|off=0x216c|chars=97]
+Jonathan: Mas sinto que criar\nanimais nos lembra do nosso lugar\nna natureza como seres humanos.
+
+[46|off=0x223a|chars=54]
+Jonathan: Temos responsabilidade\nde trata-los bem.
+
+[47|off=0x22b2|chars=36]
+*: Hm? Quem e voce?\nAh espera, voce e <06>
+
+[48|off=0x22fc|chars=9]
+<06>P, ne?
+
+[49|off=0x231a|chars=61]
+Jonathan: Sou Jonathan Branch.\nCuido da fazenda no alto da colina.
+
+[50|off=0x23a0|chars=99]
+Jonathan: Ouvi sobre voce. Muito\nimpressionate! Cultivar na\nRuinas de Pascoa sozinho!
+
+[51|off=0x2472|chars=102]
+Jonathan: Se decidir criar animais\nalgum dia, venha me ver.\nPosso te ensinar muita coisa.
+
+[52|off=0x254a|chars=89]
+Jonathan: Quando bebem, as pessoas\nsempre parecem voltar\naos mesmos assuntos...
+
+[53|off=0x2608|chars=30]
+Vanessa: Bem-vindo!\nVoce deve ser <06>
+
+[54|off=0x2646|chars=36]
+<06>P.\nSou Vanessa da Fazenda Branch.
+
+[55|off=0x269a|chars=86]
+Vanessa: Voce deve vir\na minha aula de pintura. E todo\nSabado na escola.
+
+[56|off=0x2752|chars=35]
+*: Hm? Quem e voce?\nAh espera, voce e <06>
+
+[57|off=0x279a|chars=9]
+<06>P, ne?
+
+[58|off=0x27b8|chars=75]
+Jonathan: Sou Jonathan Branch.\nCuido da fazenda e\ndos animais aqui.
+
+[59|off=0x285a|chars=99]
+Jonathan: Ouvi sobre voce. Muito\nimpressionate! Cultivar nas Ruinas\nde Pascoa sozinho!
+
+[60|off=0x292c|chars=102]
+Jonathan: Se decidir criar animais\nalgum dia, venha me ver.\nPosso te ensinar muita coisa.
+
+[61|off=0x2a04|chars=77]
+Jonathan: Pensando bem,\no Festival de Prima esta\nlogo ai.
+
+[62|off=0x2aaa|chars=102]
+Jonathan: Voce sempre vai a casa\ndo Dr. Hope, entao pode passar\nno festival tambem.
+
+[63|off=0x2b82|chars=106]
+Jonathan: Claro, os participantes\nsao todos mais velhos,\nentao pode nao ser muito divertido.
+
+[64|off=0x2c62|chars=113]
+Jonathan: Fico muito impressionado.\nPensar que voce administra\numa fazenda sozinho nas Ruinas...
+
+[65|off=0x2d50|chars=102]
+Jonathan: Se decidir criar animais\nalgum dia, venha me ver.\nPosso te ensinar muita coisa.
+
+[66|off=0x2e28|chars=67]
+Jonathan: Como estao seus animais?\nTenho certeza que vai bem.
+
+[67|off=0x2eba|chars=59]
+Jonathan: Ja viu os cavalos\nselvagens nas planicies?
+
+[68|off=0x2f3c|chars=100]
+Jonathan: Falo dos cavalos selvagens\nnas planicies junto ao mar,\nbem ao norte do Lago Leste.
+
+[69|off=0x3010|chars=114]
+Jonathan: Se bem me lembro, um cara\nchamado Pescador conhece um assobio\nespecial que chega a esses cavalos.
+
+[70|off=0x3100|chars=16]
+Dorothy: Ola, <06>
+
+[71|off=0x3122|chars=33]
+<06>P.\nSou Dorothy, esposa do prefeito.
+
+[72|off=0x3170|chars=72]
+Dorothy: O Dr. Hope tem sido\num grande apoio pra nossa\nfilha Jessica.
+
+[73|off=0x320c|chars=56]
+Lucia: Autocozinheiras sao\nmaravilhosas, nao sao?
+
+[74|off=0x3288|chars=73]
+Lucia: Acho que e a melhor invencao\nque meu marido\nalguem ja criou.
+
+[75|off=0x3326|chars=60]
+Lucia: Ah, desculpe. Sou Lucia.\nSou a mae da Marcia.
+
+[76|off=0x33aa|chars=58]
+Lucia: Obrigada por ser\ntao gentil com a Marcia.
+
+[77|off=0x342a|chars=67]
+Big: O que esta fazendo aqui?\nVeio convidado pro cafe?
+
+[78|off=0x34bc|chars=17]
+Marco: Entao voce e <06>
+
+[79|off=0x34e0|chars=86]
+<06>P. O Dr. Hope\ntem muito orgulho de voce. Sou Marco,\npai da Marcia. Me conhece, ne?
+
+[80|off=0x3598|chars=109]
+Marco: Muitas pessoas parecem\npreocupadas com a erupcao do\nvulcao, mas nao pense nisso.
+
+[81|off=0x367e|chars=106]
+Marco: Com o super-refrigerante\ndesenvolvido pela Banks\nCorporation, nao ha nada a temer!
+
+[82|off=0x375e|chars=66]
+Marco: Por que nao vai brincar\ncomo um menino comportado?
+
+[83|off=0x37ee|chars=33]
+Marco: Voce tem que acreditar\nem mim, <06>
+
+[84|off=0x3832|chars=45]
+<06>P. O que aconteceu na\ncaverna nao foi acidente.
+
+[85|off=0x3898|chars=70]
+Marco: Foi obra de espioes\ntentando sabotar minha empresa.
+
+[86|off=0x3930|chars=65]
+Lucia: Nossa! Essa bolsa e barata!\nE "leve um, ganhe outro gratis!"
+
+[87|off=0x39be|chars=103]
+Dorothy: Acho que e\nresponsabilidade da esposa do prefeito\nvisitar os moradores.
+
+[88|off=0x3a98|chars=42]
+Lucia: Fico me perguntando por\nque Dorothy ainda esta aqui.
+
+[89|off=0x3af8|chars=73]
+Lucia: Pensei em assistir um\npouquinho da minha novela\nfavorita, mas...
+
+[90|off=0x3b96|chars=60]
+Lucia: Ah, desculpe. Sou Lucia.\nSou a mae da Marcia.
+
+[91|off=0x3c1a|chars=58]
+Lucia: Obrigada por ser\ntao gentil com a Marcia.
+
+[92|off=0x3c9a|chars=97]
+Prefeito: Ah, e voce! Gosto de\npassar nas casas dos moradores\nde vez em quando.
+
+[93|off=0x3d68|chars=86]
+Jonathan: Entao voce tem um\ncurral? Que tal eu te dar\nmeu Cluck-o-Matic!
+
+[94|off=0x3e20|chars=107]
+Jonathan: Iniciantes como voce\nrealmente precisam do Cluck-o-Matic\npara criar galinhas direito.
+
+[95|off=0x3f02|chars=78]
+Jonathan: Ter um robo galinha\najuda a manter as outras galinhas\nem ordem.
+
+[96|off=0x3faa|chars=87]
+Jonathan: Mas nao usamos mais,\nentao vou manda-lo para\nsua fazenda amanha.
+
+[97|off=0x4064|chars=100]
+Jonathan: Entao voce tem\ngalinhas? Vou te mandar\num Baabaa-matic entao!
+
+[98|off=0x4138|chars=113]
+Jonathan: O que? Tem ovelhas?\nVoce esta indo bem. Vou te\nmandar nosso Moo-o-Matic agora.
+
+[99|off=0x4226|chars=66]
+Jonathan: Esta tentando\nme tirar do negocio? Hahaha!
+
+[100|off=0x42b6|chars=111]
+Jonathan: Toda nossa fazenda e\nautomatizada, incluindo os animais,\nentao nao precisamos fazer muito...
+
+[101|off=0x43a0|chars=97]
+Jonathan: Mas sinto que criar\nanimais nos lembra do nosso lugar\nna natureza como seres humanos.
+
+[102|off=0x446e|chars=54]
+Jonathan: Temos responsabilidade\nde trata-los bem.
+
+[103|off=0x44e6|chars=6]
+Nana: <06>
+
+[104|off=0x44f4|chars=71]
+<06>P! Veio na hora\ncerta! Tenho algo que quero\nte perguntar.
+
+[105|off=0x458e|chars=109]
+Nana: Quero muito ganhar o Festival\nde Culinaria de Cogumelos. Mas\nnao consigo com meus pratos comuns.
+
+[106|off=0x4674|chars=111]
+Nana: Sera que voce poderia\nme pegar uns cogumelos Porcini?\nDevem estar na estacao amanha.
+
+[107|off=0x475e|chars=122]
+Nana: Vou te dar um\npresentinho se fizer isso\npor mim!\nSo coloque na sua Bolsa\ne traga aqui.
+
+[108|off=0x485e|chars=49]
+Nana: Vejamos... Acho que\n100g e suficiente.
+
+[109|off=0x48cc|chars=6]
+Nana: <06>
+
+[110|off=0x48da|chars=52]
+<06>P! Trouxe\ncogumelos Porcini!\nObrigada!
+
+[111|off=0x494e|chars=84]
+Nana: Vou pega-los entao.\nEstou certa de ganhar\no Concurso de Culinaria.
+
+[112|off=0x4a02|chars=6]
+Nana: <06>
+
+[113|off=0x4a10|chars=41]
+<06>P! Trouxe\ncogumelos Porcini!
+
+[114|off=0x4a6e|chars=81]
+Nana: Mas temo que nao seja\nsuficiente. Preciso\nde 100g deles.
+
+[115|off=0x4b1c|chars=114]
+Nana: Se eu nao fizer um Steak\nespecial, Dorothy vai ganhar de\nnovo o Concurso de Culinaria.
+
+[116|off=0x4c0c|chars=114]
+Nana: Se eu nao fizer um Steak\nespecial, Dorothy vai ganhar de\nnovo o Concurso de Culinaria.
+
+[117|off=0x4cfc|chars=53]
+Nana: Acho que ela cozinha\nmelhor do que eu, no geral.
+
+[118|off=0x4d72|chars=53]
+Nana: Acho que ela cozinha\nmelhor do que eu, no geral.
+
+[119|off=0x4de8|chars=32]
+Dorothy: Ah, que bom que veio,\n<06>
+
+[120|off=0x4e3a|chars=97]
+<06>P. Estou procurando\nalguem para ajudar a fazer bolos\npara a Festa de Natal.
+
+[121|off=0x4f08|chars=56]
+Dorothy: Ja assistiu meu\nprograma de TV, Vida de Cozinha?
+
+[122|off=0x4f84|chars=70]
+Dorothy: Se assistir o\nultimo episodio, vai ver\ncomo fazer bolos.
+
+[123|off=0x501c|chars=112]
+Dorothy: Se quiser ajudar,\nvenha a minha casa a noite do dia\n23 do inverno, antes da festa.
+
+[124|off=0x5108|chars=54]
+Dorothy: Claro, vou compensar\npelo seu tempo.
+
+[125|off=0x5180|chars=108]
+Jonathan: Sua esposa parece ser\nfacil de enganar com produtos\nduvidosos. Deve ter cuidado.
+
+[126|off=0x5264|chars=25]
+Jonathan: Zzzz... Zzzz...
+
+[127|off=0x52a2|chars=25]
+Jonathan: Zzzz... Zzzz...
+
+[128|off=0x52e0|chars=87]
+Lucia: Marcia nunca parece\nestar em casa... Poderia pelo menos\nficar em casa nos sabados...
+
+[129|off=0x539a|chars=60]
+Lucia: Ah, desculpe. Sou Lucia.\nSou a mae da Marcia.
+
+[130|off=0x541e|chars=58]
+Lucia: Obrigada por ser\ntao gentil com a Marcia.
+
+[131|off=0x549e|chars=17]
+Marcia: Bom dia, <06>
+
+[132|off=0x54d2|chars=22]
+Marco: Zzzz... Zzzz...
+
+[133|off=0x550a|chars=69]
+Lucia: Ja e hora de ir a\ncasa da familia Branch.
+
+[134|off=0x55a0|chars=66]
+Marco: Ei, foi o Gayak que te\nensinou a farmar, ne?
+
+[135|off=0x5630|chars=116]
+Marco: Sempre digo a ele que\ndeve se mudar pra um edificio\nmoderno,\nmas quer ficar\nna velha cabana.
+
+[136|off=0x5724|chars=108]
+Marco: As pessoas tem que manter\nas aparencias, sabe?\n Por que nao ve\nse consegue\nconvence-lo?
+
+[137|off=0x5808|chars=38]
+Big: O jantar de hoje vai ser\notimo!
+
+[138|off=0x5860|chars=14]
+Jonathan: Ei <06>
+
+[139|off=0x587e|chars=62]
+<06>P.\nTalvez nao queira automatizar\nsua fazenda, mas...
+
+[140|off=0x5906|chars=50]
+Jonathan: Seria divertido\ntentar o Trilho de Pod.
+
+[141|off=0x5976|chars=94]
+Jonathan: Quando se acostumar,\npode colocar trilhos e brincar\ncomo se fossem trens de brinquedo.
+
+[142|off=0x5a3e|chars=70]
+Lucia: Nossa! Este colar e barato!\nE "leve um, ganhe outro gratis!"
+
+[143|off=0x5ad6|chars=123]
+Jonathan: Esta TV LCD de ultra\nalta definicao e incrivel.\nDeixa pra Banks\nCorporation fazer algo assim.
+
+[144|off=0x5bd8|chars=60]
+Lucia: Meus Deus. Quase nao\ntocaram na comida...
+
+[145|off=0x5c5c|chars=60]
+Lucia: Ah, desculpe. Sou Lucia.\nSou a mae da Marcia.
+
+[146|off=0x5ce0|chars=58]
+Lucia: Obrigada por ser\ntao gentil com a Marcia.
+
+[147|off=0x5d60|chars=86]
+Vanessa: A comida das autocozinheiras\nsempre parece um pouco\nestranha...
+
+[148|off=0x5e18|chars=45]
+Vanessa: M-mas nao diga isso\npra Lucia, <06>P!
+
+[149|off=0x5e84|chars=46]
+Marco: Aquela Marcia e\nproblema mesmo.
+
+[150|off=0x5eec|chars=57]
+Marco: Quase nao fica em casa\nnos sabados e domingos.
+
+[151|off=0x5f6a|chars=83]
+Marco: O que vao dizer?\nPor que nao ve se consegue\nconvence-la?
+
+[152|off=0x601c|chars=83]
+Marco: O que vao dizer?\nPor que nao ve se consegue\nconvence-la?
+
+[153|off=0x60ce|chars=13]
+Vanessa: Ga-.
+
+[154|off=0x60f4|chars=12]
+Lucia: Gaga?
+
+[155|off=0x6118|chars=28]
+Big: Gagaga gaga gagagagaga!
+
+[156|off=0x615c|chars=16]
+Marco: Gaga! Ga!
+
+[157|off=0x6188|chars=12]
+Lucia: Gaga?
+
+[158|off=0x61ac|chars=19]
+Dorothy: Gagaaa ga!
+
+[159|off=0x61de|chars=12]
+Lucia: Gaga?
+
+[160|off=0x6202|chars=13]
+Prefeito: Ga-ga.
+
+[161|off=0x6228|chars=17]
+Jonathan: Gagaaa!
+
+[162|off=0x6256|chars=17]
+Jonathan: Gagaaa!
+
+[163|off=0x6284|chars=17]
+Jonathan: Gagaaa!
+
+[164|off=0x62b2|chars=25]
+Jonathan: Gaga... Zzzz...
+
+[165|off=0x62f0|chars=25]
+Jonathan: Gaga... Zzzz...
+
+[166|off=0x632e|chars=15]
+Marcia: Gagaga?
+
+[167|off=0x6358|chars=27]
+Marco: Zzz...ronco! Gaga...
+
+[168|off=0x639a|chars=12]
+Lucia: Gaga?
+
+[169|off=0x63be|chars=16]
+Marco: Gaga! Ga!
+
+[170|off=0x63ea|chars=16]
+Marco: Gaga! Ga!
+
+[171|off=0x6416|chars=28]
+Big: Gagaga gaga gagagagaga!
+
+[172|off=0x645a|chars=12]
+Lucia: Gaga?
+
+[173|off=0x647a|chars=44]
+Um guarda-roupa de aparencia\nmuito cara...
+
+[174|off=0x64da|chars=31]
+Ha pratos enfileirados aqui.
+
+[175|off=0x6520|chars=27]
+Voce tenta lavar as maos.
+
+[176|off=0x655e|chars=30]
+Esta pia e muito facil de usar.
+
+[177|off=0x65a2|chars=25]
+Suas maos estao limpas.
+
+[178|off=0x65dc|chars=24]
+Mas nao tinha sabao...
+
+[179|off=0x6614|chars=40]
+A pressao da agua esta um\npouco fraca...
+
+[180|off=0x666c|chars=48]
+Ficou surpreso com o quanto\nsuas maos estavam sujas.
+
+[181|off=0x66d4|chars=43]
+Ha agua espirrada por toda\na pia!
+
+[182|off=0x6732|chars=24]
+Voce limpa a area.
+
+[183|off=0x676a|chars=26]
+Saiu agua morna...
+
+[184|off=0x67a6|chars=49]
+O ralo nao parece estar\nfuncionando muito bem...
+
+[185|off=0x6810|chars=41]
+Saiu agua quente com\nforca incrivel!
+
+[186|off=0x686a|chars=44]
+Um cheiro muito agradavel\nvem do sabao aqui...
+
+[187|off=0x68ca|chars=55]
+Voce tenta lavar o rosto.\nSente-se um pouco mais refrescado.
+
+[188|off=0x6940|chars=42]
+Ha muitas coisas\nnas prateleiras...
+
+[189|off=0x699c|chars=19]
+Ha vinho aqui.
+
+[190|off=0x69ca|chars=23]
+Voce olha o banheiro.
+
+[191|off=0x6a00|chars=32]
+Parece ter sido dada descarga...
+
+[192|off=0x6a48|chars=21]
+Esta brilhando limpo!
+
+[193|off=0x6a7a|chars=28]
+Voce aperta o botao "Flush".
+
+[194|off=0x6aba|chars=30]
+Ha um bilhete no banheiro.
+
+[195|off=0x6afe|chars=20]
+"Mantenha limpo!"
+
+[196|off=0x6b2e|chars=70]
+Parece ter um assento\nque sobe e desce automaticamente.
+
+[197|off=0x6bc2|chars=68]
+Ha um adesivo da Banks\nCorporation na lateral\ndo assento do banheiro.
+
+[198|off=0x6c52|chars=53]
+O aroma de oleo flutuando\nao redor do banheiro...
+
+[199|off=0x6cc4|chars=29]
+Esta e uma banheira automatica.
+
+[200|off=0x6d06|chars=62]
+Abriu a gaveta.\nHa muitas coisas diferentes\nla dentro.
+
+[201|off=0x6d8a|chars=64]
+Este e um guarda-roupa.\nNao ha nada particularmente\nincomum dentro.
+
+[202|off=0x6e12|chars=38]
+Ha muitos livros\nna estante.
+
+[203|off=0x6e66|chars=45]
+Mas nao ha razao para\nvoce los ler...
+
+[204|off=0x6ec8|chars=26]
+Voce abre a geladeira.
+
+[205|off=0x6f04|chars=65]
+Mas fecha rapidamente\npara nao estragar a comida.
+
+[206|off=0x6f8e|chars=75]
+"Serpente do Arco-iris"\n  Leva pela floresta\nou pela tentacao?
+
+[207|off=0x702c|chars=86]
+"Arvores Sussurrantes"\n  Vozes distantes. Proximas.\nEcos do ceu. O som do lago.
+
+[208|off=0x70e0|chars=63]
+"Lua do Deserto"\n  As estrelas viram areia\ne voltam a terra.
+
+[209|off=0x7166|chars=50]
+"Valsa"\n  Visitantes do mar. Gira gira\ngira...
+
+[210|off=0x71d2|chars=71]
+"Constelacao do Sul"\n  Veja, o Centauro.\nEscultura e pintura.
+
+[211|off=0x7268|chars=39]
+"Aqui e Ali"\n  Onde eu estou?
+
+[212|off=0x72be|chars=39]
+"Em Frente: Caverna Sul\nde Heartflame"
+
+[213|off=0x7314|chars=30]
+"Em Frente: Ruinas de Pascoa"
+
+[214|off=0x7358|chars=45]
+"Em Frente: Margem Sudeste\ndo Lago Leste"
+
+[215|off=0x73ba|chars=23]
+"Leste: Floresta Cogumelo"
+
+[216|off=0x73f0|chars=45]
+"Em Frente: Margem Sudoeste\ndo Lago Leste"
+
+[217|off=0x7452|chars=37]
+"Perigo! Arvores Caidas.\nNao Entre."
+
+[218|off=0x74a4|chars=25]
+"Leste: Deserto Heartflame"
+
+[219|off=0x74de|chars=18]
+"Dunas Heartflame"
+
+[220|off=0x750a|chars=26]
+"Norte: Planicie Heartflame"
+
+[221|off=0x7546|chars=19]
+"Planicie Heartflame"
+
+[222|off=0x7574|chars=32]
+"Margem Sudeste do Lago Sereia"
+
+[223|off=0x75bc|chars=14]
+"Lago Sereia"
+
+[224|off=0x75e0|chars=24]
+"Sul: Floresta Cogumelo"
+
+[225|off=0x7618|chars=32]
+"Margem Sudoeste do Lago Sereia"
+
+[226|off=0x7660|chars=11]
+"Lago Leste"
+
+[227|off=0x767e|chars=54]
+Encontrei uma grade de TV\nentre revistas encharcadas.
+
+[228|off=0x76f2|chars=73]
+Seg. Qua. Sex.\n"Cade Minha Mamae? A Jornada do Gatinho,"\n"Final Z Rangers,"
+
+[229|off=0x778c|chars=70]
+Ter. Qui. "Floresta Melancolica,"\nSab&Dom. "Miss Cute, Bruxa em Treinamento,"
+
+[230|off=0x7822|chars=28]
+Como jogar com Trilhos,
+
+[231|off=0x785c|chars=7]
+ ~Trilho
+
+[232|off=0x7872|chars=57]
+Primeiro, coloque trilhos e\nprepare as condicoes do Pod.
+
+[233|off=0x78ec|chars=113]
+Pode fazer o trem rodar em circulo,\nou entre dois pontos.\nOnde ha trilho, ha caminho.
+
+[234|off=0x79da|chars=28]
+Como jogar com Trilhos,
+
+[235|off=0x7a14|chars=8]
+ ~Motores
+
+[236|off=0x7a2c|chars=102]
+Motores funcionam como locomotivas.\nSe colocar nos trilhos,\npode mover vagoes juntos.
+
+[237|off=0x7b00|chars=96]
+Pode controlar o motor pelo\nMenu de Comandos ou diretamente\nno monitor com o botao <06>P.
+
+[238|off=0x7bc2|chars=8]
+ botao.
+
+[239|off=0x7bda|chars=38]
+"Como jogar com Trilhos," ~ Vagoes
+
+[240|off=0x7c2e|chars=118]
+Vagoes servem como Carga e Passageiros.\nUsando Motores, pode faze-los\ncorrer com Carga ou Pessoas.
+
+[241|off=0x7d22|chars=62]
+Pode ser motorista\nse operar Motores\nenquanto estiver num Vagao.
+
+[242|off=0x7da6|chars=40]
+"Como jogar com Trilhos," ~Envio
+
+[243|off=0x7dfe|chars=95]
+Se comprar Unidades Auto,\nserao colocadas automaticamente\nentre dois Bins na Fazenda.
+
+[244|off=0x7ec4|chars=120]
+Coloque Trilhos pelo Quadrado na\nfrente da Unidade Auto. Itens\nno Vagao serao enviados. Conveniente.
+
+[245|off=0x7fbe|chars=22]
+Fisiocracia e Magia,
+
+[246|off=0x7fec|chars=21]
+\n~ou "Livro do Espirito"
+
+[247|off=0x801e|chars=69]
+Se despejar Agua Sagrada\ncom um Regador Mistico,\npode derreter a neve.
+
+[248|off=0x80b0|chars=75]
+So pode usar um Regador Mistico\nse trabalhou duro na Fazenda...
+
+[249|off=0x814e|chars=59]
+E um livro de Contos de Fadas\npara educacao infantil.
+
+[250|off=0x81cc|chars=91]
+Parei numa pagina com\nilustração de um boneco de madeira\nsendo engolido por uma baleia enorme.
+
+[251|off=0x828a|chars=28]
+Meu coracao aperta...\nPor que?
+
+[252|off=0x82ca|chars=44]
+E um Livro de Haiku\nescrito pela Diretora Rose.
+
+[253|off=0x832a|chars=68]
+Ha mais Haikus sobre amor\ndo que sobre paisagem ou cotidiano.
+
+[254|off=0x83ba|chars=69]
+E como ler o diario de outra\npessoa. Sinto-me um pouco culpado.
+
+[255|off=0x844e|chars=30]
+Conto do Cavaleiro Arco e Amor,
+
+[256|off=0x848c|chars=7]
+ Vol. 1
+
+[257|off=0x84a2|chars=63]
+Cavaleiro: P-p-pega este arco!\nPrincesa: ... sou eu que voce quer?
+
+[258|off=0x8528|chars=108]
+Nao havia mais hesitacao.\nEle tomou coragem e deu um presente.\nO por do sol enrubesceu as bochechas.
+
+[259|off=0x860a|chars=30]
+Conto do Cavaleiro Arco e Amor,
+
+[260|off=0x8648|chars=7]
+ Vol. 2
+
+[261|off=0x865e|chars=73]
+Princesa: Tambem tenho algo pra\nte dar, Cavaleiro: I-isso e...um broche!?
+
+[262|off=0x86f8|chars=106]
+Apaixonaram-se um pelo outro.\nEstavam quase 100 pixels mais pertos\nquando a escuridao os cobriu.

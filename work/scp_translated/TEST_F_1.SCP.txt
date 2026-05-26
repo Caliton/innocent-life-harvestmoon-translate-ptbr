@@ -1,0 +1,452 @@
+# TEST_F_1.SCP - 149 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x4be|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x53a|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x620|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x70c|chars=61]
+Franco: Ouvi thnoy ainda usar them\nbastante muito overseas.
+
+[4|off=0x792|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x832|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x8f2|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x98e|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0xa4c|chars=11]
+Moonlight: 
+
+[9|off=0xa64|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0xad8|chars=63]
+Moonlight: You can ir so about\nanyonde in a buggy gostar esse!
+
+[11|off=0xb62|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0xbe6|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0xc84|chars=11]
+Moonlight: 
+
+[14|off=0xc9c|chars=57]
+P!\nOuvi they had alguns trouble na\nVolcano Town gruta.
+
+[15|off=0xd1a|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xdc0|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0xe2e|chars=120]
+Franco: If you can homemage to ship muito\ndam pelo dia antes Christmas Eve,\nthey can usar them to decorate the cidade.
+
+[18|off=0xf2a|chars=21]
+Franco: Mal posso esp
+
+[19|off=0xf60|chars=41]
+Franco: Ouvi esse Dr. Hope\ncollapsed...
+
+[20|off=0xfbe|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0x108a|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0x1148|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0x11bc|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x1274|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x12ca|chars=12]
+P. Eu tambem
+
+[26|off=0x12ee|chars=31]
+Franco: Era um bom amigo...
+
+[27|off=0x1338|chars=48]
+Moonlight: Ouvid the voice da\nFire Spirit!
+
+[28|off=0x13a4|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x1444|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x150c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x1594|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x1662|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x16e8|chars=43]
+Franco: An alien is living na novo\nquarto?
+
+[34|off=0x174a|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x1818|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x189e|chars=11]
+Moonlight: 
+
+[37|off=0x18b6|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x195a|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x19c8|chars=75]
+Do you want to empty the contents\nof your Scale Pack into the Shipping\nPod?
+
+[40|off=0x1a66|chars=50]
+You emptied seu Scale Pack into\nthe Shipping Pod.
+
+[41|off=0x1ad2|chars=65]
+Do you want to empty the crops\nin your bag into the Shipping Pod?
+
+[42|off=0x1b5c|chars=52]
+Which crop do you want to put into\nthe Shipping Pod?
+
+[43|off=0x1bcc|chars=56]
+You emptied the crops in your bag\ninto the Shipping Pod!
+
+[44|off=0x1c44|chars=84]
+This is a Shipping Pod. The items inside\nare sent to the market every day at\n5:30PM.
+
+[45|off=0x1cf4|chars=84]
+This is a Shipping Pod. The items inside\nare sent to the market every day at\n5:30PM.
+
+[46|off=0x1da4|chars=102]
+This Shipping Pod is for crops and other\nfood items. Place building materials\nand ore in the blue pod.
+
+[47|off=0x1e78|chars=94]
+This Shipping Pod is for stone, lumber,\nand ore. Place crops and other foods\nin the green pod.
+
+[48|off=0x1f3c|chars=61]
+You emptied the contents of the\nbasket into the Shipping Pod!
+
+[49|off=0x1fbe|chars=36]
+Taqui esta nada na Shipping Pod!
+
+[50|off=0x200e|chars=36]
+Taqui esta nada na Shipping Pod!
+
+[51|off=0x205e|chars=30]
+There's nothing in the basket!
+
+[52|off=0x20a2|chars=76]
+Do you want to put the resources\nyou have in your bag into the\nShipping Pod?
+
+[53|off=0x2142|chars=56]
+Which resource do you want to\nput into the Shipping Pod?
+
+[54|off=0x21ba|chars=58]
+You put the resources from your\nbag into the Shipping Pod!
+
+[55|off=0x2236|chars=92]
+This is the Item Box. Store unneeded\nfarming tools or any other tools you\ncannot carry here.
+
+[56|off=0x22f6|chars=55]
+To store or take out items,\nface the box and press the 
+
+[57|off=0x2366|chars=8]
+\nbutton.
+
+[58|off=0x237e|chars=71]
+You can store tools you can't keep in\nyour bag by tossing them in here.
+
+[59|off=0x2414|chars=12]
+You put the 
+
+[60|off=0x242e|chars=18]
+I in\nthe Item Box.
+
+[61|off=0x245a|chars=12]
+Putting the 
+
+[62|off=0x2474|chars=75]
+I in the\nItem Box will lower its quality and\nlower its value. Are you sure?
+
+[63|off=0x2512|chars=12]
+You put the 
+
+[64|off=0x252c|chars=18]
+I in\nthe Item Box.
+
+[65|off=0x2558|chars=18]
+You can't put the 
+
+[66|off=0x257e|chars=20]
+I\ninto the Item Box!
+
+[67|off=0x25ae|chars=32]
+What would you like to take out?
+
+[68|off=0x25f6|chars=49]
+ itemname xxxxx\n itemname2 xxxxx\n itemname3 xxxxx
+
+[69|off=0x2660|chars=45]
+Taqui esta currently nada in seu\nItem Box...
+
+[70|off=0x26c2|chars=43]
+You can't put any more items into\nyour bag!
+
+[71|off=0x2720|chars=8]
+You put 
+
+[72|off=0x2738|chars=16]
+i\ninto seu bag!
+
+[73|off=0x2760|chars=17]
+You took out the 
+
+[74|off=0x2784|chars=25]
+I\nand put it in your bag!
+
+[75|off=0x27be|chars=23]
+You can't take out the\n
+
+[76|off=0x27ee|chars=27]
+I while you're\nholding the 
+
+[77|off=0x2832|chars=13]
+You took the 
+
+[78|off=0x284e|chars=47]
+I out\nof the Item Box and put it\nin your hands!
+
+[79|off=0x28b4|chars=27]
+Voce e ja\nhvelhoing the 
+
+[80|off=0x28f8|chars=12]
+Putting the 
+
+[81|off=0x2912|chars=87]
+J in the\nItem Box will lower its quality, in turn\nlowering selling value. Are you sure?
+
+[82|off=0x29c8|chars=13]
+You took out 
+
+[83|off=0x29ea|chars=14]
+i and put\nthe 
+
+[84|off=0x2a08|chars=5]
+J in!
+
+[85|off=0x2a1a|chars=13]
+You took out 
+
+[86|off=0x2a3c|chars=14]
+i and put\nthe 
+
+[87|off=0x2a5a|chars=5]
+J in!
+
+[88|off=0x2a6c|chars=17]
+You took out the 
+
+[89|off=0x2a90|chars=19]
+I\nand put back the 
+
+[90|off=0x2ab8|chars=16]
+J\nthat you held!
+
+[91|off=0x2ae0|chars=17]
+You took out the 
+
+[92|off=0x2b04|chars=19]
+I\nand put back the 
+
+[93|off=0x2b2c|chars=16]
+J\nthat you held!
+
+[94|off=0x2b54|chars=43]
+What would you like to put in\nthe Item Box?
+
+[95|off=0x2bb2|chars=36]
+You don't have anything in your\nbag.
+
+[96|off=0x2c02|chars=8]
+You put 
+
+[97|off=0x2c1a|chars=18]
+i\nna Item Box.
+
+[98|off=0x2c46|chars=12]
+Putting the 
+
+[99|off=0x2c60|chars=87]
+I in the\nItem Box will lower its quality, in turn\nlowering selling value. Are you sure?
+
+[100|off=0x2d16|chars=12]
+Putting the 
+
+[101|off=0x2d30|chars=87]
+I in the\nItem Box will lower its quality, in turn\nlowering selling value. Are you sure?
+
+[102|off=0x2de6|chars=13]
+You took the 
+
+[103|off=0x2e02|chars=43]
+I\nfrom your bag and put\nit in the Item Box.
+
+[104|off=0x2e60|chars=13]
+You took the 
+
+[105|off=0x2e7c|chars=43]
+I\nfrom your bag and put\nit in the Item Box.
+
+[106|off=0x2eda|chars=49]
+You took the Seed Bag\nand put it in the Item Box.
+
+[107|off=0x2f44|chars=99]
+If you put that Seed Bag into the\nbox, the seeds inside will be sent\nto the Seed Box. Is that okay?
+
+[108|off=0x3012|chars=48]
+You currently have estes items\nin seu Item Box:
+
+[109|off=0x307a|chars=90]
+Anything you purchase besides\nbaskets will be sent here, so\nkeep an eye out for new items!
+
+[110|off=0x3136|chars=30]
+This is the Item Box. Use\nthe 
+
+[111|off=0x3174|chars=25]
+ button to view the menu.
+
+[112|off=0x31ae|chars=72]
+This is the Seed Box. Use it to\nempty or put new seeds in your\nSeed Bag.
+
+[113|off=0x3246|chars=85]
+To look inside the Seed Box or to\nput in or remove seeds, face the box\nand press the 
+
+[114|off=0x32f2|chars=8]
+ button.
+
+[115|off=0x330a|chars=36]
+What seeds would you like to remove?
+
+[116|off=0x335a|chars=42]
+You don't have a Seed Bag\nfor those seeds.
+
+[117|off=0x33b6|chars=9]
+You  put 
+
+[118|off=0x33ca|chars=19]
+K squares worth\nof 
+
+[119|off=0x33f2|chars=24]
+I seeds in\nthe Seed Bag!
+
+[120|off=0x342a|chars=39]
+Which seeds would you like to put away?
+
+[121|off=0x3490|chars=51]
+You don't have any Seed Bags\nthat hold seeds now...
+
+[122|off=0x34fe|chars=51]
+You don't have any Seed Bags\nthat hold seeds now...
+
+[123|off=0x356c|chars=51]
+You don't have any Seed Bags\nthat hold seeds now...
+
+[124|off=0x35da|chars=9]
+You  put 
+
+[125|off=0x35ee|chars=19]
+K squares worth\nof 
+
+[126|off=0x3616|chars=24]
+I seeds in the\nSeed Box!
+
+[127|off=0x364e|chars=55]
+You put all of the seeds in your bag\ninto the Seed Box!
+
+[128|off=0x36c4|chars=53]
+These seeds and bulbs are\ncurrently in your Seed Box:
+
+[129|off=0x3736|chars=67]
+Take out seeds\nPut away seeds\nPut away all seeds\nLook in box\nCancel
+
+[130|off=0x37c4|chars=52]
+Take out an item\nPut away an item\nLook in box\nCancel
+
+[131|off=0x3834|chars=6]
+Yes\nNo
+
+[132|off=0x3848|chars=6]
+Yes\nNo
+
+[133|off=0x385c|chars=6]
+Yes\nNo
+
+[134|off=0x3870|chars=6]
+Yes\nNo
+
+[135|off=0x3884|chars=6]
+Yes\nNo
+
+[136|off=0x3898|chars=6]
+Yes\nNo
+
+[137|off=0x38ac|chars=6]
+Yes\nNo
+
+[138|off=0x38c0|chars=6]
+Yes\nNo
+
+[139|off=0x38d4|chars=23]
+Start.\nBack up.\nCancel.
+
+[140|off=0x390a|chars=51]
+Look inside the basket.\nStart the Life Arm.\nCancel.
+
+[141|off=0x3978|chars=55]
+Look inside the basket.\nCall the Life Arm back.\nCancel.
+
+[142|off=0x39ee|chars=31]
+Look inside the basket.\nCancel.
+
+[143|off=0x3a34|chars=95]
+This is not a field square, so you\ncan't start the Life Arm! Move the\nbasket to a field square.
+
+[144|off=0x3afa|chars=95]
+This is not a field square, so you\ncan't start the Life Arm! Move the\nbasket to a field square.
+
+[145|off=0x3bc0|chars=75]
+This is a Shipping Pod.\nYou can only put things inside\nthat can be shipped.
+
+[146|off=0x3c5e|chars=75]
+This is a Shipping Pod.\nYou can only put things inside\nthat can be shipped.
+
+[147|off=0x3cfc|chars=37]
+Look inside the Shipping Pod.\nCancel.
+
+[148|off=0x3d4e|chars=37]
+Look inside the Shipping Pod.\nCancel.

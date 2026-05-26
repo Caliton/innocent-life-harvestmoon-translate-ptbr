@@ -1,0 +1,227 @@
+# ETKACH_1.SCP - 74 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x31e|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x39a|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x480|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x56c|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[4|off=0x5f2|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x692|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x752|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x7ee|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0x8ac|chars=11]
+Moonlight: 
+
+[9|off=0x8c4|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0x938|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[11|off=0x9c2|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0xa46|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0xae4|chars=11]
+Moonlight: 
+
+[14|off=0xafc|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[15|off=0xb7a|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xc20|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0xc8e|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[18|off=0xd8a|chars=21]
+Franco: I can't wait!
+
+[19|off=0xdc0|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[20|off=0xe1e|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0xeea|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0xfa8|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0x101c|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x10d4|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x112a|chars=12]
+P. I am too.
+
+[26|off=0x114e|chars=31]
+Franco: He was a good friend...
+
+[27|off=0x1198|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[28|off=0x1204|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x12a4|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x136c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x13f4|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x14c2|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x1548|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[34|off=0x15aa|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x1678|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x16fe|chars=11]
+Moonlight: 
+
+[37|off=0x1716|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x17ba|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x1828|chars=29]
+Your bag can't hold any more!
+
+[40|off=0x186a|chars=29]
+Your bag can't hold any more!
+
+[41|off=0x18ac|chars=44]
+Would you like to set a\njewel on this altar?
+
+[42|off=0x190c|chars=17]
+You have set the\n
+
+[43|off=0x1930|chars=15]
+I\non the altar.
+
+[44|off=0x1956|chars=24]
+Remove jewel from altar?
+
+[45|off=0x198e|chars=16]
+You removed the\n
+
+[46|off=0x19b0|chars=17]
+I\nfrom the altar.
+
+[47|off=0x19da|chars=16]
+You removed the 
+
+[48|off=0x19fc|chars=29]
+J\nfrom the altar and put the\n
+
+[49|off=0x1a38|chars=15]
+I in its place!
+
+[50|off=0x1a5e|chars=26]
+You don't have any jewels.
+
+[51|off=0x1a9a|chars=4]
+The 
+
+[52|off=0x1aa4|chars=30]
+I\nstarts to release an aura...
+
+[53|off=0x1ae8|chars=4]
+The 
+
+[54|off=0x1af2|chars=30]
+I\nstarts to release an aura...
+
+[55|off=0x1b36|chars=4]
+The 
+
+[56|off=0x1b40|chars=30]
+I\nstarts to release an aura...
+
+[57|off=0x1b84|chars=4]
+The 
+
+[58|off=0x1b8e|chars=29]
+I\nreleases a brilliant light!
+
+[59|off=0x1bd0|chars=60]
+This is a cheese maker.\nThrow in some milk to\ncreate cheese.
+
+[60|off=0x1c50|chars=45]
+Place the cheese in\nyour farm's Shipping Pod.
+
+[61|off=0x1cb2|chars=68]
+This is a mayonnaise maker.\nThrow in some eggs to\ncreate mayonnaise.
+
+[62|off=0x1d42|chars=49]
+Place the mayonnaise in\nyour farm's Shipping Pod.
+
+[63|off=0x1dac|chars=68]
+This is the incubation bowl.\nHatch an egg by\nplacing it in the bowl.
+
+[64|off=0x1e3c|chars=72]
+There is an egg in the\nincubation bowl.\nYou can't wait until it hatches!
+
+[65|off=0x1ed4|chars=69]
+You can only place one of\nyour eggs in the incubation\nbowl at a time.
+
+[66|off=0x1f66|chars=69]
+You can only place one of\nyour eggs in the incubation\nbowl at a time.
+
+[67|off=0x1ff8|chars=38]
+Your farm is at full\nchicken capacity!
+
+[68|off=0x204c|chars=38]
+Your farm is at full\nchicken capacity!
+
+[69|off=0x20a4|chars=59]
+Cluck-o-Matic: Cluck cluck.\nThe machine functions normally.
+
+[70|off=0x2126|chars=49]
+Moo-o-Matic: Moo.\nThe machine functions normally.
+
+[71|off=0x2190|chars=6]
+Yes\nNo
+
+[72|off=0x21a4|chars=6]
+Yes\nNo
+
+[73|off=0x21b8|chars=33]
+What name do you want to give it?

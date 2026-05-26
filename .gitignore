@@ -1,0 +1,4 @@
+*.iso
+work/iso_files/*
+locks
+tools/__pycache__/*

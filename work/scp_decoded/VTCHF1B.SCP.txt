@@ -1,0 +1,359 @@
+# VTCHF1B.SCP - 118 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x466|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x4e2|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x5c8|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x6b4|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[4|off=0x73a|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x7da|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x89a|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x936|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0x9f4|chars=11]
+Moonlight: 
+
+[9|off=0xa0c|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0xa80|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[11|off=0xb0a|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0xb8e|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0xc2c|chars=11]
+Moonlight: 
+
+[14|off=0xc44|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[15|off=0xcc2|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xd68|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0xdd6|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[18|off=0xed2|chars=21]
+Franco: I can't wait!
+
+[19|off=0xf08|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[20|off=0xf66|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0x1032|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0x10f0|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0x1164|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x121c|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x1272|chars=12]
+P. I am too.
+
+[26|off=0x1296|chars=31]
+Franco: He was a good friend...
+
+[27|off=0x12e0|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[28|off=0x134c|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x13ec|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x14b4|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x153c|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x160a|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x1690|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[34|off=0x16f2|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x17c0|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x1846|chars=11]
+Moonlight: 
+
+[37|off=0x185e|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x1902|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x1974|chars=104]
+Charles: I'm practicing positive\nimagery, so I won't make any mistakes\nwhen I'm mayor and make speeches.
+
+[40|off=0x1a50|chars=18]
+Dorothy: Welcome, 
+
+[41|off=0x1a76|chars=60]
+P.\nThis year, we're using a cake made\nby Lucia's autocooker.
+
+[42|off=0x1afa|chars=81]
+Dorothy: I do hope you'll help out next\ntime. I much prefer a nice\nhandmade cake.
+
+[43|off=0x1ba8|chars=62]
+Dorothy: Thanks to you, we were able to\nmake a splendid cake, 
+
+[44|off=0x1c36|chars=70]
+Dorothy: And just as I promised, I have\nwired payment to your account.
+
+[45|off=0x1cce|chars=62]
+Dorothy: Thanks to you, we were able to\nmake a splendid cake, 
+
+[46|off=0x1d5c|chars=59]
+Dorothy: I'm sure Dr. Hope would be\nvery pleased to see it.
+
+[47|off=0x1dde|chars=64]
+Dorothy: Oh, and I have wired payment\nto your account, as usual.
+
+[48|off=0x1e6a|chars=103]
+Charles: I should have known better than\nto go out partying the night before the\nbig Christmas Party...
+
+[49|off=0x1f44|chars=26]
+Charles: Oh, hello there, 
+
+[50|off=0x1f7a|chars=31]
+P.\nHeh heh. Having a good time?
+
+[51|off=0x1fc4|chars=87]
+Charles: Hm? Don't you think it would be\na good idea for you to go home with\nDr. Hope, 
+
+[52|off=0x2084|chars=64]
+Masami: It just doesn't seem like\nChristmas without poinsettias.
+
+[53|off=0x2110|chars=77]
+Masami: In my homeland, we always used\nlots of poinsettias at Christmas time.
+
+[54|off=0x21b6|chars=79]
+Masami: But the poinsettias here don't\nseem to be from a very reputable\ndealer.
+
+[55|off=0x2260|chars=67]
+Masami: In comparison the ones that you\nshipped are all beautiful,\n
+
+[56|off=0x22f8|chars=57]
+Masami: Love is needed for a flower to\nbloom beautifully.
+
+[57|off=0x2376|chars=42]
+Masami: And you can't buy that with\nmoney.
+
+[58|off=0x23d6|chars=9]
+Gallion: 
+
+[59|off=0x23ea|chars=102]
+P... I know it might\nbe a lot of work, but would you be willing\nto grow poinsettias for us every year?
+
+[60|off=0x24c2|chars=80]
+Gallion: Masami really looks forward to\nthe shipments of flowers from\nyour farm.
+
+[61|off=0x256e|chars=46]
+Gallion: Flowers suit Masami, don't you\nthink?
+
+[62|off=0x25d6|chars=97]
+Gallion: I wouldn't mind being reborn as\na flower if I could be in one of\nMasami's arrangements!!
+
+[63|off=0x26a4|chars=102]
+Sharon: It's only been 2 years since I\ncame to this island, so this is just\nmy second Christmas Party.
+
+[64|off=0x277c|chars=106]
+Sharon: I hear that Dr. Hope's maid was\nthe one who made the cakes up until\nnow. Her cakes were delicious.
+
+[65|off=0x285c|chars=70]
+Sharon: But his maid passed away, and\nthen Vita came to live with him.
+
+[66|off=0x28f4|chars=99]
+Sharon: Come to think of it, I believe\nDr. Hope said that she came from\nthe same place as you did, 
+
+[67|off=0x29cc|chars=51]
+Sharon: She's pretty and smart.\nReally a nice girl.
+
+[68|off=0x2a3e|chars=61]
+Sharon: I always think of my old\nboyfriend at Christmas time.
+
+[69|off=0x2ac4|chars=90]
+Sharon: Oh, I'm sorry... I really\nshouldn't be talking about this kind\nof thing with you, 
+
+[70|off=0x2b8a|chars=37]
+Mayor: You've worked hard this year,\n
+
+[71|off=0x2bd6|chars=23]
+P. Why not take a rest?
+
+[72|off=0x2c10|chars=105]
+Mayor: This year's cake is even more\nimpressive than the last one. It really\nadds something to the party.
+
+[73|off=0x2cee|chars=114]
+Mayor: To tell you the truth, I wish we\nhad a special cake of some kind, but I\nguess it can't be helped this time.
+
+[74|off=0x2dde|chars=115]
+Mayor: Don't let on, but there aren't\nmany people on this island who are good\nenough cooks to help my wife Dorothy.
+
+[75|off=0x2ed0|chars=97]
+Mayor: Looking at the smiling faces of\nthe townspeople like this is the\ngreatest reward as mayor.
+
+[76|off=0x2f9e|chars=97]
+Marco: Here we are, with Flame Mountain\nabout to erupt, and my men still won't\nget on the ball...
+
+[77|off=0x306c|chars=81]
+Marco: Surely they know what will\nhappen if our project isn't finished\nin time...
+
+[78|off=0x311a|chars=24]
+Marco: Oh, hello there, 
+
+[79|off=0x314c|chars=74]
+P!\nThat was just a little joke. I was\npretending to talk to myself... Yes.
+
+[80|off=0x31ec|chars=68]
+Marco: Of course the tunnel\nconstruction is going according\nto plan!
+
+[81|off=0x3280|chars=97]
+Marco: The supercoolant that my company\nhas developed can stop any eruption\nbefore it boils over!
+
+[82|off=0x334e|chars=106]
+Marco: My plan to use supercoolant\nto stop the eruption may not have\ngone too well, but I'm here aren't I?
+
+[83|off=0x342e|chars=111]
+Marco: The fact that I was invited to\nthe party is a clear indicator that\nthe mayor is relying on my expertise.
+
+[84|off=0x3518|chars=52]
+Lucia: What a wonderful cake.\nDid you help bake it, 
+
+[85|off=0x3582|chars=22]
+P?\nIt looks delicious.
+
+[86|off=0x35ba|chars=59]
+Lucia: I had no idea that you could bake\na cake like this, 
+
+[87|off=0x3632|chars=17]
+P.\nI'm impressed.
+
+[88|off=0x3660|chars=68]
+Lucia: I wish my daughter Marcia would\ntake an interest in baking...
+
+[89|off=0x36f4|chars=94]
+Lucia: This year my autocooker baked\nthe cake. You just have to push one\nbutton and it's done.
+
+[90|off=0x37bc|chars=76]
+Jonathan: My livestock are restless.\nThey must sense the impending\neruption.
+
+[91|off=0x3860|chars=95]
+Jonathan: Thinking back, it's hard to\nbelieve how close we were to having\nFlame Mountain erupt.
+
+[92|off=0x392a|chars=36]
+Jonathan: You really helped us out,\n
+
+[93|off=0x3974|chars=51]
+P. My daughter could learn\na thing or two from you.
+
+[94|off=0x39e6|chars=99]
+Vanessa: It looks like Dr. Hope\ncouldn't make it again this year. I\nwonder if he's doing all right.
+
+[95|off=0x3ab8|chars=107]
+Vanessa: Dr. Hope seems to be having a\ngood time. I guess those rumors about\nhim being sick were all wrong.
+
+[96|off=0x3b9a|chars=111]
+Vanessa: I can't help remembering... It\nwas right after the Christmas Party that\nDr. Hope collapsed, wasn't it?
+
+[97|off=0x3c84|chars=87]
+Principal Rose: We should give thanks\nthat we are able to have another\nChristmas Party.
+
+[98|off=0x3d3e|chars=107]
+Dr. Hope: It's been so long since I've\nbeen out. But it looked so festive\nthat I just couldn't help myself.
+
+[99|off=0x3e20|chars=81]
+Dr. Hope: It's all thanks to you and the\npoinsettias you worked so hard to\ngrow, 
+
+[100|off=0x3ed4|chars=93]
+Dr. Hope: And you made that cake as\nwell, eh? Impressive. Dorothy told me\nhow you helped her.
+
+[101|off=0x3f9a|chars=40]
+Dr. Hope: I'm proud to call you my son,\n
+
+[102|off=0x3ffc|chars=107]
+Dr. Hope: It's been so long since I've\nbeen out. But it looked so festive that\nI just couldn't help myself.
+
+[103|off=0x40de|chars=81]
+Dr. Hope: It's all thanks to you and the\npoinsettias you worked so hard to\ngrow, 
+
+[104|off=0x4192|chars=40]
+Dr. Hope: I'm proud to call you my son,\n
+
+[105|off=0x41f4|chars=96]
+Dr. Hope: Well now. It's still a bit\nearly, but would you like to go back\nto my house and relax?
+
+[106|off=0x42c0|chars=42]
+Dr. Hope: Have you said hello to\neveryone?
+
+[107|off=0x4320|chars=37]
+Dr. Hope: I see.\nThen let's be going.
+
+[108|off=0x4376|chars=35]
+Charles: Dr. Hope!\nLeaving so soon?
+
+[109|off=0x43c8|chars=19]
+Dr. Hope: Yes. But 
+
+[110|off=0x43f0|chars=34]
+P and I\nboth had a wonderful time.
+
+[111|off=0x4440|chars=113]
+Dr. Hope: Everyone looks like they're\nhaving so much fun, I don't want to\ninterrupt them. So we'll just slip out.
+
+[112|off=0x452e|chars=41]
+Charles: I understand, Doctor.\nTake care.
+
+[113|off=0x458c|chars=81]
+Dr. Hope: I see. Then you'd better go\nand talk to everyone. I'll be waiting\nhere.
+
+[114|off=0x463a|chars=84]
+Max: The poinsettias and the cake are\nlovely. But not half as lovely as you,\nNana...
+
+[115|off=0x46ee|chars=66]
+Nana: Oh you...\nYou always were such a romantic,\ndear. I love you.
+
+[116|off=0x477e|chars=18]
+Charles: Ga! Gaga!
+
+[117|off=0x47aa|chars=6]
+Yes\nNo

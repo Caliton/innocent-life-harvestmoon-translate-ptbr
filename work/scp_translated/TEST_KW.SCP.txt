@@ -1,0 +1,330 @@
+# TEST_KW.SCP - 108 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x436|chars=98]
+Prefeito: Hmm... Acho que ele quer mesmo\ncontinuar com isso...\nNunca entenderei os cientistas.    
+
+[1|off=0x506|chars=98]
+Prefeito: Hmm... Acho que ele quer mesmo\ncontinuar com isso...\nNunca entenderei os cientistas.    
+
+[2|off=0x5d6|chars=48]
+Gayak: Hey! You can't train without\nthose seeds!
+
+[3|off=0x642|chars=48]
+Gayak: Hey! You can't train without\nthose seeds!
+
+[4|off=0x6ae|chars=98]
+Gayak: Hey! What's the big idea\nthrowing away that potato?\nYou have to put it in the Shipping Pod!
+
+[5|off=0x77e|chars=98]
+Gayak: Hey! What's the big idea\nthrowing away that potato?\nYou have to put it in the Shipping Pod!
+
+[6|off=0x84e|chars=59]
+Franco: Whatever you do, don't forget to\nwater them today, 
+
+[7|off=0x8c6|chars=18]
+P.\nWe harvest the 
+
+[8|off=0x8ec|chars=11]
+I tomorrow!
+
+[9|off=0x90e|chars=85]
+Million: Oh, I almost forgot.\nPlease come by my store the next\ntime you come to town.
+
+[10|off=0x9c4|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[11|off=0xa40|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[12|off=0xb26|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[13|off=0xc12|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[14|off=0xc98|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[15|off=0xd38|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[16|off=0xdf8|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[17|off=0xe94|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[18|off=0xf52|chars=11]
+Moonlight: 
+
+[19|off=0xf6a|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[20|off=0xfde|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[21|off=0x1068|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[22|off=0x10ec|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[23|off=0x118a|chars=11]
+Moonlight: 
+
+[24|off=0x11a2|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[25|off=0x1220|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[26|off=0x12c6|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[27|off=0x1334|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[28|off=0x1430|chars=21]
+Franco: I can't wait!
+
+[29|off=0x1466|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[30|off=0x14c4|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[31|off=0x1590|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[32|off=0x164e|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[33|off=0x16c2|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[34|off=0x177a|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[35|off=0x17d0|chars=12]
+P. I am too.
+
+[36|off=0x17f4|chars=31]
+Franco: He was a good friend...
+
+[37|off=0x183e|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[38|off=0x18aa|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[39|off=0x194a|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[40|off=0x1a12|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[41|off=0x1a9a|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[42|off=0x1b68|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[43|off=0x1bee|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[44|off=0x1c50|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[45|off=0x1d1e|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[46|off=0x1da4|chars=11]
+Moonlight: 
+
+[47|off=0x1dbc|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[48|off=0x1e60|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[49|off=0x1ed2|chars=115]
+Gayak: This may be a small island, but\nif you tried to walk all the way around\nit, it would take quite a long time.
+
+[50|off=0x1fc4|chars=109]
+Gayak: Oh, by the way, did you notice\nthat the bridge over the river to the\nnorthwest of the ruins is broken?
+
+[51|off=0x20aa|chars=115]
+Gayak: This may be a small island, but\nif you tried to walk all the way around\nit, it would take quite a long time.
+
+[52|off=0x219c|chars=109]
+Gayak: Oh, by the way, did you notice\nthat the bridge over the river to the\nnorthwest of the ruins is broken?
+
+[53|off=0x2282|chars=115]
+Gayak: This may be a small island, but\nif you tried to walk all the way around\nit, it would take quite a long time.
+
+[54|off=0x2374|chars=109]
+Gayak: Oh, by the way, did you notice\nthat the bridge over the river to the\nnorthwest of the ruins is broken?
+
+[55|off=0x245a|chars=115]
+Gayak: This may be a small island, but\nif you tried to walk all the way around\nit, it would take quite a long time.
+
+[56|off=0x254c|chars=55]
+Jessica: I'll send it on to your Item\nBox, Don't worry.
+
+[57|off=0x25c6|chars=42]
+Lucia: I wonder why Dorothy is still\nhere.
+
+[58|off=0x2626|chars=6]
+Nana: 
+
+[59|off=0x2634|chars=71]
+P! You came at just\nthe right time! I have something I want\nto ask you.
+
+[60|off=0x26ca|chars=11]
+If you aren
+
+[61|off=0x26e2|chars=83]
+t able to harvest at least\n5000 crops from this Wasteland\nFarm in a year, you lose.
+
+[62|off=0x2794|chars=86]
+Dr. Hope: Why don't we have breakfast\ntogether the next time you stay at this\nmansion?
+
+[63|off=0x284c|chars=83]
+Lucia: Maybe I should buy some of that\nmakeup that the Pink Mask man\nwas selling...
+
+[64|off=0x28fa|chars=45]
+The noxious gas seems to be gone\nin the cave.
+
+[65|off=0x2960|chars=100]
+Marcia: Sometimes I think that if\nthe North Bridge was fixed, I really\nmight just run far, far away.
+
+[66|off=0x2a34|chars=35]
+Million: That brings your order to\n
+
+[67|off=0x2a7c|chars=25]
+KG. Will that be alright?
+
+[68|off=0x2ab6|chars=66]
+Your activities from the previous\nday increased your Human\nStatus!
+
+[69|off=0x2b42|chars=90]
+There's a terrible storm raging\noutside! You won't be able to move\nvery quickly in that...
+
+[70|off=0x2bfe|chars=45]
+But there's no reason for you to\nread them...
+
+[71|off=0x2c60|chars=15]
+You found a(n)\n
+
+[72|off=0x2c8c|chars=15]
+You found a(n)\n
+
+[73|off=0x2cb8|chars=37]
+Anular e voltar a
+tela anterior?
+
+[74|off=0x2d0e|chars=105]
+Dorothy: Grilling and its cousin frying\ninvolve cooking food over direct\nheat on a grill or a frying pan.
+
+[75|off=0x2dec|chars=75]
+Neo: Neo, the amazing scientific fortune-\nteller, brings you...the weather!
+
+[76|off=0x2e8e|chars=75]
+Neo: Neo, the amazing scientific fortune-\nteller, brings you...the weather!
+
+[77|off=0x2f30|chars=75]
+Neo: Neo, the amazing scientific fortune-\nteller, brings you...the weather!
+
+[78|off=0x2fce|chars=32]
+What would you like to take out?
+
+[79|off=0x3016|chars=32]
+What would you like to take out?
+
+[80|off=0x305e|chars=21]
+Challenge increased!\n
+
+[81|off=0x309e|chars=21]
+Challenge increased!\n
+
+[82|off=0x30de|chars=16]
+Love increased!\n
+
+[83|off=0x3114|chars=24]
+Intelligence increased!\n
+
+[84|off=0x315a|chars=19]
+Cooking increased!\n
+
+[85|off=0x3196|chars=22]
+Creativity increased!\n
+
+[86|off=0x31d8|chars=17]
+Humor increased!\n
+
+[87|off=0x3210|chars=4]
+Life
+
+[88|off=0x3220|chars=5]
+Forte
+
+[89|off=0x3232|chars=7]
+Chocobi
+
+[90|off=0x3248|chars=5]
+Cocoa
+
+[91|off=0x325a|chars=4]
+Yogi
+
+[92|off=0x326a|chars=5]
+Cow 1
+
+[93|off=0x327c|chars=5]
+Cow 2
+
+[94|off=0x328e|chars=5]
+Cow 3
+
+[95|off=0x32a0|chars=5]
+Cow 4
+
+[96|off=0x32b2|chars=5]
+Cow 5
+
+[97|off=0x32c4|chars=7]
+Sheep 1
+
+[98|off=0x32da|chars=7]
+Sheep 2
+
+[99|off=0x32f0|chars=7]
+Sheep 3
+
+[100|off=0x3306|chars=7]
+Sheep 4
+
+[101|off=0x331c|chars=7]
+Sheep 5
+
+[102|off=0x3332|chars=9]
+Chicken 1
+
+[103|off=0x334c|chars=9]
+Chicken 2
+
+[104|off=0x3366|chars=9]
+Chicken 3
+
+[105|off=0x3380|chars=9]
+Chicken 4
+
+[106|off=0x339a|chars=9]
+Chicken 5
+
+[107|off=0x33b4|chars=4]
+Yogi

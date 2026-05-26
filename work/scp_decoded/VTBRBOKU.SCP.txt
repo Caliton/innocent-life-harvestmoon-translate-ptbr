@@ -1,0 +1,398 @@
+# VTBRBOKU.SCP - 131 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x4ce|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x54a|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x630|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x71c|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[4|off=0x7a2|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x842|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x902|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x99e|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0xa5c|chars=11]
+Moonlight: 
+
+[9|off=0xa74|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0xae8|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[11|off=0xb72|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0xbf6|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0xc94|chars=11]
+Moonlight: 
+
+[14|off=0xcac|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[15|off=0xd2a|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xdd0|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0xe3e|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[18|off=0xf3a|chars=21]
+Franco: I can't wait!
+
+[19|off=0xf70|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[20|off=0xfce|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0x109a|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0x1158|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0x11cc|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x1284|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x12da|chars=12]
+P. I am too.
+
+[26|off=0x12fe|chars=31]
+Franco: He was a good friend...
+
+[27|off=0x1348|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[28|off=0x13b4|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x1454|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x151c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x15a4|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x1672|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x16f8|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[34|off=0x175a|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x1828|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x18ae|chars=11]
+Moonlight: 
+
+[37|off=0x18c6|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x196a|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x19dc|chars=35]
+*: Hm? Who're you?\nOh wait, you're 
+
+[40|off=0x1a24|chars=9]
+P, right?
+
+[41|off=0x1a42|chars=61]
+Jonathan: I'm Jonathan Branch.\nI run the farm up on the hill.
+
+[42|off=0x1ac8|chars=99]
+Jonathan: I've heard about you. Very\nimpressive! Growing crops in the\nEaster Ruins all by yourself!
+
+[43|off=0x1b9a|chars=102]
+Jonathan: If you ever decide you want\nto raise some livestock, come and\nsee me. I can teach you a lot.
+
+[44|off=0x1c72|chars=111]
+Jonathan: Our entire farm is automated,\nincluding the livestock, so we don't\nreally have to do much for them...
+
+[45|off=0x1d5c|chars=97]
+Jonathan: But I feel that raising\nanimals helps remind us of our place\nin nature as human beings.
+
+[46|off=0x1e2a|chars=54]
+Jonathan: We have a responsibility to\ntreat them well.
+
+[47|off=0x1ea2|chars=36]
+*: Hm? Who are you?\nOh wait, you're 
+
+[48|off=0x1eec|chars=9]
+P, right?
+
+[49|off=0x1f0a|chars=61]
+Jonathan: I'm Jonathan Branch.\nI run the farm up on the hill.
+
+[50|off=0x1f90|chars=99]
+Jonathan: I've heard about you. Very\nimpressive! Growing crops in the\nEaster Ruins all by yourself!
+
+[51|off=0x2062|chars=102]
+Jonathan: If you ever decide you want to\nraise some livestock, come and see\nme. I can teach you a lot.
+
+[52|off=0x213a|chars=89]
+Jonathan: When people drink, they always\nseem to go back to the same old\nconversations...
+
+[53|off=0x21f8|chars=35]
+*: Hm? Who're you?\nOh wait, you're 
+
+[54|off=0x2240|chars=9]
+P, right?
+
+[55|off=0x225e|chars=75]
+Jonathan: I'm Jonathan Branch.\nI run the farm and tend to the\nanimals here.
+
+[56|off=0x2300|chars=99]
+Jonathan: I've heard about you. Very\nimpressive! Growing crops in the Easter\nRuins all by yourself!
+
+[57|off=0x23d2|chars=102]
+Jonathan: If you ever decide you want to\nraise some livestock, come and see\nme. I can teach you a lot.
+
+[58|off=0x24aa|chars=77]
+Jonathan: Come to think of it, the\nSpring Festival is just around the\ncorner.
+
+[59|off=0x2550|chars=102]
+Jonathan: You're always going to Dr.\nHope's house, so you might as well\nstop by the festival then too.
+
+[60|off=0x2628|chars=106]
+Jonathan: Of course, the people who take\npart are all older people, so it might\nnot be much fun for a kid.
+
+[61|off=0x2708|chars=113]
+Jonathan: I'm very impressed. To think\nthat you're able to run a farm all\nby yourself over at the Easter Ruins...
+
+[62|off=0x27f6|chars=102]
+Jonathan: If you ever decide you want to\nraise some livestock, come and see me.\nI can teach you a lot.
+
+[63|off=0x28ce|chars=67]
+Jonathan: So how are your animals?\nI'm sure you're doing just fine.
+
+[64|off=0x2960|chars=59]
+Jonathan: Have you ever seen the wild\nhorses on the plains?
+
+[65|off=0x29e2|chars=100]
+Jonathan: I'm talking about the wild\nhorses on the plains by the sea, way\nto the north of East Lake.
+
+[66|off=0x2ab6|chars=114]
+Jonathan: If I remember correctly, a guy\ncalled the Fisherman knows a special\nwhistle that can reach those horses.
+
+[67|off=0x2ba6|chars=17]
+*: Chomp chomp...
+
+[68|off=0x2bd4|chars=12]
+*: Mooooo...
+
+[69|off=0x2bf8|chars=10]
+*: Whinny.
+
+[70|off=0x2c18|chars=11]
+*: Moo moo.
+
+[71|off=0x2c3a|chars=19]
+*: Neigh...\nZzzz...
+
+[72|off=0x2c6c|chars=21]
+*: Moo moo...\nZzzz...
+
+[73|off=0x2ca2|chars=9]
+*: Neigh!
+
+[74|off=0x2cc0|chars=12]
+*: Mooooo...
+
+[75|off=0x2ce4|chars=11]
+*: Moo moo.
+
+[76|off=0x2d06|chars=9]
+*: Neigh!
+
+[77|off=0x2d24|chars=17]
+*: Chomp chomp...
+
+[78|off=0x2d52|chars=9]
+*: Neigh!
+
+[79|off=0x2d70|chars=86]
+Jonathan: So you got yourself a\nbarn, eh? Well then, let me give you my\nCluck-o-Matic!
+
+[80|off=0x2e28|chars=107]
+Jonathan: Beginners like you really need\nsomething like the Cluck-o-Matic\nto help you raise chickens right.
+
+[81|off=0x2f0a|chars=78]
+Jonathan: Having a robot chicken\naround helps keep the other chickens\nin line.
+
+[82|off=0x2fb2|chars=87]
+Jonathan: But we don't use it\nanymore, so I'll have it sent over to\nyour farm tomorrow.
+
+[83|off=0x306c|chars=100]
+Jonathan: So you got yourself\nsome chickens, you say? Then I'll be\nsure and send you a Baabaa-matic!
+
+[84|off=0x3140|chars=113]
+Jonathan: What's that? You have sheep\nnow? You're certainly doing well. I'll\nsend you our Moo-o-Matic right away.
+
+[85|off=0x322e|chars=66]
+Jonathan: Are you trying to drive my\nfarm out of business? Hahaha!
+
+[86|off=0x32be|chars=111]
+Jonathan: Our entire farm is automated,\nincluding the livestock, so we\ndon't really have to do much for them...
+
+[87|off=0x33a8|chars=97]
+Jonathan: But I feel that\nraising animals helps remind us of our\nplace in nature as human beings.
+
+[88|off=0x3476|chars=54]
+Jonathan: We have a responsibility\nto treat them well.
+
+[89|off=0x34ee|chars=6]
+Nana: 
+
+[90|off=0x34fc|chars=71]
+P! You came at just\nthe right time! I have something I want\nto ask you.
+
+[91|off=0x3596|chars=109]
+Nana: I really want to win the Mushroom\nCooking Festival this year. But I\ncan't do it with my usual dishes...
+
+[92|off=0x367c|chars=111]
+Nana: So I wonder if you wouldn't mind\ngetting me some Porcini mushrooms.\nThey should be in season by tomorrow.
+
+[93|off=0x3766|chars=122]
+Nana: I'll be sure to give you a\nlittle gift if you'll do it\nfor me!\nJust put them in your Scale\nPack and bring them here.
+
+[94|off=0x3866|chars=49]
+Nana: Let's see... I think 100g should\nbe enough.
+
+[95|off=0x38d4|chars=6]
+Nana: 
+
+[96|off=0x38e2|chars=52]
+P! You got some\nPorcini mushrooms for me!\nThank you!
+
+[97|off=0x3956|chars=84]
+Nana: I'll just take them then.\nI'm a cinch to win the Mushroom\nCooking Contest now.
+
+[98|off=0x3a0a|chars=6]
+Nana: 
+
+[99|off=0x3a18|chars=41]
+P! You got some\nPorcini mushrooms for me!
+
+[100|off=0x3a76|chars=81]
+Nana: But I'm afraid this won't be\nquite enough. I could really use\n100g of them.
+
+[101|off=0x3b24|chars=114]
+Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+
+[102|off=0x3c14|chars=114]
+Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+
+[103|off=0x3d04|chars=53]
+Nana: I guess she's a better cook than\nI am, overall.
+
+[104|off=0x3d7a|chars=53]
+Nana: I guess she's a better cook than\nI am, overall.
+
+[105|off=0x3df0|chars=108]
+Jonathan: Your wife certainly seems to\nbe easy prey for people selling scam\nproducts. You should be careful.
+
+[106|off=0x3ed4|chars=25]
+Jonathan: Zzzz... Zzzz...
+
+[107|off=0x3f12|chars=25]
+Jonathan: Zzzz... Zzzz...
+
+[108|off=0x3f50|chars=14]
+Jonathan: Hey 
+
+[109|off=0x3f6e|chars=62]
+P.\nYou might not be interested in\nautomating your farm, but...
+
+[110|off=0x3ff6|chars=50]
+Jonathan: It'd be fun to try the Pod Rail\none day.
+
+[111|off=0x4066|chars=94]
+Jonathan: Once you get used to it,\nyou can lay tracks and\nplay with it just like model trains.
+
+[112|off=0x412e|chars=123]
+Jonathan: This super high definition\nLCD TV sure is amazing.\nLeave it to the Banks\nCorporation to make something like that.
+
+[113|off=0x4230|chars=12]
+*: Gaga moo!
+
+[114|off=0x4254|chars=14]
+*: Gaga neigh!
+
+[115|off=0x427c|chars=12]
+*: Gaga moo!
+
+[116|off=0x42a0|chars=14]
+*: Gaga neigh!
+
+[117|off=0x42c8|chars=12]
+*: Gaga moo!
+
+[118|off=0x42ec|chars=16]
+*: Ga...neigh...
+
+[119|off=0x4318|chars=15]
+*: Moo... Ga...
+
+[120|off=0x4342|chars=14]
+*: Gaga neigh!
+
+[121|off=0x436a|chars=12]
+*: Gaga moo!
+
+[122|off=0x438e|chars=12]
+*: Gaga moo!
+
+[123|off=0x43b2|chars=14]
+*: Gaga neigh!
+
+[124|off=0x43da|chars=14]
+*: Gaga neigh!
+
+[125|off=0x4402|chars=14]
+*: Gaga neigh!
+
+[126|off=0x442a|chars=17]
+Jonathan: Gagaaa!
+
+[127|off=0x4458|chars=17]
+Jonathan: Gagaaa!
+
+[128|off=0x4486|chars=17]
+Jonathan: Gagaaa!
+
+[129|off=0x44b4|chars=25]
+Jonathan: Gaga... Zzzz...
+
+[130|off=0x44f2|chars=25]
+Jonathan: Gaga... Zzzz...

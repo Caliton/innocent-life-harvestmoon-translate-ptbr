@@ -1,0 +1,191 @@
+# TEST_N_1.SCP - 62 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x2de|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x35a|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x440|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x52c|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[4|off=0x5b2|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x652|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x712|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x7ae|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0x86c|chars=11]
+Moonlight: 
+
+[9|off=0x884|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0x8f8|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[11|off=0x982|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0xa06|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0xaa4|chars=11]
+Moonlight: 
+
+[14|off=0xabc|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[15|off=0xb3a|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xbe0|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0xc4e|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[18|off=0xd4a|chars=21]
+Franco: I can't wait!
+
+[19|off=0xd80|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[20|off=0xdde|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0xeaa|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0xf68|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0xfdc|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x1094|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x10ea|chars=12]
+P. I am too.
+
+[26|off=0x110e|chars=31]
+Franco: He was a good friend...
+
+[27|off=0x1158|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[28|off=0x11c4|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x1264|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x132c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x13b4|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x1482|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x1508|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[34|off=0x156a|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x1638|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x16be|chars=11]
+Moonlight: 
+
+[37|off=0x16d6|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x177a|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x17e8|chars=34]
+Start a new life.\nContinue a life.
+
+[40|off=0x1834|chars=34]
+Start a new life.\nContinue a life.
+
+[41|off=0x1880|chars=4]
+Life
+
+[42|off=0x1890|chars=5]
+Forte
+
+[43|off=0x18a2|chars=7]
+Chocobi
+
+[44|off=0x18b8|chars=5]
+Cocoa
+
+[45|off=0x18ca|chars=4]
+Yogi
+
+[46|off=0x18da|chars=5]
+Cow 1
+
+[47|off=0x18ec|chars=5]
+Cow 2
+
+[48|off=0x18fe|chars=5]
+Cow 3
+
+[49|off=0x1910|chars=5]
+Cow 4
+
+[50|off=0x1922|chars=5]
+Cow 5
+
+[51|off=0x1934|chars=7]
+Sheep 1
+
+[52|off=0x194a|chars=7]
+Sheep 2
+
+[53|off=0x1960|chars=7]
+Sheep 3
+
+[54|off=0x1976|chars=7]
+Sheep 4
+
+[55|off=0x198c|chars=7]
+Sheep 5
+
+[56|off=0x19a2|chars=9]
+Chicken 1
+
+[57|off=0x19bc|chars=9]
+Chicken 2
+
+[58|off=0x19d6|chars=9]
+Chicken 3
+
+[59|off=0x19f0|chars=9]
+Chicken 4
+
+[60|off=0x1a0a|chars=9]
+Chicken 5
+
+[61|off=0x1a24|chars=4]
+Yogi

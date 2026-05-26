@@ -1,0 +1,128 @@
+# ETSHEEP.SCP - 41 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x236|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x2b2|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x398|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x484|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[4|off=0x50a|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x5aa|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x66a|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x706|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0x7c4|chars=11]
+Moonlight: 
+
+[9|off=0x7dc|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0x850|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[11|off=0x8da|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0x95e|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0x9fc|chars=11]
+Moonlight: 
+
+[14|off=0xa14|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[15|off=0xa92|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xb38|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0xba6|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[18|off=0xca2|chars=21]
+Franco: I can't wait!
+
+[19|off=0xcd8|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[20|off=0xd36|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0xe02|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0xec0|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0xf34|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0xfec|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x1042|chars=12]
+P. I am too.
+
+[26|off=0x1066|chars=31]
+Franco: He was a good friend...
+
+[27|off=0x10b0|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[28|off=0x111c|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x11bc|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x1284|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x130c|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x13da|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x1460|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[34|off=0x14c2|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x1590|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x1616|chars=11]
+Moonlight: 
+
+[37|off=0x162e|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x16d2|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x1744|chars=50]
+Baabaa-matic: Baa.\nThe machine functions normally.
+
+[40|off=0x17b0|chars=24]
+Auto-shipping initiated!

@@ -1,0 +1,542 @@
+# SI_MN0~2.DAT - 179 strings UTF-16
+# Formato: [N|kind=K|chars=CC|id=0xID|hdr=0xHHHH|str=0xSSSS] linha de header.
+# kind: item (chunk com ID), cont (continuacao), flex (header simples).
+# Texto nas linhas seguintes ate proximo bloco. ESCAPE <HHLL> = 2 bytes brutos.
+# NAO mude o header. Mantenha chars EXATO (PT mesma quantidade de chars).
+
+[0|kind=flex|chars=4|hdr=0x126e|str=0x1274]
+----
+
+[1|kind=flex|chars=4|hdr=0x1280|str=0x1286]
+----
+
+[2|kind=flex|chars=4|hdr=0x1292|str=0x1298]
+----
+
+[3|kind=flex|chars=4|hdr=0x12a4|str=0x12aa]
+----
+
+[4|kind=flex|chars=7|hdr=0x1416|str=0x141c]
+Galinha
+
+[5|kind=flex|chars=3|hdr=0x142e|str=0x1434]
+Vac
+
+[6|kind=flex|chars=5|hdr=0x143e|str=0x1444]
+Ovlha
+
+[7|kind=flex|chars=6|hdr=0x1452|str=0x1458]
+Anular
+
+[8|kind=flex|chars=4|hdr=0x14fe|str=0x1504]
+----
+
+[9|kind=flex|chars=4|hdr=0x1510|str=0x1516]
+----
+
+[10|kind=flex|chars=4|hdr=0x155e|str=0x1564]
+----
+
+[11|kind=flex|chars=4|hdr=0x1570|str=0x1576]
+----
+
+[12|kind=flex|chars=4|hdr=0x1582|str=0x1588]
+----
+
+[13|kind=flex|chars=4|hdr=0x1594|str=0x159a]
+----
+
+[14|kind=flex|chars=4|hdr=0x15a6|str=0x15ac]
+----
+
+[15|kind=flex|chars=4|hdr=0x15b8|str=0x15be]
+----
+
+[16|kind=flex|chars=7|hdr=0x1644|str=0x164a]
+Galinha
+
+[17|kind=flex|chars=5|hdr=0x165c|str=0x1662]
+Ovlha
+
+[18|kind=flex|chars=3|hdr=0x1670|str=0x1676]
+Vac
+
+[19|kind=flex|chars=6|hdr=0x1680|str=0x1686]
+Anular
+
+[20|kind=flex|chars=7|hdr=0x1812|str=0x1818]
+Galinha
+
+[21|kind=flex|chars=3|hdr=0x182a|str=0x1830]
+Vac
+
+[22|kind=flex|chars=5|hdr=0x183a|str=0x1840]
+Ovlha
+
+[23|kind=flex|chars=6|hdr=0x184e|str=0x1854]
+Anular
+
+[24|kind=flex|chars=4|hdr=0x1a34|str=0x1a3a]
+----
+
+[25|kind=flex|chars=4|hdr=0x1a46|str=0x1a4c]
+----
+
+[26|kind=flex|chars=4|hdr=0x1a94|str=0x1a9a]
+----
+
+[27|kind=flex|chars=4|hdr=0x1aa6|str=0x1aac]
+----
+
+[28|kind=flex|chars=4|hdr=0x1ab8|str=0x1abe]
+----
+
+[29|kind=cont|chars=4|hdr=0x1b04|str=0x1b0c]
+----
+
+[30|kind=flex|chars=4|hdr=0x1b18|str=0x1b1e]
+----
+
+[31|kind=flex|chars=4|hdr=0x1b2a|str=0x1b30]
+----
+
+[32|kind=flex|chars=5|hdr=0x1b52|str=0x1b58]
+Equip
+
+[33|kind=flex|chars=7|hdr=0x1b66|str=0x1b6c]
+Tirar  
+
+[34|kind=flex|chars=4|hdr=0x1b94|str=0x1b9a]
+Usar
+
+[35|kind=flex|chars=8|hdr=0x1ba6|str=0x1bac]
+Tirar
+
+[36|kind=flex|chars=10|hdr=0x2074|str=0x207a]
+AguaRest  
+
+[37|kind=flex|chars=9|hdr=0x2092|str=0x2098]
+PP Usado 
+
+[38|kind=flex|chars=12|hdr=0x20c6|str=0x20cc]
+Agua Normal
+
+[39|kind=flex|chars=12|hdr=0x20e8|str=0x20ee]
+Agua Esprito
+
+[40|kind=flex|chars=13|hdr=0x2532|str=0x2538]
+Encaixar
+
+[41|kind=flex|chars=12|hdr=0x2556|str=0x255c]
+P Ara Altar
+
+[42|kind=flex|chars=8|hdr=0x3122|str=0x3128]
+Galinhas
+
+[43|kind=flex|chars=4|hdr=0x313c|str=0x3142]
+Vaca
+
+[44|kind=flex|chars=5|hdr=0x314e|str=0x3154]
+Ovlha
+
+[45|kind=flex|chars=5|hdr=0x3162|str=0x3168]
+Plant
+
+[46|kind=flex|chars=7|hdr=0x3176|str=0x317c]
+Flores
+
+[47|kind=cont|chars=14|hdr=0x318c|str=0x3194]
+Itens Colhidos
+
+[48|kind=flex|chars=19|hdr=0x31b4|str=0x31ba]
+Outros Itens Vendid
+
+[49|kind=flex|chars=11|hdr=0x31e4|str=0x31ea]
+Pratos Prep
+
+[50|kind=flex|chars=4|hdr=0x3212|str=0x3218]
+Menu
+
+[51|kind=flex|chars=8|hdr=0x3224|str=0x322a]
+Galinhas
+
+[52|kind=cont|chars=4|hdr=0x323c|str=0x3244]
+Vaca
+
+[53|kind=flex|chars=5|hdr=0x3250|str=0x3256]
+Ovlha
+
+[54|kind=flex|chars=5|hdr=0x3264|str=0x326a]
+Plant
+
+[55|kind=flex|chars=7|hdr=0x3278|str=0x327e]
+Flores
+
+[56|kind=flex|chars=14|hdr=0x3290|str=0x3296]
+Itens Colhidos
+
+[57|kind=flex|chars=19|hdr=0x32b6|str=0x32bc]
+Outros Itens Vendid
+
+[58|kind=flex|chars=11|hdr=0x32e6|str=0x32ec]
+Pratos Prep
+
+[59|kind=flex|chars=13|hdr=0x3638|str=0x363e]
+Innocent Life
+
+[60|kind=flex|chars=9|hdr=0x365c|str=0x3662]
+Preguico 
+
+[61|kind=flex|chars=12|hdr=0x3678|str=0x367e]
+Esquecido
+
+[62|kind=flex|chars=9|hdr=0x369a|str=0x36a0]
+Preguico 
+
+[63|kind=flex|chars=12|hdr=0x36b6|str=0x36bc]
+Esquecido
+
+[64|kind=flex|chars=12|hdr=0x4580|str=0x4586]
+^%s Tarefas 
+
+[65|kind=flex|chars=8|hdr=0x45a2|str=0x45a8]
+Upgrade
+
+[66|kind=cont|chars=10|hdr=0x45ba|str=0x45c2]
+TrilhoCest
+
+[67|kind=flex|chars=4|hdr=0x45ea|str=0x45f0]
+Menu
+
+[68|kind=flex|chars=6|hdr=0x45fc|str=0x4602]
+Tarefa
+
+[69|kind=flex|chars=8|hdr=0x4612|str=0x4618]
+Upgrade
+
+[70|kind=cont|chars=11|hdr=0x462a|str=0x4632]
+TrilhoCest
+
+[71|kind=flex|chars=6|hdr=0x465c|str=0x4662]
+Liga  
+
+[72|kind=flex|chars=5|hdr=0x4672|str=0x4678]
+Equip
+
+[73|kind=flex|chars=12|hdr=0x4686|str=0x468c]
+Dar Comando
+
+[74|kind=cont|chars=31|hdr=0x4716|str=0x471e]
+such as dog poo and dead plants
+
+[75|kind=flex|chars=16|hdr=0x4760|str=0x4766]
+from the fields.
+
+[76|kind=item|chars=35|id=0x1|hdr=0x4788|str=0x4794]
+The robot will water the crops that
+
+[77|kind=cont|chars=39|hdr=0x47dc|str=0x47e4]
+need it. There is a limit to the number
+
+[78|kind=flex|chars=40|hdr=0x4836|str=0x483c]
+of squares that can be watered in a day.
+
+[79|kind=cont|chars=33|hdr=0x48e6|str=0x48ee]
+as wood and stone that are in the
+
+[80|kind=flex|chars=29|hdr=0x4934|str=0x493a]
+fields and ship them for you.
+
+[81|kind=cont|chars=39|hdr=0x49ca|str=0x49d2]
+planting new crops. It will also remove
+
+[82|kind=flex|chars=31|hdr=0x4a24|str=0x4a2a]
+dead plants, rocks, weeds, etc.
+
+[83|kind=cont|chars=28|hdr=0x4abe|str=0x4ac6]
+tired from simple farm work.
+
+[84|kind=flex|chars=28|hdr=0x4b02|str=0x4b08]
+^See %s to have it attached.
+
+[85|kind=cont|chars=12|hdr=0x4b96|str=0x4b9e]
+than normal.
+
+[86|kind=flex|chars=28|hdr=0x4bba|str=0x4bc0]
+^See %s to have it attached.
+
+[87|kind=cont|chars=28|hdr=0x4c4e|str=0x4c56]
+tired from any kind of work.
+
+[88|kind=flex|chars=28|hdr=0x4c92|str=0x4c98]
+^See %s to have it attached.
+
+[89|kind=cont|chars=23|hdr=0x4d14|str=0x4d1c]
+twice its normal value!
+
+[90|kind=flex|chars=28|hdr=0x4d4e|str=0x4d54]
+^See %s to have it attached.
+
+[91|kind=flex|chars=14|hdr=0x4f02|str=0x4f08]
+Remove Lixo
+
+[92|kind=flex|chars=11|hdr=0x4f28|str=0x4f2e]
+Aguar Plant
+
+[93|kind=flex|chars=17|hdr=0x4f48|str=0x4f4e]
+Coleta Recursos
+
+[94|kind=flex|chars=12|hdr=0x4f74|str=0x4f7a]
+Prepara Solo
+
+[95|kind=cont|chars=3|hdr=0x4fa6|str=0x4fae]
+OFF
+
+[96|kind=flex|chars=2|hdr=0x4fb8|str=0x4fbe]
+ON
+
+[97|kind=flex|chars=4|hdr=0x4fc6|str=0x4fcc]
+DONE
+
+[98|kind=flex|chars=3|hdr=0x4fd8|str=0x4fde]
+OFF
+
+[99|kind=flex|chars=2|hdr=0x4fe8|str=0x4fee]
+ON
+
+[100|kind=flex|chars=4|hdr=0x4ff6|str=0x4ffc]
+DONE
+
+[101|kind=flex|chars=3|hdr=0x5008|str=0x500e]
+OFF
+
+[102|kind=flex|chars=2|hdr=0x5018|str=0x501e]
+ON
+
+[103|kind=flex|chars=4|hdr=0x5026|str=0x502c]
+DONE
+
+[104|kind=flex|chars=3|hdr=0x5038|str=0x503e]
+OFF
+
+[105|kind=flex|chars=2|hdr=0x5048|str=0x504e]
+ON
+
+[106|kind=flex|chars=4|hdr=0x5056|str=0x505c]
+DONE
+
+[107|kind=flex|chars=1|hdr=0x507a|str=0x5080]
+ 
+
+[108|kind=flex|chars=1|hdr=0x5086|str=0x508c]
+ 
+
+[109|kind=flex|chars=5|hdr=0x5146|str=0x514c]
+Levar
+
+[110|kind=flex|chars=5|hdr=0x515a|str=0x5160]
+Veloz
+
+[111|kind=flex|chars=5|hdr=0x516e|str=0x5174]
+Poder
+
+[112|kind=flex|chars=6|hdr=0x5182|str=0x5188]
+Carreg
+
+[113|kind=flex|chars=0|hdr=0x51ac|str=0x51b2]
+
+
+[114|kind=cont|chars=22|hdr=0x51b4|str=0x51bc]
+Undergoing Maintenance
+
+[115|kind=flex|chars=20|hdr=0x51ec|str=0x51f2]
+Maintenance Finished
+
+[116|kind=flex|chars=5|hdr=0x5310|str=0x5316]
+Comec
+
+[117|kind=flex|chars=7|hdr=0x5324|str=0x532a]
+Recua
+
+[118|kind=flex|chars=4|hdr=0x533c|str=0x5342]
+Para
+
+[119|kind=flex|chars=33|hdr=0x53ac|str=0x53b2]
+If you open the map while you are
+
+[120|kind=flex|chars=34|hdr=0x53f8|str=0x53fe]
+walking outside, you will see your
+
+[121|kind=flex|chars=25|hdr=0x5446|str=0x544c]
+position marked with a ▽.
+
+[122|kind=flex|chars=33|hdr=0x5482|str=0x5488]
+If you open the map while you are
+
+[123|kind=flex|chars=34|hdr=0x54ce|str=0x54d4]
+walking outside, you will see your
+
+[124|kind=flex|chars=25|hdr=0x551c|str=0x5522]
+position marked with a ▽.
+
+[125|kind=flex|chars=33|hdr=0x5558|str=0x555e]
+If you open the map while you are
+
+[126|kind=flex|chars=34|hdr=0x55a4|str=0x55aa]
+walking outside, you will see your
+
+[127|kind=flex|chars=25|hdr=0x55f2|str=0x55f8]
+position marked with a ▽.
+
+[128|kind=flex|chars=33|hdr=0x562e|str=0x5634]
+If you open the map while you are
+
+[129|kind=flex|chars=34|hdr=0x567a|str=0x5680]
+walking outside, you will see your
+
+[130|kind=flex|chars=25|hdr=0x56c8|str=0x56ce]
+position marked with a ▽.
+
+[131|kind=flex|chars=4|hdr=0x5712|str=0x5718]
+Menu
+
+[132|kind=flex|chars=3|hdr=0x5724|str=0x572a]
+Map
+
+[133|kind=flex|chars=17|hdr=0x5984|str=0x598a]
+Heartflame Island
+
+[134|kind=cont|chars=12|hdr=0x59ae|str=0x59b6]
+Volcano Town
+
+[135|kind=flex|chars=0|hdr=0x59d2|str=0x59d8]
+
+
+[136|kind=cont|chars=0|hdr=0x59da|str=0x59e2]
+
+
+[137|kind=cont|chars=6|hdr=0x5a44|str=0x5a4c]
+Prima
+
+[138|kind=flex|chars=6|hdr=0x5a5c|str=0x5a62]
+Verao
+
+[139|kind=flex|chars=6|hdr=0x5a72|str=0x5a78]
+Outono
+
+[140|kind=flex|chars=6|hdr=0x5a88|str=0x5a8e]
+Invern
+
+[141|kind=flex|chars=4|hdr=0x5ab0|str=0x5ab6]
+Mon.
+
+[142|kind=flex|chars=4|hdr=0x5ac2|str=0x5ac8]
+Tue.
+
+[143|kind=flex|chars=4|hdr=0x5ad4|str=0x5ada]
+Wed.
+
+[144|kind=flex|chars=4|hdr=0x5ae6|str=0x5aec]
+Thu.
+
+[145|kind=flex|chars=4|hdr=0x5af8|str=0x5afe]
+Fri.
+
+[146|kind=flex|chars=4|hdr=0x5b0a|str=0x5b10]
+Sat.
+
+[147|kind=flex|chars=4|hdr=0x5b1c|str=0x5b22]
+Sun.
+
+[148|kind=flex|chars=3|hdr=0x5d74|str=0x5d7a]
+Est
+
+[149|kind=flex|chars=0|hdr=0x5d84|str=0x5d8a]
+
+
+[150|kind=cont|chars=0|hdr=0x5d8c|str=0x5d94]
+
+
+[151|kind=cont|chars=6|hdr=0x5d96|str=0x5d9e]
+Ajudan
+
+[152|kind=flex|chars=5|hdr=0x5dc2|str=0x5dc8]
+(Cat)
+
+[153|kind=flex|chars=5|hdr=0x5dd6|str=0x5ddc]
+(Cat)
+
+[154|kind=flex|chars=5|hdr=0x5dea|str=0x5df0]
+(Dog)
+
+[155|kind=flex|chars=7|hdr=0x5dfe|str=0x5e04]
+(Robot)
+
+[156|kind=flex|chars=0|hdr=0x5eaa|str=0x5eb0]
+
+
+[157|kind=cont|chars=1|hdr=0x5eb2|str=0x5eba]
+-
+
+[158|kind=flex|chars=9|hdr=0x5ed0|str=0x5ed6]
+Personal 
+
+[159|kind=cont|chars=1|hdr=0x5eea|str=0x5ef2]
++
+
+[160|kind=flex|chars=13|hdr=0x605a|str=0x6060]
+Vel Mensagem
+
+[161|kind=flex|chars=6|hdr=0x607e|str=0x6084]
+Volume
+
+[162|kind=flex|chars=3|hdr=0x6094|str=0x609a]
+SFX
+
+[163|kind=flex|chars=4|hdr=0x60a4|str=0x60aa]
+Hora
+
+[164|kind=flex|chars=12|hdr=0x60b6|str=0x60bc]
+Mostra Hora
+
+[165|kind=flex|chars=14|hdr=0x60d8|str=0x60de]
+Equipment & PP
+
+[166|kind=flex|chars=7|hdr=0x60fe|str=0x6104]
+Display
+
+[167|kind=flex|chars=14|hdr=0x6128|str=0x612e]
+Always Display
+
+[168|kind=flex|chars=18|hdr=0x614e|str=0x6154]
+Display When Still
+
+[169|kind=flex|chars=13|hdr=0x617c|str=0x6182]
+Don't Display
+
+[170|kind=flex|chars=3|hdr=0x61a0|str=0x61a6]
+Tdo
+
+[171|kind=flex|chars=13|hdr=0x61b0|str=0x61b6]
+Data e Hora
+
+[172|kind=flex|chars=9|hdr=0x61d4|str=0x61da]
+So Hora
+
+[173|kind=flex|chars=14|hdr=0x61f0|str=0x61f6]
+Always Display
+
+[174|kind=flex|chars=18|hdr=0x6216|str=0x621c]
+Display When Still
+
+[175|kind=flex|chars=13|hdr=0x6244|str=0x624a]
+Don't Display
+
+[176|kind=flex|chars=3|hdr=0x6268|str=0x626e]
+Tdo
+
+[177|kind=flex|chars=14|hdr=0x6278|str=0x627e]
+Equipment Only
+
+[178|kind=flex|chars=7|hdr=0x629e|str=0x62a4]
+PP Apns

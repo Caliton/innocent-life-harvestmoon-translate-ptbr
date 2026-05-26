@@ -1,0 +1,227 @@
+# ETKACH_1.SCP - 74 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x31e|chars=56]
+Franco: Entao voce finalmente\ncriou animais, hein?      
+
+[1|off=0x39a|chars=109]
+Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?            
+
+[2|off=0x480|chars=112]
+Franco: Hoje tudo na fazenda\ne automatizado. Mas usar robos\nera uma ideia bem revolucionaria.                   
+
+[3|off=0x56c|chars=61]
+Franco: Ouvi que la fora\nainda os usam bastante.             
+
+[4|off=0x5f2|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnestas ruinas!    
+
+[5|off=0x692|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar\nestas terras e a natureza!            
+
+[6|off=0x752|chars=72]
+Franco: Uau!\nVoce tem muita sorte!\nGanhou um buggy assim de presente!   
+
+[7|off=0x7ee|chars=89]
+Franco: Se eu tivesse um buggy,\nlevaria a Rose num passeio\ninesquecivel!                 
+
+[8|off=0x8ac|chars=11]
+Moonlight: 
+
+[9|off=0x8c4|chars=52]
+P! Que belo presente\ndo Dr. Hope voce ganhou.       
+
+[10|off=0x938|chars=63]
+Moonlight: Com buggy assim\nvoce pode ir a quase qualquer lugar!
+
+[11|off=0x9c2|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.  
+
+[12|off=0xa46|chars=73]
+Franco: Quando era jovem, todo mundo\nlevava seus pares a aquela caverna. 
+
+[13|off=0xae4|chars=11]
+Moonlight: 
+
+[14|off=0xafc|chars=57]
+P!\nOuvi que tiveram problemas na\ncaverna de Volcano Town.
+
+[15|off=0xb7a|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar ao\nestado original disso.
+
+[16|off=0xc20|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.  
+
+[17|off=0xc8e|chars=120]
+Franco: Se mandar bastante ate a\nvespera do Natal, podem\nusar para decorar a cidade toda.                               
+
+[18|off=0xd8a|chars=21]
+Franco: Que animacao!
+
+[19|off=0xdc0|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...  
+
+[20|off=0xe1e|chars=96]
+Franco: Sei que esta preocupado,\nmas voce tem um trabalho\nimportante a terminar.                
+
+[21|off=0xeea|chars=89]
+Franco: Tenho certeza que a\nmelhor coisa pro Dr. Hope agora\ne ver o quanto voce trabalha.
+
+[22|off=0xfa8|chars=52]
+Moonlight: Nao sabia que\nDr. Hope estava doente...  
+
+[23|off=0x101c|chars=86]
+Moonlight: Imagino que por isso\nele corria tanto para terminar\no trabalho com voce... 
+
+[24|off=0x10d4|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[25|off=0x112a|chars=12]
+P. Eu tambem
+
+[26|off=0x114e|chars=31]
+Franco: Era um bom amigo...    
+
+[27|off=0x1198|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!      
+
+[28|off=0x1204|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do\nque aparece!           
+
+[29|off=0x12a4|chars=91]
+Moonlight: O que tento dizer e...\nTenho certeza que o Dr. Hope\nestara olhando por voce,    
+
+[30|off=0x136c|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?         
+
+[31|off=0x13f4|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[32|off=0x14c2|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[33|off=0x1548|chars=43]
+Franco: Um alien mora\nno novo quarto?      
+
+[34|off=0x15aa|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[35|off=0x1678|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[36|off=0x16fe|chars=11]
+Moonlight: 
+
+[37|off=0x1716|chars=76]
+P!\nVi uma coisa estranha parecida\ncom bicho de pelucia no novo quarto.      
+
+[38|off=0x17ba|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!    
+
+[39|off=0x1828|chars=29]
+Sua bolsa nao comporta mais! 
+
+[40|off=0x186a|chars=29]
+Sua bolsa nao comporta mais! 
+
+[41|off=0x18ac|chars=44]
+Deseja colocar uma joia\nneste altar?        
+
+[42|off=0x190c|chars=17]
+Voce colocou o\n  
+
+[43|off=0x1930|chars=15]
+I\nno altar.    
+
+[44|off=0x1956|chars=24]
+Remover joia do altar?  
+
+[45|off=0x198e|chars=16]
+Voce removeu o\n 
+
+[46|off=0x19b0|chars=17]
+I\ndo altar.      
+
+[47|off=0x19da|chars=16]
+Voce removeu o  
+
+[48|off=0x19fc|chars=29]
+J\ndo altar e colocou o\n      
+
+[49|off=0x1a38|chars=15]
+I no lugar!    
+
+[50|off=0x1a5e|chars=26]
+Voce nao tem joias.       
+
+[51|off=0x1a9a|chars=4]
+O   
+
+[52|off=0x1aa4|chars=30]
+I\ncomeca a emitir uma aura... 
+
+[53|off=0x1ae8|chars=4]
+O   
+
+[54|off=0x1af2|chars=30]
+I\ncomeca a emitir uma aura... 
+
+[55|off=0x1b36|chars=4]
+O   
+
+[56|off=0x1b40|chars=30]
+I\ncomeca a emitir uma aura... 
+
+[57|off=0x1b84|chars=4]
+O   
+
+[58|off=0x1b8e|chars=29]
+I\nemite uma luz brilhante!   
+
+[59|off=0x1bd0|chars=60]
+Este e um fazedor de queijo.\nJogue leite para\nfazer queijo. 
+
+[60|off=0x1c50|chars=45]
+Coloque o queijo no\nPod de Envio da fazenda. 
+
+[61|off=0x1cb2|chars=68]
+Este e um fazedor de maionese.\nJogue ovos para\nfazer maionese.      
+
+[62|off=0x1d42|chars=49]
+Coloque a maionese no\nPod de Envio da fazenda.   
+
+[63|off=0x1dac|chars=68]
+Este e a incubadora.\nColoque um ovo\npara choca-lo.                  
+
+[64|off=0x1e3c|chars=72]
+Ha um ovo na incubadora.\nNao vejo a hora de chocar!                     
+
+[65|off=0x1ed4|chars=69]
+So pode colocar um de seus\novos na incubadora\nde cada vez.           
+
+[66|off=0x1f66|chars=69]
+So pode colocar um de seus\novos na incubadora\nde cada vez.           
+
+[67|off=0x1ff8|chars=38]
+Sua fazenda lotou\nde galinhas!        
+
+[68|off=0x204c|chars=38]
+Sua fazenda lotou\nde galinhas!        
+
+[69|off=0x20a4|chars=59]
+Cluck-o-Matic: Cocoroco.\nA maquina funciona normalmente.   
+
+[70|off=0x2126|chars=49]
+Moo-o-Matic: Mu.\nA maquina funciona normalmente. 
+
+[71|off=0x2190|chars=6]
+Sim\nNa
+
+[72|off=0x21a4|chars=6]
+Sim\nNa
+
+[73|off=0x21b8|chars=33]
+Que nome quer dar a ele?         

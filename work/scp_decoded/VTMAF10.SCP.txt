@@ -1,0 +1,794 @@
+# VTMAF10.SCP - 263 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x8de|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x95a|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0xa40|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0xb2c|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[4|off=0xbb2|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0xc52|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0xd12|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0xdae|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0xe6c|chars=11]
+Moonlight: 
+
+[9|off=0xe84|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0xef8|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[11|off=0xf82|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0x1006|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0x10a4|chars=11]
+Moonlight: 
+
+[14|off=0x10bc|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[15|off=0x113a|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0x11e0|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0x124e|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[18|off=0x134a|chars=21]
+Franco: I can't wait!
+
+[19|off=0x1380|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[20|off=0x13de|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0x14aa|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0x1568|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0x15dc|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x1694|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x16ea|chars=12]
+P. I am too.
+
+[26|off=0x170e|chars=31]
+Franco: He was a good friend...
+
+[27|off=0x1758|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[28|off=0x17c4|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x1864|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x192c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x19b4|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x1a82|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x1b08|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[34|off=0x1b6a|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x1c38|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x1cbe|chars=11]
+Moonlight: 
+
+[37|off=0x1cd6|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x1d7a|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x1dec|chars=35]
+*: Hm? Who're you?\nOh wait, you're 
+
+[40|off=0x1e34|chars=9]
+P, right?
+
+[41|off=0x1e52|chars=61]
+Jonathan: I'm Jonathan Branch.\nI run the farm up on the hill.
+
+[42|off=0x1ed8|chars=99]
+Jonathan: I've heard about you. Very\nimpressive! Growing crops in the\nEaster Ruins all by yourself!
+
+[43|off=0x1faa|chars=102]
+Jonathan: If you ever decide you want\nto raise some livestock, come and\nsee me. I can teach you a lot.
+
+[44|off=0x2082|chars=111]
+Jonathan: Our entire farm is automated,\nincluding the livestock, so we don't\nreally have to do much for them...
+
+[45|off=0x216c|chars=97]
+Jonathan: But I feel that raising\nanimals helps remind us of our place\nin nature as human beings.
+
+[46|off=0x223a|chars=54]
+Jonathan: We have a responsibility to\ntreat them well.
+
+[47|off=0x22b2|chars=36]
+*: Hm? Who are you?\nOh wait, you're 
+
+[48|off=0x22fc|chars=9]
+P, right?
+
+[49|off=0x231a|chars=61]
+Jonathan: I'm Jonathan Branch.\nI run the farm up on the hill.
+
+[50|off=0x23a0|chars=99]
+Jonathan: I've heard about you. Very\nimpressive! Growing crops in the\nEaster Ruins all by yourself!
+
+[51|off=0x2472|chars=102]
+Jonathan: If you ever decide you want to\nraise some livestock, come and see\nme. I can teach you a lot.
+
+[52|off=0x254a|chars=89]
+Jonathan: When people drink, they always\nseem to go back to the same old\nconversations...
+
+[53|off=0x2608|chars=30]
+Vanessa: Welcome!\nYou must be 
+
+[54|off=0x2646|chars=36]
+P.\nI'm Vanessa from the Branch Farm.
+
+[55|off=0x269a|chars=86]
+Vanessa: You really must come to my\npainting class. It's every Saturday\nat the school.
+
+[56|off=0x2752|chars=35]
+*: Hm? Who're you?\nOh wait, you're 
+
+[57|off=0x279a|chars=9]
+P, right?
+
+[58|off=0x27b8|chars=75]
+Jonathan: I'm Jonathan Branch.\nI run the farm and tend to the\nanimals here.
+
+[59|off=0x285a|chars=99]
+Jonathan: I've heard about you. Very\nimpressive! Growing crops in the Easter\nRuins all by yourself!
+
+[60|off=0x292c|chars=102]
+Jonathan: If you ever decide you want to\nraise some livestock, come and see\nme. I can teach you a lot.
+
+[61|off=0x2a04|chars=77]
+Jonathan: Come to think of it, the\nSpring Festival is just around the\ncorner.
+
+[62|off=0x2aaa|chars=102]
+Jonathan: You're always going to Dr.\nHope's house, so you might as well\nstop by the festival then too.
+
+[63|off=0x2b82|chars=106]
+Jonathan: Of course, the people who take\npart are all older people, so it might\nnot be much fun for a kid.
+
+[64|off=0x2c62|chars=113]
+Jonathan: I'm very impressed. To think\nthat you're able to run a farm all\nby yourself over at the Easter Ruins...
+
+[65|off=0x2d50|chars=102]
+Jonathan: If you ever decide you want to\nraise some livestock, come and see me.\nI can teach you a lot.
+
+[66|off=0x2e28|chars=67]
+Jonathan: So how are your animals?\nI'm sure you're doing just fine.
+
+[67|off=0x2eba|chars=59]
+Jonathan: Have you ever seen the wild\nhorses on the plains?
+
+[68|off=0x2f3c|chars=100]
+Jonathan: I'm talking about the wild\nhorses on the plains by the sea, way\nto the north of East Lake.
+
+[69|off=0x3010|chars=114]
+Jonathan: If I remember correctly, a guy\ncalled the Fisherman knows a special\nwhistle that can reach those horses.
+
+[70|off=0x3100|chars=16]
+Dorothy: Hello, 
+
+[71|off=0x3122|chars=33]
+P.\nI'm the mayor's wife, Dorothy.
+
+[72|off=0x3170|chars=72]
+Dorothy: Dr. Hope has been a great deal\nof help to our daughter Jessica.
+
+[73|off=0x320c|chars=56]
+Lucia: Autocookers certainly are\nwonderful, aren't they?
+
+[74|off=0x3288|chars=73]
+Lucia: I think it's the best invention\nthat my husband ever came up with.
+
+[75|off=0x3326|chars=60]
+Lucia: Oh, I'm sorry. My name is Lucia.\nI'm Marcia's mother.
+
+[76|off=0x33aa|chars=58]
+Lucia: Thank you for being so nice to\nMarcia all the time.
+
+[77|off=0x342a|chars=67]
+Big: What're you doing here?\nDid you invite yourself for breakfast?
+
+[78|off=0x34bc|chars=17]
+Marco: So you're 
+
+[79|off=0x34e0|chars=86]
+P. Dr. Hope\ncertainly is proud of you. I'm Marcia's\nfather, Marco. You know me, right?
+
+[80|off=0x3598|chars=109]
+Marco: A lot of people seem to be\nworried about the volcano erupting,\nbut don't you give it a second thought.
+
+[81|off=0x367e|chars=106]
+Marco: With the supercoolant developed\nby my company the Banks Corporation\nthere's nothing to worry about!
+
+[82|off=0x375e|chars=66]
+Marco: Why don't you just run off and\nplay like a good little boy?
+
+[83|off=0x37ee|chars=33]
+Marco: You've got to believe me,\n
+
+[84|off=0x3832|chars=45]
+P. What happened in the\ncave was no accident.
+
+[85|off=0x3898|chars=70]
+Marco: It was the work of spies who are\ntrying to sabotage my company.
+
+[86|off=0x3930|chars=65]
+Lucia: My! This bag is so cheap!\nAnd it's "buy one get one free!"
+
+[87|off=0x39be|chars=103]
+Dorothy: I think it's the\nresponsibility of the mayor's wife to\nvisit townspeople and see how they are.
+
+[88|off=0x3a98|chars=42]
+Lucia: I wonder why Dorothy is still\nhere.
+
+[89|off=0x3af8|chars=73]
+Lucia: I thought I might watch a little\nof my favorite soap opera, but...
+
+[90|off=0x3b96|chars=60]
+Lucia: Oh, I'm sorry. My name is Lucia.\nI'm Marcia's mother.
+
+[91|off=0x3c1a|chars=58]
+Lucia: Thank you for being so nice to\nMarcia all the time.
+
+[92|off=0x3c9a|chars=97]
+Mayor: Oh, it's you! I like to stop by\nthe houses of the townspeople from\ntime to time, you know.
+
+[93|off=0x3d68|chars=86]
+Jonathan: So you got yourself a\nbarn, eh? Well then, let me give you my\nCluck-o-Matic!
+
+[94|off=0x3e20|chars=107]
+Jonathan: Beginners like you really need\nsomething like the Cluck-o-Matic\nto help you raise chickens right.
+
+[95|off=0x3f02|chars=78]
+Jonathan: Having a robot chicken\naround helps keep the other chickens\nin line.
+
+[96|off=0x3faa|chars=87]
+Jonathan: But we don't use it\nanymore, so I'll have it sent over to\nyour farm tomorrow.
+
+[97|off=0x4064|chars=100]
+Jonathan: So you got yourself\nsome chickens, you say? Then I'll be\nsure and send you a Baabaa-matic!
+
+[98|off=0x4138|chars=113]
+Jonathan: What's that? You have sheep\nnow? You're certainly doing well. I'll\nsend you our Moo-o-Matic right away.
+
+[99|off=0x4226|chars=66]
+Jonathan: Are you trying to drive my\nfarm out of business? Hahaha!
+
+[100|off=0x42b6|chars=111]
+Jonathan: Our entire farm is automated,\nincluding the livestock, so we\ndon't really have to do much for them...
+
+[101|off=0x43a0|chars=97]
+Jonathan: But I feel that\nraising animals helps remind us of our\nplace in nature as human beings.
+
+[102|off=0x446e|chars=54]
+Jonathan: We have a responsibility\nto treat them well.
+
+[103|off=0x44e6|chars=6]
+Nana: 
+
+[104|off=0x44f4|chars=71]
+P! You came at just\nthe right time! I have something I want\nto ask you.
+
+[105|off=0x458e|chars=109]
+Nana: I really want to win the Mushroom\nCooking Festival this year. But I\ncan't do it with my usual dishes...
+
+[106|off=0x4674|chars=111]
+Nana: So I wonder if you wouldn't mind\ngetting me some Porcini mushrooms.\nThey should be in season by tomorrow.
+
+[107|off=0x475e|chars=122]
+Nana: I'll be sure to give you a\nlittle gift if you'll do it\nfor me!\nJust put them in your Scale\nPack and bring them here.
+
+[108|off=0x485e|chars=49]
+Nana: Let's see... I think 100g should\nbe enough.
+
+[109|off=0x48cc|chars=6]
+Nana: 
+
+[110|off=0x48da|chars=52]
+P! You got some\nPorcini mushrooms for me!\nThank you!
+
+[111|off=0x494e|chars=84]
+Nana: I'll just take them then.\nI'm a cinch to win the Mushroom\nCooking Contest now.
+
+[112|off=0x4a02|chars=6]
+Nana: 
+
+[113|off=0x4a10|chars=41]
+P! You got some\nPorcini mushrooms for me!
+
+[114|off=0x4a6e|chars=81]
+Nana: But I'm afraid this won't be\nquite enough. I could really use\n100g of them.
+
+[115|off=0x4b1c|chars=114]
+Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+
+[116|off=0x4c0c|chars=114]
+Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+
+[117|off=0x4cfc|chars=53]
+Nana: I guess she's a better cook than\nI am, overall.
+
+[118|off=0x4d72|chars=53]
+Nana: I guess she's a better cook than\nI am, overall.
+
+[119|off=0x4de8|chars=32]
+Dorothy: Oh, I'm glad you came,\n
+
+[120|off=0x4e3a|chars=97]
+Dorothy: You see, I'm looking for\nsomeone to help make some cakes\nfor our annual Christmas Party.
+
+[121|off=0x4f08|chars=56]
+Dorothy: Have you seen my television\nshow, Cooking Life?
+
+[122|off=0x4f84|chars=70]
+Dorothy: If you watch the final\nepisode, you'll see how to\nmake cakes.
+
+[123|off=0x501c|chars=112]
+Dorothy: If you would like to help out,\nplease come to my house at night on the\n23rd of winter before the party.
+
+[124|off=0x5108|chars=54]
+Dorothy: Of course, I'll compensate you\nfor your time.
+
+[125|off=0x5180|chars=108]
+Jonathan: Your wife certainly seems to\nbe easy prey for people selling scam\nproducts. You should be careful.
+
+[126|off=0x5264|chars=25]
+Jonathan: Zzzz... Zzzz...
+
+[127|off=0x52a2|chars=25]
+Jonathan: Zzzz... Zzzz...
+
+[128|off=0x52e0|chars=87]
+Lucia: Marcia never seems to be at\nhome... She could at least stay\nhome on Saturdays...
+
+[129|off=0x539a|chars=60]
+Lucia: Oh, I'm sorry. My name is Lucia.\nI'm Marcia's mother.
+
+[130|off=0x541e|chars=58]
+Lucia: Thank you for being so nice to\nMarcia all the time.
+
+[131|off=0x549e|chars=17]
+Marcia: Morning, 
+
+[132|off=0x54d2|chars=22]
+Marco: Zzzz... Zzzz...
+
+[133|off=0x550a|chars=69]
+Lucia: It's about time for me to go out\nto the Branch family's place.
+
+[134|off=0x55a0|chars=66]
+Marco: Say, you had old Gayak teach you\nabout farming, didn't you?
+
+[135|off=0x5630|chars=116]
+Marco: I keep telling him that he\nshould move to a modern building like\nthis,\nbut he wants to stay in\nhis old shack.
+
+[136|off=0x5724|chars=108]
+Marco: People have to keep up\nappearances, you know?\n Why don't you see\nif you can talk some sense\ninto him?
+
+[137|off=0x5808|chars=38]
+Big: Dinner tonight is gonna be great!
+
+[138|off=0x5860|chars=14]
+Jonathan: Hey 
+
+[139|off=0x587e|chars=62]
+P.\nYou might not be interested in\nautomating your farm, but...
+
+[140|off=0x5906|chars=50]
+Jonathan: It'd be fun to try the Pod Rail\none day.
+
+[141|off=0x5976|chars=94]
+Jonathan: Once you get used to it,\nyou can lay tracks and\nplay with it just like model trains.
+
+[142|off=0x5a3e|chars=70]
+Lucia: My! This necklace is so cheap!\nAnd it's "buy one get one free!"
+
+[143|off=0x5ad6|chars=123]
+Jonathan: This super high definition\nLCD TV sure is amazing.\nLeave it to the Banks\nCorporation to make something like that.
+
+[144|off=0x5bd8|chars=60]
+Lucia: Oh dear. You've hardly touched\nyour food, everyone...
+
+[145|off=0x5c5c|chars=60]
+Lucia: Oh, I'm sorry. My name is Lucia.\nI'm Marcia's mother.
+
+[146|off=0x5ce0|chars=58]
+Lucia: Thank you for being so nice to\nMarcia all the time.
+
+[147|off=0x5d60|chars=86]
+Vanessa: The food these autocookers make\nalways seems just a little bit off\nsomehow...
+
+[148|off=0x5e18|chars=45]
+Vanessa: B-but don't tell Lucia I said\nthat, 
+
+[149|off=0x5e84|chars=46]
+Marco: That Marcia can certainly be\na problem.
+
+[150|off=0x5eec|chars=57]
+Marco: She's hardly home at all on\nSaturdays and Sundays.
+
+[151|off=0x5f6a|chars=83]
+Marco: What will people say?\nWhy don't you see if you can talk\nsome sense into her?
+
+[152|off=0x601c|chars=83]
+Marco: What will people say?\nWhy don't you see if you can talk\nsome sense into her?
+
+[153|off=0x60ce|chars=13]
+Vanessa: Ga-.
+
+[154|off=0x60f4|chars=12]
+Lucia: Gaga?
+
+[155|off=0x6118|chars=28]
+Big: Gagaga gaga gagagagaga!
+
+[156|off=0x615c|chars=16]
+Marco: Gaga! Ga!
+
+[157|off=0x6188|chars=12]
+Lucia: Gaga?
+
+[158|off=0x61ac|chars=19]
+Dorothy: Gagaaa ga!
+
+[159|off=0x61de|chars=12]
+Lucia: Gaga?
+
+[160|off=0x6202|chars=13]
+Mayor: Ga-ga.
+
+[161|off=0x6228|chars=17]
+Jonathan: Gagaaa!
+
+[162|off=0x6256|chars=17]
+Jonathan: Gagaaa!
+
+[163|off=0x6284|chars=17]
+Jonathan: Gagaaa!
+
+[164|off=0x62b2|chars=25]
+Jonathan: Gaga... Zzzz...
+
+[165|off=0x62f0|chars=25]
+Jonathan: Gaga... Zzzz...
+
+[166|off=0x632e|chars=15]
+Marcia: Gagaga?
+
+[167|off=0x6358|chars=27]
+Marco: Zzz...snort! Gaga...
+
+[168|off=0x639a|chars=12]
+Lucia: Gaga?
+
+[169|off=0x63be|chars=16]
+Marco: Gaga! Ga!
+
+[170|off=0x63ea|chars=16]
+Marco: Gaga! Ga!
+
+[171|off=0x6416|chars=28]
+Big: Gagaga gaga gagagagaga!
+
+[172|off=0x645a|chars=12]
+Lucia: Gaga?
+
+[173|off=0x647a|chars=44]
+This is a very expensive looking\nwardrobe...
+
+[174|off=0x64da|chars=31]
+There are dishes lined up here.
+
+[175|off=0x6520|chars=27]
+You try washing your hands.
+
+[176|off=0x655e|chars=30]
+This sink is very easy to use.
+
+[177|off=0x65a2|chars=25]
+Your hands are now clean.
+
+[178|off=0x65dc|chars=24]
+But there was no soap...
+
+[179|off=0x6614|chars=40]
+The water pressure seems a little\nlow...
+
+[180|off=0x666c|chars=48]
+You were surprised at how dirty\nyour hands were.
+
+[181|off=0x66d4|chars=43]
+There's water splashed all around\nthe sink!
+
+[182|off=0x6732|chars=24]
+You wipe the area clean.
+
+[183|off=0x676a|chars=26]
+Lukewarm water came out...
+
+[184|off=0x67a6|chars=49]
+The drain doesn't seem to be\nworking very well...
+
+[185|off=0x6810|chars=41]
+Hot water came out with\nincredible force!
+
+[186|off=0x686a|chars=44]
+A very nice smell surrounds the\nsoap here...
+
+[187|off=0x68ca|chars=55]
+You try washing your face.\nYou feel somewhat refreshed.
+
+[188|off=0x6940|chars=42]
+There are lots of things on the\nshelves...
+
+[189|off=0x699c|chars=19]
+There is wine here.
+
+[190|off=0x69ca|chars=23]
+You look at the toilet.
+
+[191|off=0x6a00|chars=32]
+It seems to have been flushed...
+
+[192|off=0x6a48|chars=21]
+It's sparkling clean!
+
+[193|off=0x6a7a|chars=28]
+You push the "Flush" button.
+
+[194|off=0x6aba|chars=30]
+There is a note on the toilet.
+
+[195|off=0x6afe|chars=20]
+"Please keep clean!"
+
+[196|off=0x6b2e|chars=70]
+It appears to have a toilet seat\nthat raises and lowers automatically.
+
+[197|off=0x6bc2|chars=68]
+There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+
+[198|off=0x6c52|chars=53]
+The scent of aromatic oil floats\naround the toilet...
+
+[199|off=0x6cc4|chars=29]
+This is an automatic bathtub.
+
+[200|off=0x6d06|chars=62]
+You opened the drawer.\nThere are many different things\ninside.
+
+[201|off=0x6d8a|chars=64]
+This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+
+[202|off=0x6e12|chars=38]
+There are many books in the\nbookshelf.
+
+[203|off=0x6e66|chars=45]
+But there's no reason for you to\nread them...
+
+[204|off=0x6ec8|chars=26]
+You open the refrigerator.
+
+[205|off=0x6f04|chars=65]
+But you quickly close it again\nto prevent the food from spoiling.
+
+[206|off=0x6f8e|chars=75]
+"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+
+[207|off=0x702c|chars=86]
+"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+
+[208|off=0x70e0|chars=63]
+"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+
+[209|off=0x7166|chars=50]
+"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+
+[210|off=0x71d2|chars=71]
+"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+
+[211|off=0x7268|chars=39]
+"Here and There"\n  Where on earth am I?
+
+[212|off=0x72be|chars=39]
+"Straight Ahead: South Heartflame\nCave"
+
+[213|off=0x7314|chars=30]
+"Straight Ahead: Easter Ruins"
+
+[214|off=0x7358|chars=45]
+"Straight Ahead: Southeast Bank\nof East Lake"
+
+[215|off=0x73ba|chars=23]
+"East: Mushroom Forest"
+
+[216|off=0x73f0|chars=45]
+"Straight Ahead: Southwest Bank\nof East Lake"
+
+[217|off=0x7452|chars=37]
+"Danger! Fallen Trees.\nDo Not Enter."
+
+[218|off=0x74a4|chars=25]
+"East: Heartflame Desert"
+
+[219|off=0x74de|chars=18]
+"Heartflame Dunes"
+
+[220|off=0x750a|chars=26]
+"North: Heartflame Plains"
+
+[221|off=0x7546|chars=19]
+"Heartflame Plains"
+
+[222|off=0x7574|chars=32]
+"Southeast Bank of Mermaid Lake"
+
+[223|off=0x75bc|chars=14]
+"Mermaid Lake"
+
+[224|off=0x75e0|chars=24]
+"South: Mushroom Forest"
+
+[225|off=0x7618|chars=32]
+"Southwest Bank of Mermaid Lake"
+
+[226|off=0x7660|chars=11]
+"East Lake"
+
+[227|off=0x767e|chars=54]
+I found a TV schedule wedged\nbetween sodden magazines.
+
+[228|off=0x76f2|chars=73]
+Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+
+[229|off=0x778c|chars=70]
+Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+
+[230|off=0x7822|chars=28]
+How to play with Cart Rails,
+
+[231|off=0x785c|chars=7]
+ ~Rails
+
+[232|off=0x7872|chars=57]
+First, lay rails and\nprepare conditions to use Pod Rails.
+
+[233|off=0x78ec|chars=113]
+You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+
+[234|off=0x79da|chars=28]
+How to play with Cart Rails,
+
+[235|off=0x7a14|chars=8]
+ ~Motors
+
+[236|off=0x7a2c|chars=102]
+Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+
+[237|off=0x7b00|chars=96]
+You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+
+[238|off=0x7bc2|chars=8]
+ button.
+
+[239|off=0x7bda|chars=38]
+"How to play with Cart Rails," ~ Carts
+
+[240|off=0x7c2e|chars=118]
+Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+
+[241|off=0x7d22|chars=62]
+You can be a driver\nif you operate Motors\nwhile riding a Cart.
+
+[242|off=0x7da6|chars=40]
+"How to play with Cart Rails," ~Shipping
+
+[243|off=0x7dfe|chars=95]
+If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+
+[244|off=0x7ec4|chars=120]
+Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+
+[245|off=0x7fbe|chars=22]
+Physiocracy and Magic,
+
+[246|off=0x7fec|chars=21]
+\n~or "Book of Spirit"
+
+[247|off=0x801e|chars=69]
+If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+
+[248|off=0x80b0|chars=75]
+You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+
+[249|off=0x814e|chars=59]
+It's a book with Fairy Tales\nfor early childhood education.
+
+[250|off=0x81cc|chars=91]
+I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+
+[251|off=0x828a|chars=28]
+My heart is twinging...\nWhy?
+
+[252|off=0x82ca|chars=44]
+It's a Haiku Book\nwritten by Principle Rose.
+
+[253|off=0x832a|chars=68]
+There are more Haikus about love\nthan about scenery or daily life...
+
+[254|off=0x83ba|chars=69]
+It's like reading someone else's diary.\nI feel a little bit guilty...
+
+[255|off=0x844e|chars=30]
+Tale of the Love & Bow Knight,
+
+[256|off=0x848c|chars=7]
+ Vol. 1
+
+[257|off=0x84a2|chars=63]
+Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+
+[258|off=0x8528|chars=108]
+There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+
+[259|off=0x860a|chars=30]
+Tale of the Love & Bow Knight,
+
+[260|off=0x8648|chars=7]
+ Vol. 2
+
+[261|off=0x865e|chars=73]
+Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+
+[262|off=0x86f8|chars=106]
+They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.

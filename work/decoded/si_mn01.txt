@@ -1,0 +1,26 @@
+# SI_MN0~1.DAT - 7 strings UTF-16
+# Formato: [N|kind=K|chars=CC|id=0xID|hdr=0xHHHH|str=0xSSSS] linha de header.
+# kind: item (chunk com ID), cont (continuacao), flex (header simples).
+# Texto nas linhas seguintes ate proximo bloco. ESCAPE <HHLL> = 2 bytes brutos.
+# NAO mude o header. Mantenha chars EXATO (PT mesma quantidade de chars).
+
+[0|kind=flex|chars=0|hdr=0x40ec|str=0x40f2]
+
+
+[1|kind=flex|chars=0|hdr=0x483a|str=0x4840]
+
+
+[2|kind=flex|chars=0|hdr=0x4ed6|str=0x4edc]
+
+
+[3|kind=cont|chars=0|hdr=0x4ede|str=0x4ee6]
+
+
+[4|kind=flex|chars=0|hdr=0x520a|str=0x5210]
+
+
+[5|kind=cont|chars=0|hdr=0x5212|str=0x521a]
+
+
+[6|kind=flex|chars=0|hdr=0x531e|str=0x5324]
+

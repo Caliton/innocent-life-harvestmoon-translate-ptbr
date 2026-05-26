@@ -1,0 +1,509 @@
+# F01OUT.SCP - 168 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x5f6|chars=34]
+Moonlight: Fique perto de
+
+[1|off=0x64c|chars=102]
+Moonlight: Assim que passarmos\npor esta area, estamos\npraticamente nas Ruinas de Pasqua.\nVamos, vamos
+
+[2|off=0x720|chars=76]
+Esta e a sua cama...\nVoce nao pode dormir\nagora. Franco esta esperando.
+
+[3|off=0x7c4|chars=75]
+Marcia: Oh, esta e uma\nmacieira!\nVao dar frutas no outono.
+
+[4|off=0x866|chars=58]
+Million: Muito bem, Marcia. Voce\ntambem deve se lembrar
+
+[5|off=0x8dc|chars=66]
+P.\nSe voce colher frutas,\npode enviala junto\ncom suas outras
+
+[6|off=0x96c|chars=122]
+Million: Mas voce deve seguir\nas regras desta ilha ao\ncoletar coisas como frutas\ne flores silvestres.
+
+[7|off=0xa6c|chars=47]
+Million: Voce deve sempre usar\numa mochila
+
+[8|off=0xad6|chars=77]
+Million: E para evitar que as\npessoas coletem em excesso\nas coisas
+
+[9|off=0xb7c|chars=119]
+Million: A mochila que voce deve\nusar se chama Mochila Balanca.\nTem uma balanca embutida.\nVoce pode compra-la na minha
+
+[10|off=0xc76|chars=83]
+Million: Claro, nao muitas pessoas\ncoletam frutas e flores\nsilvestres hoje em dia.
+
+[11|off=0xd28|chars=83]
+Million: Claro, nao muitas pessoas\ncoletam frutas e flores\nsilvestres hoje em dia.
+
+[12|off=0xdda|chars=42]
+Million: Estamos quase nas\nRuinas de
+
+[13|off=0xe3a|chars=42]
+Million: Estamos quase nas\nRuinas de
+
+[14|off=0xe9a|chars=56]
+Franco: Entao finalmente\ncomecou a criar animais, hein?
+
+[15|off=0xf16|chars=109]
+Franco: Sabia que os robos criadores\ncomo o Cluck-o-Matic tambem sao\ninvencoes do Dr. Hope?
+
+[16|off=0xffc|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatizado, mas naquela epoca usar\nrobos era uma ideia revolucionaria.
+
+[17|off=0x10e8|chars=61]
+Franco: Ouvi que eles ainda os\nusam bastante no exterior.
+
+[18|off=0x116e|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido novamente\nentre essas
+
+[19|off=0x120e|chars=90]
+Moonlight: Tenho certeza que a\nforca vital deles ira revitalizar\nessa terra e a natureza!
+
+[20|off=0x12ce|chars=72]
+Franco: Uau!\nVoce tem sorte!\nGanhar um buggy assim de presente!
+
+[21|off=0x136a|chars=89]
+Franco: Se eu tivesse um buggy\ndesses, levaria a Rose num passeio\nque ela nunca
+
+[22|off=0x1428|chars=11]
+Moonlight:
+
+[23|off=0x1440|chars=52]
+P! Vi que voce ganhou\num presente do Dr. Hope.
+
+[24|off=0x14b4|chars=63]
+Moonlight: Num buggy desse voce\npode ir a praticamente\nqualquer
+
+[25|off=0x153e|chars=60]
+Franco: Nao acredito que o Marco\ncometeu um erro tao grande.
+
+[26|off=0x15c2|chars=73]
+Franco: Quando era jovem, todos\nlevavam seus namorados\naquella caverna.
+
+[27|off=0x1660|chars=11]
+Moonlight:
+
+[28|off=0x1678|chars=57]
+P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
+
+[29|off=0x16f6|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
+
+[30|off=0x179c|chars=49]
+Franco: Ouvi que voce plantou\nalgunas
+
+[31|off=0x180a|chars=120]
+Franco: Se voce conseguir enviar\nbastante ate a vespera do\nNatal, podem usar para\ndecorar a cidade!
+
+[32|off=0x1906|chars=21]
+Franco: Mal posso
+
+[33|off=0x193c|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[34|off=0x199a|chars=96]
+Franco: Sei que voce deve estar\npreocupado com ele, mas voce tem\num trabalho importante a fazer.
+
+[35|off=0x1a66|chars=89]
+Franco: Tenho certeza que a melhor\ncoisa para o Dr. Hope e ver\nvoce trabalhando duro.
+
+[36|off=0x1b24|chars=52]
+Moonlight: Nunca soube que o\nDr. Hope estava tao
+
+[37|off=0x1b98|chars=86]
+Moonlight: Suponho que e por isso\nque ele estava com tanta pressa\nde terminar o
+
+[38|off=0x1c50|chars=42]
+Franco: Sei que voce ta triste\npelo Dr.
+
+[39|off=0x1ca6|chars=12]
+P. Eu
+
+[40|off=0x1cca|chars=31]
+Franco: Ele era um bom amigo...
+
+[41|off=0x1d14|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[42|off=0x1d80|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do que\naparenta!
+
+[43|off=0x1e20|chars=91]
+Moonlight: O que estou tentando\ndizer e... Tenho certeza que o\nDr. Hope sempre velara por
+
+[44|off=0x1ee8|chars=62]
+Franco: Quem e aquele homem estranho\nque mora no novo quarto?
+
+[45|off=0x1f70|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
+
+[46|off=0x203e|chars=61]
+Franco: Bom, acho que nao devemos\nnos preocupar tanto com
+
+[47|off=0x20c4|chars=43]
+Franco: Um extraterrestre mora\nno novo
+
+[48|off=0x2126|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
+
+[49|off=0x21f4|chars=61]
+Franco: Bom, acho que nao devemos\nnos preocupar tanto com
+
+[50|off=0x227a|chars=11]
+Moonlight:
+
+[51|off=0x2292|chars=76]
+P!\nVi uma coisa estranha parecendo\num bicho de pelucia no novo quarto.
+
+[52|off=0x2336|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!
+
+[53|off=0x23a4|chars=28]
+Devia estar sonhando...
+
+[54|off=0x23e6|chars=58]
+P tentou dormir, mas ficou\npensando que havia
+
+[55|off=0x2464|chars=32]
+Sem perceber, amanheceu...
+
+[56|off=0x24ae|chars=43]
+R esta esperando!\nTalvez voce deva falar
+
+[57|off=0x250c|chars=60]
+Voce ouviu uma voz parecida\ncom a do Max em algum lugar\npor
+
+[58|off=0x258c|chars=66]
+As atividades do dia anterior\naumentaram seu\nNivel Humano!
+
+[59|off=0x2618|chars=59]
+Quer ir para a cama e\ndormir pelo resto do dia?
+
+[60|off=0x2696|chars=58]
+Quer acordar mais cedo\ndo que o normal amanha?
+
+[61|off=0x2712|chars=58]
+Quer acordar mais cedo\ndo que o normal amanha?
+
+[62|off=0x278e|chars=36]
+Quer dormir aqui hoje?
+
+[63|off=0x27de|chars=76]
+Entao quer usar a funcao de\nteleporte da barraca para\nvoltar ao seu quarto?
+
+[64|off=0x287e|chars=44]
+Nao ha lugar para\nmontar sua barraca aqui!
+
+[65|off=0x28de|chars=44]
+Este e um guarda-roupa\nbem caro...
+
+[66|off=0x293e|chars=31]
+Ha pratos alinhados aqui.
+
+[67|off=0x2984|chars=27]
+Voce tenta lavar as maos.
+
+[68|off=0x29c2|chars=30]
+Esta pia e muito facil de
+
+[69|off=0x2a06|chars=25]
+Suas maos estao limpas.
+
+[70|off=0x2a40|chars=24]
+Mas nao havia sabao...
+
+[71|off=0x2a78|chars=40]
+A pressao da agua parece\nesta um pouco
+
+[72|off=0x2ad0|chars=48]
+Voce se surpreendeu com o quanto\nsuas maos
+
+[73|off=0x2b38|chars=43]
+Tem agua pingada por\ntoda a area da pia!
+
+[74|off=0x2b96|chars=24]
+Voce limpa o local.
+
+[75|off=0x2bce|chars=26]
+Saiu agua morna...
+
+[76|off=0x2c0a|chars=49]
+O ralo nao parece estar\nfuncionando muito bem...
+
+[77|off=0x2c74|chars=41]
+Saiu agua quente\ncom uma forca incrivel!
+
+[78|off=0x2cce|chars=44]
+Um cheiro muito bom\nvem do sabao aqui...
+
+[79|off=0x2d2e|chars=55]
+Voce tenta lavar o rosto.\nVoce se sente um pouco
+
+[80|off=0x2da4|chars=42]
+Ha muitas coisas\nnessas prateleiras...
+
+[81|off=0x2e00|chars=19]
+Ha vinho aqui.
+
+[82|off=0x2e2e|chars=23]
+Voce olha para o vaso.
+
+[83|off=0x2e64|chars=32]
+Parece que foi dado descarga...
+
+[84|off=0x2eac|chars=21]
+Esta brilhando de
+
+[85|off=0x2ede|chars=28]
+Voce aperta o botao
+
+[86|off=0x2f1e|chars=30]
+Ha um bilhete no vaso.
+
+[87|off=0x2f62|chars=20]
+"Favor manter
+
+[88|off=0x2f92|chars=70]
+Parece ter um assento que levanta\ne abaixa automaticamente.
+
+[89|off=0x3026|chars=68]
+Ha um adesivo da Banks Corporation\nno lado do assento do vaso.
+
+[90|off=0x30b6|chars=53]
+O aroma de oleo aromatico\nflutua ao redor do vaso...
+
+[91|off=0x3128|chars=29]
+Esta e uma banheira
+
+[92|off=0x316a|chars=62]
+Voce abriu a gaveta.\nHa muitas coisas diferentes\nla dentro.
+
+[93|off=0x31ee|chars=64]
+Este e um guarda-roupa.\nNao ha nada de particularmente\nincomum
+
+[94|off=0x3276|chars=38]
+Ha muitos livros\nna estante.
+
+[95|off=0x32ca|chars=45]
+Mas nao ha motivo para\nvoce le-los...
+
+[96|off=0x332c|chars=26]
+Voce abre a geladeira.
+
+[97|off=0x3368|chars=65]
+Mas voce a fecha rapidamente\npara nao estragar a comida.
+
+[98|off=0x33f2|chars=75]
+"Serpente Arco-iris"\n  Ela te leva pela floresta\nou a tentacao?
+
+[99|off=0x3490|chars=86]
+"Arvores Sussurrantes"\n  Vozes distantes. Vozes proximas.\nEcos do ceu. O som do lago.
+
+[100|off=0x3544|chars=63]
+"Lua do Deserto"\n  As estrelas viram areia\ne voltam a terra.
+
+[101|off=0x35ca|chars=50]
+"Valsa"\n  Visitantes do mar. Gira gira\ngira...
+
+[102|off=0x3636|chars=71]
+"Constelacao do Sul"\n  Veja, o Centauro. Escultura\ne pintura.
+
+[103|off=0x36cc|chars=39]
+"Aqui e Ali"\n  Onde na terra estou?
+
+[104|off=0x3722|chars=39]
+"Em Frente: Caverna Sul de\nHeartflame"
+
+[105|off=0x3778|chars=30]
+"Em Frente: Ruinas de Pasqua"
+
+[106|off=0x37bc|chars=45]
+"Em Frente: Margem Sudeste\ndo Lago Leste"
+
+[107|off=0x381e|chars=23]
+"Leste: Floresta
+
+[108|off=0x3854|chars=45]
+"Em Frente: Margem Sudoeste\ndo Lago Leste"
+
+[109|off=0x38b6|chars=37]
+"Perigo! Arvores Caidas.\nNao Entre."
+
+[110|off=0x3908|chars=25]
+"Leste: Deserto
+
+[111|off=0x3942|chars=18]
+"Dunas Heartflame"
+
+[112|off=0x396e|chars=26]
+"Norte: Planices
+
+[113|off=0x39aa|chars=19]
+"Planices
+
+[114|off=0x39d8|chars=32]
+"Margem Sudeste do Lago Sereia"
+
+[115|off=0x3a20|chars=14]
+"Lago Sereia"
+
+[116|off=0x3a44|chars=24]
+"Sul: Floresta Cogumelo"
+
+[117|off=0x3a7c|chars=32]
+"Margem Sudoeste do Lago Sereia"
+
+[118|off=0x3ac4|chars=11]
+"Lago
+
+[119|off=0x3ae2|chars=54]
+Encontrei uma grade de TV\nenfiada entre revistas
+
+[120|off=0x3b56|chars=73]
+Seg. Qua. Sex.\n"Onde Esta Minha Mamae? A Jornada da\nGatinha," "Ranger
+
+[121|off=0x3bf0|chars=70]
+Ter. Qui. "Bosque Melancolico,"\nSab&Dom. "Senhorita Fofinha, Bruxa
+
+[122|off=0x3c86|chars=28]
+Como jogar com Trilhos de
+
+[123|off=0x3cc0|chars=7]
+ ~Trilh
+
+[124|off=0x3cd6|chars=57]
+Primeiro, coloque trilhos e\nprepare as condicoes para
+
+[125|off=0x3d50|chars=113]
+Voce pode deixar o trem rodar\nem circulo, ou ir e voltar\nentre dois pontos. Onde ha trilho,\nha um jeito.
+
+[126|off=0x3e3e|chars=28]
+Como jogar com Trilhos de
+
+[127|off=0x3e78|chars=8]
+ ~Motore
+
+[128|off=0x3e90|chars=102]
+Motores funcionam como locomotivas.\nSe voce os colocar nos trilhos,\npode mover carrinhos acoplados.
+
+[129|off=0x3f64|chars=96]
+Voce pode controlar o motor\npelo Menu de Comandos, ou\ncontrolalo diretamente no monitor\npelo
+
+[130|off=0x4026|chars=8]
+ .
+
+[131|off=0x403e|chars=38]
+"Como jogar com Trilhos de Carrinho,"
+
+[132|off=0x4092|chars=118]
+Carrinhos funcionam como Vagoes de\nCarga e Vagoes de Passageiros. Com\nMotores, eles podem rodar nos
+
+[133|off=0x4186|chars=62]
+Voce pode ser motorista se\noperar Motores enquanto\nanda num
+
+[134|off=0x420a|chars=40]
+"Como jogar com Trilhos de Carrinho,"
+
+[135|off=0x4262|chars=95]
+Se voce comprar Unidades Auto,\nelas serao colocadas automaticamente\nentre dois Containers na
+
+[136|off=0x4328|chars=120]
+Coloque Trilhos de Carrinho para\npassar pela Praca na frente da\nUnidade Auto. Itens no Carrinho\nserao enviados
+
+[137|off=0x4422|chars=22]
+Fisiocracia e Magia,
+
+[138|off=0x4450|chars=21]
+\n~ou "Livro do
+
+[139|off=0x4482|chars=69]
+Se voce regar com Agua Sagrada\numa Regador Mistico,\nvoce pode
+
+[140|off=0x4514|chars=75]
+Voce so pode usar um Regador\nMistico se trabalhou muito\nduro na Fazenda...
+
+[141|off=0x45b2|chars=59]
+E um livro de Contos de Fadas\npara educacao na primeira
+
+[142|off=0x4630|chars=91]
+Pausei numa pagina com a\nilustracao de uma marionete de\nmadeira sendo engolida por
+
+[143|off=0x46ee|chars=28]
+Meu coracao aperta...\nPor
+
+[144|off=0x472e|chars=44]
+E um Livro de Haiku\nescrito pela Diretora
+
+[145|off=0x478e|chars=68]
+Ha mais Haikus sobre amor\ndo que sobre paisagens\nou vida
+
+[146|off=0x481e|chars=69]
+E como ler o diario de outra\npessoa. Me sinto um pouco\nculpado...
+
+[147|off=0x48b2|chars=30]
+Conto do Cavaleiro Amor e
+
+[148|off=0x48f0|chars=7]
+ Vol. 1
+
+[149|off=0x4906|chars=63]
+Cavaleiro: T-t-tome este arco!\nPrincesa: ... sou eu que voce
+
+[150|off=0x498c|chars=108]
+Nao havia mais hesitacao.\nEle tomou coragem e fez um presente.\nO por do sol tingiu de vermelho\nas bochechas
+
+[151|off=0x4a6e|chars=30]
+Conto do Cavaleiro Amor e
+
+[152|off=0x4aac|chars=7]
+ Vol. 2
+
+[153|off=0x4ac2|chars=73]
+Princesa: Eu tambem tenho algo\npara lhe dar,\nCavaleiro: I-isso e... um
+
+[154|off=0x4b5c|chars=106]
+Eles se apaixonaram.\nEstavam cerca de 100 pixels mais\nproximos quando um manto de\ntrevas os cobriu.
+
+[155|off=0x4c38|chars=6]
+Sim\nNa
+
+[156|off=0x4c4c|chars=6]
+Sim\nNa
+
+[157|off=0x4c60|chars=6]
+Sim\nNa
+
+[158|off=0x4c74|chars=6]
+Sim\nNa
+
+[159|off=0x4c88|chars=57]
+Salvar e dormir.\nDormir sem salvar.\nAnular.
+
+[160|off=0x4d02|chars=21]
+Desafio aumentou!\n
+
+[161|off=0x4d42|chars=21]
+Desafio aumentou!\n
+
+[162|off=0x4d82|chars=16]
+Amor aumentou!\n
+
+[163|off=0x4db8|chars=24]
+Inteligencia aumentou!\n
+
+[164|off=0x4dfe|chars=19]
+Culinaria
+
+[165|off=0x4e3a|chars=22]
+Criatividade
+
+[166|off=0x4e7c|chars=17]
+Humor aumentou!\n
+
+[167|off=0x4eb4|chars=58]
+Voce nao foi a casa do Dr. Hope\npara a manutencao hoje!

@@ -1,0 +1,959 @@
+# VTSCF1A.SCP - 318 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x9f6|chars=56]
+Franco: Entao voce finalmente\ncomeou a criar animais, hein?
+
+[1|off=0xa72|chars=109]
+Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?
+
+[2|off=0xb58|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatizado, mas antes usar robos\nera uma ideia bem revolucionaria.
+
+[3|off=0xc44|chars=61]
+Franco: Ouvi que eles ainda usam\nbastante isso no exterior.
+
+[4|off=0xcca|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido de novo\nentre essas ruinas!
+
+[5|off=0xd6a|chars=90]
+Moonlight: Tenho certeza que sua\nforca vital vai revitalizar esta\nterra e a natureza!
+
+[6|off=0xe2a|chars=72]
+Franco: Uau!\nQue sortudo voce e!\nGanhar um buggy desse de presente!
+
+[7|off=0xec6|chars=89]
+Franco: Se eu tivesse um buggy\ndesse, levaria a Rose num passeio\ninesquecivel!
+
+[8|off=0xf84|chars=11]
+Moonlight:
+
+[9|off=0xf9c|chars=52]
+<06>P! Vi que voce ganhou\num presente do Dr. Hope.
+
+[10|off=0x1010|chars=63]
+Moonlight: Voce pode ir a\nqualquer lugar com um\nbuggy desse!
+
+[11|off=0x109a|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.
+
+[12|off=0x111e|chars=73]
+Franco: Quando era jovem, todos\nlevavam suas paqueras\npara aquela caverna.
+
+[13|off=0x11bc|chars=11]
+Moonlight:
+
+[14|off=0x11d4|chars=57]
+<06>P!\nOuvi que houve problemas na\ncaverna de Volcano Town.
+
+[15|off=0x1252|chars=77]
+Moonlight: Vai levar tempo e\nesforco para voltar\nao estado original.
+
+[16|off=0x12f8|chars=49]
+Franco: Ouvi que voce plantou\nalgunas poinsetias.
+
+[17|off=0x1366|chars=120]
+Franco: Se conseguir enviar\nbastante ate a vespera do Natal,\npode usar para decorar a cidade.
+
+[18|off=0x1462|chars=21]
+Franco: Mal posso esperar!
+
+[19|off=0x1498|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[20|off=0x14f6|chars=96]
+Franco: Sei que deve estar\npreocupado, mas voce tem\num trabalho importante a terminar.
+
+[21|off=0x15c2|chars=89]
+Franco: Tenho certeza que a melhor\ncoisa pro Dr. Hope e ver\nvoce trabalhando duro.
+
+[22|off=0x1680|chars=52]
+Moonlight: Nunca soube que o\nDr. Hope estava tao doente...
+
+[23|off=0x16f4|chars=86]
+Moonlight: Acho que foi por isso\nque ele estava com tanta pressa\nde terminar seu trabalho...
+
+[24|off=0x17ac|chars=42]
+Franco: Sei que voce esta triste\npelo Dr. Hope,
+
+[25|off=0x1802|chars=12]
+<06>P. Eu tambem.
+
+[26|off=0x1826|chars=31]
+Franco: Ele era um bom amigo...
+
+[27|off=0x1870|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[28|off=0x18dc|chars=74]
+Moonlight: Ele me disse que ha\nmuito mais neste mundo\ndo que parece!
+
+[29|off=0x197c|chars=91]
+Moonlight: O que quero dizer e...\nTenho certeza que o Dr. Hope\nolhara por voce, <06>P.
+
+[30|off=0x1a44|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?
+
+[31|off=0x1acc|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, mas\nnao era de ninguem mesmo...
+
+[32|off=0x1b9a|chars=61]
+Franco: Bom, acho que nao\ndevemos nos preocupar tanto.
+
+[33|off=0x1c20|chars=43]
+Franco: Um alien morando\nno novo quarto?
+
+[34|off=0x1c82|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, mas\nnao era de ninguem mesmo...
+
+[35|off=0x1d50|chars=61]
+Franco: Bom, acho que nao\ndevemos nos preocupar tanto.
+
+[36|off=0x1dd6|chars=11]
+Moonlight:
+
+[37|off=0x1dee|chars=76]
+<06>P!\nVi uma coisa estranha parecendo\nbicho de pelucia no novo quarto.
+
+[38|off=0x1e92|chars=51]
+Moonlight: Voce que fez isso?\nQue impressionante!
+
+[39|off=0x1f04|chars=28]
+Sharon: Bom dia,\n<06>P!
+
+[40|off=0x1f3e|chars=55]
+<06>P! Nao adora\numa caminhada de manha?
+
+[41|off=0x1fb8|chars=49]
+Sharon: Ate meu cachorro Polo\nesta de bom humor hoje!
+
+[42|off=0x2026|chars=87]
+Sharon: Ah, o que fazer? Talvez\neu deva devolver este e pegar\no outro...
+
+[43|off=0x20e0|chars=30]
+Vanessa: Bem-vindo!\nVoce deve ser <06>
+
+[44|off=0x211e|chars=36]
+<06>P.\nSou Vanessa da Fazenda Branch.
+
+[45|off=0x2172|chars=86]
+Vanessa: Voce deve vir\na minha aula de pintura. E todo\nSabado na escola.
+
+[46|off=0x222a|chars=48]
+Jessica: Que laco bonito.\nE para mim?
+
+[47|off=0x2296|chars=111]
+Jessica: Tem certeza? Parece valioso.\nTao brilhante. Quase como se fosse\nde outro mundo. Tem certeza?
+
+[48|off=0x2380|chars=86]
+Jessica: Obrigada!\nMas nao posso aceitar sem\ndar algo em troca. Aqui.
+
+[49|off=0x2434|chars=39]
+Jessica tirou uma pedra\nvermelhinha brilhante.
+
+[50|off=0x248a|chars=17]
+E uma Joia Vermelha!
+
+[51|off=0x24b8|chars=55]
+Jessica: Vou enviar pra sua\nCaixa de Itens. Nao se preocupe.
+
+[52|off=0x2532|chars=46]
+Jessica: Nao, achei que nao.\nE bom demais.
+
+[53|off=0x259a|chars=96]
+Jessica: E tao dificil achar um\nhomem que presta de verdade. Ah,\nnao estou falando de voce.
+
+[54|off=0x2666|chars=72]
+Jessica: Por sua causa, pude me\ncasar com um homem maravilhoso.\nObrigada.
+
+[55|off=0x2702|chars=103]
+Jessica: Ficamos separados por\num tempo por causa do trabalho,\nmas ele entende muito bem.
+
+[56|off=0x27dc|chars=42]
+Jessica: Desculpe, estou\ntrabalhando agora.
+
+[57|off=0x283c|chars=30]
+Diretora Rose: Bom dia,\n<06>
+
+[58|off=0x287a|chars=54]
+<06>P. Bem-vindo a Escola\nVulcao. Sou a diretora, Rose.
+
+[59|off=0x28f2|chars=106]
+Diretora Rose: Faz parte do\ntrabalho garantir que tudo esteja\nOK antes dos alunos chegarem.
+
+[60|off=0x29d2|chars=18]
+Big: Ah, e voce <06>
+
+[61|off=0x29f8|chars=46]
+<06>P.\nViu o episodio desta semana\ndo Final Z?
+
+[62|off=0x2a60|chars=37]
+Big: De verdade?\nFoi bem legal, ne?
+
+[63|off=0x2ab6|chars=25]
+Big: Ah... Sem graca voce.
+
+[64|off=0x2af4|chars=40]
+Marcia: Veio estudar tambem,\n<06>P?
+
+[65|off=0x2b46|chars=22]
+<06>P? Que esperto.
+
+[66|off=0x2b7e|chars=70]
+Bobby: Ei! Nao pode passear\naqui durante a aula.
+
+[67|off=0x2c16|chars=25]
+Bobby: Hm? Ah, e voce, <06>
+
+[68|off=0x2c4a|chars=42]
+<06>P.\nOi. Sou o Bobby.\nSou professor.
+
+[69|off=0x2caa|chars=55]
+Bobby: Todo filho do Dr. Hope\ndeve ser muito inteligente.
+
+[70|off=0x2d24|chars=63]
+Lionel: N-Nao fale comigo!\nVao me fazer dar mais\nvoltas na pista!
+
+[71|off=0x2dae|chars=67]
+Max: Corra! Corra!\nSe vacilar, vou te fazer\ncorrer o dobro de voltas!
+
+[72|off=0x2e40|chars=59]
+Becky: A bateria e bem legal.\nQueria saber tocar.
+
+[73|off=0x2ec2|chars=36]
+Simon: Heh.\nA Sharon e bem bonita...
+
+[74|off=0x2f16|chars=8]
+Sharon: <06>
+
+[75|off=0x2f28|chars=44]
+<06>P! Veio.\nQue bom.\nFique a vontade.
+
+[76|off=0x2f8c|chars=9]
+*: Relincho!
+
+[77|off=0x2faa|chars=80]
+Simon: Sharon gosta de piano.\nAcho que vou tentar aprender\na tocar...
+
+[78|off=0x3056|chars=15]
+Sharon: Lalala!
+
+[79|off=0x3076|chars=22]
+\nSou um gatinho perdido
+
+[80|off=0x30a4|chars=23]
+\nPego na chuva gelada
+
+[81|off=0x30e0|chars=50]
+Simon: A voz de Sharon soa\ntao suave e gentil...
+
+[82|off=0x3150|chars=65]
+Bobby: Ah, ainda aqui?\nVamos fechar em breve.
+
+[83|off=0x31de|chars=90]
+Sharon: Ah, me assustou.\nDeve sair a essa hora?\nO medico deve estar preocupado.
+
+[84|off=0x329e|chars=101]
+Sharon: Marcia vem brincar com\nPolo quando nao consigo leva-lo\npara passear. Ajuda muito.
+
+[85|off=0x3374|chars=6]
+Nana: <06>
+
+[86|off=0x3382|chars=71]
+<06>P! Veio na hora\ncerta! Tenho algo que quero\nte perguntar.
+
+[87|off=0x341c|chars=109]
+Nana: Quero muito ganhar o Festival\nde Culinaria de Cogumelos. Mas\nnao consigo com meus pratos comuns.
+
+[88|off=0x3502|chars=111]
+Nana: Sera que voce poderia\nme pegar uns cogumelos Porcini?\nDevem estar na estacao amanha.
+
+[89|off=0x35ec|chars=122]
+Nana: Vou te dar um\npresentinho se fizer isso\npor mim!\nSo coloque na sua Bolsa\ne traga aqui.
+
+[90|off=0x36ec|chars=49]
+Nana: Vejamos... Acho que\n100g e suficiente.
+
+[91|off=0x375a|chars=6]
+Nana: <06>
+
+[92|off=0x3768|chars=52]
+<06>P! Trouxe\ncogumelos Porcini!\nObrigada!
+
+[93|off=0x37dc|chars=84]
+Nana: Vou pega-los entao.\nEstou certa de ganhar\no Concurso de Culinaria.
+
+[94|off=0x3890|chars=6]
+Nana: <06>
+
+[95|off=0x389e|chars=41]
+<06>P! Trouxe\ncogumelos Porcini!
+
+[96|off=0x38fc|chars=81]
+Nana: Mas temo que nao seja\nsuficiente. Preciso\nde 100g deles.
+
+[97|off=0x39aa|chars=114]
+Nana: Se eu nao fizer um Steak\nespecial, Dorothy vai ganhar de\nnovo o Concurso de Culinaria.
+
+[98|off=0x3a9a|chars=114]
+Nana: Se eu nao fizer um Steak\nespecial, Dorothy vai ganhar de\nnovo o Concurso de Culinaria.
+
+[99|off=0x3b8a|chars=53]
+Nana: Acho que ela cozinha\nmelhor do que eu, no geral.
+
+[100|off=0x3c00|chars=53]
+Nana: Acho que ela cozinha\nmelhor do que eu, no geral.
+
+[101|off=0x3c76|chars=44]
+Marcia: Espiritos da Natureza?\nSim, ja vi.
+
+[102|off=0x3cda|chars=62]
+Marcia: Marlene me disse que\neles moram na Floresta Gigante.
+
+[103|off=0x3d62|chars=78]
+Marcia: Nao e curioso? Sao tao\npequenos, mas moram na\nFloresta Gigante!
+
+[104|off=0x3e0a|chars=18]
+Sharon: Ah, ola <06>
+
+[105|off=0x3e30|chars=64]
+<06>P.\nTenho uma coisinha\nque gostaria de te pedir.
+
+[106|off=0x3ebc|chars=102]
+Sharon: Meu cachorro Polo era\ncao farejador de trufas e\nparece que achou Trufas Negras.
+
+[107|off=0x3f94|chars=101]
+Sharon: Nao posso ir buscar\nentao me perguntei se voce\npoderia ir buscar pra mim.
+
+[108|off=0x406a|chars=102]
+Sharon: E um pouco longe, temo.\nFica na Floresta de Cogumelos,\nao sul do Lago Sereia.
+
+[109|off=0x4142|chars=98]
+Sharon: Se pegar essas Trufas\nNegras, tenho certeza de ganhar\no Concurso de Culinaria.
+
+[110|off=0x4212|chars=50]
+Sharon: Vejamos... Acho que\n50g e suficiente.
+
+[111|off=0x4282|chars=8]
+Sharon: <06>
+
+[112|off=0x4294|chars=40]
+<06>P! Trouxe\nTrufas Negras?
+
+[113|off=0x42f0|chars=54]
+Sharon: Vou pega-las entao.\nMuito obrigada!
+
+[114|off=0x4368|chars=105]
+Sharon: Agradeco o esforco, mas\nnao e suficiente. Preciso\nde pelo menos 50g.
+
+[115|off=0x4446|chars=106]
+Sharon: E curioso como voce se\nmotiva quando acha que pode\nter chance de ganhar mesmo...
+
+[116|off=0x4526|chars=73]
+Sharon: Aceite isso com meu\nagradecimento. E algo que\nPolo desenterrou.
+
+[117|off=0x45c4|chars=75]
+Sharon: Acho que se chama Joia\nLaranja. Vou enviar pra sua\nCaixa de Itens.
+
+[118|off=0x4666|chars=8]
+Sharon: <06>
+
+[119|off=0x4678|chars=40]
+<06>P! Trouxe\nTrufas Negras?
+
+[120|off=0x46d4|chars=110]
+Sharon: Quando vejo um por do sol\nassim, lembro de muitas coisas...\nComo o lugar onde eu morava...
+
+[121|off=0x47bc|chars=30]
+Diretora Rose: Bom dia,\n<06>
+
+[122|off=0x47fa|chars=54]
+<06>P. Bem-vindo a Escola\nVulcao. Sou a diretora, Rose.
+
+[123|off=0x4872|chars=126]
+Diretora Rose: O Dr. Hope cuida\nda sua educacao.\nNao e necessario\nvoce vir a Escola Vulcao\ncomo os outros.
+
+[124|off=0x497a|chars=120]
+Diretora Rose: Mas por favor venha\nnos visitar de vez em quando.\nTenho certeza que sera\numa experiencia valiosa pra voce.
+
+[125|off=0x4af0|chars=55]
+Vanessa: Parece que todos pintam\nem escala bem pequena.
+
+[126|off=0x4bb0|chars=90]
+Vanessa: Gostaria que as pessoas\ndeixassem seus pensamentos livres\ncomo Moonlight faz na arte.
+
+[127|off=0x4c36|chars=61]
+Becky: Simplesmente nao consigo\npintar como minha mae quer.
+
+[128|off=0x4cde|chars=78]
+Sharon: Vanessa e gentil demais.\nSou uma professora iniciante\ncompara a ela.
+
+[129|off=0x4d48|chars=47]
+Simon: Preto...\nPreto...\nQuero que seja bem preto!
+
+[130|off=0x4d74|chars=21]
+Simon: O que foi, <06>
+
+[131|off=0x4d74|chars=54]
+<06>P?\nParece estranho.\nNao gosta de pintura?
+
+[132|off=0x4dec|chars=15]
+Max: Oi la, <06>
+
+[133|off=0x4e0c|chars=31]
+<06>P!\nVeio correr tambem?
+
+[134|off=0x4e56|chars=70]
+Max: Entao corra! Como meu\namor por Nana corre\npelo meu coracao!
+
+[135|off=0x4eee|chars=112]
+Max: Ah, tentando me enganar?\nSabe o que faco com criancinhas?\nUso pra treinar disco! Hahaha!
+
+[136|off=0x4fda|chars=55]
+Sharon: Voce ja andou por toda\nessa ilha, ne, <06>P?
+
+[137|off=0x505a|chars=82]
+Sharon: Entao deve ter conhecido\nmuitas pessoas. Me pergunto...\nJa encontrou...
+
+[138|off=0x510a|chars=39]
+Sharon: Ah, nao e nada.\nEsquece...
+
+[139|off=0x5164|chars=45]
+Sharon: Simplesmente nao sou\nboa com maquinas.
+
+[140|off=0x51ca|chars=30]
+Vanessa: Bem-vindo!\nVoce deve ser <06>
+
+[141|off=0x5208|chars=32]
+<06>P.\nSou Vanessa da Fazenda Branch.
+
+[142|off=0x5254|chars=82]
+Vanessa: Ensino pintura aqui todo\nSabado. Venha se quiser.
+
+[143|off=0x5304|chars=11]
+Becky: Ah, <06>
+
+[144|off=0x531c|chars=75]
+<06>P! Veio na\nhora certa. So fica ali.\nQuer ser meu modelo?
+
+[145|off=0x53be|chars=78]
+Becky: Nao consigo desenhar\nbem mesmo com um modelo\ntao bonito...
+
+[146|off=0x5466|chars=76]
+Sharon: Quando vejo um por do sol\nassim, lembro de muitas coisas...
+
+[147|off=0x550a|chars=76]
+Sharon: Quando vejo um por do sol\nassim, lembro de muitas coisas...
+
+[148|off=0x55ae|chars=37]
+Sharon: Como pessoas que conheci...
+
+[149|off=0x5604|chars=37]
+Sharon: Como pessoas que conheci...
+
+[150|off=0x565a|chars=56]
+Becky: Uau!\nMax parece quase um\ntenor profissional!
+
+[151|off=0x56d6|chars=21]
+Max: Oh mae natureza!
+
+[152|off=0x5702|chars=14]
+\nOuca minha voz!
+
+[153|off=0x5720|chars=16]
+\nUm canto de vida!
+
+[154|off=0x574e|chars=24]
+Simon: Venha me salvar!
+
+[155|off=0x5780|chars=37]
+\nQuebre as correntes\ndo meu coracao!
+
+[156|off=0x57d8|chars=34]
+Simon: Por que essa cara,\n<06>P?
+
+[157|off=0x581e|chars=43]
+<06>P? Cantar\ne pra ser divertido.
+
+[158|off=0x5880|chars=68]
+Nana: Vamos. E so cantar\no que esta no coracao!
+
+[159|off=0x5916|chars=106]
+Sharon: Acho maravilhoso que voce\ntenha tempo pra se aprimorar\nmesmo apos se casar.
+
+[160|off=0x59f6|chars=13]
+Vanessa: Ah, <06>
+
+[161|off=0x5a12|chars=87]
+<06>P.\nVeio estudar? Procurando Becky?\nEla esta na aula de musica da Nana.
+
+[162|off=0x5acc|chars=124]
+Million: Sempre tento manter\nminha loja na vanguarda da\ntecnologia,\npara nao ficar atras das\ngrandes redes.
+
+[163|off=0x5bd0|chars=97]
+Million: A proposito, ouviu falar\nde uns charlatanes que se chamam\n"Pink Mask Incorporated"?
+
+[164|off=0x5c9e|chars=80]
+Million: Tome cuidado\ncom vendedores ambulantes\nsuspeitos, <06>P.
+
+[165|off=0x5d50|chars=91]
+Emma: A Ilha Heartflame nao e\nmuito grande, mas a Internet\nnos conecta ao mundo inteiro...
+
+[166|off=0x5e12|chars=108]
+Emma: Sinto que as pessoas podem\nfazer quase qualquer coisa em\nqualquer lugar a qualquer hora.
+
+[167|off=0x5ef6|chars=55]
+Emma: Mas acho que voce sabe\nde tudo isso, ne, <06>P?
+
+[168|off=0x5f66|chars=10]
+<06>P.\nHehehe.
+
+[169|off=0x5f86|chars=86]
+Sharon: Droga. Nao consigo entrar\nna net. Vou ter que pedir\npro Bobby ver meu computador.
+
+[170|off=0x603e|chars=63]
+Sharon: Bobby sempre vem quando\nchamo. Tem sido\numa grande ajuda.
+
+[171|off=0x60c8|chars=63]
+Becky: La~La~La, a magia da ciencia~\nUm menino corre com o vento~~
+
+[172|off=0x6154|chars=14]
+Becky: Nao, <06>
+
+[173|off=0x6172|chars=58]
+<06>P.\nEstava ouvindo...?\nDevia ter avisado!!
+
+[174|off=0x61f2|chars=22]
+Becky: Hein? E voce, <06>
+
+[175|off=0x6220|chars=25]
+<06>P.\nProcurando algo?
+
+[176|off=0x625e|chars=78]
+Becky: Ouvi que voce esta viciado\nnum Dicionario estranho...
+
+[177|off=0x6306|chars=84]
+Becky: Sempre carrego este livro\nestranho que achei um dia.\nQuer ler, <06>P?
+
+[178|off=0x63c0|chars=24]
+Becky: Aqui, este e ele.
+
+[179|off=0x63fa|chars=25]
+Historia da Rosa Branca-Vol.2
+
+[180|off=0x6436|chars=52]
+Masso reprovou no vestibular\nda cidade de novo...
+
+[181|off=0x64a6|chars=98]
+Pegou um trem de volta pra casa.\nLamentou o azar a um\nvelhinho no mesmo trem.
+
+[182|off=0x6572|chars=26]
+...Entao o velhinho disse,\n
+
+[183|off=0x65a8|chars=44]
+Cheire esta rosa branca,\ne descanse por um momento.
+
+[184|off=0x660c|chars=38]
+O perfume e a chave\nda sua sorte."
+
+[185|off=0x6660|chars=78]
+Embora desconfiado, Masso\ncheirou a rosa branca\ne adormeceu...
+
+[186|off=0x6704|chars=111]
+Um ano depois, Masso passou\nno exame de uma elite. Talvez\npelo perfume da rosa.
+
+[187|off=0x67ea|chars=109]
+Depois teve muito sucesso nos\nnegociosformou familia feliz com\nbela esposa e muitos filhos.
+
+[188|off=0x68cc|chars=55]
+Sua vida feliz e rica continuou.\nAte um dia...
+
+[189|off=0x6942|chars=30]
+Um apito ensurdecedor soou!!
+
+[190|off=0x6986|chars=21]
+...e Masso acordou.
+
+[191|off=0x69b8|chars=78]
+O trem chegou na ultima\nparada. O velhinho nao estava\nem lugar algum.
+
+[192|off=0x6a5c|chars=100]
+So o perfume de rosa branca\nficou, flutuando no ar.\n                                Fim
+
+[193|off=0x6b30|chars=77]
+Becky: Acho que ha uma lenda\nsobre rosas brancas\nnessa area tambem, ne?
+
+[194|off=0x6bd6|chars=101]
+Becky: Quem achar uma rosa branca\nna neve branca tera felicidade\neterna...nao e isso?
+
+[195|off=0x6cac|chars=57]
+Becky: Mas que tipo de rosa\nfloresce no inverno...
+
+[196|off=0x6d2a|chars=66]
+Becky: Entendo... Me avise se\nquiser ler de novo, tudo bem?
+
+[197|off=0x6dba|chars=27]
+Becky: Quer ler\n<06>P?
+
+[198|off=0x6df2|chars=25]
+Historia da Rosa\nBranca - Vol.2,
+
+[199|off=0x6e26|chars=28]
+ que recomendo muito?
+
+[200|off=0x6e6a|chars=20]
+Sharon: Gaga gagaaa!
+
+[201|off=0x6e9e|chars=13]
+Vanessa: Ga-.
+
+[202|off=0x6ec4|chars=21]
+Diretora Rose: Gaga.
+
+[203|off=0x6efa|chars=28]
+Big: Gagaga gaga gagagagaga!
+
+[204|off=0x6f3e|chars=15]
+Marcia: Gagaga?
+
+[205|off=0x6f68|chars=22]
+Bobby: Ga- gagagagaga!
+
+[206|off=0x6fa0|chars=27]
+Lionel: Ga-!\nGaga gagagaga!
+
+[207|off=0x6fe2|chars=13]
+Max: Ga! Gaa!
+
+[208|off=0x7008|chars=17]
+Becky: Ga gagaga!
+
+[209|off=0x7036|chars=16]
+Simon: Ga... ga.
+
+[210|off=0x7062|chars=20]
+Jessica: Ga... ga...
+
+[211|off=0x7096|chars=14]
+*: Gaga relincho!
+
+[212|off=0x70be|chars=16]
+Simon: Ga... ga.
+
+[213|off=0x70ea|chars=16]
+Simon: Ga... ga.
+
+[214|off=0x7116|chars=22]
+Bobby: Ga- gagagagaga!
+
+[215|off=0x714e|chars=21]
+Diretora Rose: Gaga.
+
+[216|off=0x7184|chars=17]
+Becky: Ga gagaga!
+
+[217|off=0x71b2|chars=17]
+Becky: Ga gagaga!
+
+[218|off=0x71e0|chars=16]
+Simon: Ga... ga.
+
+[219|off=0x720c|chars=13]
+Max: Ga! Gaa!
+
+[220|off=0x7232|chars=16]
+Nana: Gaga gaga!
+
+[221|off=0x725e|chars=16]
+Million: Gagaga!
+
+[222|off=0x728a|chars=9]
+Emma: Ga?
+
+[223|off=0x72a4|chars=44]
+Um guarda-roupa de aparencia\nmuito cara...
+
+[224|off=0x7304|chars=31]
+Ha pratos enfileirados aqui.
+
+[225|off=0x734a|chars=27]
+Voce tenta lavar as maos.
+
+[226|off=0x7388|chars=30]
+Esta pia e muito facil de usar.
+
+[227|off=0x73cc|chars=25]
+Suas maos estao limpas.
+
+[228|off=0x7406|chars=24]
+Mas nao tinha sabao...
+
+[229|off=0x743e|chars=40]
+A pressao da agua esta um\npouco fraca...
+
+[230|off=0x7496|chars=48]
+Ficou surpreso com o quanto\nsuas maos estavam sujas.
+
+[231|off=0x74fe|chars=43]
+Ha agua espirrada por toda\na pia!
+
+[232|off=0x755c|chars=24]
+Voce limpa a area.
+
+[233|off=0x7594|chars=26]
+Saiu agua morna...
+
+[234|off=0x75d0|chars=49]
+O ralo nao parece estar\nfuncionando muito bem...
+
+[235|off=0x763a|chars=41]
+Saiu agua quente com\nforca incrivel!
+
+[236|off=0x7694|chars=44]
+Um cheiro muito agradavel\nvem do sabao aqui...
+
+[237|off=0x76f4|chars=55]
+Voce tenta lavar o rosto.\nSente-se um pouco mais refrescado.
+
+[238|off=0x776a|chars=42]
+Ha muitas coisas\nnas prateleiras...
+
+[239|off=0x77c6|chars=19]
+Ha vinho aqui.
+
+[240|off=0x77f4|chars=23]
+Voce olha o banheiro.
+
+[241|off=0x782a|chars=32]
+Parece ter sido dada descarga...
+
+[242|off=0x7872|chars=21]
+Esta brilhando limpo!
+
+[243|off=0x78a4|chars=28]
+Voce aperta o botao "Flush".
+
+[244|off=0x78e4|chars=30]
+Ha um bilhete no banheiro.
+
+[245|off=0x7928|chars=20]
+"Mantenha limpo!"
+
+[246|off=0x7958|chars=70]
+Parece ter um assento\nque sobe e desce automaticamente.
+
+[247|off=0x79ec|chars=68]
+Ha um adesivo da Banks\nCorporation na lateral\ndo assento do banheiro.
+
+[248|off=0x7a7c|chars=53]
+O aroma de oleo flutuando\nao redor do banheiro...
+
+[249|off=0x7aee|chars=29]
+Esta e uma banheira automatica.
+
+[250|off=0x7b30|chars=62]
+Abriu a gaveta.\nHa muitas coisas diferentes\nla dentro.
+
+[251|off=0x7bb4|chars=64]
+Este e um guarda-roupa.\nNao ha nada particularmente\nincomum dentro.
+
+[252|off=0x7c3c|chars=38]
+Ha muitos livros\nna estante.
+
+[253|off=0x7c90|chars=45]
+Mas nao ha razao para\nvoce los ler...
+
+[254|off=0x7cf2|chars=26]
+Voce abre a geladeira.
+
+[255|off=0x7d2e|chars=65]
+Mas fecha rapidamente\npara nao estragar a comida.
+
+[256|off=0x7db8|chars=75]
+"Serpente do Arco-iris"\n  Leva pela floresta\nou pela tentacao?
+
+[257|off=0x7e56|chars=86]
+"Arvores Sussurrantes"\n  Vozes distantes. Proximas.\nEcos do ceu. O som do lago.
+
+[258|off=0x7f0a|chars=63]
+"Lua do Deserto"\n  As estrelas viram areia\ne voltam a terra.
+
+[259|off=0x7f90|chars=50]
+"Valsa"\n  Visitantes do mar. Gira gira\ngira...
+
+[260|off=0x7ffc|chars=71]
+"Constelacao do Sul"\n  Veja, o Centauro.\nEscultura e pintura.
+
+[261|off=0x8092|chars=39]
+"Aqui e Ali"\n  Onde eu estou?
+
+[262|off=0x80e8|chars=39]
+"Em Frente: Caverna Sul\nde Heartflame"
+
+[263|off=0x813e|chars=30]
+"Em Frente: Ruinas de Pascoa"
+
+[264|off=0x8182|chars=45]
+"Em Frente: Margem Sudeste\ndo Lago Leste"
+
+[265|off=0x81e4|chars=23]
+"Leste: Floresta Cogumelo"
+
+[266|off=0x821a|chars=45]
+"Em Frente: Margem Sudoeste\ndo Lago Leste"
+
+[267|off=0x827c|chars=37]
+"Perigo! Arvores Caidas.\nNao Entre."
+
+[268|off=0x82ce|chars=25]
+"Leste: Deserto Heartflame"
+
+[269|off=0x8308|chars=18]
+"Dunas Heartflame"
+
+[270|off=0x8334|chars=26]
+"Norte: Planicie Heartflame"
+
+[271|off=0x8370|chars=19]
+"Planicie Heartflame"
+
+[272|off=0x839e|chars=32]
+"Margem Sudeste do Lago Sereia"
+
+[273|off=0x83e6|chars=14]
+"Lago Sereia"
+
+[274|off=0x840a|chars=24]
+"Sul: Floresta Cogumelo"
+
+[275|off=0x8442|chars=32]
+"Margem Sudoeste do Lago Sereia"
+
+[276|off=0x848a|chars=11]
+"Lago Leste"
+
+[277|off=0x84a8|chars=54]
+Encontrei uma grade de TV\nentre revistas encharcadas.
+
+[278|off=0x851c|chars=73]
+Seg. Qua. Sex.\n"Cade Minha Mamae? A Jornada do Gatinho,"\n"Final Z Rangers,"
+
+[279|off=0x85b6|chars=70]
+Ter. Qui. "Floresta Melancolica,"\nSab&Dom. "Miss Cute, Bruxa em Treinamento,"
+
+[280|off=0x864c|chars=28]
+Como jogar com Trilhos,
+
+[281|off=0x8686|chars=7]
+ ~Trilho
+
+[282|off=0x869c|chars=57]
+Primeiro, coloque trilhos e\nprepare as condicoes do Pod.
+
+[283|off=0x8716|chars=113]
+Pode fazer o trem rodar em circulo,\nou entre dois pontos.\nOnde ha trilho, ha caminho.
+
+[284|off=0x8804|chars=28]
+Como jogar com Trilhos,
+
+[285|off=0x883e|chars=8]
+ ~Motores
+
+[286|off=0x8856|chars=102]
+Motores funcionam como locomotivas.\nSe colocar nos trilhos,\npode mover vagoes juntos.
+
+[287|off=0x892a|chars=96]
+Pode controlar o motor pelo\nMenu de Comandos ou diretamente\nno monitor com o botao <06>P.
+
+[288|off=0x89ec|chars=8]
+ botao.
+
+[289|off=0x8a04|chars=38]
+"Como jogar com Trilhos," ~ Vagoes
+
+[290|off=0x8a58|chars=118]
+Vagoes servem como Carga e Passageiros.\nUsando Motores, pode faze-los\ncorrer com Carga ou Pessoas.
+
+[291|off=0x8b4c|chars=62]
+Pode ser motorista\nse operar Motores\nenquanto estiver num Vagao.
+
+[292|off=0x8bd0|chars=40]
+"Como jogar com Trilhos," ~Envio
+
+[293|off=0x8c28|chars=95]
+Se comprar Unidades Auto,\nserao colocadas automaticamente\nentre dois Bins na Fazenda.
+
+[294|off=0x8cee|chars=120]
+Coloque Trilhos pelo Quadrado na\nfrente da Unidade Auto. Itens\nno Vagao serao enviados. Conveniente.
+
+[295|off=0x8de8|chars=22]
+Fisiocracia e Magia,
+
+[296|off=0x8e16|chars=21]
+\n~ou "Livro do Espirito"
+
+[297|off=0x8e48|chars=69]
+Se despejar Agua Sagrada\ncom um Regador Mistico,\npode derreter a neve.
+
+[298|off=0x8eda|chars=75]
+So pode usar um Regador Mistico\nse trabalhou duro na Fazenda...
+
+[299|off=0x8f78|chars=59]
+E um livro de Contos de Fadas\npara educacao infantil.
+
+[300|off=0x8ff6|chars=91]
+Parei numa pagina com\nilustração de um boneco de madeira\nsendo engolido por uma baleia enorme.
+
+[301|off=0x90b4|chars=28]
+Meu coracao aperta...\nPor que?
+
+[302|off=0x90f4|chars=44]
+E um Livro de Haiku\nescrito pela Diretora Rose.
+
+[303|off=0x9154|chars=68]
+Ha mais Haikus sobre amor\ndo que sobre paisagem ou cotidiano.
+
+[304|off=0x91e4|chars=69]
+E como ler o diario de outra\npessoa. Sinto-me um pouco culpado.
+
+[305|off=0x9278|chars=30]
+Conto do Cavaleiro Arco e Amor,
+
+[306|off=0x92b6|chars=7]
+ Vol. 1
+
+[307|off=0x92cc|chars=63]
+Cavaleiro: P-p-pega este arco!\nPrincesa: ... sou eu que voce quer?
+
+[308|off=0x9352|chars=108]
+Nao havia mais hesitacao.\nEle tomou coragem e deu um presente.\nO por do sol enrubesceu as bochechas.
+
+[309|off=0x9434|chars=30]
+Conto do Cavaleiro Arco e Amor,
+
+[310|off=0x9472|chars=7]
+ Vol. 2
+
+[311|off=0x9488|chars=73]
+Princesa: Tambem tenho algo pra\nte dar, Cavaleiro: I-isso e...um broche!?
+
+[312|off=0x9522|chars=106]
+Apaixonaram-se um pelo outro.\nEstavam quase 100 pixels mais pertos\nquando a escuridao os cobriu.
+
+[313|off=0x95fe|chars=6]
+Sim\nNao
+
+[314|off=0x9612|chars=6]
+Sim\nNao
+
+[315|off=0x9626|chars=6]
+Sim\nNao
+
+[316|off=0x963a|chars=6]
+Sim\nNao
+
+[317|off=0x964e|chars=6]
+Sim\nNao

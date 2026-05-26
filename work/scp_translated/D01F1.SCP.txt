@@ -1,0 +1,239 @@
+# D01F1.SCP - 78 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x35a|chars=76]
+Esta e sua cama...\nMas voce nao pode dormir agora.\nFranco esta esperando.
+
+[1|off=0x3fe|chars=85]
+Million: Ah, quase esqueci.\nPasse na minha loja na\nproxima vez que vier a cidade.
+
+[2|off=0x4b4|chars=114]
+Million: Recebi uma remessa rara\nde Martelos de Ferro. Hoje em\ndia, so voce os usa por aqui.
+
+[3|off=0x5a4|chars=38]
+Million: Hm? Para que servem?
+
+[4|off=0x5fc|chars=52]
+Million: Bom, pode quebrar\nrochas nos seus campos...
+
+[5|off=0x670|chars=121]
+Million: E se achar pedras\nem alguma caverna, tente\nquebra-las.\nNunca sabe o que vai\nencontrar.
+
+[6|off=0x76e|chars=88]
+Million: Se precisar, pode\ncomprar na minha loja.\nOk, vamos la!
+
+[7|off=0x82a|chars=56]
+Franco: Entao voce comecou\na criar animais, hein?
+
+[8|off=0x8a6|chars=109]
+Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem\nsao invencoes do Dr. Hope?
+
+[9|off=0x98c|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatico, mas na epoca usar\nrobos era ideia revolucionaria.
+
+[10|off=0xa78|chars=61]
+Franco: Ouvi que ainda os usam\nbastante no exterior.
+
+[11|off=0xafe|chars=74]
+Moonlight: O balido dos animais\nse ouve novamente\nnestas ruinas!
+
+[12|off=0xb9e|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar esta terra\ne a natureza!
+
+[13|off=0xc5e|chars=72]
+Franco: Uau!\nQue sortudo!\nGanhar um buggy desses de presente!
+
+[14|off=0xcfa|chars=89]
+Franco: Se eu tivesse um buggy,\nlevava a Rose num passeio\nque ela nunca esqueceria!
+
+[15|off=0xdb8|chars=11]
+Moonlight: 
+
+[16|off=0xdd0|chars=52]
+P! Que presente bonito\ndo Dr. Hope que voce ganhou.
+
+[17|off=0xe44|chars=63]
+Moonlight: Com um buggy assim\nvoce vai a qualquer lugar!
+
+[18|off=0xece|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.
+
+[19|off=0xf52|chars=73]
+Franco: Quando jovem, todos iam\ncurtir naquela caverna\ncom as namoradas.
+
+[20|off=0xff0|chars=11]
+Moonlight: 
+
+[21|off=0x1008|chars=57]
+P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
+
+[22|off=0x1086|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar\nao estado original.
+
+[23|off=0x112c|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.
+
+[24|off=0x119a|chars=120]
+Franco: Se mandar bastante ate\na vespera do Natal, podem usar\npra decorar a cidade.
+
+[25|off=0x1296|chars=21]
+Franco: Nao aguento!
+
+[26|off=0x12cc|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[27|off=0x132a|chars=96]
+Franco: Sei que esta preocupado,\nmas tem trabalho importante\na terminar.
+
+[28|off=0x13f6|chars=89]
+Franco: O melhor pro Dr. Hope\nagora e ver o quanto\nvoce esta se dedicando.
+
+[29|off=0x14b4|chars=52]
+Moonlight: Nao sabia que o\nDr. Hope estava doente...
+
+[30|off=0x1528|chars=86]
+Moonlight: Suponho que por isso\nele corria para terminar\no trabalho com voce...
+
+[31|off=0x15e0|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[32|off=0x1636|chars=12]
+P. Eu sinto.
+
+[33|off=0x165a|chars=31]
+Franco: Era um bom amigo...
+
+[34|off=0x16a4|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[35|off=0x1710|chars=74]
+Moonlight: Disse que ha muito\nmais neste mundo do que\nos olhos veem!
+
+[36|off=0x17b0|chars=91]
+Moonlight: O que quero dizer...\nCerteza que o Dr. Hope sempre\nestara velando por voce, 
+
+[37|off=0x1878|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?
+
+[38|off=0x1900|chars=97]
+Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+
+[39|off=0x19ce|chars=61]
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
+
+[40|off=0x1a54|chars=43]
+Franco: Um alien mora\nno novo quarto?
+
+[41|off=0x1ab6|chars=97]
+Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+
+[42|off=0x1b84|chars=61]
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
+
+[43|off=0x1c0a|chars=11]
+Moonlight: 
+
+[44|off=0x1c22|chars=76]
+P!\nVi algo estranho parecendo\num bicho de pelucia no novo quarto.
+
+[45|off=0x1cc6|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!
+
+[46|off=0x1d38|chars=8]
+*: Miau.
+
+[47|off=0x1d50|chars=28]
+Devo ter sonhado...
+
+[48|off=0x1d92|chars=58]
+P tentou dormir,\nmas ficou pensando que\nesqueceu algo
+
+[49|off=0x1e10|chars=32]
+Sem perceber,\namanheceu...
+
+[50|off=0x1e5c|chars=15]
+*: Gaga miau.
+
+[51|off=0x1e84|chars=43]
+R esta esperando!\nFale com ele.
+
+[52|off=0x1ee2|chars=60]
+Ouviu uma voz parecida\ncom a de Max por perto...
+
+[53|off=0x1f62|chars=66]
+Suas atividades do dia anterior\naumentaram seu Nivel\nHumano!
+
+[54|off=0x1fee|chars=59]
+Quer ir para a cama e\ndormir o resto do dia?
+
+[55|off=0x206c|chars=58]
+Quer acordar mais cedo\nque o normal amanha?
+
+[56|off=0x20e8|chars=58]
+Quer acordar mais cedo\nque o normal amanha?
+
+[57|off=0x2164|chars=20]
+Porta trancada!
+
+[58|off=0x2194|chars=20]
+Porta trancada!
+
+[59|off=0x21c4|chars=38]
+Voce nao tem a chave desta porta...
+
+[60|off=0x2218|chars=38]
+Voce nao tem a chave desta porta...
+
+[61|off=0x226c|chars=36]
+Quer dormir aqui hoje?
+
+[62|off=0x22bc|chars=76]
+Quer usar a funcao warp da\nbarraca para voltar\nao seu quarto?
+
+[63|off=0x235c|chars=44]
+Nao ha lugar para\narmar sua barraca!
+
+[64|off=0x23bc|chars=6]
+Ok\nNao
+
+[65|off=0x23d0|chars=6]
+Ok\nNao
+
+[66|off=0x23e4|chars=6]
+Ok\nNao
+
+[67|off=0x23f8|chars=6]
+Ok\nNao
+
+[68|off=0x240c|chars=13]
+Voce usou o 
+
+[69|off=0x2434|chars=57]
+Salvar e dormir.\nDormir sem salvar.\nAnular.
+
+[70|off=0x24ae|chars=21]
+Challenge increased!\n
+
+[71|off=0x24ee|chars=21]
+Challenge increased!\n
+
+[72|off=0x252e|chars=16]
+Love increased!\n
+
+[73|off=0x2564|chars=24]
+Intelligence increased!\n
+
+[74|off=0x25aa|chars=19]
+Cooking increased!\n
+
+[75|off=0x25e6|chars=22]
+Creativity increased!\n
+
+[76|off=0x2628|chars=17]
+Humor increased!\n
+
+[77|off=0x2660|chars=58]
+Voce nao foi ao Dr. Hope\npara manutencao hoje!

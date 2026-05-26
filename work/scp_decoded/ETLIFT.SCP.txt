@@ -1,0 +1,332 @@
+# ETLIFT.SCP - 109 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x44e|chars=77]
+Franco: The doors through here are\nsealed off, just like some of\nyour fields.
+
+[1|off=0x4f4|chars=100]
+Franco: I've lived in these ruins for\nsome 40 years, and those doors have\nbeen closed all that time.
+
+[2|off=0x5c8|chars=38]
+Franco: I wonder if they'll ever\nopen.
+
+[3|off=0x620|chars=67]
+Franco: I heard that there's a cave on\nthe other side of that door.
+
+[4|off=0x6b2|chars=81]
+Franco: It drives me crazy, living right\nnext door and not knowing what's\ninside.
+
+[5|off=0x760|chars=91]
+Franco: But I guess there's no way\nthey'll open until the seals on the\nfields are broken...
+
+[6|off=0x822|chars=57]
+Nana: Aw, aren't you just adorable!\nI'm Nana, Max's wife.
+
+[7|off=0x8a0|chars=80]
+Nana: My husband kept saying that he\nwanted to go jogging here, so I\ncame along.
+
+[8|off=0x94c|chars=82]
+Nana: This is an amazing place.\nI can't believe that you have\na farm on your roof!
+
+[9|off=0x9fc|chars=93]
+Nana: A farm in an ancient ruin and\na handsome young man... It's\nenough to make a girl blush!
+
+[10|off=0xac2|chars=68]
+Franco: There are a number of sealed\ndoors here in the Easter Ruins.
+
+[11|off=0xb56|chars=94]
+Franco: As you break the seals on your\nfields, I imagine that these seals will\nalso be broken.
+
+[12|off=0xc1e|chars=65]
+Franco: I'm dying to see what's on the\nother side of these doors.
+
+[13|off=0xcac|chars=68]
+Franco: There are a number of sealed\ndoors here in the Easter Ruins.
+
+[14|off=0xd40|chars=94]
+Franco: As you break the seals on your\nfields, I imagine that these seals will\nalso be broken.
+
+[15|off=0xe08|chars=65]
+Franco: I'm dying to see what's on the\nother side of these doors.
+
+[16|off=0xe96|chars=68]
+Franco: There are a number of sealed\ndoors here in the Easter Ruins.
+
+[17|off=0xf2a|chars=94]
+Franco: As you break the seals on your\nfields, I imagine that these seals will\nalso be broken.
+
+[18|off=0xff2|chars=65]
+Franco: I'm dying to see what's on the\nother side of these doors.
+
+[19|off=0x1080|chars=74]
+Franco: I heard that you were asked\nto grow crops for the Spring\nFestival.
+
+[20|off=0x1120|chars=106]
+Franco: That's a big responsibility!\nAnd it's the perfect chance to show\neveryone how good your crops are.
+
+[21|off=0x1200|chars=95]
+Franco: I saw that robot of yours!\nIt's pretty "cool!" Is that what\nyoung folks say these days?
+
+[22|off=0x12ca|chars=90]
+Franco: And he can talk quite well, too!\nMaybe he and I can go out for a\ndrink sometime...
+
+[23|off=0x138a|chars=87]
+Franco: Just kidding.\nDr. Hope would kill me if I did anything\nthat damaged that robot.
+
+[24|off=0x1444|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[25|off=0x14c0|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[26|off=0x15a6|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[27|off=0x1692|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[28|off=0x1718|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[29|off=0x17b8|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[30|off=0x1878|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[31|off=0x1914|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[32|off=0x19d2|chars=11]
+Moonlight: 
+
+[33|off=0x19ea|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[34|off=0x1a5e|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[35|off=0x1ae8|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[36|off=0x1b6c|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[37|off=0x1c0a|chars=11]
+Moonlight: 
+
+[38|off=0x1c22|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[39|off=0x1ca0|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[40|off=0x1d46|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[41|off=0x1db4|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[42|off=0x1eb0|chars=21]
+Franco: I can't wait!
+
+[43|off=0x1ee6|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[44|off=0x1f44|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[45|off=0x2010|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[46|off=0x20ce|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[47|off=0x2142|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[48|off=0x21fa|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[49|off=0x2250|chars=12]
+P. I am too.
+
+[50|off=0x2274|chars=31]
+Franco: He was a good friend...
+
+[51|off=0x22be|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[52|off=0x232a|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[53|off=0x23ca|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[54|off=0x2492|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[55|off=0x251a|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[56|off=0x25e8|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[57|off=0x266e|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[58|off=0x26d0|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[59|off=0x279e|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[60|off=0x2824|chars=11]
+Moonlight: 
+
+[61|off=0x283c|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[62|off=0x28e0|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[63|off=0x2950|chars=13]
+N: Meooww....
+
+[64|off=0x2974|chars=10]
+N: Meow...
+
+[65|off=0x2992|chars=10]
+N: Purr...
+
+[66|off=0x29b0|chars=13]
+N: Meooww....
+
+[67|off=0x29d6|chars=55]
+Franco: There's a vending machine\nbehind the Blue Door!
+
+[68|off=0x2a50|chars=55]
+Franco: There's a vending machine\nbehind the Blue Door!
+
+[69|off=0x2aca|chars=55]
+Franco: There's a vending machine\nbehind the Blue Door!
+
+[70|off=0x2b44|chars=83]
+Franco: Shop Million 2 has slightly different\nitems from what Volcano Brunch has...
+
+[71|off=0x2bf6|chars=83]
+Franco: Shop Million 2 has slightly different\nitems from what Volcano Brunch has...
+
+[72|off=0x2ca8|chars=83]
+Franco: Shop Million 2 has slightly different\nitems from what Volcano Brunch has...
+
+[73|off=0x2d5a|chars=39]
+Franco: Make sure you check thoroughly.
+
+[74|off=0x2db4|chars=39]
+Franco: Make sure you check thoroughly.
+
+[75|off=0x2e0e|chars=39]
+Franco: Make sure you check thoroughly.
+
+[76|off=0x2e68|chars=69]
+Franco: It seems that\nsecret pasts are hidden\nbehind this Red Door...
+
+[77|off=0x2efe|chars=69]
+Franco: It seems that\nsecret pasts are hidden\nbehind this Red Door...
+
+[78|off=0x2f94|chars=69]
+Franco: It seems that\nsecret pasts are hidden\nbehind this Red Door...
+
+[79|off=0x302a|chars=48]
+Franco: I don't have the courage to go\ninside...
+
+[80|off=0x3096|chars=48]
+Franco: I don't have the courage to go\ninside...
+
+[81|off=0x3102|chars=48]
+Franco: I don't have the courage to go\ninside...
+
+[82|off=0x316a|chars=33]
+There's no point in bringing the\n
+
+[83|off=0x31ae|chars=46]
+I away from the\nEaster Ruins. Forget about it.
+
+[84|off=0x3216|chars=20]
+Franco: Gaga gagaga.
+
+[85|off=0x324a|chars=20]
+Franco: Gaga gagaga.
+
+[86|off=0x327e|chars=20]
+Franco: Gaga gagaga.
+
+[87|off=0x32ae|chars=74]
+Go up to your farm.\nGo up to your room.\nGo up to the storage area.\nCancel.
+
+[88|off=0x334a|chars=4]
+Life
+
+[89|off=0x335a|chars=5]
+Forte
+
+[90|off=0x336c|chars=7]
+Chocobi
+
+[91|off=0x3382|chars=5]
+Cocoa
+
+[92|off=0x3394|chars=4]
+Yogi
+
+[93|off=0x33a4|chars=5]
+Cow 1
+
+[94|off=0x33b6|chars=5]
+Cow 2
+
+[95|off=0x33c8|chars=5]
+Cow 3
+
+[96|off=0x33da|chars=5]
+Cow 4
+
+[97|off=0x33ec|chars=5]
+Cow 5
+
+[98|off=0x33fe|chars=7]
+Sheep 1
+
+[99|off=0x3414|chars=7]
+Sheep 2
+
+[100|off=0x342a|chars=7]
+Sheep 3
+
+[101|off=0x3440|chars=7]
+Sheep 4
+
+[102|off=0x3456|chars=7]
+Sheep 5
+
+[103|off=0x346c|chars=9]
+Chicken 1
+
+[104|off=0x3486|chars=9]
+Chicken 2
+
+[105|off=0x34a0|chars=9]
+Chicken 3
+
+[106|off=0x34ba|chars=9]
+Chicken 4
+
+[107|off=0x34d4|chars=9]
+Chicken 5
+
+[108|off=0x34ee|chars=4]
+Yogi

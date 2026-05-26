@@ -1,0 +1,491 @@
+# VTCHF3.SCP - 162 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x5ce|chars=22]
+*: Dad! I'm coming in!
+
+[1|off=0x606|chars=86]
+Mayor: Don't be so noisy, Charles.\nAnd didn't I tell you not to\ncall me "Dad" at work?
+
+[2|off=0x6be|chars=77]
+Charles: But listen! Dr. Hope\nhas registered you-know-who\nas a town resident!
+
+[3|off=0x764|chars=49]
+Mayor: What's that?\nWell then, let's take a look.
+
+[4|off=0x7d2|chars=98]
+Mayor: Hmm... I guess he really wants\nto go through with this...\nI'll never understand scientists.
+
+[5|off=0x8a2|chars=92]
+Mayor: All right, Charles. Send the\ndoctor an email saying that we\nreceived his application.
+
+[6|off=0x966|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[7|off=0x9e2|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[8|off=0xac8|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[9|off=0xbb4|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[10|off=0xc3a|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[11|off=0xcda|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[12|off=0xd9a|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[13|off=0xe36|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[14|off=0xef4|chars=11]
+Moonlight: 
+
+[15|off=0xf0c|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[16|off=0xf80|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[17|off=0x100a|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[18|off=0x108e|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[19|off=0x112c|chars=11]
+Moonlight: 
+
+[20|off=0x1144|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[21|off=0x11c2|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[22|off=0x1268|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[23|off=0x12d6|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[24|off=0x13d2|chars=21]
+Franco: I can't wait!
+
+[25|off=0x1408|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[26|off=0x1466|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[27|off=0x1532|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[28|off=0x15f0|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[29|off=0x1664|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[30|off=0x171c|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[31|off=0x1772|chars=12]
+P. I am too.
+
+[32|off=0x1796|chars=31]
+Franco: He was a good friend...
+
+[33|off=0x17e0|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[34|off=0x184c|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[35|off=0x18ec|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[36|off=0x19b4|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[37|off=0x1a3c|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[38|off=0x1b0a|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[39|off=0x1b90|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[40|off=0x1bf2|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[41|off=0x1cc0|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[42|off=0x1d46|chars=11]
+Moonlight: 
+
+[43|off=0x1d5e|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[44|off=0x1e02|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[45|off=0x1e74|chars=61]
+Mayor: Hmm...\nSo that one went up instead of\nthis one, eh...?
+
+[46|off=0x1efa|chars=97]
+Mayor: Agh! Don't scare me like that!\nYou can't just walk into the mayor's\noffice like that, kid.
+
+[47|off=0x1fc8|chars=53]
+Mayor: You need an appointment to see\nme, understand?
+
+[48|off=0x203e|chars=73]
+Mayor: I'm sorry, but I'm in the middle\nof a very important conversation.
+
+[49|off=0x20dc|chars=100]
+Marco: Anyway, Mayor, according to\nNeo's predictions, the island will be in\ndanger in a year or two!
+
+[50|off=0x21b0|chars=102]
+Marco: If you could just spare part of\nthe town budget to pay for my company's\nsupercooling project...
+
+[51|off=0x2288|chars=100]
+Marco: Anyway, Mayor, according to\nNeo's predictions, the island will be in\ndanger in a year or two!
+
+[52|off=0x235c|chars=75]
+Marco: There won't be any more\naccidents like before. I promise\nyou that...
+
+[53|off=0x23fe|chars=100]
+Marco: Anyway, Mayor, according to\nNeo's predictions, the island will be in\ndanger in a year or two!
+
+[54|off=0x24d2|chars=99]
+Marco: But if we just use these Gaga\nReflective Glasses that my company\ndeveloped, I'm sure that...
+
+[55|off=0x25a4|chars=112]
+Charles: Do you watch the weather report\non TV? That Neo is almost always right.\nYou should really check it out.
+
+[56|off=0x2690|chars=112]
+Charles: Neo's predictions sure are\naccurate. If you hadn't prevented it,\nI'm sure the volcano would've erupted.
+
+[57|off=0x277c|chars=94]
+Mayor: Hmph. I don't care if you are a\nkid, I don't want you spying around\nmy wife's bathroom.
+
+[58|off=0x2844|chars=99]
+Marco: That's why, Mayor! According to\nNeo's readings, this island will definitely\nbecome peaceful.
+
+[59|off=0x2916|chars=72]
+Marco: Now is the time to proceed with\nthe plan that I told you about...
+
+[60|off=0x29b2|chars=97]
+Charles: W-what? This chair suits me\njust fine, thank you. And I'll be\nsitting in it soon enough.
+
+[61|off=0x2a80|chars=75]
+Neo: I just had a flash! I saw the\nfuture. Charles will never become\nmayor.
+
+[62|off=0x2b22|chars=92]
+Neo: But you can't tell him that.\nThat's the problem with predictions\nthat really come true.
+
+[63|off=0x2be6|chars=13]
+Mayor: Ga-ga.
+
+[64|off=0x2c0c|chars=13]
+Mayor: Ga-ga.
+
+[65|off=0x2c32|chars=16]
+Marco: Gaga! Ga!
+
+[66|off=0x2c5e|chars=18]
+Charles: Ga! Gaga!
+
+[67|off=0x2c8e|chars=18]
+Charles: Ga! Gaga!
+
+[68|off=0x2cbe|chars=13]
+Mayor: Ga-ga.
+
+[69|off=0x2ce4|chars=14]
+Neo: Ga-ga ga!
+
+[70|off=0x2d08|chars=21]
+Neo shows you a note.
+
+[71|off=0x2d3a|chars=113]
+"Don't worry! I'd predicted that this\nwould happen! I recorded the weather\nforecast for the next thousand years!"
+
+[72|off=0x2e24|chars=44]
+This is a very expensive looking\nwardrobe...
+
+[73|off=0x2e84|chars=31]
+There are dishes lined up here.
+
+[74|off=0x2eca|chars=27]
+You try washing your hands.
+
+[75|off=0x2f08|chars=30]
+This sink is very easy to use.
+
+[76|off=0x2f4c|chars=25]
+Your hands are now clean.
+
+[77|off=0x2f86|chars=24]
+But there was no soap...
+
+[78|off=0x2fbe|chars=40]
+The water pressure seems a little\nlow...
+
+[79|off=0x3016|chars=48]
+You were surprised at how dirty\nyour hands were.
+
+[80|off=0x307e|chars=43]
+There's water splashed all around\nthe sink!
+
+[81|off=0x30dc|chars=24]
+You wipe the area clean.
+
+[82|off=0x3114|chars=26]
+Lukewarm water came out...
+
+[83|off=0x3150|chars=49]
+The drain doesn't seem to be\nworking very well...
+
+[84|off=0x31ba|chars=41]
+Hot water came out with\nincredible force!
+
+[85|off=0x3214|chars=44]
+A very nice smell surrounds the\nsoap here...
+
+[86|off=0x3274|chars=55]
+You try washing your face.\nYou feel somewhat refreshed.
+
+[87|off=0x32ea|chars=42]
+There are lots of things on the\nshelves...
+
+[88|off=0x3346|chars=19]
+There is wine here.
+
+[89|off=0x3374|chars=23]
+You look at the toilet.
+
+[90|off=0x33aa|chars=32]
+It seems to have been flushed...
+
+[91|off=0x33f2|chars=21]
+It's sparkling clean!
+
+[92|off=0x3424|chars=28]
+You push the "Flush" button.
+
+[93|off=0x3464|chars=30]
+There is a note on the toilet.
+
+[94|off=0x34a8|chars=20]
+"Please keep clean!"
+
+[95|off=0x34d8|chars=70]
+It appears to have a toilet seat\nthat raises and lowers automatically.
+
+[96|off=0x356c|chars=68]
+There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+
+[97|off=0x35fc|chars=53]
+The scent of aromatic oil floats\naround the toilet...
+
+[98|off=0x366e|chars=29]
+This is an automatic bathtub.
+
+[99|off=0x36b0|chars=62]
+You opened the drawer.\nThere are many different things\ninside.
+
+[100|off=0x3734|chars=64]
+This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+
+[101|off=0x37bc|chars=38]
+There are many books in the\nbookshelf.
+
+[102|off=0x3810|chars=45]
+But there's no reason for you to\nread them...
+
+[103|off=0x3872|chars=26]
+You open the refrigerator.
+
+[104|off=0x38ae|chars=65]
+But you quickly close it again\nto prevent the food from spoiling.
+
+[105|off=0x3938|chars=75]
+"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+
+[106|off=0x39d6|chars=86]
+"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+
+[107|off=0x3a8a|chars=63]
+"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+
+[108|off=0x3b10|chars=50]
+"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+
+[109|off=0x3b7c|chars=71]
+"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+
+[110|off=0x3c12|chars=39]
+"Here and There"\n  Where on earth am I?
+
+[111|off=0x3c68|chars=39]
+"Straight Ahead: South Heartflame\nCave"
+
+[112|off=0x3cbe|chars=30]
+"Straight Ahead: Easter Ruins"
+
+[113|off=0x3d02|chars=45]
+"Straight Ahead: Southeast Bank\nof East Lake"
+
+[114|off=0x3d64|chars=23]
+"East: Mushroom Forest"
+
+[115|off=0x3d9a|chars=45]
+"Straight Ahead: Southwest Bank\nof East Lake"
+
+[116|off=0x3dfc|chars=37]
+"Danger! Fallen Trees.\nDo Not Enter."
+
+[117|off=0x3e4e|chars=25]
+"East: Heartflame Desert"
+
+[118|off=0x3e88|chars=18]
+"Heartflame Dunes"
+
+[119|off=0x3eb4|chars=26]
+"North: Heartflame Plains"
+
+[120|off=0x3ef0|chars=19]
+"Heartflame Plains"
+
+[121|off=0x3f1e|chars=32]
+"Southeast Bank of Mermaid Lake"
+
+[122|off=0x3f66|chars=14]
+"Mermaid Lake"
+
+[123|off=0x3f8a|chars=24]
+"South: Mushroom Forest"
+
+[124|off=0x3fc2|chars=32]
+"Southwest Bank of Mermaid Lake"
+
+[125|off=0x400a|chars=11]
+"East Lake"
+
+[126|off=0x4028|chars=54]
+I found a TV schedule wedged\nbetween sodden magazines.
+
+[127|off=0x409c|chars=73]
+Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+
+[128|off=0x4136|chars=70]
+Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+
+[129|off=0x41cc|chars=28]
+How to play with Cart Rails,
+
+[130|off=0x4206|chars=7]
+ ~Rails
+
+[131|off=0x421c|chars=57]
+First, lay rails and\nprepare conditions to use Pod Rails.
+
+[132|off=0x4296|chars=113]
+You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+
+[133|off=0x4384|chars=28]
+How to play with Cart Rails,
+
+[134|off=0x43be|chars=8]
+ ~Motors
+
+[135|off=0x43d6|chars=102]
+Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+
+[136|off=0x44aa|chars=96]
+You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+
+[137|off=0x456c|chars=8]
+ button.
+
+[138|off=0x4584|chars=38]
+"How to play with Cart Rails," ~ Carts
+
+[139|off=0x45d8|chars=118]
+Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+
+[140|off=0x46cc|chars=62]
+You can be a driver\nif you operate Motors\nwhile riding a Cart.
+
+[141|off=0x4750|chars=40]
+"How to play with Cart Rails," ~Shipping
+
+[142|off=0x47a8|chars=95]
+If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+
+[143|off=0x486e|chars=120]
+Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+
+[144|off=0x4968|chars=22]
+Physiocracy and Magic,
+
+[145|off=0x4996|chars=21]
+\n~or "Book of Spirit"
+
+[146|off=0x49c8|chars=69]
+If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+
+[147|off=0x4a5a|chars=75]
+You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+
+[148|off=0x4af8|chars=59]
+It's a book with Fairy Tales\nfor early childhood education.
+
+[149|off=0x4b76|chars=91]
+I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+
+[150|off=0x4c34|chars=28]
+My heart is twinging...\nWhy?
+
+[151|off=0x4c74|chars=44]
+It's a Haiku Book\nwritten by Principle Rose.
+
+[152|off=0x4cd4|chars=68]
+There are more Haikus about love\nthan about scenery or daily life...
+
+[153|off=0x4d64|chars=69]
+It's like reading someone else's diary.\nI feel a little bit guilty...
+
+[154|off=0x4df8|chars=30]
+Tale of the Love & Bow Knight,
+
+[155|off=0x4e36|chars=7]
+ Vol. 1
+
+[156|off=0x4e4c|chars=63]
+Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+
+[157|off=0x4ed2|chars=108]
+There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+
+[158|off=0x4fb4|chars=30]
+Tale of the Love & Bow Knight,
+
+[159|off=0x4ff2|chars=7]
+ Vol. 2
+
+[160|off=0x5008|chars=73]
+Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+
+[161|off=0x50a2|chars=106]
+They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.

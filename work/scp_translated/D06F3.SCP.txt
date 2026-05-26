@@ -1,0 +1,236 @@
+# D06F3.SCP - 77 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x352|chars=76]
+Esta e a sua cama...\nVoce nao pode dormir\nagora. Franco esta esperando.
+
+[1|off=0x3f6|chars=56]
+Franco: Entao finalmente\ncomecou a criar animais, hein?
+
+[2|off=0x472|chars=109]
+Franco: Sabia que os robos criadores\ncomo o Cluck-o-Matic tambem sao\ninvencoes do Dr. Hope?
+
+[3|off=0x558|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatizado, mas naquela epoca usar\nrobos era uma ideia revolucionaria.
+
+[4|off=0x644|chars=61]
+Franco: Ouvi que eles ainda os\nusam bastante no exterior.
+
+[5|off=0x6ca|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido novamente\nentre essas
+
+[6|off=0x76a|chars=90]
+Moonlight: Tenho certeza que a\nforca vital deles ira revitalizar\nessa terra e a natureza!
+
+[7|off=0x82a|chars=72]
+Franco: Uau!\nVoce tem sorte!\nGanhar um buggy assim de presente!
+
+[8|off=0x8c6|chars=89]
+Franco: Se eu tivesse um buggy\ndesses, levaria a Rose num passeio\nque ela nunca
+
+[9|off=0x984|chars=11]
+Moonlight:
+
+[10|off=0x99c|chars=52]
+P! Vi que voce ganhou\num presente do Dr. Hope.
+
+[11|off=0xa10|chars=63]
+Moonlight: Num buggy desse voce\npode ir a praticamente\nqualquer
+
+[12|off=0xa9a|chars=60]
+Franco: Nao acredito que o Marco\ncometeu um erro tao grande.
+
+[13|off=0xb1e|chars=73]
+Franco: Quando era jovem, todos\nlevavam seus namorados\naquella caverna.
+
+[14|off=0xbbc|chars=11]
+Moonlight:
+
+[15|off=0xbd4|chars=57]
+P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
+
+[16|off=0xc52|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
+
+[17|off=0xcf8|chars=49]
+Franco: Ouvi que voce plantou\nalgunas
+
+[18|off=0xd66|chars=120]
+Franco: Se voce conseguir enviar\nbastante ate a vespera do\nNatal, podem usar para\ndecorar a cidade!
+
+[19|off=0xe62|chars=21]
+Franco: Mal posso
+
+[20|off=0xe98|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[21|off=0xef6|chars=96]
+Franco: Sei que voce deve estar\npreocupado com ele, mas voce tem\num trabalho importante a fazer.
+
+[22|off=0xfc2|chars=89]
+Franco: Tenho certeza que a melhor\ncoisa para o Dr. Hope e ver\nvoce trabalhando duro.
+
+[23|off=0x1080|chars=52]
+Moonlight: Nunca soube que o\nDr. Hope estava tao
+
+[24|off=0x10f4|chars=86]
+Moonlight: Suponho que e por isso\nque ele estava com tanta pressa\nde terminar o
+
+[25|off=0x11ac|chars=42]
+Franco: Sei que voce ta triste\npelo Dr.
+
+[26|off=0x1202|chars=12]
+P. Eu
+
+[27|off=0x1226|chars=31]
+Franco: Ele era um bom amigo...
+
+[28|off=0x1270|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[29|off=0x12dc|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do que\naparenta!
+
+[30|off=0x137c|chars=91]
+Moonlight: O que estou tentando\ndizer e... Tenho certeza que o\nDr. Hope sempre velara por
+
+[31|off=0x1444|chars=62]
+Franco: Quem e aquele homem estranho\nque mora no novo quarto?
+
+[32|off=0x14cc|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
+
+[33|off=0x159a|chars=61]
+Franco: Bom, acho que nao devemos\nnos preocupar tanto com
+
+[34|off=0x1620|chars=43]
+Franco: Um extraterrestre mora\nno novo
+
+[35|off=0x1682|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
+
+[36|off=0x1750|chars=61]
+Franco: Bom, acho que nao devemos\nnos preocupar tanto com
+
+[37|off=0x17d6|chars=11]
+Moonlight:
+
+[38|off=0x17ee|chars=76]
+P!\nVi uma coisa estranha parecendo\num bicho de pelucia no novo quarto.
+
+[39|off=0x1892|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!
+
+[40|off=0x1904|chars=51]
+Ermitao: Ho ho ho.\nEntao chegou ate aqui, chegou?
+
+[41|off=0x1976|chars=85]
+Ermitao: Muito bem. Vou devolver\no Brasao do Espirito da Agua\nque estava guardando
+
+[42|off=0x1a28|chars=45]
+O ermitao lhe deu o\nBrasao do Espirito da
+
+[43|off=0x1a8e|chars=101]
+Ermitao: Como este brasao foi\noriginalmente roubado por humanos,\nso outro humano pode devolvelo.
+
+[44|off=0x1b64|chars=47]
+Ermitao: Agora entao, coloque\no brasao no
+
+[45|off=0x1bce|chars=28]
+Ermitao:
+
+[46|off=0x1c12|chars=89]
+Ermitao: O que foi?\nVoce nao vai me dizer que\nnao e humano, vai?
+
+[47|off=0x1cd0|chars=65]
+Ermitao: Por que teria Nivel Humano\nse nao fosse humano? Hm?
+
+[48|off=0x1d5e|chars=54]
+Ermitao: Apresse-se.\nEsse frio nao e bom\npara minhas
+
+[49|off=0x1dd6|chars=54]
+Ermitao: Apresse-se.\nEsse frio nao e bom\npara minhas
+
+[50|off=0x1e4a|chars=49]
+Voce colocou o Brasao do Espirito\nda Agua no
+
+[51|off=0x1eb4|chars=49]
+Voce colocou o Brasao do Espirito\nda Agua no
+
+[52|off=0x1f1e|chars=28]
+Devia estar sonhando...
+
+[53|off=0x1f60|chars=58]
+P tentou dormir, mas ficou\npensando que havia
+
+[54|off=0x1fde|chars=32]
+Sem perceber, amanheceu...
+
+[55|off=0x2028|chars=43]
+R esta esperando!\nTalvez voce deva falar
+
+[56|off=0x2086|chars=60]
+Voce ouviu uma voz parecida\ncom a do Max em algum lugar\npor
+
+[57|off=0x2106|chars=66]
+As atividades do dia anterior\naumentaram seu\nNivel Humano!
+
+[58|off=0x2192|chars=59]
+Quer ir para a cama e\ndormir pelo resto do dia?
+
+[59|off=0x2210|chars=58]
+Quer acordar mais cedo\ndo que o normal amanha?
+
+[60|off=0x228c|chars=58]
+Quer acordar mais cedo\ndo que o normal amanha?
+
+[61|off=0x2308|chars=36]
+Quer dormir aqui hoje?
+
+[62|off=0x2358|chars=76]
+Entao quer usar a funcao de\nteleporte da barraca para\nvoltar ao seu quarto?
+
+[63|off=0x23f8|chars=44]
+Nao ha lugar para\nmontar sua barraca aqui!
+
+[64|off=0x2458|chars=6]
+Sim\nNa
+
+[65|off=0x246c|chars=6]
+Sim\nNa
+
+[66|off=0x2480|chars=6]
+Sim\nNa
+
+[67|off=0x2494|chars=6]
+Sim\nNa
+
+[68|off=0x24a8|chars=57]
+Salvar e dormir.\nDormir sem salvar.\nAnular.
+
+[69|off=0x2522|chars=21]
+Desafio aumentou!\n
+
+[70|off=0x2562|chars=21]
+Desafio aumentou!\n
+
+[71|off=0x25a2|chars=16]
+Amor aumentou!\n
+
+[72|off=0x25d8|chars=24]
+Inteligencia aumentou!\n
+
+[73|off=0x261e|chars=19]
+Culinaria
+
+[74|off=0x265a|chars=22]
+Criatividade
+
+[75|off=0x269c|chars=17]
+Humor aumentou!\n
+
+[76|off=0x26d4|chars=58]
+Voce nao foi a casa do Dr. Hope\npara a manutencao hoje!

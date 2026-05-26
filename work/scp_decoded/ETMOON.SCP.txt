@@ -1,0 +1,851 @@
+# ETMOON.SCP - 282 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x956|chars=63]
+Moonlight: Zzzz... Zzzz...\nDon't worry! I'll take good care of\n
+
+[1|off=0x9d6|chars=10]
+P! Zzzz...
+
+[2|off=0x9f6|chars=20]
+Moonlight: Zzzz.....
+
+[3|off=0xa2a|chars=22]
+Moonlight: Greetings, 
+
+[4|off=0xa58|chars=35]
+P.\nYour farm is doing well I trust?
+
+[5|off=0xaaa|chars=114]
+Moonlight: Taking a stroll is no\nproblem,\nbut you should\nwait until you've made your first\nharvest before leaving.
+
+[6|off=0xb9a|chars=119]
+Moonlight: When the sun sets and the\nmoon takes her place as guardian\nof the heavens...\nThat's when I truly come\nalive!
+
+[7|off=0xc94|chars=68]
+Moonlight: I wish I could share some of\nthe limitless energy I feel!
+
+[8|off=0xd28|chars=26]
+Moonlight: Art is freedom!
+
+[9|off=0xd68|chars=95]
+Moonlight: The stars are in the heavens\nand the entire earth seems to\nbe slumbering peacefully.
+
+[10|off=0xe32|chars=81]
+Moonlight: The quiet of the night seems\nto calling to me... Telling me to\ncreate!
+
+[11|off=0xee0|chars=11]
+Moonlight: 
+
+[12|off=0xef8|chars=61]
+P, you should\nlisten to what Mother Nature has\nto say to you.
+
+[13|off=0xf7e|chars=61]
+Moonlight: Only if you feel something\ncan you be truly alive!
+
+[14|off=0x1004|chars=26]
+Moonlight: Art is freedom!
+
+[15|off=0x1044|chars=22]
+Moonlight: Oh, hello, 
+
+[16|off=0x1072|chars=74]
+P.\nYou're certainly burning the midnight\noil. How are things on your farm?
+
+[17|off=0x1112|chars=114]
+Moonlight: Taking a stroll is no\nproblem, but you should wait\nuntil you've made your\nfirst harvest before leaving.
+
+[18|off=0x1202|chars=79]
+Moonlight: It's coming to me!\nI can feel it! The goddess of\nbeauty is revealed!
+
+[19|off=0x12ac|chars=75]
+Moonlight: Actually, I'm\nplanning a project to revitalize\nthis farm, but...
+
+[20|off=0x134e|chars=75]
+Moonlight: Farming is just such a pain.\nI was about ready to give up\non it.
+
+[21|off=0x13f0|chars=77]
+Moonlight: So to be honest, I'm really\nglad that you came along when\nyou did!
+
+[22|off=0x1496|chars=97]
+Moonlight: There's something poetic\nabout creating new life in ruins like\nthese, don't you think?
+
+[23|off=0x1564|chars=98]
+Moonlight: I know! We should invite\npeople from all over the world here\nto see this farm of yours!
+
+[24|off=0x1634|chars=119]
+Moonlight: When the sun sets and the\nmoon takes her place as\nguardian of the heavens...\nThat's when I truly come\nalive!
+
+[25|off=0x172e|chars=68]
+Moonlight: I wish I could share some of\nthe limitless energy I feel!
+
+[26|off=0x17c2|chars=23]
+Moonlight: Art is love!
+
+[27|off=0x17fc|chars=75]
+Moonlight: Actually, I'm planning\na project to revitalize this farm,\nbut...
+
+[28|off=0x189e|chars=75]
+Moonlight: Farming is just such a pain.\nI was about ready to give up\non it.
+
+[29|off=0x1940|chars=77]
+Moonlight: So to be honest, I'm really\nglad that you came along when\nyou did!
+
+[30|off=0x19e6|chars=97]
+Moonlight: There's something poetic\nabout creating new life in ruins like\nthese, don't you think?
+
+[31|off=0x1ab4|chars=98]
+Moonlight: I know! We should invite\npeople from all over the world here\nto see this farm of yours!
+
+[32|off=0x1b84|chars=95]
+Moonlight: The stars are in the heavens\nand the entire earth seems to\nbe slumbering peacefully.
+
+[33|off=0x1c4e|chars=81]
+Moonlight: The quiet of the night seems\nto calling to me... Telling me to\ncreate!
+
+[34|off=0x1cfc|chars=11]
+Moonlight: 
+
+[35|off=0x1d14|chars=61]
+P, you should\nlisten to what Mother Nature has\nto say to you.
+
+[36|off=0x1d9a|chars=61]
+Moonlight: Only if you feel something\ncan you be truly alive!
+
+[37|off=0x1e20|chars=23]
+Moonlight: Art is love!
+
+[38|off=0x1e5a|chars=22]
+Moonlight: Oh, hello, 
+
+[39|off=0x1e88|chars=74]
+P.\nYou're certainly burning the midnight\noil. How are things on your farm?
+
+[40|off=0x1f28|chars=114]
+Moonlight: Taking a stroll is no\nproblem,\nbut you should\nwait until you've made your first\nharvest before leaving.
+
+[41|off=0x2018|chars=79]
+Moonlight: It's coming to me!\nI can feel it! The goddess of\nbeauty is revealed!
+
+[42|off=0x20c2|chars=50]
+Moonlight: Are you starting to miss\nDr. Hope yet, 
+
+[43|off=0x2138|chars=64]
+Moonlight: Wonderful! That means that\nyou have feelings for him.
+
+[44|off=0x21c4|chars=57]
+Moonlight: Hmm... I see.\nI'm sure the doctor misses\nyou, 
+
+[45|off=0x2248|chars=44]
+Moonlight: It's coming to me!\nI can feel it!
+
+[46|off=0x22ac|chars=86]
+Moonlight: Yes, I can feel the potato\nchips I ate a bit ago coming back to\nhaunt me...
+
+[47|off=0x2364|chars=49]
+Moonlight: How scary...\nPurple tomatoes...\nUgh...
+
+[48|off=0x23d2|chars=49]
+Moonlight: How scary...\nPurple tomatoes...\nUgh...
+
+[49|off=0x2440|chars=18]
+Moonlight: Hello, 
+
+[50|off=0x2466|chars=62]
+P.\nIt looks like your crops still\naren't ready for harvesting.
+
+[51|off=0x24ee|chars=83]
+Moonlight: Well, potatoes take 5 days\nand turnips take 6.\nDon't be in such a hurry.
+
+[52|off=0x25a0|chars=77]
+Moonlight: Ugh!\nIs that what these colors look like\nwhen you mix them? Hmm...
+
+[53|off=0x2646|chars=71]
+Franco: It's been raining since this\nmorning. It's a little depressing.
+
+[54|off=0x26e0|chars=55]
+Franco: But there's a silver lining\namong these clouds.
+
+[55|off=0x275a|chars=69]
+Franco: You don't have to water your\ncrops by hand when it's raining.
+
+[56|off=0x27f0|chars=96]
+Franco: That Moonlight is amazing...\nHe doesn't wake up, even with the\nsound of all that rain...
+
+[57|off=0x28bc|chars=35]
+Moonlight: Zzzz....\nSnort!\nZzzz....
+
+[58|off=0x290e|chars=71]
+Franco: It's been raining since this\nmorning. It's a little depressing.
+
+[59|off=0x29a8|chars=55]
+Franco: But there's a silver lining\namong these clouds.
+
+[60|off=0x2a22|chars=69]
+Franco: You don't have to water your\ncrops by hand when it's raining.
+
+[61|off=0x2ab8|chars=55]
+Franco: You've been working on the farm\nfor 5 days now.
+
+[62|off=0x2b32|chars=91]
+Franco: The potatoes are nearly ready.\nYou should finally be able to\nharvest them tomorrow.
+
+[63|off=0x2bf4|chars=92]
+Franco: And since it's raining today,\nyou don't even have to water them.\nJust rest and wait.
+
+[64|off=0x2cb8|chars=55]
+Franco: You've been working on the farm\nfor 5 days now.
+
+[65|off=0x2d32|chars=102]
+Franco: The turnips are growing nicely,\nbut it'll take 2 more days before\nthey'll be ready to harvest.
+
+[66|off=0x2e0a|chars=92]
+Franco: And since it's raining today,\nyou don't even have to water\nthem. Just rest and wait.
+
+[67|off=0x2ece|chars=35]
+Moonlight: Zzzz....\nSnort!\nZzzz....
+
+[68|off=0x2f20|chars=80]
+Franco: What is this picture?\nMoonlight still hasn't quite got\nthe hang of it...
+
+[69|off=0x2fcc|chars=55]
+Franco: You've been working on the farm\nfor 5 days now.
+
+[70|off=0x3046|chars=91]
+Franco: The potatoes are nearly ready.\nYou should finally be able to\nharvest them tomorrow.
+
+[71|off=0x3108|chars=92]
+Franco: And since it's raining today,\nyou don't even have to water them.\nJust rest and wait.
+
+[72|off=0x31cc|chars=55]
+Franco: You've been working on the farm\nfor 5 days now.
+
+[73|off=0x3246|chars=102]
+Franco: The turnips are growing nicely,\nbut it'll take 2 more days before\nthey'll be ready to harvest.
+
+[74|off=0x331e|chars=92]
+Franco: And since it's raining today,\nyou don't even have to water\nthem. Just rest and wait.
+
+[75|off=0x33e2|chars=79]
+Moonlight: I thought it was awfully\nnoisy. Franco is walking around\nhis room...
+
+[76|off=0x348c|chars=77]
+Moonlight: Ugh!\nIs that what these colors look like\nwhen you mix them? Hmm...
+
+[77|off=0x3532|chars=26]
+Moonlight: Zzzz... Zzzz...
+
+[78|off=0x3572|chars=80]
+Franco: What is this picture?\nMoonlight still hasn't quite got\nthe hang of it...
+
+[79|off=0x361e|chars=44]
+Franco: This is your 6th day of farm\nwork...
+
+[80|off=0x3682|chars=100]
+Franco: Tomorrow you'll finally be able\nto harvest your turnips. It seems\nlike a long time in a way.
+
+[81|off=0x3756|chars=107]
+Franco: When you harvest your turnips\ntomorrow, be sure to go straight\nto Dr. Hope's and tell him about it.
+
+[82|off=0x3838|chars=46]
+Moonlight: That Franco is causing me\nproblems.
+
+[83|off=0x38a0|chars=72]
+Moonlight: He just barges into my room\nand starts critiquing my artwork!
+
+[84|off=0x393c|chars=38]
+Moonlight: Anyway, it's finally\ntime, 
+
+[85|off=0x399a|chars=95]
+Moonlight: I'll be coming with you to\ntell Dr. Hope about your harvest.\nDon't worry about that.
+
+[86|off=0x3a64|chars=77]
+Moonlight: Ugh!\nIs that what these colors look like\nwhen you mix them? Hmm...
+
+[87|off=0x3b0a|chars=37]
+Moonlight: Anyway, it's finally\ntime 
+
+[88|off=0x3b66|chars=95]
+Moonlight: I'll be coming with you to\ntell Dr. Hope about your harvest.\nDon't worry about that.
+
+[89|off=0x3c30|chars=26]
+Moonlight: Zzzz... Zzzz...
+
+[90|off=0x3c70|chars=60]
+Moonlight: Hmm... Hmm...\nWhat should I do for my next piece?
+
+[91|off=0x3cf4|chars=71]
+Moonlight: Hmm...\nYes, I haven't been to that part of the\nisland yet...
+
+[92|off=0x3d8e|chars=21]
+Moonlight: Oh hello, 
+
+[93|off=0x3dba|chars=25]
+P.\nIsn't it your bedtime?
+
+[94|off=0x3df8|chars=26]
+Moonlight: Zzzz... Zzzz...
+
+[95|off=0x3e38|chars=86]
+Franco: I suppose he'll be going soon to\ncollect materials for his next\nmasterpiece...
+
+[96|off=0x3ef0|chars=84]
+Franco: I suppose Moonlight's wandering\nsomewhere around the island right\nabout now.
+
+[97|off=0x3fa4|chars=11]
+Moonlight: 
+
+[98|off=0x3fbc|chars=58]
+P!\nYou shouldn't spy on people when\nthey're taking a bath!
+
+[99|off=0x403c|chars=80]
+Moonlight: You need to take a bath\nafter camping out all night,\ndon't you think?
+
+[100|off=0x40e8|chars=49]
+Moonlight: Franco has quite a collection\nof pots.
+
+[101|off=0x4156|chars=50]
+Moonlight: But he never lets me touch\nany of them!
+
+[102|off=0x41c6|chars=85]
+Moonlight: That's why I have to sneak in\nhere and do it when he's not around.\nHahaha!
+
+[103|off=0x427c|chars=26]
+Moonlight: Zzzz... Zzzz...
+
+[104|off=0x42bc|chars=80]
+Moonlight: Hmm...\nNo matter what I do, this picture\nalways turns out this way...
+
+[105|off=0x4368|chars=72]
+Moonlight: Come to think of it, I\nhaven't tried to sculpt for a while...
+
+[106|off=0x4404|chars=58]
+Moonlight: Maybe I should try a piece\nbased on your farm, 
+
+[107|off=0x447a|chars=4]
+P...
+
+[108|off=0x448e|chars=26]
+Moonlight: Zzzz... Zzzz...
+
+[109|off=0x44ce|chars=81]
+Moonlight: Yes! I'm in the zone!\nI can feel my artistic powers\ngrowing inside me!
+
+[110|off=0x457c|chars=94]
+Moonlight: For some reason, I always\nseem to get the urge to create when\nold Franco is away...
+
+[111|off=0x4644|chars=72]
+Moonlight: Come to think of it, I\nhaven't tried to sculpt for a while...
+
+[112|off=0x46e0|chars=58]
+Moonlight: Maybe I should try a piece\nbased on your farm, 
+
+[113|off=0x4756|chars=4]
+P...
+
+[114|off=0x476a|chars=75]
+Moonlight: Hmm. This is no good.\nI didn't expect the weather to\nturn bad...
+
+[115|off=0x480c|chars=53]
+Moonlight: You should go back to your\nroom and rest, 
+
+[116|off=0x4888|chars=62]
+Moonlight: If they fix that bridge, I\ncould go farther away...
+
+[117|off=0x4910|chars=62]
+Moonlight: If they fix that bridge, I\ncould go farther away...
+
+[118|off=0x4998|chars=122]
+Moonlight: Hm? The bridge on the river\nto the north? It's been washed out\never since the spring flood.\nNo one will fix it.
+
+[119|off=0x4a98|chars=93]
+Moonlight: But I suppose you and I are\nabout the only ones who would\nwant to use it anyway...
+
+[120|off=0x4b5e|chars=107]
+Moonlight: Still, if you were to ask,\nsomeone might fix it for us. Why don't\nyou try asking around in town?
+
+[121|off=0x4c40|chars=74]
+Franco: I heard that you were asked\nto grow crops for the Spring\nFestival.
+
+[122|off=0x4ce0|chars=106]
+Franco: That's a big responsibility!\nAnd it's the perfect chance to show\neveryone how good your crops are.
+
+[123|off=0x4dc0|chars=131]
+Moonlight: I hear they're really going\nto do the Spring Festival\nright this year.\nIt's been a long time since\nthey celebrated that.
+
+[124|off=0x4ed2|chars=105]
+Moonlight: I can feel their creative\nenergy... It's spurring me on to\ngreater and greater artistic feats!
+
+[125|off=0x4fb0|chars=95]
+Franco: I saw that robot of yours!\nIt's pretty "cool!" Is that what\nyoung folks say these days?
+
+[126|off=0x507a|chars=90]
+Franco: And he can talk quite well, too!\nMaybe he and I can go out for a\ndrink sometime...
+
+[127|off=0x513a|chars=87]
+Franco: Just kidding.\nDr. Hope would kill me if I did anything\nthat damaged that robot.
+
+[128|off=0x51f4|chars=11]
+Moonlight: 
+
+[129|off=0x520c|chars=89]
+P! I see that the\nBattlebot has been repaired. Talk\nabout beating swords into plowshares!
+
+[130|off=0x52ca|chars=80]
+Moonlight: The doctor must really like\nyou to spend all that time\nconverting it!
+
+[131|off=0x5376|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[132|off=0x53f2|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[133|off=0x54d8|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[134|off=0x55c4|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[135|off=0x564a|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[136|off=0x56ea|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[137|off=0x57aa|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[138|off=0x5846|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[139|off=0x5904|chars=11]
+Moonlight: 
+
+[140|off=0x591c|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[141|off=0x5990|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[142|off=0x5a1a|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[143|off=0x5a9e|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[144|off=0x5b3c|chars=11]
+Moonlight: 
+
+[145|off=0x5b54|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[146|off=0x5bd2|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[147|off=0x5c78|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[148|off=0x5ce6|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[149|off=0x5de2|chars=21]
+Franco: I can't wait!
+
+[150|off=0x5e18|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[151|off=0x5e76|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[152|off=0x5f42|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[153|off=0x6000|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[154|off=0x6074|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[155|off=0x612c|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[156|off=0x6182|chars=12]
+P. I am too.
+
+[157|off=0x61a6|chars=31]
+Franco: He was a good friend...
+
+[158|off=0x61f0|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[159|off=0x625c|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[160|off=0x62fc|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[161|off=0x63c4|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[162|off=0x644c|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[163|off=0x651a|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[164|off=0x65a0|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[165|off=0x6602|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[166|off=0x66d0|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[167|off=0x6756|chars=11]
+Moonlight: 
+
+[168|off=0x676e|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[169|off=0x6812|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[170|off=0x6884|chars=81]
+Moonlight: Zzzz.....Hm?\nA water pistol will do?\nDid you say a Spirit's Crest...!?
+
+[171|off=0x6932|chars=66]
+Moonlight: Hm... where am I?\nCocoa...? A mermaid?\nZzzz... Zzzz....
+
+[172|off=0x69c2|chars=17]
+Moonlight: Hm...\n
+
+[173|off=0x69e6|chars=43]
+P, that animal trail is...\nZzzz.... Zzzz...
+
+[174|off=0x6a48|chars=70]
+Moonlight: ...Hm?\nThere's a banana right over here...\nZzzz.... Zzzz...
+
+[175|off=0x6ae0|chars=20]
+Franco: Gaga gagaga.
+
+[176|off=0x6b14|chars=20]
+Franco: Gaga gagaga.
+
+[177|off=0x6b48|chars=40]
+Moonlight: Zzz... Gaga...\nZzz... Gaga...
+
+[178|off=0x6ba4|chars=40]
+Moonlight: Zzz... Gaga...\nZzz... Gaga...
+
+[179|off=0x6c00|chars=40]
+Moonlight: Zzz... Gaga...\nZzz... Gaga...
+
+[180|off=0x6c5c|chars=40]
+Moonlight: Zzz... Gaga...\nZzz... Gaga...
+
+[181|off=0x6cb8|chars=35]
+Moonlight: Gaagaa!\nGaga gagagagaga!
+
+[182|off=0x6d0a|chars=35]
+Moonlight: Gaagaa!\nGaga gagagagaga!
+
+[183|off=0x6d5c|chars=35]
+Moonlight: Gaagaa!\nGaga gagagagaga!
+
+[184|off=0x6dae|chars=35]
+Moonlight: Gaagaa!\nGaga gagagagaga!
+
+[185|off=0x6e00|chars=35]
+Moonlight: Gaagaa!\nGaga gagagagaga!
+
+[186|off=0x6e52|chars=35]
+Moonlight: Gaagaa!\nGaga gagagagaga!
+
+[187|off=0x6ea4|chars=35]
+Moonlight: Gaagaa!\nGaga gagagagaga!
+
+[188|off=0x6ef6|chars=35]
+Moonlight: Gaagaa!\nGaga gagagagaga!
+
+[189|off=0x6f48|chars=35]
+Moonlight: Gaagaa!\nGaga gagagagaga!
+
+[190|off=0x6f9a|chars=35]
+Moonlight: Gaagaa!\nGaga gagagagaga!
+
+[191|off=0x6fe8|chars=44]
+This is a very expensive looking\nwardrobe...
+
+[192|off=0x7048|chars=31]
+There are dishes lined up here.
+
+[193|off=0x708e|chars=27]
+You try washing your hands.
+
+[194|off=0x70cc|chars=30]
+This sink is very easy to use.
+
+[195|off=0x7110|chars=25]
+Your hands are now clean.
+
+[196|off=0x714a|chars=24]
+But there was no soap...
+
+[197|off=0x7182|chars=40]
+The water pressure seems a little\nlow...
+
+[198|off=0x71da|chars=48]
+You were surprised at how dirty\nyour hands were.
+
+[199|off=0x7242|chars=43]
+There's water splashed all around\nthe sink!
+
+[200|off=0x72a0|chars=24]
+You wipe the area clean.
+
+[201|off=0x72d8|chars=26]
+Lukewarm water came out...
+
+[202|off=0x7314|chars=49]
+The drain doesn't seem to be\nworking very well...
+
+[203|off=0x737e|chars=41]
+Hot water came out with\nincredible force!
+
+[204|off=0x73d8|chars=44]
+A very nice smell surrounds the\nsoap here...
+
+[205|off=0x7438|chars=55]
+You try washing your face.\nYou feel somewhat refreshed.
+
+[206|off=0x74ae|chars=42]
+There are lots of things on the\nshelves...
+
+[207|off=0x750a|chars=19]
+There is wine here.
+
+[208|off=0x7538|chars=23]
+You look at the toilet.
+
+[209|off=0x756e|chars=32]
+It seems to have been flushed...
+
+[210|off=0x75b6|chars=21]
+It's sparkling clean!
+
+[211|off=0x75e8|chars=28]
+You push the "Flush" button.
+
+[212|off=0x7628|chars=30]
+There is a note on the toilet.
+
+[213|off=0x766c|chars=20]
+"Please keep clean!"
+
+[214|off=0x769c|chars=70]
+It appears to have a toilet seat\nthat raises and lowers automatically.
+
+[215|off=0x7730|chars=68]
+There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+
+[216|off=0x77c0|chars=53]
+The scent of aromatic oil floats\naround the toilet...
+
+[217|off=0x7832|chars=29]
+This is an automatic bathtub.
+
+[218|off=0x7874|chars=62]
+You opened the drawer.\nThere are many different things\ninside.
+
+[219|off=0x78f8|chars=64]
+This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+
+[220|off=0x7980|chars=38]
+There are many books in the\nbookshelf.
+
+[221|off=0x79d4|chars=45]
+But there's no reason for you to\nread them...
+
+[222|off=0x7a36|chars=26]
+You open the refrigerator.
+
+[223|off=0x7a72|chars=65]
+But you quickly close it again\nto prevent the food from spoiling.
+
+[224|off=0x7afc|chars=75]
+"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+
+[225|off=0x7b9a|chars=86]
+"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+
+[226|off=0x7c4e|chars=63]
+"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+
+[227|off=0x7cd4|chars=50]
+"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+
+[228|off=0x7d40|chars=71]
+"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+
+[229|off=0x7dd6|chars=39]
+"Here and There"\n  Where on earth am I?
+
+[230|off=0x7e2c|chars=39]
+"Straight Ahead: South Heartflame\nCave"
+
+[231|off=0x7e82|chars=30]
+"Straight Ahead: Easter Ruins"
+
+[232|off=0x7ec6|chars=45]
+"Straight Ahead: Southeast Bank\nof East Lake"
+
+[233|off=0x7f28|chars=23]
+"East: Mushroom Forest"
+
+[234|off=0x7f5e|chars=45]
+"Straight Ahead: Southwest Bank\nof East Lake"
+
+[235|off=0x7fc0|chars=37]
+"Danger! Fallen Trees.\nDo Not Enter."
+
+[236|off=0x8012|chars=25]
+"East: Heartflame Desert"
+
+[237|off=0x804c|chars=18]
+"Heartflame Dunes"
+
+[238|off=0x8078|chars=26]
+"North: Heartflame Plains"
+
+[239|off=0x80b4|chars=19]
+"Heartflame Plains"
+
+[240|off=0x80e2|chars=32]
+"Southeast Bank of Mermaid Lake"
+
+[241|off=0x812a|chars=14]
+"Mermaid Lake"
+
+[242|off=0x814e|chars=24]
+"South: Mushroom Forest"
+
+[243|off=0x8186|chars=32]
+"Southwest Bank of Mermaid Lake"
+
+[244|off=0x81ce|chars=11]
+"East Lake"
+
+[245|off=0x81ec|chars=54]
+I found a TV schedule wedged\nbetween sodden magazines.
+
+[246|off=0x8260|chars=73]
+Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+
+[247|off=0x82fa|chars=70]
+Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+
+[248|off=0x8390|chars=28]
+How to play with Cart Rails,
+
+[249|off=0x83ca|chars=7]
+ ~Rails
+
+[250|off=0x83e0|chars=57]
+First, lay rails and\nprepare conditions to use Pod Rails.
+
+[251|off=0x845a|chars=113]
+You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+
+[252|off=0x8548|chars=28]
+How to play with Cart Rails,
+
+[253|off=0x8582|chars=8]
+ ~Motors
+
+[254|off=0x859a|chars=102]
+Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+
+[255|off=0x866e|chars=96]
+You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+
+[256|off=0x8730|chars=8]
+ button.
+
+[257|off=0x8748|chars=38]
+"How to play with Cart Rails," ~ Carts
+
+[258|off=0x879c|chars=118]
+Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+
+[259|off=0x8890|chars=62]
+You can be a driver\nif you operate Motors\nwhile riding a Cart.
+
+[260|off=0x8914|chars=40]
+"How to play with Cart Rails," ~Shipping
+
+[261|off=0x896c|chars=95]
+If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+
+[262|off=0x8a32|chars=120]
+Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+
+[263|off=0x8b2c|chars=22]
+Physiocracy and Magic,
+
+[264|off=0x8b5a|chars=21]
+\n~or "Book of Spirit"
+
+[265|off=0x8b8c|chars=69]
+If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+
+[266|off=0x8c1e|chars=75]
+You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+
+[267|off=0x8cbc|chars=59]
+It's a book with Fairy Tales\nfor early childhood education.
+
+[268|off=0x8d3a|chars=91]
+I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+
+[269|off=0x8df8|chars=28]
+My heart is twinging...\nWhy?
+
+[270|off=0x8e38|chars=44]
+It's a Haiku Book\nwritten by Principle Rose.
+
+[271|off=0x8e98|chars=68]
+There are more Haikus about love\nthan about scenery or daily life...
+
+[272|off=0x8f28|chars=69]
+It's like reading someone else's diary.\nI feel a little bit guilty...
+
+[273|off=0x8fbc|chars=30]
+Tale of the Love & Bow Knight,
+
+[274|off=0x8ffa|chars=7]
+ Vol. 1
+
+[275|off=0x9010|chars=63]
+Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+
+[276|off=0x9096|chars=108]
+There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+
+[277|off=0x9178|chars=30]
+Tale of the Love & Bow Knight,
+
+[278|off=0x91b6|chars=7]
+ Vol. 2
+
+[279|off=0x91cc|chars=73]
+Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+
+[280|off=0x9266|chars=106]
+They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+
+[281|off=0x9342|chars=6]
+Yes\nNo

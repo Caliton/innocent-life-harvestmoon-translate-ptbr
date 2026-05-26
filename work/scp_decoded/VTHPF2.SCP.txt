@@ -1,0 +1,797 @@
+# VTHPF2.SCP - 264 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x8ba|chars=76]
+This is your bed...\nBut you can't take a nap now.\nFranco is waiting for you.
+
+[1|off=0x95e|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[2|off=0x9da|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[3|off=0xac0|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[4|off=0xbac|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[5|off=0xc32|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[6|off=0xcd2|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[7|off=0xd92|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[8|off=0xe2e|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[9|off=0xeec|chars=11]
+Moonlight: 
+
+[10|off=0xf04|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[11|off=0xf78|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[12|off=0x1002|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[13|off=0x1086|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[14|off=0x1124|chars=11]
+Moonlight: 
+
+[15|off=0x113c|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[16|off=0x11ba|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[17|off=0x1260|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[18|off=0x12ce|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[19|off=0x13ca|chars=21]
+Franco: I can't wait!
+
+[20|off=0x1400|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[21|off=0x145e|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[22|off=0x152a|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[23|off=0x15e8|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[24|off=0x165c|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[25|off=0x1714|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[26|off=0x176a|chars=12]
+P. I am too.
+
+[27|off=0x178e|chars=31]
+Franco: He was a good friend...
+
+[28|off=0x17d8|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[29|off=0x1844|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[30|off=0x18e4|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[31|off=0x19ac|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[32|off=0x1a34|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[33|off=0x1b02|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[34|off=0x1b88|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[35|off=0x1bea|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[36|off=0x1cb8|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[37|off=0x1d3e|chars=11]
+Moonlight: 
+
+[38|off=0x1d56|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[39|off=0x1dfa|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[40|off=0x1e6c|chars=74]
+Vita: This room is for guests, so it\nalways has to be kept nice and clean.
+
+[41|off=0x1f0c|chars=50]
+Vita: The room in front of the stairs\nis for you, 
+
+[42|off=0x1f72|chars=35]
+P, so feel free\nto use it any time.
+
+[43|off=0x1fc4|chars=75]
+Vita: The doctor spends all his time\ncooped up in that laboratory of\nhis...
+
+[44|off=0x2066|chars=108]
+Vita: So if you need to talk to him on\na day that you don't have an exam,\nyou should do it during breakfast.
+
+[45|off=0x214a|chars=70]
+Vita: Mr. Franco always comes to spend\nthe night here on the weekends.
+
+[46|off=0x21e2|chars=56]
+Vita: He's a rather cute old gentleman,\ndon't you think?
+
+[47|off=0x225e|chars=65]
+Vita: I know that the doctor places a\nlot of trust in Mr. Franco.
+
+[48|off=0x22ec|chars=75]
+Vita: The doctor spends all his time\ncooped up in that laboratory of\nhis...
+
+[49|off=0x238e|chars=111]
+Vita: If you need to talk to the doctor\non a day when you don't have an exam,\ndo it during breakfast or dinner.
+
+[50|off=0x2478|chars=14]
+*: Meow. Meow.
+
+[51|off=0x24a0|chars=18]
+Dr. Hope: Zzzz....
+
+[52|off=0x24cc|chars=33]
+The cat is sleeping peacefully...
+
+[53|off=0x251a|chars=6]
+Nana: 
+
+[54|off=0x2528|chars=71]
+P! You came at just\nthe right time! I have something I want\nto ask you.
+
+[55|off=0x25c2|chars=109]
+Nana: I really want to win the Mushroom\nCooking Festival this year. But I\ncan't do it with my usual dishes...
+
+[56|off=0x26a8|chars=111]
+Nana: So I wonder if you wouldn't mind\ngetting me some Porcini mushrooms.\nThey should be in season by tomorrow.
+
+[57|off=0x2792|chars=122]
+Nana: I'll be sure to give you a\nlittle gift if you'll do it\nfor me!\nJust put them in your Scale\nPack and bring them here.
+
+[58|off=0x2892|chars=49]
+Nana: Let's see... I think 100g should\nbe enough.
+
+[59|off=0x2900|chars=6]
+Nana: 
+
+[60|off=0x290e|chars=52]
+P! You got some\nPorcini mushrooms for me!\nThank you!
+
+[61|off=0x2982|chars=84]
+Nana: I'll just take them then.\nI'm a cinch to win the Mushroom\nCooking Contest now.
+
+[62|off=0x2a36|chars=6]
+Nana: 
+
+[63|off=0x2a44|chars=41]
+P! You got some\nPorcini mushrooms for me!
+
+[64|off=0x2aa2|chars=81]
+Nana: But I'm afraid this won't be\nquite enough. I could really use\n100g of them.
+
+[65|off=0x2b50|chars=114]
+Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+
+[66|off=0x2c40|chars=114]
+Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+
+[67|off=0x2d30|chars=53]
+Nana: I guess she's a better cook than\nI am, overall.
+
+[68|off=0x2da6|chars=53]
+Nana: I guess she's a better cook than\nI am, overall.
+
+[69|off=0x2e1c|chars=37]
+Vita: Are the Life Arms working well?
+
+[70|off=0x2e72|chars=89]
+Vita: The baskets and boxes that you\nget from now on will all be equipped\nwith Life Arms.
+
+[71|off=0x2f30|chars=56]
+Vita: However, there are only 14 Life\nArms all together.
+
+[72|off=0x2fac|chars=50]
+Vita: They will jump from one basket\nto another...
+
+[73|off=0x301c|chars=111]
+Vita: So if you place them too closely\ntogether, they will get in each other's\nway and reduce their efficiency.
+
+[74|off=0x3106|chars=83]
+Vita: You should try putting them in a\nvariety of locations to see what\nworks best.
+
+[75|off=0x31b8|chars=74]
+Vita: This room is for guests, so it\nalways has to be kept nice and clean.
+
+[76|off=0x3258|chars=50]
+Vita: The room in front of the stairs\nis for you, 
+
+[77|off=0x32be|chars=35]
+P, so feel free\nto use it any time.
+
+[78|off=0x3310|chars=70]
+Vita: Mr. Franco always comes to spend\nthe night here on the weekends.
+
+[79|off=0x33a8|chars=50]
+Vita: Old Franco certainly was fond\nof the doctor.
+
+[80|off=0x3414|chars=63]
+You can hear the voice of the\nFire Spirit echoing in your head!
+
+[81|off=0x349a|chars=100]
+You've let me down... Your one year\nis up and now I have no choice but\nto release the alien's power.
+
+[82|off=0x356a|chars=51]
+I'm afraid there's nothing you can\ndo to stop it...
+
+[83|off=0x35dc|chars=71]
+Jessica: Dr. Hope lets me use his place\nfor my research every Saturday.
+
+[84|off=0x3676|chars=23]
+Franco: Zzzz... Zzzz...
+
+[85|off=0x36b0|chars=75]
+Jessica: Even now, I ask Mr. Vita to let me\nuse his mansion every Saturday.
+
+[86|off=0x3752|chars=75]
+Jessica: Even now, I ask Mr. Vita to let me\nuse his mansion every Saturday.
+
+[87|off=0x37f4|chars=66]
+Jessica: All the articles that\nDr. Hope has written are excellent.
+
+[88|off=0x3884|chars=66]
+Jessica: All the articles that\nDr. Hope has written are excellent.
+
+[89|off=0x3914|chars=10]
+*: Meeoow.
+
+[90|off=0x3934|chars=62]
+Vita: The doctor is smiling...\nHe must be having a good dream.
+
+[91|off=0x39bc|chars=84]
+Vita: Don't worry about the doctor.\nI will stay by his side until he opens\nhis eyes.
+
+[92|off=0x3a70|chars=24]
+Vita: So please, Master 
+
+[93|off=0x3aa2|chars=57]
+P.\nYou must save this island before the\nvolcano erupts...
+
+[94|off=0x3b20|chars=78]
+Vita: Go to the Giant Forest!\nMeet the Nature Sprites there.\nBut please hurry.
+
+[95|off=0x3bc8|chars=105]
+Vita: You see, even with the Water\nSpirit's help, the Fire Spirit can only\nbe appeased during the winter.
+
+[96|off=0x3ca6|chars=62]
+Vita: The doctor is smiling...\nHe must be having a good dream.
+
+[97|off=0x3d2e|chars=84]
+Vita: Don't worry about the doctor.\nI will stay by his side until he opens\nhis eyes.
+
+[98|off=0x3de2|chars=83]
+Vita: You don't need the doctor's\ncheckups anymore. There's nothing to\nworry about.
+
+[99|off=0x3e94|chars=102]
+Vita: Please. Become as human as you\ncan. For both of us... I'm sure you must\nknow the truth by now...
+
+[100|off=0x3f6c|chars=101]
+Vita: Like you, I am a robot. I am an\nolder model, however, and cannot go\nfar away from this mansion.
+
+[101|off=0x4042|chars=36]
+Vita: Thank you for waiting,\nMaster 
+
+[102|off=0x409c|chars=36]
+Vita: Thank you for waiting,\nMaster 
+
+[103|off=0x40f2|chars=43]
+Dr. Hope appears to be sleeping\npeacefully.
+
+[104|off=0x4150|chars=90]
+You could swear that you can see\na faint smile on his lips. Maybe it's\nyour imagination...
+
+[105|off=0x4210|chars=63]
+Vita: There was a present for you in\nthe doctor's storage area.
+
+[106|off=0x429a|chars=63]
+Vita: There was a present for you in\nthe doctor's storage area.
+
+[107|off=0x4324|chars=111]
+Vita: It seems that even as he was\nfighting his sickness,\nthe doctor took time to\nmake farming devices for you.
+
+[108|off=0x440e|chars=111]
+Vita: It seems that even as he was\nfighting his sickness,\nthe doctor took time to\nmake farming devices for you.
+
+[109|off=0x44f8|chars=91]
+Vita: I have had them delivered to your\nfarm, in accordance with the doctor's\ninstructions.
+
+[110|off=0x45ba|chars=91]
+Vita: I have had them delivered to your\nfarm, in accordance with the doctor's\ninstructions.
+
+[111|off=0x467c|chars=107]
+Vita: Each Harvest Basket and Carrying\nBox will automatically be equipped\nwith this device -- the Life Arm.
+
+[112|off=0x475e|chars=107]
+Vita: Each Harvest Basket and Carrying\nBox will automatically be equipped\nwith this device -- the Life Arm.
+
+[113|off=0x4840|chars=106]
+Vita: If you place an equipped basket\nin a field, the crops in that field will\nautomatically be harvested.
+
+[114|off=0x4920|chars=106]
+Vita: If you place an equipped basket\nin a field, the crops in that field will\nautomatically be harvested.
+
+[115|off=0x4a00|chars=108]
+Vita: It may be a little difficult to\nunderstand. The best thing is for you\nto try it yourself at your farm.
+
+[116|off=0x4ae4|chars=108]
+Vita: It may be a little difficult to\nunderstand. The best thing is for you\nto try it yourself at your farm.
+
+[117|off=0x4bc8|chars=37]
+Vita: Are the Life Arms working well?
+
+[118|off=0x4c1e|chars=89]
+Vita: The baskets and boxes that you\nget from now on will all be equipped\nwith Life Arms.
+
+[119|off=0x4cdc|chars=56]
+Vita: However, there are only 14 Life\nArms all together.
+
+[120|off=0x4d58|chars=50]
+Vita: They will jump from one basket\nto another...
+
+[121|off=0x4dc8|chars=111]
+Vita: So if you place them too closely\ntogether, they will get in each other's\nway and reduce their efficiency.
+
+[122|off=0x4eb2|chars=83]
+Vita: You should try putting them in a\nvariety of locations to see what\nworks best.
+
+[123|off=0x4f60|chars=44]
+You hear a voice echo from all\naround you...
+
+[124|off=0x4fc0|chars=17]
+Winter has come, 
+
+[125|off=0x4ff0|chars=74]
+It is time to place the Fire Spirit's\nCrest in the Ice Altar in East Lake.
+
+[126|off=0x508c|chars=85]
+My power and that of the Ice Grail\nshould be able to appease the Fire\nSpirit's anger.
+
+[127|off=0x513e|chars=64]
+Now then, I'll open the\npath on the frozen surface of\nEast Lake.
+
+[128|off=0x51ca|chars=48]
+Marcia: Dr. Hope woke up just a few\nmoments ago!
+
+[129|off=0x5236|chars=17]
+Dr. Hope: Hello, 
+
+[130|off=0x525a|chars=21]
+P.\nI'm glad you came.
+
+[131|off=0x5290|chars=68]
+Dr. Hope: You did it.\nI knew you could.\nYou brought about a miracle.
+
+[132|off=0x5324|chars=89]
+Dr. Hope: I only hope that something\nwill happen to reward you for all of\nyour hard work.
+
+[133|off=0x53e2|chars=53]
+Dr. Hope: Don't worry about me.\nI've had a good life.
+
+[134|off=0x5458|chars=34]
+Dr. Hope: No, it was a great life.
+
+[135|off=0x54a8|chars=76]
+Dr. Hope: And being able to talk\nto you to the very end makes\nmine complete.
+
+[136|off=0x554c|chars=97]
+Dr. Hope: I've put Vita in charge of all\nof my affairs. If you need anything,\nplease talk to her.
+
+[137|off=0x561a|chars=52]
+Dr. Hope: Farewell... I wish you every\nhappiness....
+
+[138|off=0x568e|chars=28]
+Marcia: Is he...\nIs he dead?
+
+[139|off=0x56d2|chars=27]
+Marcia: Doctor!\nSob... Oh, 
+
+[140|off=0x570a|chars=11]
+P...\nSob...
+
+[141|off=0x572c|chars=19]
+Marcia: Hmm?\nLook, 
+
+[142|off=0x5754|chars=43]
+P! You're crying!\nYou're crying real tears!
+
+[143|off=0x57b6|chars=8]
+Marcia: 
+
+[144|off=0x57c8|chars=5]
+P...\n
+
+[145|off=0x57e0|chars=28]
+I must have been dreaming...
+
+[146|off=0x5822|chars=58]
+P tried to sleep,\nbut he kept thinking he forgot\nsomething
+
+[147|off=0x58a0|chars=32]
+Before you know it,\nit's dawn...
+
+[148|off=0x58ec|chars=40]
+Vita: Everyone in town has gone crazy...
+
+[149|off=0x5948|chars=40]
+Vita: Only you and I\nremain unchanged...
+
+[150|off=0x59a4|chars=20]
+Jessica: Ga... ga...
+
+[151|off=0x59d8|chars=20]
+Franco: Ga... Zzz...
+
+[152|off=0x5a0c|chars=10]
+*: Meow...
+
+[153|off=0x5a2a|chars=43]
+R is waiting!\nMaybe you should talk to him.
+
+[154|off=0x5a88|chars=60]
+You heard a voice that sounds like\nMax's somewhere nearby...
+
+[155|off=0x5b08|chars=66]
+Your activities from the previous\nday increased your Human\nStatus!
+
+[156|off=0x5b94|chars=59]
+Do you want to go to bed and\nsleep for the rest of the day?
+
+[157|off=0x5c12|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[158|off=0x5c8e|chars=58]
+Do you want to get up earlier than\nusual tomorrow morning?
+
+[159|off=0x5d0a|chars=36]
+Do you want to sleep here for today?
+
+[160|off=0x5d5a|chars=76]
+Then do you want to use the tent's\nwarp function to return to your own\nroom?
+
+[161|off=0x5dfa|chars=44]
+This is a very expensive looking\nwardrobe...
+
+[162|off=0x5e5a|chars=31]
+There are dishes lined up here.
+
+[163|off=0x5ea0|chars=27]
+You try washing your hands.
+
+[164|off=0x5ede|chars=30]
+This sink is very easy to use.
+
+[165|off=0x5f22|chars=25]
+Your hands are now clean.
+
+[166|off=0x5f5c|chars=24]
+But there was no soap...
+
+[167|off=0x5f94|chars=40]
+The water pressure seems a little\nlow...
+
+[168|off=0x5fec|chars=48]
+You were surprised at how dirty\nyour hands were.
+
+[169|off=0x6054|chars=43]
+There's water splashed all around\nthe sink!
+
+[170|off=0x60b2|chars=24]
+You wipe the area clean.
+
+[171|off=0x60ea|chars=26]
+Lukewarm water came out...
+
+[172|off=0x6126|chars=49]
+The drain doesn't seem to be\nworking very well...
+
+[173|off=0x6190|chars=41]
+Hot water came out with\nincredible force!
+
+[174|off=0x61ea|chars=44]
+A very nice smell surrounds the\nsoap here...
+
+[175|off=0x624a|chars=55]
+You try washing your face.\nYou feel somewhat refreshed.
+
+[176|off=0x62c0|chars=42]
+There are lots of things on the\nshelves...
+
+[177|off=0x631c|chars=19]
+There is wine here.
+
+[178|off=0x634a|chars=23]
+You look at the toilet.
+
+[179|off=0x6380|chars=32]
+It seems to have been flushed...
+
+[180|off=0x63c8|chars=21]
+It's sparkling clean!
+
+[181|off=0x63fa|chars=28]
+You push the "Flush" button.
+
+[182|off=0x643a|chars=30]
+There is a note on the toilet.
+
+[183|off=0x647e|chars=20]
+"Please keep clean!"
+
+[184|off=0x64ae|chars=70]
+It appears to have a toilet seat\nthat raises and lowers automatically.
+
+[185|off=0x6542|chars=68]
+There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+
+[186|off=0x65d2|chars=53]
+The scent of aromatic oil floats\naround the toilet...
+
+[187|off=0x6644|chars=29]
+This is an automatic bathtub.
+
+[188|off=0x6686|chars=62]
+You opened the drawer.\nThere are many different things\ninside.
+
+[189|off=0x670a|chars=64]
+This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+
+[190|off=0x6792|chars=38]
+There are many books in the\nbookshelf.
+
+[191|off=0x67e6|chars=45]
+But there's no reason for you to\nread them...
+
+[192|off=0x6848|chars=26]
+You open the refrigerator.
+
+[193|off=0x6884|chars=65]
+But you quickly close it again\nto prevent the food from spoiling.
+
+[194|off=0x690e|chars=75]
+"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+
+[195|off=0x69ac|chars=86]
+"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+
+[196|off=0x6a60|chars=63]
+"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+
+[197|off=0x6ae6|chars=50]
+"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+
+[198|off=0x6b52|chars=71]
+"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+
+[199|off=0x6be8|chars=39]
+"Here and There"\n  Where on earth am I?
+
+[200|off=0x6c3e|chars=39]
+"Straight Ahead: South Heartflame\nCave"
+
+[201|off=0x6c94|chars=30]
+"Straight Ahead: Easter Ruins"
+
+[202|off=0x6cd8|chars=45]
+"Straight Ahead: Southeast Bank\nof East Lake"
+
+[203|off=0x6d3a|chars=23]
+"East: Mushroom Forest"
+
+[204|off=0x6d70|chars=45]
+"Straight Ahead: Southwest Bank\nof East Lake"
+
+[205|off=0x6dd2|chars=37]
+"Danger! Fallen Trees.\nDo Not Enter."
+
+[206|off=0x6e24|chars=25]
+"East: Heartflame Desert"
+
+[207|off=0x6e5e|chars=18]
+"Heartflame Dunes"
+
+[208|off=0x6e8a|chars=26]
+"North: Heartflame Plains"
+
+[209|off=0x6ec6|chars=19]
+"Heartflame Plains"
+
+[210|off=0x6ef4|chars=32]
+"Southeast Bank of Mermaid Lake"
+
+[211|off=0x6f3c|chars=14]
+"Mermaid Lake"
+
+[212|off=0x6f60|chars=24]
+"South: Mushroom Forest"
+
+[213|off=0x6f98|chars=32]
+"Southwest Bank of Mermaid Lake"
+
+[214|off=0x6fe0|chars=11]
+"East Lake"
+
+[215|off=0x6ffe|chars=54]
+I found a TV schedule wedged\nbetween sodden magazines.
+
+[216|off=0x7072|chars=73]
+Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+
+[217|off=0x710c|chars=70]
+Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+
+[218|off=0x71a2|chars=28]
+How to play with Cart Rails,
+
+[219|off=0x71dc|chars=7]
+ ~Rails
+
+[220|off=0x71f2|chars=57]
+First, lay rails and\nprepare conditions to use Pod Rails.
+
+[221|off=0x726c|chars=113]
+You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+
+[222|off=0x735a|chars=28]
+How to play with Cart Rails,
+
+[223|off=0x7394|chars=8]
+ ~Motors
+
+[224|off=0x73ac|chars=102]
+Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+
+[225|off=0x7480|chars=96]
+You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+
+[226|off=0x7542|chars=8]
+ button.
+
+[227|off=0x755a|chars=38]
+"How to play with Cart Rails," ~ Carts
+
+[228|off=0x75ae|chars=118]
+Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+
+[229|off=0x76a2|chars=62]
+You can be a driver\nif you operate Motors\nwhile riding a Cart.
+
+[230|off=0x7726|chars=40]
+"How to play with Cart Rails," ~Shipping
+
+[231|off=0x777e|chars=95]
+If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+
+[232|off=0x7844|chars=120]
+Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+
+[233|off=0x793e|chars=22]
+Physiocracy and Magic,
+
+[234|off=0x796c|chars=21]
+\n~or "Book of Spirit"
+
+[235|off=0x799e|chars=69]
+If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+
+[236|off=0x7a30|chars=75]
+You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+
+[237|off=0x7ace|chars=59]
+It's a book with Fairy Tales\nfor early childhood education.
+
+[238|off=0x7b4c|chars=91]
+I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+
+[239|off=0x7c0a|chars=28]
+My heart is twinging...\nWhy?
+
+[240|off=0x7c4a|chars=44]
+It's a Haiku Book\nwritten by Principle Rose.
+
+[241|off=0x7caa|chars=68]
+There are more Haikus about love\nthan about scenery or daily life...
+
+[242|off=0x7d3a|chars=69]
+It's like reading someone else's diary.\nI feel a little bit guilty...
+
+[243|off=0x7dce|chars=30]
+Tale of the Love & Bow Knight,
+
+[244|off=0x7e0c|chars=7]
+ Vol. 1
+
+[245|off=0x7e22|chars=63]
+Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+
+[246|off=0x7ea8|chars=108]
+There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+
+[247|off=0x7f8a|chars=30]
+Tale of the Love & Bow Knight,
+
+[248|off=0x7fc8|chars=7]
+ Vol. 2
+
+[249|off=0x7fde|chars=73]
+Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+
+[250|off=0x8078|chars=106]
+They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+
+[251|off=0x8154|chars=6]
+Yes\nNo
+
+[252|off=0x8168|chars=6]
+Yes\nNo
+
+[253|off=0x817c|chars=6]
+Yes\nNo
+
+[254|off=0x8190|chars=6]
+Yes\nNo
+
+[255|off=0x81a4|chars=57]
+Save and go to sleep.\nGo to sleep without saving.\nCancel.
+
+[256|off=0x821e|chars=21]
+Challenge increased!\n
+
+[257|off=0x825e|chars=21]
+Challenge increased!\n
+
+[258|off=0x829e|chars=16]
+Love increased!\n
+
+[259|off=0x82d4|chars=24]
+Intelligence increased!\n
+
+[260|off=0x831a|chars=19]
+Cooking increased!\n
+
+[261|off=0x8356|chars=22]
+Creativity increased!\n
+
+[262|off=0x8398|chars=17]
+Humor increased!\n
+
+[263|off=0x83d0|chars=58]
+You haven't gone to Dr. Hope's\nfor your maintenance today!

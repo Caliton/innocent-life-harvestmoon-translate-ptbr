@@ -1,0 +1,332 @@
+# ETLIFT.SCP - 109 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x44e|chars=77]
+Franco: As portas aqui estao\nfechadas, como alguns\ndos seus campos.          
+
+[1|off=0x4f4|chars=100]
+Franco: Moro nestas ruinas\nha uns 40 anos, e essas portas\nestiveram fechadas todo esse tempo.       
+
+[2|off=0x5c8|chars=38]
+Franco: Sera que\nabrirao algum dia.   
+
+[3|off=0x620|chars=67]
+Franco: Ouvi que ha uma caverna\ndo outro lado dessa porta.         
+
+[4|off=0x6b2|chars=81]
+Franco: Me irrita, morar aqui\ndo lado e nao saber o que\ntem la dentro.           
+
+[5|off=0x760|chars=91]
+Franco: Mas acho que nao\nabrirao ate quebrar os selos\ndos campos...                        
+
+[6|off=0x822|chars=57]
+Nana: Ai, que fofinho!\nSou Nana, esposa do Max.          
+
+[7|off=0x8a0|chars=80]
+Nana: Meu marido ficava falando\nque queria correr aqui,\nentao vim junto.        
+
+[8|off=0x94c|chars=82]
+Nana: Que lugar incrivel.\nNao acredito que voce tem\numa fazenda no telhado!       
+
+[9|off=0x9fc|chars=93]
+Nana: Uma fazenda em ruinas\ne um jovem bonito... E\nsuficiente para corar qualquer menina!    
+
+[10|off=0xac2|chars=68]
+Franco: Ha varias portas fechadas\naqui nas Ruinas de Pascoa.        
+
+[11|off=0xb56|chars=94]
+Franco: Conforme quebrar os selos\ndos campos, imagino que\nestes selos tambem se quebrem.      
+
+[12|off=0xc1e|chars=65]
+Franco: Estou louco pra ver\no que esta do outro lado das portas. 
+
+[13|off=0xcac|chars=68]
+Franco: Ha varias portas fechadas\naqui nas Ruinas de Pascoa.        
+
+[14|off=0xd40|chars=94]
+Franco: Conforme quebrar os selos\ndos campos, imagino que\nestes selos tambem se quebrem.      
+
+[15|off=0xe08|chars=65]
+Franco: Estou louco pra ver\no que esta do outro lado das portas. 
+
+[16|off=0xe96|chars=68]
+Franco: Ha varias portas fechadas\naqui nas Ruinas de Pascoa.        
+
+[17|off=0xf2a|chars=94]
+Franco: Conforme quebrar os selos\ndos campos, imagino que\nestes selos tambem se quebrem.      
+
+[18|off=0xff2|chars=65]
+Franco: Estou louco pra ver\no que esta do outro lado das portas. 
+
+[19|off=0x1080|chars=74]
+Franco: Ouvi que te pediram\npara cultivar para o\nFestival da Prima.       
+
+[20|off=0x1120|chars=106]
+Franco: Que responsabilidade!\nE a chance perfeita de mostrar\na todos como seus cultivos sao bons.         
+
+[21|off=0x1200|chars=95]
+Franco: Vi seu robo!\nE bem descolado! E isso que\nos jovens dizem hoje em dia?                  
+
+[22|off=0x12ca|chars=90]
+Franco: E ele fala muito bem!\nTalvez ele e eu possamos\nsair para beber um dia...          
+
+[23|off=0x138a|chars=87]
+Franco: Brincadeira.\nO Dr. Hope me mataria se\neu fizesse algo com aquele robo.         
+
+[24|off=0x1444|chars=56]
+Franco: Entao voce finalmente\ncriou animais, hein?      
+
+[25|off=0x14c0|chars=109]
+Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?            
+
+[26|off=0x15a6|chars=112]
+Franco: Hoje tudo na fazenda\ne automatizado. Mas usar robos\nera uma ideia bem revolucionaria.                   
+
+[27|off=0x1692|chars=61]
+Franco: Ouvi que la fora\nainda os usam bastante.             
+
+[28|off=0x1718|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnestas ruinas!    
+
+[29|off=0x17b8|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar\nestas terras e a natureza!            
+
+[30|off=0x1878|chars=72]
+Franco: Uau!\nVoce tem muita sorte!\nGanhou um buggy assim de presente!   
+
+[31|off=0x1914|chars=89]
+Franco: Se eu tivesse um buggy,\nlevaria a Rose num passeio\ninesquecivel!                 
+
+[32|off=0x19d2|chars=11]
+Moonlight: 
+
+[33|off=0x19ea|chars=52]
+P! Que belo presente\ndo Dr. Hope voce ganhou.       
+
+[34|off=0x1a5e|chars=63]
+Moonlight: Com buggy assim\nvoce pode ir a quase qualquer lugar!
+
+[35|off=0x1ae8|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.  
+
+[36|off=0x1b6c|chars=73]
+Franco: Quando era jovem, todo mundo\nlevava seus pares a aquela caverna. 
+
+[37|off=0x1c0a|chars=11]
+Moonlight: 
+
+[38|off=0x1c22|chars=57]
+P!\nOuvi que tiveram problemas na\ncaverna de Volcano Town.
+
+[39|off=0x1ca0|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar ao\nestado original disso.
+
+[40|off=0x1d46|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.  
+
+[41|off=0x1db4|chars=120]
+Franco: Se mandar bastante ate a\nvespera do Natal, podem\nusar para decorar a cidade toda.                               
+
+[42|off=0x1eb0|chars=21]
+Franco: Que animacao!
+
+[43|off=0x1ee6|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...  
+
+[44|off=0x1f44|chars=96]
+Franco: Sei que esta preocupado,\nmas voce tem um trabalho\nimportante a terminar.                
+
+[45|off=0x2010|chars=89]
+Franco: Tenho certeza que a\nmelhor coisa pro Dr. Hope agora\ne ver o quanto voce trabalha.
+
+[46|off=0x20ce|chars=52]
+Moonlight: Nao sabia que\nDr. Hope estava doente...  
+
+[47|off=0x2142|chars=86]
+Moonlight: Imagino que por isso\nele corria tanto para terminar\no trabalho com voce... 
+
+[48|off=0x21fa|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[49|off=0x2250|chars=12]
+P. Eu tambem
+
+[50|off=0x2274|chars=31]
+Franco: Era um bom amigo...    
+
+[51|off=0x22be|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!      
+
+[52|off=0x232a|chars=74]
+Moonlight: Ele me disse que ha\nmais neste mundo do\nque aparece!           
+
+[53|off=0x23ca|chars=91]
+Moonlight: O que tento dizer e...\nTenho certeza que o Dr. Hope\nestara olhando por voce,    
+
+[54|off=0x2492|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?         
+
+[55|off=0x251a|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[56|off=0x25e8|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[57|off=0x266e|chars=43]
+Franco: Um alien mora\nno novo quarto?      
+
+[58|off=0x26d0|chars=97]
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+
+[59|off=0x279e|chars=61]
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+
+[60|off=0x2824|chars=11]
+Moonlight: 
+
+[61|off=0x283c|chars=76]
+P!\nVi uma coisa estranha parecida\ncom bicho de pelucia no novo quarto.      
+
+[62|off=0x28e0|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!    
+
+[63|off=0x2950|chars=13]
+N: Miooww....
+
+[64|off=0x2974|chars=10]
+N: Miau...
+
+[65|off=0x2992|chars=10]
+N: Ronron.
+
+[66|off=0x29b0|chars=13]
+N: Miooww....
+
+[67|off=0x29d6|chars=55]
+Franco: Ha uma maquina de venda\natras da Porta Azul!   
+
+[68|off=0x2a50|chars=55]
+Franco: Ha uma maquina de venda\natras da Porta Azul!   
+
+[69|off=0x2aca|chars=55]
+Franco: Ha uma maquina de venda\natras da Porta Azul!   
+
+[70|off=0x2b44|chars=83]
+Franco: Loja Million 2 tem\nitens um pouco diferentes\ndo que Volcano Brunch tem.    
+
+[71|off=0x2bf6|chars=83]
+Franco: Loja Million 2 tem\nitens um pouco diferentes\ndo que Volcano Brunch tem.    
+
+[72|off=0x2ca8|chars=83]
+Franco: Loja Million 2 tem\nitens um pouco diferentes\ndo que Volcano Brunch tem.    
+
+[73|off=0x2d5a|chars=39]
+Franco: Confira\ntudo la dentro.        
+
+[74|off=0x2db4|chars=39]
+Franco: Confira\ntudo la dentro.        
+
+[75|off=0x2e0e|chars=39]
+Franco: Confira\ntudo la dentro.        
+
+[76|off=0x2e68|chars=69]
+Franco: Segredos do passado\nestao atras\nda Porta Vermelha...         
+
+[77|off=0x2efe|chars=69]
+Franco: Segredos do passado\nestao atras\nda Porta Vermelha...         
+
+[78|off=0x2f94|chars=69]
+Franco: Segredos do passado\nestao atras\nda Porta Vermelha...         
+
+[79|off=0x302a|chars=48]
+Franco: Nao tenho coragem\nde entrar...          
+
+[80|off=0x3096|chars=48]
+Franco: Nao tenho coragem\nde entrar...          
+
+[81|off=0x3102|chars=48]
+Franco: Nao tenho coragem\nde entrar...          
+
+[82|off=0x316a|chars=33]
+Nao faz sentido levar o\n         
+
+[83|off=0x31ae|chars=46]
+I para longe das\nRuinas de Pascoa. Esqueca.   
+
+[84|off=0x3216|chars=20]
+Franco: Gaga gagaga.
+
+[85|off=0x324a|chars=20]
+Franco: Gaga gagaga.
+
+[86|off=0x327e|chars=20]
+Franco: Gaga gagaga.
+
+[87|off=0x32ae|chars=74]
+Ir para sua fazenda.\nIr para seu quarto.\nIr para o deposito.\nCancelar.    
+
+[88|off=0x334a|chars=4]
+Vida
+
+[89|off=0x335a|chars=5]
+Forte
+
+[90|off=0x336c|chars=7]
+Chocobi
+
+[91|off=0x3382|chars=5]
+Cocoa
+
+[92|off=0x3394|chars=4]
+Yogi
+
+[93|off=0x33a4|chars=5]
+Cow 1
+
+[94|off=0x33b6|chars=5]
+Cow 2
+
+[95|off=0x33c8|chars=5]
+Cow 3
+
+[96|off=0x33da|chars=5]
+Cow 4
+
+[97|off=0x33ec|chars=5]
+Cow 5
+
+[98|off=0x33fe|chars=7]
+Sheep 1
+
+[99|off=0x3414|chars=7]
+Sheep 2
+
+[100|off=0x342a|chars=7]
+Sheep 3
+
+[101|off=0x3440|chars=7]
+Sheep 4
+
+[102|off=0x3456|chars=7]
+Sheep 5
+
+[103|off=0x346c|chars=9]
+Chicken 1
+
+[104|off=0x3486|chars=9]
+Chicken 2
+
+[105|off=0x34a0|chars=9]
+Chicken 3
+
+[106|off=0x34ba|chars=9]
+Chicken 4
+
+[107|off=0x34d4|chars=9]
+Chicken 5
+
+[108|off=0x34ee|chars=4]
+Yogi

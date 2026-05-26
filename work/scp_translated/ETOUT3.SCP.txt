@@ -1,0 +1,131 @@
+# ETOUT3.SCP - 42 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x23e|chars=56]
+Franco: Entao voce comecou\na criar animais, hein?
+
+[1|off=0x2ba|chars=109]
+Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem\nsao invencoes do Dr. Hope?
+
+[2|off=0x3a0|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatico, mas na epoca usar\nrobos era ideia revolucionaria.
+
+[3|off=0x48c|chars=61]
+Franco: Ouvi que ainda os usam\nbastante no exterior.
+
+[4|off=0x512|chars=74]
+Moonlight: O balido dos animais\nse ouve novamente\nnestas ruinas!
+
+[5|off=0x5b2|chars=90]
+Moonlight: Sua forca vital vai\najudar a revitalizar esta terra\ne a natureza!
+
+[6|off=0x672|chars=72]
+Franco: Uau!\nQue sortudo!\nGanhar um buggy desses de presente!
+
+[7|off=0x70e|chars=89]
+Franco: Se eu tivesse um buggy,\nlevava a Rose num passeio\nque ela nunca esqueceria!
+
+[8|off=0x7cc|chars=11]
+Moonlight: 
+
+[9|off=0x7e4|chars=52]
+P! Que presente bonito\ndo Dr. Hope que voce ganhou.
+
+[10|off=0x858|chars=63]
+Moonlight: Com um buggy assim\nvoce vai a qualquer lugar!
+
+[11|off=0x8e2|chars=60]
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.
+
+[12|off=0x966|chars=73]
+Franco: Quando jovem, todos iam\ncurtir naquela caverna\ncom as namoradas.
+
+[13|off=0xa04|chars=11]
+Moonlight: 
+
+[14|off=0xa1c|chars=57]
+P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
+
+[15|off=0xa9a|chars=77]
+Moonlight: Vai levar tempo e\nesforco para restaurar\nao estado original.
+
+[16|off=0xb40|chars=49]
+Franco: Ouvi que voce plantou\nbico-de-papagaio.
+
+[17|off=0xbae|chars=120]
+Franco: Se mandar bastante ate\na vespera do Natal, podem usar\npra decorar a cidade.
+
+[18|off=0xcaa|chars=21]
+Franco: Nao aguento!
+
+[19|off=0xce0|chars=41]
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
+
+[20|off=0xd3e|chars=96]
+Franco: Sei que esta preocupado,\nmas tem trabalho importante\na terminar.
+
+[21|off=0xe0a|chars=89]
+Franco: O melhor pro Dr. Hope\nagora e ver o quanto\nvoce esta se dedicando.
+
+[22|off=0xec8|chars=52]
+Moonlight: Nao sabia que o\nDr. Hope estava doente...
+
+[23|off=0xf3c|chars=86]
+Moonlight: Suponho que por isso\nele corria para terminar\no trabalho com voce...
+
+[24|off=0xff4|chars=42]
+Franco: Sei que esta triste\ncom Dr. Hope, 
+
+[25|off=0x104a|chars=12]
+P. Eu sinto.
+
+[26|off=0x106e|chars=31]
+Franco: Era um bom amigo...
+
+[27|off=0x10b8|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[28|off=0x1124|chars=74]
+Moonlight: Disse que ha muito\nmais neste mundo do que\nos olhos veem!
+
+[29|off=0x11c4|chars=91]
+Moonlight: O que quero dizer...\nCerteza que o Dr. Hope sempre\nestara velando por voce, 
+
+[30|off=0x128c|chars=62]
+Franco: Quem e esse estranho\nque mora no novo quarto?
+
+[31|off=0x1314|chars=97]
+Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+
+[32|off=0x13e2|chars=61]
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
+
+[33|off=0x1468|chars=43]
+Franco: Um alien mora\nno novo quarto?
+
+[34|off=0x14ca|chars=97]
+Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+
+[35|off=0x1598|chars=61]
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
+
+[36|off=0x161e|chars=11]
+Moonlight: 
+
+[37|off=0x1636|chars=76]
+P!\nVi algo estranho parecendo\num bicho de pelucia no novo quarto.
+
+[38|off=0x16da|chars=51]
+Moonlight: Voce fez isso?\nMuito impressionante!
+
+[39|off=0x1748|chars=90]
+Ha uma tempestade la fora!\nVoce nao conseguira\nse mover rapido nisso...
+
+[40|off=0x1804|chars=106]
+A neve voando torna\nquase impossivel ver algo!\nNao da pra andar nisso...
+
+[41|off=0x18e0|chars=54]
+Esta chovendo. Nao precisara\nregar as plantacoes hoje.

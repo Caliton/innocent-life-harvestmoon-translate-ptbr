@@ -1,0 +1,311 @@
+# VTANA.SCP - 102 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0x3ee|chars=56]
+Franco: So you've finally started\nraising livestock, eh?
+
+[1|off=0x46a|chars=109]
+Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+
+[2|off=0x550|chars=112]
+Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+
+[3|off=0x63c|chars=61]
+Franco: I hear that they still use them\nquite a lot overseas.
+
+[4|off=0x6c2|chars=74]
+Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+
+[5|off=0x762|chars=90]
+Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+
+[6|off=0x822|chars=72]
+Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+
+[7|off=0x8be|chars=89]
+Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+
+[8|off=0x97c|chars=11]
+Moonlight: 
+
+[9|off=0x994|chars=52]
+P! I see you got\nquite a nice present from Dr. Hope.
+
+[10|off=0xa08|chars=63]
+Moonlight: You can go just about\nanywhere in a buggy like that!
+
+[11|off=0xa92|chars=60]
+Franco: I can't believe Marco could make\nsuch a big mistake.
+
+[12|off=0xb16|chars=73]
+Franco: When I was young, everyone used\nto take their dates to that cave.
+
+[13|off=0xbb4|chars=11]
+Moonlight: 
+
+[14|off=0xbcc|chars=57]
+P!\nI hear they had some trouble in the\nVolcano Town cave.
+
+[15|off=0xc4a|chars=77]
+Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+
+[16|off=0xcf0|chars=49]
+Franco: I hear that you planted some\npoinsettias.
+
+[17|off=0xd5e|chars=120]
+Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+
+[18|off=0xe5a|chars=21]
+Franco: I can't wait!
+
+[19|off=0xe90|chars=41]
+Franco: I hear that Dr. Hope\ncollapsed...
+
+[20|off=0xeee|chars=96]
+Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+
+[21|off=0xfba|chars=89]
+Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+
+[22|off=0x1078|chars=52]
+Moonlight: I never knew that Dr. Hope\nwas so sick...
+
+[23|off=0x10ec|chars=86]
+Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+
+[24|off=0x11a4|chars=42]
+Franco: I know you're sad about Dr.\nHope, 
+
+[25|off=0x11fa|chars=12]
+P. I am too.
+
+[26|off=0x121e|chars=31]
+Franco: He was a good friend...
+
+[27|off=0x1268|chars=48]
+Moonlight: I heard the voice of the\nFire Spirit!
+
+[28|off=0x12d4|chars=74]
+Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+
+[29|off=0x1374|chars=91]
+Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+
+[30|off=0x143c|chars=62]
+Franco: Who is that strange man who\nnow lives in the new room?
+
+[31|off=0x14c4|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[32|off=0x1592|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[33|off=0x1618|chars=43]
+Franco: An alien is living in the new\nroom?
+
+[34|off=0x167a|chars=97]
+Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+
+[35|off=0x1748|chars=61]
+Franco: Well, I suppose we shouldn't\nworry too much about it.
+
+[36|off=0x17ce|chars=11]
+Moonlight: 
+
+[37|off=0x17e6|chars=76]
+P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+
+[38|off=0x188a|chars=51]
+Moonlight: Did you make that?\nIt's very impressive!
+
+[39|off=0x18fc|chars=75]
+Marcia: I already visited the altar, so\nI'll just wait for you here.\nOkay, 
+
+[40|off=0x19a4|chars=83]
+Marcia: Hey! Are you leaving already?\nI'm sure everybody would like to\ntalk to you.
+
+[41|off=0x1a56|chars=80]
+Marcia: This is the first time that so\nmany people attended the\nSpring Festival.
+
+[42|off=0x1b02|chars=51]
+Marcia: It's usually just me, Gallion,\nand Grandpa.
+
+[43|off=0x1b74|chars=94]
+Max: We give an offering to the Fire\nSpirit in thanks for letting us live\nhere on this island.
+
+[44|off=0x1c3c|chars=71]
+Max: It's important for us to remember\nto be thankful for what we have.
+
+[45|off=0x1cd6|chars=11]
+Max: Come, 
+
+[46|off=0x1cee|chars=21]
+P.\nLet's give thanks.
+
+[47|off=0x1d24|chars=41]
+Gayak: Well if it isn't our star!\nHello, 
+
+[48|off=0x1d88|chars=88]
+Gayak: You certainly did well to ship\nall of the spring crops in time\nfor this festival.
+
+[49|off=0x1e44|chars=48]
+Gayak: I'm sure your efforts\nimpressed everyone!
+
+[50|off=0x1eb0|chars=41]
+Gayak: Well if it isn't our star!\nHello, 
+
+[51|off=0x1f14|chars=49]
+Gayak: You certainly lived up to my\nexpectations!
+
+[52|off=0x1f82|chars=83]
+Gayak: I'm sure this will go a long way\nto making the other townspeople\naccept you.
+
+[53|off=0x2034|chars=14]
+Gayak: Hello, 
+
+[54|off=0x2052|chars=29]
+P!\nYou certainly worked hard.
+
+[55|off=0x2098|chars=104]
+Gayak: Don't worry too much about not\nbeing able to ship all 6 kinds of crops.\nI made up the difference.
+
+[56|off=0x2174|chars=75]
+Gayak: I'm sure this will go a long way\nto help others learn to\naccept you.
+
+[57|off=0x2216|chars=14]
+Gayak: Hello, 
+
+[58|off=0x2234|chars=29]
+P!\nYou certainly worked hard.
+
+[59|off=0x227a|chars=71]
+Gayak: Or at least that's what\nI'd like to say to you. But what's this?
+
+[60|off=0x2314|chars=80]
+Gayak: You can't fool me.\nThese strawberries came from an\nautofarm, didn't they?
+
+[61|off=0x23c0|chars=85]
+Gayak: Sometimes I think Dr. Hope is a\nlittle too easy on you, helping you\nlike that.
+
+[62|off=0x2476|chars=89]
+Gayak: But I suppose the only ones\nwho can really tell the difference are\nme and Gallion.
+
+[63|off=0x2534|chars=91]
+Gayak: So I imagine that this will go a\nlong way toward helping the\ntownspeople accept you.
+
+[64|off=0x25f6|chars=58]
+Gallion: We haven't had this many people\ncome for years...
+
+[65|off=0x2676|chars=17]
+Jonathan: Hello, 
+
+[66|off=0x269a|chars=94]
+P.\nYou'd think that the person who supplied the\ncrops for the offering would be here on time..
+
+[67|off=0x2762|chars=102]
+Jonathan: But to tell you the truth --\nand don't tell anyone I said this -- I\nwish I arrived late too.
+
+[68|off=0x283a|chars=51]
+Jonathan: The mayor's speech just went\non and on...
+
+[69|off=0x28ac|chars=44]
+Charles: What's wrong with autofarmed\ncrops?
+
+[70|off=0x2910|chars=120]
+Charles: Old-fashioned ideas like that\nare what's keeping the young people away\nfrom events liked this. Don't you agree?
+
+[71|off=0x2a0c|chars=91]
+Mayor: I'll have to admit that I was a\nlittle taken aback to see that you\nmissed my speech.
+
+[72|off=0x2ace|chars=88]
+Mayor: But I must give you my thanks for\nshipping so many goods for the spring\noffering.
+
+[73|off=0x2b8a|chars=98]
+Mayor: I'll try and fill you in on the\nremarks I made when we have a little\ntime to talk later on.
+
+[74|off=0x2c5a|chars=43]
+Marco: I'm busy right now.\nDon't bother me.
+
+[75|off=0x2cbc|chars=88]
+Marco: I plan to construct a tunnel\nfrom here to an area deep\nunderneath Flame Mountain.
+
+[76|off=0x2d78|chars=84]
+Marco: Then I'll use my new\nsupercoolant to stop the eruption!\nPretty cool idea, eh?
+
+[77|off=0x2e2c|chars=13]
+Marcia: Why, 
+
+[78|off=0x2e48|chars=37]
+P...\nYou look like you're having fun.
+
+[79|off=0x2e9e|chars=83]
+Marcia: You usually seem so straight-\nfaced. I can never tell what you're\nthinking.
+
+[80|off=0x2f50|chars=71]
+Marcia: But when you smile, you can\nactually be kind of cute...\nHeehee.
+
+[81|off=0x2fea|chars=48]
+Marcia: Well, I guess we should be\nheading home.
+
+[82|off=0x3056|chars=63]
+Gayak: Hey! Where are you going?\nIt's just getting interesting!
+
+[83|off=0x30e0|chars=19]
+Max: That's right, 
+
+[84|off=0x3108|chars=50]
+P!\nWe're about to start the spring\nfestival dance!
+
+[85|off=0x3178|chars=16]
+Marcia: Ack! No!
+
+[86|off=0x31a0|chars=104]
+And so the Spring Festival ended\nwithout incident, and you returned to\nthe Easter Ruins late that night.
+
+[87|off=0x3278|chars=105]
+When you returned, you found that the\ntownspeople sent you 2 Harvest Baskets\nand 1 Seed Bag in gratitude.
+
+[88|off=0x3352|chars=77]
+You felt exhausted from the dancing\nand singing that went on at the\nfestival.
+
+[89|off=0x33f4|chars=85]
+But you discovered that working hard\nand helping other people can be\nquite enjoyable.
+
+[90|off=0x34a6|chars=38]
+Soon the night faded into a new day...
+
+[91|off=0x34fa|chars=38]
+Soon the night faded into a new day...
+
+[92|off=0x354e|chars=28]
+Your Human Status\nincreased!
+
+[93|off=0x358e|chars=28]
+Your Human Status\nincreased!
+
+[94|off=0x35ce|chars=66]
+Your activities from the previous\nday increased your Human\nStatus!
+
+[95|off=0x365a|chars=21]
+Challenge increased!\n
+
+[96|off=0x369a|chars=21]
+Challenge increased!\n
+
+[97|off=0x36da|chars=16]
+Love increased!\n
+
+[98|off=0x3710|chars=24]
+Intelligence increased!\n
+
+[99|off=0x3756|chars=19]
+Cooking increased!\n
+
+[100|off=0x3792|chars=22]
+Creativity increased!\n
+
+[101|off=0x37d4|chars=17]
+Humor increased!\n
