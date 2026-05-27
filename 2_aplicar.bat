@@ -34,17 +34,22 @@ copy /Y /B "!ORIG!" "!ISO_PT!" >nul
 if errorlevel 1 goto :copy_failed
 
 echo.
-echo [1/3] Aplicando traducoes em SYSTEM.MSG e SI_*.DAT...
+echo [1/4] Aplicando traducoes em SYSTEM.MSG e SI_*.DAT...
 python "tools\ilhm_build.py" --iso "!ISO_PT!" --work "work"
 if errorlevel 1 goto :build_failed
 
 echo.
-echo [2/3] Recompilando .SCP traduzidos (pode demorar varios minutos)...
+echo [2/4] Corrigindo labels de UI/status nao-escaneadas (SI_MN00/02)...
+python "tools\patch_mn_ui.py" --iso "!ISO_PT!" --apply
+if errorlevel 1 goto :build_failed
+
+echo.
+echo [3/4] Recompilando .SCP traduzidos (pode demorar varios minutos)...
 python "tools\scp_pipeline.py" build --work "work"
 if errorlevel 1 goto :build_failed
 
 echo.
-echo [3/3] Aplicando .SCP recompilados na ISO...
+echo [4/4] Aplicando .SCP recompilados na ISO...
 python "tools\scp_iso_patch.py" --iso "!ISO_PT!" --work "work"
 if errorlevel 1 goto :build_failed
 

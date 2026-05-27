@@ -839,7 +839,7 @@ Kiwi
 
 
 [278|kind=item|chars=4|id=0x1f|hdr=0x407c|str=0x4088]
-Kale
+Cuve
 
 [279|kind=item|chars=0|id=0x20|hdr=0x4092|str=0x409e]
 
@@ -911,7 +911,7 @@ Cauda Gato
 
 
 [302|kind=item|chars=10|id=0x37|hdr=0x4232|str=0x423e]
-Poinsettia
+Poinsetti
 
 [303|kind=item|chars=0|id=0x38|hdr=0x4254|str=0x4260]
 
@@ -1226,10 +1226,10 @@ Convey-R DXPRO2
 
 
 [407|kind=item|chars=11|id=0xa0|hdr=0x4dba|str=0x4dc6]
-Doctor's WC
+WC do Dr.
 
 [408|kind=item|chars=11|id=0xa1|hdr=0x4dde|str=0x4dea]
-Masami's WC
+WC Masami
 
 [409|kind=item|chars=20|id=0xa2|hdr=0x4e02|str=0x4e0e]
 Regador Monsao
@@ -4406,10 +4406,10 @@ Vac
 Ovelh
 
 [1467|kind=item|chars=7|id=0x1|hdr=0xd8ae|str=0xd8ba]
-Saffron
+Acafrao
 
 [1468|kind=item|chars=7|id=0x2|hdr=0xd8ca|str=0xd8d6]
-Chicory
+Chicori
 
 [1469|kind=item|chars=6|id=0x3|hdr=0xd8e6|str=0xd8f2]
 Citrus
@@ -4418,16 +4418,16 @@ Citrus
 Aloe
 
 [1471|kind=item|chars=4|id=0x5|hdr=0xd916|str=0xd922]
-Mint
+Ment
 
 [1472|kind=item|chars=4|id=0x6|hdr=0xd92c|str=0xd938]
-Sage
+Salv
 
 [1473|kind=item|chars=7|id=0x7|hdr=0xd942|str=0xd94e]
-Parsley
+Salsao
 
 [1474|kind=item|chars=7|id=0x8|hdr=0xd95e|str=0xd96a]
-Mugwort
+Artemi
 
 [1475|kind=item|chars=6|id=0x9|hdr=0xd97a|str=0xd986]
 Braken
@@ -4667,85 +4667,85 @@ Calfy
 Dairyann
 
 [1554|kind=flex|chars=8|hdr=0xe1ee|str=0xe1f4]
-Chicken1
+Galinha1
 
 [1555|kind=flex|chars=8|hdr=0xe208|str=0xe20e]
-Chicken2
+Galinha2
 
 [1556|kind=flex|chars=8|hdr=0xe222|str=0xe228]
-Chicken3
+Galinha3
 
 [1557|kind=flex|chars=8|hdr=0xe23c|str=0xe242]
-Chicken4
+Galinha4
 
 [1558|kind=flex|chars=8|hdr=0xe256|str=0xe25c]
-Chicken5
+Galinha5
 
 [1559|kind=flex|chars=8|hdr=0xe270|str=0xe276]
-Chicken6
+Galinha6
 
 [1560|kind=flex|chars=8|hdr=0xe28a|str=0xe290]
-Chicken7
+Galinha7
 
 [1561|kind=flex|chars=8|hdr=0xe2a4|str=0xe2aa]
-Chicken8
+Galinha8
 
 [1562|kind=flex|chars=8|hdr=0xe2be|str=0xe2c4]
-Chicken9
+Galinha9
 
 [1563|kind=flex|chars=6|hdr=0xe2ee|str=0xe2f4]
-Sheep1
+Ovlh1
 
 [1564|kind=flex|chars=6|hdr=0xe304|str=0xe30a]
-Sheep2
+Ovlh2
 
 [1565|kind=flex|chars=6|hdr=0xe31a|str=0xe320]
-Sheep3
+Ovlh3
 
 [1566|kind=flex|chars=6|hdr=0xe330|str=0xe336]
-Sheep4
+Ovlh4
 
 [1567|kind=flex|chars=6|hdr=0xe346|str=0xe34c]
-Sheep5
+Ovlh5
 
 [1568|kind=flex|chars=6|hdr=0xe35c|str=0xe362]
-Sheep6
+Ovlh6
 
 [1569|kind=flex|chars=6|hdr=0xe372|str=0xe378]
-Sheep7
+Ovlh7
 
 [1570|kind=flex|chars=6|hdr=0xe388|str=0xe38e]
-Sheep8
+Ovlh8
 
 [1571|kind=flex|chars=6|hdr=0xe39e|str=0xe3a4]
-Sheep9
+Ovlh9
 
 [1572|kind=flex|chars=4|hdr=0xe3c8|str=0xe3ce]
-Cow1
+Vca1
 
 [1573|kind=flex|chars=4|hdr=0xe3da|str=0xe3e0]
-Cow2
+Vca2
 
 [1574|kind=flex|chars=4|hdr=0xe3ec|str=0xe3f2]
-Cow3
+Vca3
 
 [1575|kind=flex|chars=4|hdr=0xe3fe|str=0xe404]
-Cow4
+Vca4
 
 [1576|kind=flex|chars=4|hdr=0xe410|str=0xe416]
-Cow5
+Vca5
 
 [1577|kind=flex|chars=4|hdr=0xe422|str=0xe428]
-Cow6
+Vca6
 
 [1578|kind=flex|chars=4|hdr=0xe434|str=0xe43a]
-Cow7
+Vca7
 
 [1579|kind=flex|chars=4|hdr=0xe446|str=0xe44c]
-Cow8
+Vca8
 
 [1580|kind=flex|chars=4|hdr=0xe458|str=0xe45e]
-Cow9
+Vca9
 
 [1581|kind=item|chars=9|id=0x14|hdr=0xe46e|str=0xe47a]
 @Lambette
@@ -4865,83 +4865,83 @@ Cow9
 @Dairyann
 
 [1620|kind=flex|chars=9|hdr=0xe8ee|str=0xe8f4]
-@Chicken1
+@Galinha1
 
 [1621|kind=flex|chars=9|hdr=0xe90a|str=0xe910]
-@Chicken2
+@Galinha2
 
 [1622|kind=flex|chars=9|hdr=0xe926|str=0xe92c]
-@Chicken3
+@Galinha3
 
 [1623|kind=flex|chars=9|hdr=0xe942|str=0xe948]
-@Chicken4
+@Galinha4
 
 [1624|kind=flex|chars=9|hdr=0xe95e|str=0xe964]
-@Chicken5
+@Galinha5
 
 [1625|kind=flex|chars=9|hdr=0xe97a|str=0xe980]
-@Chicken6
+@Galinha6
 
 [1626|kind=flex|chars=9|hdr=0xe996|str=0xe99c]
-@Chicken7
+@Galinha7
 
 [1627|kind=flex|chars=9|hdr=0xe9b2|str=0xe9b8]
-@Chicken8
+@Galinha8
 
 [1628|kind=flex|chars=9|hdr=0xe9ce|str=0xe9d4]
-@Chicken9
+@Galinha9
 
 [1629|kind=flex|chars=7|hdr=0xea00|str=0xea06]
-@Sheep1
+@Ovlh1
 
 [1630|kind=flex|chars=7|hdr=0xea18|str=0xea1e]
-@Sheep2
+@Ovlh2
 
 [1631|kind=flex|chars=7|hdr=0xea30|str=0xea36]
-@Sheep3
+@Ovlh3
 
 [1632|kind=flex|chars=7|hdr=0xea48|str=0xea4e]
-@Sheep4
+@Ovlh4
 
 [1633|kind=flex|chars=7|hdr=0xea60|str=0xea66]
-@Sheep5
+@Ovlh5
 
 [1634|kind=flex|chars=7|hdr=0xea78|str=0xea7e]
-@Sheep6
+@Ovlh6
 
 [1635|kind=flex|chars=7|hdr=0xea90|str=0xea96]
-@Sheep7
+@Ovlh7
 
 [1636|kind=flex|chars=7|hdr=0xeaa8|str=0xeaae]
-@Sheep8
+@Ovlh8
 
 [1637|kind=flex|chars=7|hdr=0xeac0|str=0xeac6]
-@Sheep9
+@Ovlh9
 
 [1638|kind=flex|chars=5|hdr=0xeaec|str=0xeaf2]
-@Cow1
+@Vca1
 
 [1639|kind=flex|chars=5|hdr=0xeb00|str=0xeb06]
-@Cow2
+@Vca2
 
 [1640|kind=flex|chars=5|hdr=0xeb14|str=0xeb1a]
-@Cow3
+@Vca3
 
 [1641|kind=flex|chars=5|hdr=0xeb28|str=0xeb2e]
-@Cow4
+@Vca4
 
 [1642|kind=flex|chars=5|hdr=0xeb3c|str=0xeb42]
-@Cow5
+@Vca5
 
 [1643|kind=flex|chars=5|hdr=0xeb50|str=0xeb56]
-@Cow6
+@Vca6
 
 [1644|kind=flex|chars=5|hdr=0xeb64|str=0xeb6a]
-@Cow7
+@Vca7
 
 [1645|kind=flex|chars=5|hdr=0xeb78|str=0xeb7e]
-@Cow8
+@Vca8
 
 [1646|kind=flex|chars=5|hdr=0xeb8c|str=0xeb92]
-@Cow9
+@Vca9
 

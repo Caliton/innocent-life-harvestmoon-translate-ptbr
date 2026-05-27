@@ -20,7 +20,7 @@
 Galinha
 
 [5|kind=flex|chars=3|hdr=0x142e|str=0x1434]
-Vac
+Boi
 
 [6|kind=flex|chars=5|hdr=0x143e|str=0x1444]
 Ovlha
@@ -59,7 +59,7 @@ Galinha
 Ovlha
 
 [18|kind=flex|chars=3|hdr=0x1670|str=0x1676]
-Vac
+Boi
 
 [19|kind=flex|chars=6|hdr=0x1680|str=0x1686]
 Anular
@@ -68,7 +68,7 @@ Anular
 Galinha
 
 [21|kind=flex|chars=3|hdr=0x182a|str=0x1830]
-Vac
+Boi
 
 [22|kind=flex|chars=5|hdr=0x183a|str=0x1840]
 Ovlha
@@ -104,7 +104,7 @@ Anular
 Equip
 
 [33|kind=flex|chars=7|hdr=0x1b66|str=0x1b6c]
-Tirar  
+Tirar
 
 [34|kind=flex|chars=4|hdr=0x1b94|str=0x1b9a]
 Usar
@@ -113,10 +113,10 @@ Usar
 Tirar
 
 [36|kind=flex|chars=10|hdr=0x2074|str=0x207a]
-AguaRest  
+AguaRest
 
 [37|kind=flex|chars=9|hdr=0x2092|str=0x2098]
-PP Usado 
+PP Usado
 
 [38|kind=flex|chars=12|hdr=0x20c6|str=0x20cc]
 Agua Normal
@@ -185,19 +185,19 @@ Pratos Prep
 Innocent Life
 
 [60|kind=flex|chars=9|hdr=0x365c|str=0x3662]
-Preguico 
+Preguico
 
 [61|kind=flex|chars=12|hdr=0x3678|str=0x367e]
 Esquecido
 
 [62|kind=flex|chars=9|hdr=0x369a|str=0x36a0]
-Preguico 
+Preguico
 
 [63|kind=flex|chars=12|hdr=0x36b6|str=0x36bc]
 Esquecido
 
 [64|kind=flex|chars=12|hdr=0x4580|str=0x4586]
-^%s Tarefas 
+^%s Tarefas
 
 [65|kind=flex|chars=8|hdr=0x45a2|str=0x45a8]
 Upgrade
@@ -218,7 +218,7 @@ Upgrade
 TrilhoCest
 
 [71|kind=flex|chars=6|hdr=0x465c|str=0x4662]
-Liga  
+Liga
 
 [72|kind=flex|chars=5|hdr=0x4672|str=0x4678]
 Equip
@@ -227,55 +227,55 @@ Equip
 Dar Comando
 
 [74|kind=cont|chars=31|hdr=0x4716|str=0x471e]
-such as dog poo and dead plants
+como coco de cao e plantas mort
 
 [75|kind=flex|chars=16|hdr=0x4760|str=0x4766]
-from the fields.
+do campo.
 
 [76|kind=item|chars=35|id=0x1|hdr=0x4788|str=0x4794]
-The robot will water the crops that
+O robo ira regar as plantacoes que
 
 [77|kind=cont|chars=39|hdr=0x47dc|str=0x47e4]
-need it. There is a limit to the number
+precisarem. Ha um limite para o numero
 
 [78|kind=flex|chars=40|hdr=0x4836|str=0x483c]
-of squares that can be watered in a day.
+de blocos que podem ser regados no dia.
 
 [79|kind=cont|chars=33|hdr=0x48e6|str=0x48ee]
-as wood and stone that are in the
+como madeira e pedra que estao no
 
 [80|kind=flex|chars=29|hdr=0x4934|str=0x493a]
-fields and ship them for you.
+campo e os manda para voce.
 
 [81|kind=cont|chars=39|hdr=0x49ca|str=0x49d2]
-planting new crops. It will also remove
+plantando novas culturas. Tambem remove
 
 [82|kind=flex|chars=31|hdr=0x4a24|str=0x4a2a]
-dead plants, rocks, weeds, etc.
+pl. mortas, pedras, ervas, etc.
 
 [83|kind=cont|chars=28|hdr=0x4abe|str=0x4ac6]
-tired from simple farm work.
+cansado com tarefas simples.
 
 [84|kind=flex|chars=28|hdr=0x4b02|str=0x4b08]
-^See %s to have it attached.
+^Fale com %s para instalar.
 
 [85|kind=cont|chars=12|hdr=0x4b96|str=0x4b9e]
-than normal.
+que o usual.
 
 [86|kind=flex|chars=28|hdr=0x4bba|str=0x4bc0]
-^See %s to have it attached.
+^Fale com %s para instalar.
 
 [87|kind=cont|chars=28|hdr=0x4c4e|str=0x4c56]
-tired from any kind of work.
+cansado com qualquer tarefa.
 
 [88|kind=flex|chars=28|hdr=0x4c92|str=0x4c98]
-^See %s to have it attached.
+^Fale com %s para instalar.
 
 [89|kind=cont|chars=23|hdr=0x4d14|str=0x4d1c]
-twice its normal value!
+o dobro do valor normal
 
 [90|kind=flex|chars=28|hdr=0x4d4e|str=0x4d54]
-^See %s to have it attached.
+^Fale com %s para instalar.
 
 [91|kind=flex|chars=14|hdr=0x4f02|str=0x4f08]
 Remove Lixo
@@ -326,10 +326,10 @@ ON
 DONE
 
 [107|kind=flex|chars=1|hdr=0x507a|str=0x5080]
- 
+
 
 [108|kind=flex|chars=1|hdr=0x5086|str=0x508c]
- 
+
 
 [109|kind=flex|chars=5|hdr=0x5146|str=0x514c]
 Levar
@@ -347,10 +347,10 @@ Carreg
 
 
 [114|kind=cont|chars=22|hdr=0x51b4|str=0x51bc]
-Undergoing Maintenance
+Realizando Manutencao
 
 [115|kind=flex|chars=20|hdr=0x51ec|str=0x51f2]
-Maintenance Finished
+Manutencao Concluida
 
 [116|kind=flex|chars=5|hdr=0x5310|str=0x5316]
 Comec
@@ -362,40 +362,40 @@ Recua
 Para
 
 [119|kind=flex|chars=33|hdr=0x53ac|str=0x53b2]
-If you open the map while you are
+Se voce abrir o mapa ao caminhar
 
 [120|kind=flex|chars=34|hdr=0x53f8|str=0x53fe]
-walking outside, you will see your
+do lado de fora, voce vera a sua
 
 [121|kind=flex|chars=25|hdr=0x5446|str=0x544c]
-position marked with a ▽.
+posicao marcada com ▽.
 
 [122|kind=flex|chars=33|hdr=0x5482|str=0x5488]
-If you open the map while you are
+Se voce abrir o mapa ao caminhar
 
 [123|kind=flex|chars=34|hdr=0x54ce|str=0x54d4]
-walking outside, you will see your
+do lado de fora, voce vera a sua
 
 [124|kind=flex|chars=25|hdr=0x551c|str=0x5522]
-position marked with a ▽.
+posicao marcada com ▽.
 
 [125|kind=flex|chars=33|hdr=0x5558|str=0x555e]
-If you open the map while you are
+Se voce abrir o mapa ao caminhar
 
 [126|kind=flex|chars=34|hdr=0x55a4|str=0x55aa]
-walking outside, you will see your
+do lado de fora, voce vera a sua
 
 [127|kind=flex|chars=25|hdr=0x55f2|str=0x55f8]
-position marked with a ▽.
+posicao marcada com ▽.
 
 [128|kind=flex|chars=33|hdr=0x562e|str=0x5634]
-If you open the map while you are
+Se voce abrir o mapa ao caminhar
 
 [129|kind=flex|chars=34|hdr=0x567a|str=0x5680]
-walking outside, you will see your
+do lado de fora, voce vera a sua
 
 [130|kind=flex|chars=25|hdr=0x56c8|str=0x56ce]
-position marked with a ▽.
+posicao marcada com ▽.
 
 [131|kind=flex|chars=4|hdr=0x5712|str=0x5718]
 Menu
@@ -428,28 +428,28 @@ Outono
 Invern
 
 [141|kind=flex|chars=4|hdr=0x5ab0|str=0x5ab6]
-Mon.
+Seg.
 
 [142|kind=flex|chars=4|hdr=0x5ac2|str=0x5ac8]
-Tue.
+Ter.
 
 [143|kind=flex|chars=4|hdr=0x5ad4|str=0x5ada]
-Wed.
+Qua.
 
 [144|kind=flex|chars=4|hdr=0x5ae6|str=0x5aec]
-Thu.
+Qui.
 
 [145|kind=flex|chars=4|hdr=0x5af8|str=0x5afe]
-Fri.
+Sex.
 
 [146|kind=flex|chars=4|hdr=0x5b0a|str=0x5b10]
-Sat.
+Sab.
 
 [147|kind=flex|chars=4|hdr=0x5b1c|str=0x5b22]
-Sun.
+Dom.
 
 [148|kind=flex|chars=3|hdr=0x5d74|str=0x5d7a]
-Est
+Pet
 
 [149|kind=flex|chars=0|hdr=0x5d84|str=0x5d8a]
 
@@ -479,7 +479,7 @@ Ajudan
 -
 
 [158|kind=flex|chars=9|hdr=0x5ed0|str=0x5ed6]
-Personal 
+Personal
 
 [159|kind=cont|chars=1|hdr=0x5eea|str=0x5ef2]
 +
@@ -500,19 +500,19 @@ Hora
 Mostra Hora
 
 [165|kind=flex|chars=14|hdr=0x60d8|str=0x60de]
-Equipment & PP
+Equipam. e PP
 
 [166|kind=flex|chars=7|hdr=0x60fe|str=0x6104]
-Display
+Exibir
 
 [167|kind=flex|chars=14|hdr=0x6128|str=0x612e]
-Always Display
+Sempre Exibir
 
 [168|kind=flex|chars=18|hdr=0x614e|str=0x6154]
-Display When Still
+Exibir se Parado
 
 [169|kind=flex|chars=13|hdr=0x617c|str=0x6182]
-Don't Display
+Nao Exibir
 
 [170|kind=flex|chars=3|hdr=0x61a0|str=0x61a6]
 Tdo
@@ -524,19 +524,19 @@ Data e Hora
 So Hora
 
 [173|kind=flex|chars=14|hdr=0x61f0|str=0x61f6]
-Always Display
+Sempre Exibir
 
 [174|kind=flex|chars=18|hdr=0x6216|str=0x621c]
-Display When Still
+Exibir se Parado
 
 [175|kind=flex|chars=13|hdr=0x6244|str=0x624a]
-Don't Display
+Nao Exibir
 
 [176|kind=flex|chars=3|hdr=0x6268|str=0x626e]
 Tdo
 
 [177|kind=flex|chars=14|hdr=0x6278|str=0x627e]
-Equipment Only
+So Equipamento
 
 [178|kind=flex|chars=7|hdr=0x629e|str=0x62a4]
 PP Apns
