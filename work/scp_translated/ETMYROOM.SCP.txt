@@ -2512,7 +2512,7 @@ Humdedumdedum...
 [587|off=0x15ca6|chars=83]
 Entao este e um nabo? Sao
 bem grandes. E essas folhas
-coçam minha pele...
+cocam minha pele...
 
 [588|off=0x15d54|chars=104]
 Mae assust. me olha com
@@ -4079,7 +4079,7 @@ acampamento a caminho...
 [936|off=0x204ba|chars=121]
 Azul: 36% dos quartos estao
 osociosos. Reorganizando tudo
-pouparíamos 37,6% dos gastos.
+poupariamos 37,6% dos gastos.
 
 [937|off=0x205b8|chars=113]
 Azul: Trocar as armas de
@@ -4473,7 +4473,7 @@ um poder a mais...
 [1019|off=0x23714|chars=66]
 S.Verm.: Se quase esqueceu,
 nao pode ser
-lá grande coisa...
+la grande coisa...
 
 [1020|off=0x237a4|chars=94]
 Azul: Nao, tenho um plano.
@@ -4874,7 +4874,7 @@ ter conhec
 
 [1106|off=0x26748|chars=113]
 Verde: Sim. Pode nao ter
-saido como queríamos,
+saido como queriamos,
 mas nunca esquecerei.
 
 [1107|off=0x26836|chars=99]
@@ -5654,7 +5654,7 @@ seu problema com o poder da
 fofura! Abracadabra zim! Pronto!
 
 [1262|off=0x2ce8c|chars=95]
-*: Ótimo! Ideias chegando
+*: Otimo! Ideias chegando
 na minha cabeca! Obrigada,
 Miss Cute!
 
@@ -5894,7 +5894,7 @@ Alguem por aqui
 precisa de ajuda?
 
 [1309|off=0x2ecc4|chars=68]
-*: Cadê meus oculos?
+*: Cade meus oculos?
 Nunca acho essas
 coisas em lugar nenhum...
 
@@ -6220,7 +6220,7 @@ xicara de cha rela
 
 [1375|off=0x3176c|chars=86]
 Dorothy: E ao mesmo tempo
-esatrá aprendendo sobre o
+esatra aprendendo sobre o
 maravilhoso mundo da culinaria.
 
 [1376|off=0x31824|chars=117]
@@ -7782,7 +7782,7 @@ me explicou
 
 [1700|off=0x3f834|chars=62]
 Nao conseguia imaginar
-o que faríamos
+o que fariamos
 sem meu pai.
 
 [1701|off=0x3f8b8|chars=43]
@@ -7957,7 +7957,7 @@ recusou seus esforcos de
 resgate e assim morreu.
 
 [1735|off=0x40940|chars=23]
-Nao podíamos
+Nao podiamos
 acreditar!
 
 [1736|off=0x40976|chars=70]
@@ -8073,7 +8073,7 @@ todos pareciam alegres.
 [1757|off=0x41558|chars=74]
 Incentivado por esse clima,
 comecei a sentir o
-espírito da estacao.
+espirito da estacao.
 
 [1758|off=0x415f4|chars=64]
 Meu irmao e irma
@@ -8597,7 +8597,7 @@ de nos podia prometer
 nao morrer...
 
 [1860|off=0x44804|chars=62]
-Mas podíamos prometer
+Mas podiamos prometer
 fazer o melhor para
 viver vidas longas e
 
@@ -8803,7 +8803,7 @@ na Caixa
 [1913|off=0x45612|chars=99]
 Se colocar essa Bolsa
 na caixa, as sementes
-irão à Caixa. Tudo bem?
+irao a Caixa. Tudo bem?
 
 [1914|off=0x456e0|chars=48]
 Voce tem atualmente
@@ -9524,7 +9524,7 @@ Miss Cute esta!
 
 [2072|off=0x4a724|chars=34]
 Rei das Bruxas: O que
-você disse?
+voce disse?
 
 [2073|off=0x4a774|chars=65]
 Velho: Tentei sentir
@@ -9940,7 +9940,7 @@ ter energia incrivel se bem usado.
 [2165|off=0x4d5b6|chars=111]
 Rei das Bruxas: Se mandar esse
 poder contra as trevas, pode
-atacá-la pois ela faz parte delas.
+ataca-la pois ela faz parte delas.
 
 [2166|off=0x4d6a0|chars=99]
 Rei das Bruxas: Ou seja, se
@@ -9991,7 +9991,7 @@ todo o coracao!
 
 [2176|off=0x4dc4c|chars=94]
 Rei das Bruxas: Nao dependa de
-coinciências ou natureza,
+coinciencias ou natureza,
 mas da sua vontade forte.
 
 [2177|off=0x4dd14|chars=17]

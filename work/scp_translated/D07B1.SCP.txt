@@ -5,79 +5,79 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0x302|chars=76]
-Esta e sua cama...\nMas nao pode dormir agora.\nFranco esta esperando.        
+Esta e sua cama...\nMas voce nao pode dormir agora.\nFranco esta esperando.
 
 [1|off=0x3a6|chars=56]
-Franco: Entao voce finalmente\ncriou animais, hein?      
+Franco: Entao finalmente\ncomecou a criar animais, hein?
 
 [2|off=0x422|chars=109]
-Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?            
+Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem\nsao invencoes do Dr. Hope?
 
 [3|off=0x508|chars=112]
-Franco: Hoje tudo na fazenda\ne automatizado. Mas usar robos\nera uma ideia bem revolucionaria.                   
+Franco: Hoje tudo na fazenda e\nautomatizado, mas naquela epoca usar\nrobos era uma ideia revolucionaria.
 
 [4|off=0x5f4|chars=61]
-Franco: Ouvi que la fora\nainda os usam bastante.             
+Franco: Ouvi que eles ainda os\nusam bastante no exterior.
 
 [5|off=0x67a|chars=74]
-Moonlight: O balido dos animais\npode ser ouvido de novo\nnestas ruinas!    
+Moonlight: O balido dos animais\npode ser ouvido novamente\nentre essas
 
 [6|off=0x71a|chars=90]
-Moonlight: Sua forca vital vai\najudar a revitalizar\nestas terras e a natureza!            
+Moonlight: Tenho certeza que a\nforca vital deles ira revitalizar\nessa terra e a natureza!
 
 [7|off=0x7da|chars=72]
-Franco: Uau!\nVoce tem muita sorte!\nGanhou um buggy assim de presente!   
+Franco: Uau!\nVoce tem sorte!\nGanhar um buggy assim de presente!
 
 [8|off=0x876|chars=89]
-Franco: Se eu tivesse um buggy,\nlevaria a Rose num passeio\ninesquecivel!                 
+Franco: Se eu tivesse um buggy,\nlevava a Rose num passeio\nque ela nunca esqueceria!
 
 [9|off=0x934|chars=11]
-Moonlight: 
+Moonlight:
 
 [10|off=0x94c|chars=52]
-P! Que belo presente\ndo Dr. Hope voce ganhou.       
+P! Que presente bonito\ndo Dr. Hope que voce ganhou.
 
 [11|off=0x9c0|chars=63]
-Moonlight: Com buggy assim\nvoce pode ir a quase qualquer lugar!
+Moonlight: Num buggy desse voce\npode ir a praticamente\nqualquer
 
 [12|off=0xa4a|chars=60]
-Franco: Nao acredito que Marco\ncometeu um erro tao grande.  
+Franco: Nao acredito que o Marco\ncometeu um erro tao grande.
 
 [13|off=0xace|chars=73]
-Franco: Quando era jovem, todo mundo\nlevava seus pares a aquela caverna. 
+Franco: Quando jovem, todos iam\ncurtir naquela caverna\ncom as namoradas.
 
 [14|off=0xb6c|chars=11]
-Moonlight: 
+Moonlight:
 
 [15|off=0xb84|chars=57]
-P!\nOuvi que tiveram problemas na\ncaverna de Volcano Town.
+P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
 
 [16|off=0xc02|chars=77]
-Moonlight: Vai levar tempo e\nesforco para restaurar ao\nestado original disso.
+Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
 
 [17|off=0xca8|chars=49]
-Franco: Ouvi que voce plantou\nbico-de-papagaio.  
+Franco: Ouvi que voce plantou\nbico-de-papagaio.
 
 [18|off=0xd16|chars=120]
-Franco: Se mandar bastante ate a\nvespera do Natal, podem\nusar para decorar a cidade toda.                               
+Franco: Se voce conseguir enviar\nbastante ate a vespera do\nNatal, podem usar para\ndecorar a cidade!
 
 [19|off=0xe12|chars=21]
-Franco: Que animacao!
+Franco: Nao aguento!
 
 [20|off=0xe48|chars=41]
-Franco: Ouvi que o Dr. Hope\ndesmaiou...  
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
 
 [21|off=0xea6|chars=96]
-Franco: Sei que esta preocupado,\nmas voce tem um trabalho\nimportante a terminar.                
+Franco: Sei que voce deve estar\npreocupado com ele, mas voce tem\num trabalho importante a fazer.
 
 [22|off=0xf72|chars=89]
-Franco: Tenho certeza que a\nmelhor coisa pro Dr. Hope agora\ne ver o quanto voce trabalha.
+Franco: Tenho certeza que a melhor\ncoisa para o Dr. Hope e ver\nvoce trabalhando duro.
 
 [23|off=0x1030|chars=52]
-Moonlight: Nao sabia que\nDr. Hope estava doente...  
+Moonlight: Nao sabia que o\nDr. Hope estava doente...
 
 [24|off=0x10a4|chars=86]
-Moonlight: Imagino que por isso\nele corria tanto para terminar\no trabalho com voce... 
+Moonlight: Suponho que e por isso\nque ele estava com tanta pressa\nde terminar o
 
 [25|off=0x115c|chars=42]
 Franco: Sei que esta triste\ncom Dr. Hope, 
@@ -86,85 +86,85 @@ Franco: Sei que esta triste\ncom Dr. Hope,
 P. Eu tambem
 
 [27|off=0x11d6|chars=31]
-Franco: Era um bom amigo...    
+Franco: Era um bom amigo...
 
 [28|off=0x1220|chars=48]
-Moonlight: Ouvi a voz do\nEspirito do Fogo!      
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
 
 [29|off=0x128c|chars=74]
-Moonlight: Ele me disse que ha\nmais neste mundo do\nque aparece!           
+Moonlight: Disse que ha muito\nmais neste mundo do que\nos olhos veem!
 
 [30|off=0x132c|chars=91]
-Moonlight: O que tento dizer e...\nTenho certeza que o Dr. Hope\nestara olhando por voce,    
+Moonlight: O que estou tentando\ndizer e... Tenho certeza que o\nDr. Hope sempre velara por
 
 [31|off=0x13f4|chars=62]
-Franco: Quem e esse estranho\nque mora no novo quarto?         
+Franco: Quem e aquele homem estranho\nque mora no novo quarto?
 
 [32|off=0x147c|chars=97]
-Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
 
 [33|off=0x154a|chars=61]
-Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
 
 [34|off=0x15d0|chars=43]
-Franco: Um alien mora\nno novo quarto?      
+Franco: Um extraterrestre mora\nno novo
 
 [35|off=0x1632|chars=97]
-Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
 
 [36|off=0x1700|chars=61]
-Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
 
 [37|off=0x1786|chars=11]
-Moonlight: 
+Moonlight:
 
 [38|off=0x179e|chars=76]
-P!\nVi uma coisa estranha parecida\ncom bicho de pelucia no novo quarto.      
+P!\nVi uma coisa estranha parecendo\num bicho de pelucia no novo quarto.
 
 [39|off=0x1842|chars=51]
-Moonlight: Voce fez isso?\nMuito impressionante!    
+Moonlight: Voce fez isso?\nMuito impressionante!
 
 [40|off=0x18b0|chars=28]
-Devia ser um sonho...       
+Devia estar sonhando...
 
 [41|off=0x18f0|chars=28]
-Devia ser um sonho...       
+Devia estar sonhando...
 
 [42|off=0x1932|chars=58]
-P tentou dormir,\nmas nao para de sentir\nque esqueceu algo 
+P tentou dormir,\nmas ficou pensando que\nesqueceu algo
 
 [43|off=0x19b0|chars=32]
-Antes que perceba,\namanheceu... 
+Sem perceber,\namanheceu...
 
 [44|off=0x19fa|chars=43]
-R esta esperando!\nTalvez fale com ele.     
+R esta esperando!\nTalvez voce deva falar
 
 [45|off=0x1a58|chars=60]
-Ouviu uma voz parecida\ncom a de Max por perto...            
+Voce ouviu uma voz parecida\ncom a do Max em algum lugar\npor
 
 [46|off=0x1ad8|chars=66]
-Suas atividades do dia\nanterior aumentaram seu\nNivel Humano!      
+Suas atividades do dia anterior\naumentaram seu Nivel\nHumano!
 
 [47|off=0x1b64|chars=59]
-Quer ir para cama e\ndormir o resto do dia?                 
+Quer ir para a cama e\ndormir pelo resto do dia?
 
 [48|off=0x1be2|chars=58]
-Quer acordar mais cedo\nque o normal amanha?               
+Quer acordar mais cedo\ndo que o normal amanha?
 
 [49|off=0x1c5e|chars=58]
-Quer acordar mais cedo\nque o normal amanha?               
+Quer acordar mais cedo\ndo que o normal amanha?
 
 [50|off=0x1cda|chars=36]
-Quer dormir aqui hoje?              
+Quer dormir aqui hoje?
 
 [51|off=0x1d2a|chars=76]
-Entao quer usar o teleporte\nda barraca para voltar\nao seu proprio quarto?   
+Entao quer usar a funcao de\nteleporte da barraca para\nvoltar ao seu quarto?
 
 [52|off=0x1dca|chars=44]
-Nao tem lugar para\narmar sua barraca!       
+Nao ha lugar para\nmontar sua barraca aqui!
 
 [53|off=0x1e2a|chars=44]
-Nao tem lugar para\narmar sua barraca!       
+Nao ha lugar para\nmontar sua barraca aqui!
 
 [54|off=0x1e8a|chars=6]
 Sim\nNa
@@ -179,28 +179,28 @@ Sim\nNa
 Sim\nNa
 
 [58|off=0x1eda|chars=57]
-Salvar e dormir.\nDormir sem salvar.\nCancelar.            
+Salvar e dormir.\nDormir sem salvar.\nAnular.
 
 [59|off=0x1f54|chars=21]
-Desafio aumentou!\n   
+Desafio aumentou!\n
 
 [60|off=0x1f94|chars=21]
-Desafio aumentou!\n   
+Desafio aumentou!\n
 
 [61|off=0x1fd4|chars=16]
-Amor aumentou!\n 
+Amor aumentou!\n
 
 [62|off=0x200a|chars=24]
-Inteligencia aumentou!\n 
+Inteligencia aumentou!\n
 
 [63|off=0x2050|chars=19]
-Culinaria subiu!\n  
+Culinaria
 
 [64|off=0x208c|chars=22]
-Criatividade aumentou!
+Criatividade
 
 [65|off=0x20ce|chars=17]
-Humor aumentou!\n 
+Humor aumentou!\n
 
 [66|off=0x2106|chars=58]
-Voce nao foi ao Dr. Hope\npara sua manutencao hoje!        
+Voce nao foi a casa do Dr. Hope\npara a manutencao hoje!

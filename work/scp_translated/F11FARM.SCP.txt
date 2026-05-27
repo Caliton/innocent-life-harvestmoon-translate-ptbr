@@ -125,7 +125,7 @@ P!\nVi algo estranho parecendo\num bicho de pelucia no novo quarto.
 Moonlight: Voce fez isso?\nMuito impressionante!
 
 [40|off=0x1c10|chars=20]
-Wait just a minute,\n
+Espere um momento,\n
 
 [41|off=0x1c46|chars=52]
 O ermo alem deste ponto\ne sob meu controle.
@@ -167,16 +167,16 @@ Se perder, liberarei o poder\ndo alien que mantenho\ncontrolado. Ainda quer tent
 Hahaha! Isso sera interessante!\nMuito bem, comece.\nEstarei observando voce.
 
 [54|off=0x2442|chars=14]
-Ah, you came, 
+Ah, voce veio,
 
 [55|off=0x2460|chars=34]
-P.\nUp until yesterday, you farmed\n
+P.\nAte ontem voce tinha cultivado\n
 
 [56|off=0x24a6|chars=30]
 K plantacoes na Fazenda Ermo.
 
 [57|off=0x24ea|chars=25]
-Unless you farm at least 
+Se nao cultivar ao menos
 
 [58|off=0x251e|chars=79]
 K mais,\nvoce perdera e o povo desta\nilha ficara a merce do alien.
@@ -215,10 +215,10 @@ E nao plante ervas\nou flores. Ainda sou\nalergico a elas, sabe.
 E nao plante ervas\nou flores. Ainda sou\nalergico a elas, sabe.
 
 [70|off=0x2b18|chars=64]
-But I'm sure you already knew that.\nAnd now I bid you farewell,\n
+Tenho certeza que ja sabia disso.\nE me despeco de voce agora,\n
 
 [71|off=0x2ba6|chars=64]
-But I'm sure you already knew that.\nAnd now I bid you farewell,\n
+Tenho certeza que ja sabia disso.\nE me despeco de voce agora,\n
 
 [72|off=0x2c34|chars=28]
 Devo ter sonhado...
@@ -260,7 +260,7 @@ Nao ha lugar para\narmar sua barraca!
 Quer esvaziar o conteudo\nda sua Bolsa de Balanca\nno Pod de Envio?
 
 [85|off=0x320c|chars=50]
-You emptied your Scale Pack into\nthe Shipping Pod.
+Voce esvaziou a Bolsa de Balanca\nno Pod de Envio.
 
 [86|off=0x3278|chars=65]
 Quer esvaziar as plantacoes\nda bolsa no Pod de Envio?
@@ -308,19 +308,19 @@ Voce colocou os recursos\nda bolsa no Pod de Envio!
 Esta e a Caixa de Itens. Guarde\nferramentas desnecessarias\nou que nao couberem na bolsa.
 
 [101|off=0x3a9c|chars=55]
-To store or take out items,\nface the box and press the 
+Para guardar ou retirar itens,\nfique de frente e aperte
 
 [102|off=0x3b0c|chars=8]
-\nbutton.
+\nbotao.
 
 [103|off=0x3b24|chars=71]
 Voce pode guardar ferramentas\nque nao cabem na bolsa\njogando-as aqui.
 
 [104|off=0x3bba|chars=12]
-You put the 
+Guardou o
 
 [105|off=0x3bd4|chars=18]
-I in\nthe Item Box.
+I\nna Caixa Itens.
 
 [106|off=0x3c00|chars=12]
 Colocar 
@@ -329,10 +329,10 @@ Colocar
 I na Caixa de Itens\nreduzira a qualidade e\no valor. Tem certeza?
 
 [108|off=0x3cb8|chars=12]
-You put the 
+Guardou o
 
 [109|off=0x3cd2|chars=18]
-I in\nthe Item Box.
+I\nna Caixa Itens.
 
 [110|off=0x3cfe|chars=18]
 Nao pode colocar 
@@ -353,7 +353,7 @@ Nao ha nada na\nCaixa de Itens...
 Nao cabe mais itens\nna sua bolsa!
 
 [116|off=0x3ec6|chars=8]
-You put 
+Colocou
 
 [117|off=0x3ede|chars=16]
 i\nna sua bolsa!
@@ -365,7 +365,7 @@ Voce retirou
 I\ne colocou na bolsa!
 
 [120|off=0x3f64|chars=23]
-You can't take out the\n
+Nao pode retirar o\n
 
 [121|off=0x3f94|chars=27]
 I enquanto segura 
@@ -428,10 +428,10 @@ O que quer colocar\nna Caixa de Itens?
 Nao ha nada\nna sua bolsa.
 
 [141|off=0x43a8|chars=8]
-You put 
+Colocou
 
 [142|off=0x43c0|chars=18]
-i\nin the Item Box.
+i\nna Caixa Itens.
 
 [143|off=0x43ec|chars=12]
 Colocar 
@@ -458,7 +458,7 @@ Voce pegou
 I\nda bolsa e colocou\nna Caixa de Itens.
 
 [151|off=0x4680|chars=49]
-You took the Seed Bag\nand put it in the Item Box.
+Pegou a Bolsa de Sementes\ne pos na Caixa Itens.
 
 [152|off=0x46ea|chars=99]
 Se colocar a Bolsa de Sementes\nna caixa, as sementes irao\npara a Caixa de Sementes. Ok?
@@ -476,10 +476,10 @@ Esta e a Caixa de Itens. Use\n
  para ver o menu.
 
 [157|off=0x4954|chars=72]
-This is the Seed Box. Use it to\nempty or put new seeds in your\nSeed Bag.
+Caixa de Sementes.\nPara esvaziar ou colocar\nnovas sementes na Bolsa.
 
 [158|off=0x49ec|chars=85]
-To look inside the Seed Box or to\nput in or remove seeds, face the box\nand press the 
+Para ver, colocar ou retirar sementes\nda Caixa de Sementes, enfrente-a\ne aperte
 
 [159|off=0x4a98|chars=8]
  botao.
@@ -488,40 +488,40 @@ To look inside the Seed Box or to\nput in or remove seeds, face the box\nand pre
 Quais sementes quer retirar?
 
 [161|off=0x4b00|chars=42]
-You don't have a Seed Bag\nfor those seeds.
+Nao tem Bolsa para\nessas sementes.
 
 [162|off=0x4b5c|chars=9]
-You  put 
+Colocou
 
 [163|off=0x4b70|chars=19]
 K quadrados de\n
 
 [164|off=0x4b98|chars=24]
-I seeds in\nthe Seed Bag!
+I sementes\nna Bolsa!
 
 [165|off=0x4bd0|chars=39]
 Quais sementes quer guardar?
 
 [166|off=0x4c36|chars=51]
-You don't have any Seed Bags\nthat hold seeds now...
+Nao tem Bolsas de Sementes\ncom sementes agora...
 
 [167|off=0x4ca4|chars=51]
-You don't have any Seed Bags\nthat hold seeds now...
+Nao tem Bolsas de Sementes\ncom sementes agora...
 
 [168|off=0x4d12|chars=9]
-You  put 
+Colocou
 
 [169|off=0x4d26|chars=19]
 K quadrados de\n
 
 [170|off=0x4d4e|chars=24]
-I seeds in the\nSeed Box!
+I sementes\nna Caixa!
 
 [171|off=0x4d86|chars=55]
-You put all of the seeds in your bag\ninto the Seed Box!
+Colocou todas as sementes da bolsa\nna Caixa Sementes!
 
 [172|off=0x4dfc|chars=53]
-These seeds and bulbs are\ncurrently in your Seed Box:
+Estas sementes e bulbos\nestao na Caixa Sementes:
 
 [173|off=0x4e6e|chars=67]
 Retirar sementes\nGuardar sementes\nGuardar todas\nVer caixa\nAnular
@@ -575,28 +575,28 @@ Ok\nNao
 Salvar e dormir.\nDormir sem salvar.\nAnular.
 
 [190|off=0x50fe|chars=23]
-Start.\nBack up.\nCancel.
+Iniciar.\nVoltar.\nAnular
 
 [191|off=0x5134|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [192|off=0x5174|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [193|off=0x51b4|chars=16]
-Love increased!\n
+Amor aumentou!\n
 
 [194|off=0x51ea|chars=24]
-Intelligence increased!\n
+Inteligencia aumentou!\n
 
 [195|off=0x5230|chars=19]
-Cooking increased!\n
+Cozinha aumentou!\n
 
 [196|off=0x526c|chars=22]
-Creativity increased!\n
+Criacao aumentou!\n
 
 [197|off=0x52ae|chars=17]
-Humor increased!\n
+Humor aumentou!\n
 
 [198|off=0x52e6|chars=51]
 Ver cesta.\nIniciar Life Arm.\nAnular.

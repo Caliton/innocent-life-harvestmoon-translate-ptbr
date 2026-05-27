@@ -134,7 +134,7 @@ Moonlight: Voce fez isso?\nMuito impressionante!
 *: Miau miau miau.
 
 [43|off=0x1d20|chars=19]
-*: Meow.\nMeeeeow...
+*: Miau.\nMiaaau...
 
 [44|off=0x1d4e|chars=58]
 O gato olha pra voce\ncom carinho. Parece\ngostar de voce.
@@ -452,7 +452,7 @@ Coloque Trilhos pela Praca da\nUnidade Auto. Itens no Vagao\nserao enviados. Pra
 Fisiocracy e Magia,
 
 [149|off=0x4514|chars=21]
-\n~or "Book of Spirit"
+\n~"Livro do Espirito"
 
 [150|off=0x4546|chars=69]
 Com Agua Sagrada e\num Regador Mistico,\nvoce pode derreter neve.
@@ -521,25 +521,25 @@ Ok\nNao
 Salvar e dormir.\nDormir sem salvar.\nAnular.
 
 [172|off=0x4dda|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [173|off=0x4e1a|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [174|off=0x4e5a|chars=16]
-Love increased!\n
+Amor aumentou!\n
 
 [175|off=0x4e90|chars=24]
-Intelligence increased!\n
+Inteligencia subiu!\n
 
 [176|off=0x4ed6|chars=19]
-Cooking increased!\n
+Cozinha aumentou!\n
 
 [177|off=0x4f12|chars=22]
-Creativity increased!\n
+Criatividade subiu!\n
 
 [178|off=0x4f54|chars=17]
-Humor increased!\n
+Humor aumentou!\n
 
 [179|off=0x4f8c|chars=4]
 Life

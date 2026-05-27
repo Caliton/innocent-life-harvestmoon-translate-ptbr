@@ -5,13 +5,13 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0x302|chars=76]
-Esta e a sua cama...\nVoce nao pode dormir\nagora. Franco esta esperando.
+Esta e sua cama...\nMas voce nao pode dormir agora.\nFranco esta esperando.
 
 [1|off=0x3a6|chars=56]
 Franco: Entao finalmente\ncomecou a criar animais, hein?
 
 [2|off=0x422|chars=109]
-Franco: Sabia que os robos criadores\ncomo o Cluck-o-Matic tambem sao\ninvencoes do Dr. Hope?
+Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem\nsao invencoes do Dr. Hope?
 
 [3|off=0x508|chars=112]
 Franco: Hoje tudo na fazenda e\nautomatizado, mas naquela epoca usar\nrobos era uma ideia revolucionaria.
@@ -29,13 +29,13 @@ Moonlight: Tenho certeza que a\nforca vital deles ira revitalizar\nessa terra e 
 Franco: Uau!\nVoce tem sorte!\nGanhar um buggy assim de presente!
 
 [8|off=0x876|chars=89]
-Franco: Se eu tivesse um buggy\ndesses, levaria a Rose num passeio\nque ela nunca
+Franco: Se eu tivesse um buggy,\nlevava a Rose num passeio\nque ela nunca esqueceria!
 
 [9|off=0x934|chars=11]
 Moonlight:
 
 [10|off=0x94c|chars=52]
-P! Vi que voce ganhou\num presente do Dr. Hope.
+P! Que presente bonito\ndo Dr. Hope que voce ganhou.
 
 [11|off=0x9c0|chars=63]
 Moonlight: Num buggy desse voce\npode ir a praticamente\nqualquer
@@ -44,7 +44,7 @@ Moonlight: Num buggy desse voce\npode ir a praticamente\nqualquer
 Franco: Nao acredito que o Marco\ncometeu um erro tao grande.
 
 [13|off=0xace|chars=73]
-Franco: Quando era jovem, todos\nlevavam seus namorados\naquella caverna.
+Franco: Quando jovem, todos iam\ncurtir naquela caverna\ncom as namoradas.
 
 [14|off=0xb6c|chars=11]
 Moonlight:
@@ -56,13 +56,13 @@ P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
 Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
 
 [17|off=0xca8|chars=49]
-Franco: Ouvi que voce plantou\nalgunas
+Franco: Ouvi que voce plantou\nbico-de-papagaio.
 
 [18|off=0xd16|chars=120]
 Franco: Se voce conseguir enviar\nbastante ate a vespera do\nNatal, podem usar para\ndecorar a cidade!
 
 [19|off=0xe12|chars=21]
-Franco: Mal posso
+Franco: Nao aguento!
 
 [20|off=0xe48|chars=41]
 Franco: Ouvi que o Dr. Hope\ndesmaiou...
@@ -74,25 +74,25 @@ Franco: Sei que voce deve estar\npreocupado com ele, mas voce tem\num trabalho i
 Franco: Tenho certeza que a melhor\ncoisa para o Dr. Hope e ver\nvoce trabalhando duro.
 
 [23|off=0x1030|chars=52]
-Moonlight: Nunca soube que o\nDr. Hope estava tao
+Moonlight: Nao sabia que o\nDr. Hope estava doente...
 
 [24|off=0x10a4|chars=86]
 Moonlight: Suponho que e por isso\nque ele estava com tanta pressa\nde terminar o
 
 [25|off=0x115c|chars=42]
-Franco: Sei que voce ta triste\npelo Dr.
+Franco: Sei que esta triste\ncom Dr. Hope, 
 
 [26|off=0x11b2|chars=12]
-P. Eu
+P. Eu tambem
 
 [27|off=0x11d6|chars=31]
-Franco: Ele era um bom amigo...
+Franco: Era um bom amigo...
 
 [28|off=0x1220|chars=48]
 Moonlight: Ouvi a voz do\nEspirito do Fogo!
 
 [29|off=0x128c|chars=74]
-Moonlight: Ele me disse que ha\nmais neste mundo do que\naparenta!
+Moonlight: Disse que ha muito\nmais neste mundo do que\nos olhos veem!
 
 [30|off=0x132c|chars=91]
 Moonlight: O que estou tentando\ndizer e... Tenho certeza que o\nDr. Hope sempre velara por
@@ -104,7 +104,7 @@ Franco: Quem e aquele homem estranho\nque mora no novo quarto?
 Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
 
 [33|off=0x154a|chars=61]
-Franco: Bom, acho que nao devemos\nnos preocupar tanto com
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
 
 [34|off=0x15d0|chars=43]
 Franco: Um extraterrestre mora\nno novo
@@ -113,7 +113,7 @@ Franco: Um extraterrestre mora\nno novo
 Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
 
 [36|off=0x1700|chars=61]
-Franco: Bom, acho que nao devemos\nnos preocupar tanto com
+Franco: Acho que nao devemos\nnos preocupar tanto com isso.
 
 [37|off=0x1786|chars=11]
 Moonlight:
@@ -131,10 +131,10 @@ Devia estar sonhando...
 Devia estar sonhando...
 
 [42|off=0x1932|chars=58]
-P tentou dormir, mas ficou\npensando que havia
+P tentou dormir,\nmas ficou pensando que\nesqueceu algo
 
 [43|off=0x19b0|chars=32]
-Sem perceber, amanheceu...
+Sem perceber,\namanheceu...
 
 [44|off=0x19fa|chars=43]
 R esta esperando!\nTalvez voce deva falar
@@ -143,7 +143,7 @@ R esta esperando!\nTalvez voce deva falar
 Voce ouviu uma voz parecida\ncom a do Max em algum lugar\npor
 
 [46|off=0x1ad8|chars=66]
-As atividades do dia anterior\naumentaram seu\nNivel Humano!
+Suas atividades do dia anterior\naumentaram seu Nivel\nHumano!
 
 [47|off=0x1b64|chars=59]
 Quer ir para a cama e\ndormir pelo resto do dia?

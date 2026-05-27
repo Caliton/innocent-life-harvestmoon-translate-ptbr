@@ -5,194 +5,193 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0x5e2|chars=76]
-This is your bed...\nBut you can't take a nap now.\nFranco is waiting for you.
+Esta e sua cama...\nMas voce nao pode descansar agora.\nFranco esta esperando.
 
 [1|off=0x686|chars=56]
-Franco: So you've finally started\nraising livestock, eh?
+Franco: Entao voce comecou\na criar animais, hein?
 
 [2|off=0x702|chars=109]
-Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem sao\ninvencoes do Dr. Hope?
 
 [3|off=0x7e8|chars=112]
-Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+Franco: Hoje tudo na fazenda e\nautomatizado, mas antes usar robos\nera uma ideia bem revolucionaria.
 
 [4|off=0x8d4|chars=61]
-Franco: I hear that they still use them\nquite a lot overseas.
+Franco: Ouvi dizer que ainda os usam\nbastante la fora.
 
 [5|off=0x95a|chars=74]
-Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+Moonlight: O balido animal\npode ser ouvido de novo\nentre essas ruinas!
 
 [6|off=0x9fa|chars=90]
-Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+Moonlight: Tenho certeza que\nsua forca vai ajudar a revitalizar\nesta terra e a natureza!
 
 [7|off=0xaba|chars=72]
-Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+Franco: Uau!\nVoce tem sorte!\nGanhou um buggy desses de presente!
 
 [8|off=0xb56|chars=89]
-Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+Franco: Se eu tivesse um buggy,\nlevaria a Rose para um passeio\nque ela jamais esqueceria!
 
 [9|off=0xc14|chars=11]
-Moonlight: 
+Moonlight:
 
 [10|off=0xc2c|chars=52]
-P! I see you got\nquite a nice present from Dr. Hope.
+P! Vejo que ganhou\num belo presente do Dr. Hope.
 
 [11|off=0xca0|chars=63]
-Moonlight: You can go just about\nanywhere in a buggy like that!
+Moonlight: Num buggy desse voce\npode ir a quase qualquer lugar!
 
 [12|off=0xd2a|chars=60]
-Franco: I can't believe Marco could make\nsuch a big mistake.
+Franco: Nao credo que Marco\ncometeu um erro tao grande.
 
 [13|off=0xdae|chars=73]
-Franco: When I was young, everyone used\nto take their dates to that cave.
+Franco: Quando jovem, todo mundo\nlevava suas paqueras para aquela gruta.
 
 [14|off=0xe4c|chars=11]
-Moonlight: 
+Moonlight:
 
 [15|off=0xe64|chars=57]
-P!\nI hear they had some trouble in the\nVolcano Town cave.
+P!\nOuvi que tiveram problemas na\ngruta de Volcano Town.
 
 [16|off=0xee2|chars=77]
-Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
 
 [17|off=0xf88|chars=49]
-Franco: I hear that you planted some\npoinsettias.
+Franco: Ouvi que voce plantou\nbicos-de-papagaio.
 
 [18|off=0xff6|chars=120]
-Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+Franco: Se conseguir enviar bastante\ndeles antes da vespera de Natal,\npodemos usa-los para decorar a cidade.
 
 [19|off=0x10f2|chars=21]
-Franco: I can't wait!
+Franco: Que bom!
 
 [20|off=0x1128|chars=41]
-Franco: I hear that Dr. Hope\ncollapsed...
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
 
 [21|off=0x1186|chars=96]
-Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+Franco: Sei que voce deve estar\npreocupado, mas tem um\ntrabalho importante para terminar.
 
 [22|off=0x1252|chars=89]
-Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+Franco: O melhor para o Dr. Hope\nagora e ver o quanto\nvoce esta se dedicando.
 
 [23|off=0x1310|chars=52]
-Moonlight: I never knew that Dr. Hope\nwas so sick...
+Moonlight: Nao sabia que\no Dr. Hope estava doente...
 
 [24|off=0x1384|chars=86]
-Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+Moonlight: Suponho que por\nisso ele tinha tanta pressa\nde terminar o trabalho...
 
 [25|off=0x143c|chars=42]
-Franco: I know you're sad about Dr.\nHope, 
+Franco: Sei que esta triste,\nDr. Hope,
 
 [26|off=0x1492|chars=12]
-P. I am too.
+P. Eu sim.
 
 [27|off=0x14b6|chars=31]
-Franco: He was a good friend...
+Franco: Ele era um bom amigo...
 
 [28|off=0x1500|chars=48]
-Moonlight: I heard the voice of the\nFire Spirit!
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
 
 [29|off=0x156c|chars=74]
-Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+Moonlight: Ele me disse que ha\nmuito mais neste mundo do que\naparenta!
 
 [30|off=0x160c|chars=91]
-Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+Moonlight: O que quero dizer e...\nTenho certeza de que o Dr. Hope\nvai cuidar de voce,
 
 [31|off=0x16d4|chars=62]
-Franco: Who is that strange man who\nnow lives in the new room?
+Franco: Quem e esse homem estranho\nque mora no novo quarto?
 
 [32|off=0x175c|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, aquela area ficou\nfechada por muito tempo,\ne como se ninguem fosse dono...
 
 [33|off=0x182a|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Acho que nao devemos\nnos preocupar muito com isso.
 
 [34|off=0x18b0|chars=43]
-Franco: An alien is living in the new\nroom?
+Franco: Um alien mora\nno novo quarto?
 
 [35|off=0x1912|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, aquela area ficou\nfechada por muito tempo,\ne como se ninguem fosse dono...
 
 [36|off=0x19e0|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Acho que nao devemos\nnos preocupar muito com isso.
 
 [37|off=0x1a66|chars=11]
-Moonlight: 
+Moonlight:
 
 [38|off=0x1a7e|chars=76]
-P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+P!\nVi uma coisa estranha que parecia\num bicho de pelucia no novo quarto.
 
 [39|off=0x1b22|chars=51]
-Moonlight: Did you make that?\nIt's very impressive!
+Moonlight: Voce fez isso?\nMuito impressionante!
 
 [40|off=0x1b94|chars=77]
-Mermaid: I pity you, life form.\nCaught up in the middle of this\nancient feud.
+Mermaid: Tenho pena de voce, ser vivo.\nPreso no meio desta\nantiga rivalidade.
 
 [41|off=0x1c3a|chars=59]
-Mermaid: What do the humans think they\ncan do about it now?
+Mermaid: O que os humanos acham\nque podem fazer agora?
 
 [42|off=0x1cbc|chars=112]
-Mermaid: If you wish to approach the\nGiant Forest, bring me the symbol that\nwas entrusted to the Water Spirit...
+Mermaid: Se deseja se aproximar da\nGrande Floresta, traga-me o simbolo\nconfiado ao Espirito da Agua...
 
 [43|off=0x1da8|chars=52]
-Mermaid: Bring to me the Crest of the\nForest Spirit.
+Mermaid: Traga-me o Brasao do\nEspirito da Floresta.
 
 [44|off=0x1e1c|chars=79]
-Mermaid: I pity you, life form. You're\ncaught in the middle of an\nancient feud.
+Mermaid: Tenho pena de voce, ser vivo.\nPreso no meio de uma\nantiga rivalidade.
 
 [45|off=0x1ec6|chars=117]
-Mermaid: But if the Water Spirit wishes\nthat the way be opened to you, then so\nbe it. You may enter the Giant Forest.
+Mermaid: Mas se o Espirito da Agua\ndeseja que o caminho seja aberto,\nassim seja. Entre na Grande Floresta.
 
 [46|off=0x1fbc|chars=74]
-Mermaid: However, I can only clear the\nMist Forest. The rest is up to you.
+Mermaid: Porem, so limpo\na Floresta da Nevoa.\nO resto e por sua conta.
 
 [47|off=0x205c|chars=74]
-Mermaid: However, I can only clear the\nMist Forest. The rest is up to you.
+Mermaid: Porem, so limpo\na Floresta da Nevoa.\nO resto e por sua conta.
 
 [48|off=0x20fc|chars=42]
-Mermaid: Go now.\nThe path is open for you!
+Mermaid: Va agora.\nO caminho esta aberto!
 
 [49|off=0x215c|chars=42]
-Mermaid: Go now.\nThe path is open for you!
+Mermaid: Va agora.\nO caminho esta aberto!
 
 [50|off=0x21b8|chars=28]
-I must have been dreaming...
+Devo ter sido um sonho...
 
 [51|off=0x21fa|chars=58]
-P tried to sleep,\nbut he kept thinking he forgot\nsomething
+P tentou dormir,\nmas ficou pensando que\nesqueceu algo
 
 [52|off=0x2278|chars=32]
-Before you know it,\nit's dawn...
+Antes que perceba,\nja e manha...
 
 [53|off=0x22c2|chars=43]
-R is waiting!\nMaybe you should talk to him.
+R espera!\nTalvez deva falar com ele.
 
 [54|off=0x2320|chars=60]
-You heard a voice that sounds like\nMax's somewhere nearby...
+Voce ouviu uma voz como a\ndo Max em algum lugar proximo...
 
 [55|off=0x23a0|chars=66]
-Your activities from the previous\nday increased your Human\nStatus!
+Suas atividades do dia anterior\naumentaram seu Nivel\nHumano!
 
 [56|off=0x242c|chars=59]
-Do you want to go to bed and\nsleep for the rest of the day?
+Quer ir para a cama e\ndormir pelo resto do dia?
 
 [57|off=0x24aa|chars=58]
-Do you want to get up earlier than\nusual tomorrow morning?
+Quer acordar mais cedo\nque o normal amanha de manha?
 
 [58|off=0x2526|chars=58]
-Do you want to get up earlier than\nusual tomorrow morning?
+Quer acordar mais cedo\nque o normal amanha de manha?
 
 [59|off=0x25a2|chars=36]
-Quer dormir aqui
-por hoje?
+Quer dormir aqui\npor hoje?
 
 [60|off=0x25f2|chars=76]
-Then do you want to use the tent's\nwarp function to return to your own\nroom?
+Entao quer usar o teleporte\nda barraca para voltar\nao seu quarto?
 
 [61|off=0x2692|chars=44]
-There's no place for\nyou to pitch your tent!
+Nao ha lugar para\nvoceh armar sua barraca!
 
 [62|off=0x26f2|chars=44]
-This is a very expensive looking\nwardrobe...
+Este guarda-roupa parece\nser muito caro...
 
 [63|off=0x2752|chars=31]
 Ha pratos enfileirados aqui.
@@ -201,7 +200,7 @@ Ha pratos enfileirados aqui.
 Voce tenta lavar as maos.
 
 [65|off=0x27d6|chars=30]
-This sink is very easy to use.
+A pia e muito facil de usar.
 
 [66|off=0x281a|chars=25]
 Suas maos estao limpas.
@@ -210,13 +209,13 @@ Suas maos estao limpas.
 Mas nao havia sabao...
 
 [68|off=0x288c|chars=40]
-The water pressure seems a little\nlow...
+A pressao da agua parece\nbem baixa...
 
 [69|off=0x28e4|chars=48]
-You were surprised at how dirty\nyour hands were.
+Voce se surpreendeu\ncom o quanto as maos sujas.
 
 [70|off=0x294c|chars=43]
-There's water splashed all around\nthe sink!
+Ha agua espalhada por toda\na pia!
 
 [71|off=0x29aa|chars=24]
 Voce limpa o local.
@@ -225,19 +224,19 @@ Voce limpa o local.
 Saiu agua morna...
 
 [73|off=0x2a1e|chars=49]
-The drain doesn't seem to be\nworking very well...
+O ralo parece nao estar\nfuncionando muito bem...
 
 [74|off=0x2a88|chars=41]
-Hot water came out with\nincredible force!
+Saiu agua quente com\nforca incrivel!
 
 [75|off=0x2ae2|chars=44]
-A very nice smell surrounds the\nsoap here...
+Um aroma agradavel\nemana do sabao aqui...
 
 [76|off=0x2b42|chars=55]
-You try washing your face.\nYou feel somewhat refreshed.
+Voce lava o rosto.\nSente-se um pouco mais animado.
 
 [77|off=0x2bb8|chars=42]
-There are lots of things on the\nshelves...
+Ha muitas coisas nas\nprateleiras...
 
 [78|off=0x2c14|chars=19]
 Ha vinho aqui.
@@ -246,124 +245,121 @@ Ha vinho aqui.
 Voce olha para o vaso.
 
 [80|off=0x2c78|chars=32]
-It seems to have been flushed...
+Parece ter sido descarregado...
 
 [81|off=0x2cc0|chars=21]
-It's sparkling clean!
+Brilhando de limpo!
 
 [82|off=0x2cf2|chars=28]
-You push the "Flush" button.
+Voce aperta o botao "Flush".
 
 [83|off=0x2d32|chars=30]
 Ha um bilhete no vaso.
 
 [84|off=0x2d76|chars=20]
-"Please keep clean!"
+"Mantenha limpo!"
 
 [85|off=0x2da6|chars=70]
-It appears to have a toilet seat\nthat raises and lowers automatically.
+Parece ter uma tampa de vaso\nque sobe e desce automaticamente.
 
 [86|off=0x2e3a|chars=68]
-There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+Ha um adesivo da Banks Corporation\nna lateral da tampa\ndo vaso.
 
 [87|off=0x2eca|chars=53]
-The scent of aromatic oil floats\naround the toilet...
+O cheiro de oleo aromatico\npaira ao redor do vaso...
 
 [88|off=0x2f3c|chars=29]
-This is an automatic bathtub.
+E uma banheira automatica.
 
 [89|off=0x2f7e|chars=62]
-You opened the drawer.\nThere are many different things\ninside.
+Voce abriu a gaveta.\nHa muitas coisas diferentes\nla dentro.
 
 [90|off=0x3002|chars=64]
-This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+E um guarda-roupa.\nNao ha nada muito incomum\nla dentro.
 
 [91|off=0x308a|chars=38]
-There are many books in the\nbookshelf.
+Ha muitos livros na\nestante.
 
 [92|off=0x30de|chars=45]
-But there's no reason for you to\nread them...
+Mas nao ha motivo para\nvoce os ler...
 
 [93|off=0x3140|chars=26]
 Voce abre a geladeira.
 
 [94|off=0x317c|chars=65]
-But you quickly close it again\nto prevent the food from spoiling.
+Mas logo a fecha de novo\npara evitar que a comida estrague.
 
 [95|off=0x3206|chars=75]
-"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+"Serpente Arco-iris"\n  Ela te leva pela floresta\nou a tentacao?
 
 [96|off=0x32a4|chars=86]
-"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+"Arvores Sussurrantes"\n  Vozes distantes. Vozes proximas.\nEcos do ceu. O som do lago.
 
 [97|off=0x3358|chars=63]
-"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+"Lua do Deserto"\n  As estrelas viram areia e\nvoltam a terra.
 
 [98|off=0x33de|chars=50]
-"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+"Valsa"\n  Visitantes do mar. Gira gira\ngira...
 
 [99|off=0x344a|chars=71]
-"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+"Constelacao do Sul"\n  Veja o Centauro. Escultura\ne pintura.
 
 [100|off=0x34e0|chars=39]
-"Here and There"\n  Where on earth am I?
+"Aqui e Ali"\n  Onde diabos estou?
 
 [101|off=0x3536|chars=39]
-"Straight Ahead: South Heartflame\nCave"
+"Em Frente: Caverna Sul\nde Heartflame"
 
 [102|off=0x358c|chars=30]
-"Em Frente: Ruinas
-de Pascoa"
+"Em Frente: Ruinas\nde Pascoa"
 
 [103|off=0x35d0|chars=45]
-"Straight Ahead: Southeast Bank\nof East Lake"
+"Em Frente: Margem Sudeste\ndo Lago Leste"
 
 [104|off=0x3632|chars=23]
-"East: Mushroom Forest"
+"Leste: Fl. Cogumelo"
 
 [105|off=0x3668|chars=45]
-"Straight Ahead: Southwest Bank\nof East Lake"
+"Em Frente: Margem Sudoeste\ndo Lago Leste"
 
 [106|off=0x36ca|chars=37]
-"Danger! Fallen Trees.\nDo Not Enter."
+"Perigo! Arvores Caidas.\nNao Entre."
 
 [107|off=0x371c|chars=25]
-"East: Heartflame Desert"
+"Leste: Des. Heartflame"
 
 [108|off=0x3756|chars=18]
-"Heartflame Dunes"
+"Dunas Heartflame"
 
 [109|off=0x3782|chars=26]
-"North: Heartflame Plains"
+"Norte: Plan. Heartflame"
 
 [110|off=0x37be|chars=19]
-"Heartflame Plains"
+"Plan. Heartflame"
 
 [111|off=0x37ec|chars=32]
-"Margem SE do Lago
-da Sereia"
+"Margem SE do Lago\nda Sereia"
 
 [112|off=0x3834|chars=14]
-"Mermaid Lake"
+"Lago Sereia"
 
 [113|off=0x3858|chars=24]
-"South: Mushroom Forest"
+"Sul: Floresta Cogumelo"
 
 [114|off=0x3890|chars=32]
-"Margem SO do Lago
-da Sereia"
+"Margem SO do Lago\nda Sereia"
 
 [115|off=0x38d8|chars=11]
-"East Lake"
+"Lago Este"
 
 [116|off=0x38f6|chars=54]
-I found a TV schedule wedged\nbetween sodden magazines.
+Encontrei uma grade de TV\nentre revistas molhadas.
 
 [117|off=0x396a|chars=73]
-Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+Seg. Qua. Sex.\n"Jornada do Gatinho?"\n"Final Z Rangers,"
 
 [118|off=0x3a04|chars=70]
-Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+Ter. Qui. "Melancholy Woods,"\nSab&Dom. "Miss Fofa, Aprendiz de Bruxa,"
 
 [119|off=0x3a9a|chars=28]
 Como jogar com Trilhos,
@@ -372,10 +368,10 @@ Como jogar com Trilhos,
  ~Rails
 
 [121|off=0x3aea|chars=57]
-First, lay rails and\nprepare conditions to use Pod Rails.
+Primeiro, ponha trilhos e\nprepare condicoes para usa-los.
 
 [122|off=0x3b64|chars=113]
-You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+Voce pode deixar o trem circular,\nou ir e vir entre dois pontos.\nOnde ha trilho, ha caminho.
 
 [123|off=0x3c52|chars=28]
 Como jogar com Trilhos,
@@ -384,10 +380,10 @@ Como jogar com Trilhos,
  ~Motors
 
 [125|off=0x3ca4|chars=102]
-Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+Os Motores agem como locomotivas.\nColocados nos trilhos para rodar,\nvoce pode mover vagoes.
 
 [126|off=0x3d78|chars=96]
-You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+Voce pode controlar o motor pelo\nMenu de Comandos, ou controla-lo\ndiretamente no monitor com o
 
 [127|off=0x3e3a|chars=8]
  botao.
@@ -396,73 +392,73 @@ You can control the motor from the\nCommand Menu, or directly control\nit on the
 "Como jogar com Trilhos," ~ Vagoes
 
 [129|off=0x3ea6|chars=118]
-Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+Vagoes funcionam como Furgoes e\nPassageiros. Com Motores, podem\ncorrer nos Trilhos com Carga ou Gente.
 
 [130|off=0x3f9a|chars=62]
-You can be a driver\nif you operate Motors\nwhile riding a Cart.
+Voce pode ser o condutor\nse operar os Motores\nnum Vagao.
 
 [131|off=0x401e|chars=40]
 "Como jogar com Trilhos," ~Envio
 
 [132|off=0x4076|chars=95]
-If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+Ao comprar Unidades Auto, elas\nserao colocadas entre\ndois Bins de Envio na Fazenda.
 
 [133|off=0x413c|chars=120]
-Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+Coloque Trilhos passando pela Praca\nna frente da Unidade Auto. Itens no\nVagao serao enviados automaticamente.
 
 [134|off=0x4236|chars=22]
 Fisiocracia e Magia,
 
 [135|off=0x4264|chars=21]
-\n~or "Book of Spirit"
+\n~ou "Livro Espirito"
 
 [136|off=0x4296|chars=69]
-If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+Com Agua Sagrada\nnum Regador Mistico,\npode-se derreter a neve.
 
 [137|off=0x4328|chars=75]
-You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+So e possivel usar um Regador Mistico\nse voce trabalhou duro na Fazenda...
 
 [138|off=0x43c6|chars=59]
-It's a book with Fairy Tales\nfor early childhood education.
+E um livro de Contos de Fadas\npara a educacao infantil.
 
 [139|off=0x4444|chars=91]
-I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+Parei numa pagina com\num boneco de madeira\nsendo engolido por uma grande baleia...
 
 [140|off=0x4502|chars=28]
-My heart is twinging...\nWhy?
+Meu coracao doi...\nPor que?
 
 [141|off=0x4542|chars=44]
-It's a Haiku Book\nwritten by Principle Rose.
+E um Livro de Haiku\nda Diretora Rose.
 
 [142|off=0x45a2|chars=68]
-There are more Haikus about love\nthan about scenery or daily life...
+Ha mais Haikus sobre amor\ndo que sobre paisagem ou cotidiano...
 
 [143|off=0x4632|chars=69]
-It's like reading someone else's diary.\nI feel a little bit guilty...
+E como ler o diario de outra pessoa.\nMesinto um pouco culpado...
 
 [144|off=0x46c6|chars=30]
-Tale of the Love & Bow Knight,
+O Cavaleiro do Arco e do Amor,
 
 [145|off=0x4704|chars=7]
  Vol. 1
 
 [146|off=0x471a|chars=63]
-Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+Cavaleiro: P-p-pegue este arco!\nPrincesa: ... sou eu que quer?
 
 [147|off=0x47a0|chars=108]
-There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+Sem mais hesitar.\nEle tomou coragem e deu um presente.\nO por do sol deixou o rosto\ndo Cavaleiro vermelho...
 
 [148|off=0x4882|chars=30]
-Tale of the Love & Bow Knight,
+O Cavaleiro do Arco e do Amor,
 
 [149|off=0x48c0|chars=7]
  Vol. 2
 
 [150|off=0x48d6|chars=73]
-Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+Princesa: Tambem tenho algo pra te dar,\nCavaleiro: I-isso e...um broche!?
 
 [151|off=0x4970|chars=106]
-They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+Eles se apaixonaram.\nEstavam a cerca de 100 pixels de\ndistancia quando uma sombra os cobriu.
 
 [152|off=0x4a4c|chars=6]
 Yes\nNo
@@ -477,28 +473,28 @@ Yes\nNo
 Yes\nNo
 
 [156|off=0x4a9c|chars=57]
-Save and go to sleep.\nGo to sleep without saving.\nCancel.
+Salvar e dormir.\nDormir sem salvar.\nAnular.
 
 [157|off=0x4b16|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [158|off=0x4b56|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [159|off=0x4b96|chars=16]
-Love increased!\n
+Amor aumentou!\n
 
 [160|off=0x4bcc|chars=24]
-Intelligence increased!\n
+Inteligencia aumentou!\n
 
 [161|off=0x4c12|chars=19]
-Cooking increased!\n
+Culinaria subiu!\n
 
 [162|off=0x4c4e|chars=22]
-Creativity increased!\n
+Criatividade subiu!\n
 
 [163|off=0x4c90|chars=17]
-Humor increased!\n
+Humor aumentou!\n
 
 [164|off=0x4cc8|chars=58]
-You haven't gone to Dr. Hope's\nfor your maintenance today!
+Voce nao foi a clinica do\nDr. Hope para manutencao hoje!

@@ -131,10 +131,10 @@ Neo: Flame Mountain vai entrar\nem erupcao no proximo ano ou dois!
 Neo: Aposto minha reputacao\ncomo analista cientifico.\nO grande Neo nunca errou!
 
 [42|off=0x1ba6|chars=75]
-Neo: But there's something strange...\nA rogue star... What could this\nmean?
+Neo: Mas ha algo estranho...\nUma estrela errante... O que\nisso significa?
 
 [43|off=0x1c48|chars=37]
-Neo: Why... It's you!\nYou're the one!
+Neo: E voce!\nVoce e o escolhido!
 
 [44|off=0x1c9e|chars=78]
 Neo: Quando souber o que fazer,\nfaca imediatamente!\nNao hesite!
@@ -143,16 +143,16 @@ Neo: Quando souber o que fazer,\nfaca imediatamente!\nNao hesite!
 Neo: Aaaagghh!\nSem duvida nenhuma!
 
 [46|off=0x1d9a|chars=62]
-Neo: A terrible fate will befall this\nisland in a year or two!
+Neo: Um destino terrivel\naguarda esta ilha\nem um ou dois anos!
 
 [47|off=0x1e22|chars=93]
 Neo: Aposto minha reputacao\ncomo analista cientifico.\nO grande Neo nunca errou!
 
 [48|off=0x1ee8|chars=75]
-Neo: But there's something strange...\nA rogue star... What could this\nmean?
+Neo: Mas ha algo estranho...\nUma estrela errante... O que\nisso significa?
 
 [49|off=0x1f8a|chars=37]
-Neo: Why... It's you!\nYou're the one!
+Neo: E voce!\nVoce e o escolhido!
 
 [50|off=0x1fe0|chars=78]
 Neo: Quando souber o que fazer,\nfaca imediatamente!\nNao hesite!
@@ -164,10 +164,10 @@ Neo: Ugh... Estou tao cansado.\nAcho que vou desmaiar mesmo.
 Neo: Ugh... Estou tao cansado.\nAcho que vou desmaiar mesmo.
 
 [53|off=0x219c|chars=77]
-Neo: Oh, don't worry.\nI have 1000 years worth of weather\nreports prerecorded.
+Neo: Oh, nao se preocupe.\nTenho 1000 anos de relatorios\nde clima pregravados.
 
 [54|off=0x2242|chars=77]
-Neo: Oh, don't worry.\nI have 1000 years worth of weather\nreports prerecorded.
+Neo: Oh, nao se preocupe.\nTenho 1000 anos de relatorios\nde clima pregravados.
 
 [55|off=0x22e8|chars=82]
 Neo: Posso relaxar um pouco.\nAfinal, tudo terminou\nbem no final.
@@ -182,7 +182,7 @@ Neo: Minhas previsoes nao sao\nlero-lero! Sou cientista!\nA ciencia e minha vida
 Neo: Ah! Eu vi! Vi o futuro!\nPor alguma razao, Marco vai\ncometer erros repetidamente...
 
 [59|off=0x25e0|chars=92]
-Neo: But you can't tell him that.\nThat's the problem with predictions\nthat really come true.
+Neo: Mas nao pode dizer isso.\nE o problema com previsoes\nque realmente se cumprem.
 
 [60|off=0x26a4|chars=68]
 Marco: Suponho que ele previu\nque eu realizarei grandes feitos.
@@ -203,13 +203,13 @@ Neo: Garanto que minha pesquisa\nse pagara se voce doar 5000G!
 Neo: Entao, vai doar 5000G?
 
 [66|off=0x2a10|chars=50]
-Neo: CHA-CHING...!\n...BINGO.\nI get 5000G for sure!
+Neo: CHA-CHING...!\n...BINGO.\nGanho 5000G certeza!
 
 [67|off=0x2a80|chars=22]
-Neo: Thanks a million!
+Neo: Muito obrigado!
 
 [68|off=0x2ab8|chars=22]
-Neo: Thanks a million!
+Neo: Muito obrigado!
 
 [69|off=0x2af0|chars=77]
 Neo: Hmmm. Tudo bem entao...\nSe mudar de ideia,\ne so me avisar, ok?
@@ -233,7 +233,7 @@ Neo: O QUE?\nVoce ja enviou madeira gigante?
 Neo: Brincadeira. Sabia que\nconseguiria, ja fiz\nos arranjos necessarios.
 
 [76|off=0x2f8e|chars=19]
-Neo: Thanks a lot~!
+Neo: Obrigado~!
 
 [77|off=0x2fc0|chars=94]
 Neo: Ja me ajudou duas vezes.\nVou lhe dar uma Leitura especial\num dia. E obvio!
@@ -242,13 +242,13 @@ Neo: Ja me ajudou duas vezes.\nVou lhe dar uma Leitura especial\num dia. E obvio
 Neo: Venha me ver em breve.
 
 [79|off=0x30d2|chars=33]
-Neo: CHA-CHOOM!\nThere's no doubt!
+Neo: CHA-CHOOM!\nSem duvida!
 
 [80|off=0x3120|chars=59]
-Neo: The couple you gave a gift to\nwill get married soon...
+Neo: O casal que presenteou\nvai se casar em breve...
 
 [81|off=0x31a2|chars=81]
-Neo: If you understand, act quickly!\nIt'll be too late\nonce the volcano erupts...
+Neo: Se entendeu, aja rapido!\nSera tarde\nquando o vulcao entrar em erupcao...
 
 [82|off=0x3250|chars=85]
 Neo: Se vier me visitar nessa\nepoca, posso lhe dar\numa Leitura Cientifica especial.
@@ -260,7 +260,7 @@ Neo: Chama-se "Leitura Dicionario!"
 Neo: CHA-CHOOM!\nEu vejo.....!
 
 [85|off=0x33aa|chars=51]
-Neo: Hm?\nYou haven't met Mr. Liberta yet,\nhave you?
+Neo: Hm?\nAinda nao conheceu\nSr. Liberta, nao e?
 
 [86|off=0x341c|chars=88]
 Neo: Se conhecer um senhor\nque possui uma adega...\nele lhe dara um presente misterioso!
@@ -272,7 +272,7 @@ Neo: Vou dizer com clareza.\nSe Million se casou com\numa pessoa do destino, est
 Neo: Caso contrario, o Dicionario\ndo Sr. Liberta nunca sera\ncompleto. A menos que use magia...
 
 [89|off=0x368c|chars=60]
-Neo: You haven't seen\nMoonlight's work plates yet,\nhave you?
+Neo: Ainda nao viu as placas\nde Moonlight, pois nao?
 
 [90|off=0x3710|chars=71]
 Neo: Quando ver tudo,\no Sr. Liberta juntara\npalavras novas!
@@ -281,19 +281,19 @@ Neo: Quando ver tudo,\no Sr. Liberta juntara\npalavras novas!
 Neo: Voce ainda nao enviou\ntodos os Vegetais de Prima, nao e?
 
 [92|off=0x3846|chars=76]
-Neo: Once you ship\nall Spring Vegetables,\nMr. Liberta will gather new words!
+Neo: Quando enviar os\nVegetais de Prima,\no Sr. Liberta juntara palavras!
 
 [93|off=0x38ea|chars=72]
 Neo: Voce ainda nao enviou\ntodos os Vegetais de Verao, nao e?
 
 [94|off=0x3986|chars=76]
-Neo: Once you ship\nall Summer Vegetables,\nMr. Liberta will gather new words!
+Neo: Quando enviar os\nVegetais de Verao,\no Sr. Liberta juntara palavras!
 
 [95|off=0x3a2a|chars=70]
 Neo: Voce ainda nao enviou\ntodos os Vegetais de Outono, nao?
 
 [96|off=0x3ac2|chars=74]
-Neo: Once you ship\nall Fall Vegetables,\nMr. Liberta will gather new words!
+Neo: Quando enviar os\nVegetais de Outono,\no Sr. Liberta juntara palavras!
 
 [97|off=0x3b62|chars=72]
 Neo: Voce ainda nao enviou\ntodas as Flores e Ervas, nao e?
@@ -302,16 +302,16 @@ Neo: Voce ainda nao enviou\ntodas as Flores e Ervas, nao e?
 Neo: Quando enviar todas as\nFlores e Ervas,\no Sr. Liberta juntara palavras!
 
 [99|off=0x3ca2|chars=55]
-Neo: You haven't mastered cooking skills\nyet, have you?
+Neo: Ainda nao dominou\nculinaria, nao e?
 
 [100|off=0x3d1c|chars=73]
-Neo: Once you complete the menu lists,\nMr. Liberta will gather new words!
+Neo: Quando completar as listas,\no Sr. Liberta juntara palavras novas!
 
 [101|off=0x3dba|chars=60]
 Neo: Voce ainda nao resolveu\ncom o Espirito do Fogo, nao e?
 
 [102|off=0x3e3e|chars=73]
-Neo: Once you win against Fire Spirit,\nMr. Liberta will gather new words!
+Neo: Quando vencer o Espirito\ndo Fogo, o Sr. Liberta\njuntara palavras!
 
 [103|off=0x3edc|chars=72]
 Neo: Voce ainda nao enviou\ntoda a Vegetacao Nativa, nao e?
@@ -326,10 +326,10 @@ Neo: Se dominar mais tres habilidades,\no Dicionario que tem\nsera completado.
 Neo: Um, Nivel Humano.
 
 [107|off=0x411c|chars=22]
-Neo: Two, Tool Skills.
+Neo: Dois, Fer. Tools.
 
 [108|off=0x4154|chars=27]
-Neo: Three, Money you have.
+Neo: Tres, Dinheiro atual.
 
 [109|off=0x4196|chars=47]
 Neo: Se entendeu, aja rapido!\nAgora mesmo!
@@ -338,7 +338,7 @@ Neo: Se entendeu, aja rapido!\nAgora mesmo!
 Neo: E melhor ir ver\no Sr. Liberta e relatar\nseus feitos.
 
 [111|off=0x4296|chars=46]
-Neo: It seems that\nhe's expecting you as well.
+Neo: Parece que ele\ntambem espera por voce.
 
 [112|off=0x42fe|chars=52]
 Neo: GRRR... E chato.\nE muito dificil, a serio.
@@ -359,10 +359,10 @@ Neo: Ga-ga ga!
 Neo: Ga-ga ga!
 
 [118|off=0x45ae|chars=21]
-Neo shows you a note.
+Neo mostra uma nota.
 
 [119|off=0x45e0|chars=21]
-Neo shows you a note.
+Neo mostra uma nota.
 
 [120|off=0x4612|chars=113]
 "Nao se preocupe! Previ que\nisso aconteceria! Gravei a previsao\npara os proximos mil anos!"
@@ -374,7 +374,7 @@ Neo shows you a note.
 Neo: Ga-ga ga!
 
 [123|off=0x480e|chars=21]
-Neo shows you a note.
+Neo mostra uma nota.
 
 [124|off=0x4840|chars=113]
 "Nao se preocupe! Previ que\nisso aconteceria! Gravei a previsao\npara os proximos mil anos!"

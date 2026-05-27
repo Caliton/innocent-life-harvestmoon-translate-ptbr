@@ -5,148 +5,148 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0x35a|chars=76]
-This is your bed...\nBut you can't take a nap now.\nFranco is waiting for you.
+Esta e a sua cama...\nMas nao da pra cochilar agora.\nFranco esta esperando.
 
 [1|off=0x3fe|chars=56]
-Franco: So you've finally started\nraising livestock, eh?
+Franco: Voce finalmente comecou\na criar gado, hein?
 
 [2|off=0x47a|chars=109]
-Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+Franco: Voce sabia que os robos de\ncriacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?
 
 [3|off=0x560|chars=112]
-Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+Franco: Hoje tudo na fazenda e\nautomatizado, mas na epoca usar robos\nera uma ideia bem revolucionaria.
 
 [4|off=0x64c|chars=61]
-Franco: Ouvi thnoy ainda usar them\nbastante muito overseas.
+Franco: Soube que ainda usam muito\neles no exterior.
 
 [5|off=0x6d2|chars=74]
-Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+Moonlight: O balido dos animais pode\nser ouvido de novo\nnestas ruinas!
 
 [6|off=0x772|chars=90]
-Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+Moonlight: A forca vital deles vai\nrevitalizar esta terra\ne a natureza selvagem!
 
 [7|off=0x832|chars=72]
-Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+Franco: Uau!\nVoce tem sorte!\nGanhar um buggy daquele de presente!
 
 [8|off=0x8ce|chars=89]
-Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+Franco: Com um buggy desses, eu levaria\na Rose num passeio que\nela jamais esqueceria!
 
 [9|off=0x98c|chars=11]
-Moonlight: 
+Moonlight:
 
 [10|off=0x9a4|chars=52]
-P! I see you got\nquite a nice present from Dr. Hope.
+P! Vejo que ganhou\num belo presente do Dr. Hope.
 
 [11|off=0xa18|chars=63]
-Moonlight: You can ir so about\nanyonde in a buggy gostar esse!
+Moonlight: Num buggy desses da pra ir\nquase a qualquer lugar!
 
 [12|off=0xaa2|chars=60]
-Franco: I can't believe Marco could make\nsuch a big mistake.
+Franco: Nao acredito que o Marco pode\nter errado tao feio.
 
 [13|off=0xb26|chars=73]
-Franco: When I was young, everyone used\nto take their dates to that cave.
+Franco: Quando eu era jovem, todos\nlevavam seus encontros aquela caverna.
 
 [14|off=0xbc4|chars=11]
-Moonlight: 
+Moonlight:
 
 [15|off=0xbdc|chars=57]
-P!\nOuvi they had alguns trouble na\nVolcano Town gruta.
+P!\nSoube que tiveram problema na\ncaverna de Volcano Town.
 
 [16|off=0xc5a|chars=77]
-Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+Moonlight: Vai levar tempo e\nesforco pra devolve-la ao seu\nestado original.
 
 [17|off=0xd00|chars=49]
-Franco: I hear that you planted some\npoinsettias.
+Franco: Soube que voce plantou\numas poinsetias.
 
 [18|off=0xd6e|chars=120]
-Franco: If you can homemage to ship muito\ndam pelo dia antes Christmas Eve,\nthey can usar them to decorate the cidade.
+Franco: Se conseguir enviar muitas\nantes da vespera de Natal,\nelas podem ser usadas pra enfeitar a cidade.
 
 [19|off=0xe6a|chars=21]
-Franco: Mal posso esp
+Franco: Mal espero!
 
 [20|off=0xea0|chars=41]
-Franco: Ouvi esse Dr. Hope\ncollapsed...
+Franco: Soube que o Dr. Hope\ndesmaiou...
 
 [21|off=0xefe|chars=96]
-Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+Franco: Sei que deve estar preocupado\ncom ele, mas voce tem um trabalho\nimportante a terminar.
 
 [22|off=0xfca|chars=89]
-Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+Franco: A melhor coisa pro Dr. Hope\nagora e ver o quanto voce esta\nse esforcando.
 
 [23|off=0x1088|chars=52]
-Moonlight: I never knew that Dr. Hope\nwas so sick...
+Moonlight: Nem sabia que o\nDr. Hope estava doente...
 
 [24|off=0x10fc|chars=86]
-Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+Moonlight: Por isso ele estava\ncom tanta pressa de terminar\no trabalho com voce...
 
 [25|off=0x11b4|chars=42]
-Franco: I know you're sad about Dr.\nHope, 
+Franco: Sei que esta triste pelo Dr.\nHope,
 
 [26|off=0x120a|chars=12]
 P. Eu tambem
 
 [27|off=0x122e|chars=31]
-Franco: Era um bom amigo...
+Franco: Ele era um bom amigo...
 
 [28|off=0x1278|chars=48]
-Moonlight: Ouvid the voice da\nFire Spirit!
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
 
 [29|off=0x12e4|chars=74]
-Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+Moonlight: Ele me disse que ha mais\nneste mundo do que se ve\na olho nu!
 
 [30|off=0x1384|chars=91]
-Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+Moonlight: O que quero dizer e...\nTenho certeza que o Dr. Hope sempre\nvai cuidar de voce,
 
 [31|off=0x144c|chars=62]
-Franco: Who is that strange man who\nnow lives in the new room?
+Franco: Quem e aquele homem estranho\nque mora no quarto novo?
 
 [32|off=0x14d4|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, a area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse dono...
 
 [33|off=0x15a2|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Bem, acho que nao devemos\nnos preocupar com isso.
 
 [34|off=0x1628|chars=43]
-Franco: An alien is living na novo\nquarto?
+Franco: Um alien morando no\nquarto novo?
 
 [35|off=0x168a|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, a area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse dono...
 
 [36|off=0x1758|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Bem, acho que nao devemos\nnos preocupar com isso.
 
 [37|off=0x17de|chars=11]
-Moonlight: 
+Moonlight:
 
 [38|off=0x17f6|chars=76]
-P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+P!\nVi algo estranho que parecia um\nbicho de pelucia naquele quarto novo.
 
 [39|off=0x189a|chars=51]
-Moonlight: Did you make that?\nIt's very impressive!
+Moonlight: Voce fez isso?\nE muito impressionante!
 
 [40|off=0x1908|chars=96]
-The area is shrouded in a frozen\nsilence. This must be the place\nthat others call the Ice Grail.
+A area esta envolta num silencio\ngelado. Este deve ser o lugar\nque outros chamam de Ice Grail.
 
 [41|off=0x19d0|chars=58]
-Do you querer to place the Fire Spire\nCrest no altar?
+Quer colocar o Brasao do\nEspirito do Fogo no altar?
 
 [42|off=0x1a4c|chars=49]
-Grrrr......\nAre you the one who summoned\nme here?
+Grrrr......\nFoi voce que me\ninvocou aqui?
 
 [43|off=0x1ab6|chars=70]
-How could someone like you?\nThis must be the work of the Water\nSpirit!
+Como alguem como voce poderia?\nIsto deve ser obra do Espirito\nda Agua!
 
 [44|off=0x1b4a|chars=89]
-It will take more than this to\nquench my anger. In fact, you're\njust fanning my flames...
+Vai precisar mais que isto pra\nsaciar minha raiva. Na verdade,\nvoce so atica as chamas...
 
 [45|off=0x1c04|chars=64]
-Stop, Fire Spirit.\nYou've been angry long enough.\nCalm yourself.
+Pare, Espirito do Fogo.\nVoce ficou bravo demais.\nAcalme-se.
 
 [46|off=0x1c8c|chars=48]
-S-shut up, Water Spirit!\nI won't give in to you!
+C-cale-se, Espirito da Agua!\nNao vou ceder!
 
 [47|off=0x1cf4|chars=34]
-There is no need to fight.\nCome...
+Nao precisa lutar.\nVenha...
 
 [48|off=0x1d40|chars=26]
 Ugghh...\n.................
@@ -155,46 +155,46 @@ Ugghh...\n.................
 Ugghh...\n.................
 
 [50|off=0x1db8|chars=88]
-W-o que is tseu? Sinto bom.\nIt's as if the mundo voltared\nto e original condition...
+Q-que e isto? Me sinto bem.\nE como se o mundo voltasse\nao seu estado original...
 
 [51|off=0x1e70|chars=88]
-W-o que is tseu? Sinto bom.\nIt's as if the mundo voltared\nto e original condition...
+Q-que e isto? Me sinto bem.\nE como se o mundo voltasse\nao seu estado original...
 
 [52|off=0x1f28|chars=28]
-I must have been dreaming...
+Devo ter sonhado...
 
 [53|off=0x1f6a|chars=58]
-P tried to sleep,\nbut he kept thinking he forgot\nsomething
+P tentou dormir,\nmas achava que esqueceu\nalguma coisa
 
 [54|off=0x1fe8|chars=32]
-Before you kairra it,\ne dawn...
+Sem perceber,\nja amanheceu...
 
 [55|off=0x2032|chars=43]
-R is waiting!\nMaybe you should talk to him.
+R esta esperando!\nTalvez deva falar com ele
 
 [56|off=0x2090|chars=60]
-You heard a voice that sounds like\nMax's somewhere nearby...
+Voce ouviu uma voz parecida com\na do Max por perto...
 
 [57|off=0x2110|chars=66]
-Ynosso activities da previous\ndia increased seu Huhomem\nStatus!
+Suas atividades do dia\nanterior aumentaram seu\nNivel Humano!
 
 [58|off=0x219c|chars=59]
-Do you querer to ir to bed and\ndormir para o rest da dia?
+Voce quer ir pra cama e\ndormir pelo resto do dia?
 
 [59|off=0x221a|chars=58]
-Do you want to get up earlier than\nusual tomorrow morning?
+Voce quer acordar mais cedo\nque o normal amanha de manha?
 
 [60|off=0x2296|chars=58]
-Do you want to get up earlier than\nusual tomorrow morning?
+Voce quer acordar mais cedo\nque o normal amanha de manha?
 
 [61|off=0x2312|chars=36]
-Do you want to sleep here for today?
+Quer dormir aqui\npor hoje?
 
 [62|off=0x2362|chars=76]
-Then do you want to use the tent's\nwarp function to return to your own\nroom?
+Entao quer usar a funcao de teleporte\nda barraca pra voltar ao seu\nquarto?
 
 [63|off=0x2402|chars=44]
-There's no place for\nyou to pitch your tent!
+Nao ha lugar pra voce\narmar sua barraca!
 
 [64|off=0x2462|chars=6]
 Yes\nNo
@@ -212,28 +212,28 @@ Yes\nNo
 Yes\nNo
 
 [69|off=0x24c6|chars=57]
-Save and go to sleep.\nGo to sleep without saving.\nCancel.
+Salvar e dormir.\nDormir sem salvar.\nAnular.
 
 [70|off=0x2540|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [71|off=0x2580|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [72|off=0x25c0|chars=16]
-Love increased!\n
+Amor aumentou!\n
 
 [73|off=0x25f6|chars=24]
-Intelligence increased!\n
+Inteligencia aumentou!\n
 
 [74|off=0x263c|chars=19]
-Cooking increased!\n
+Culinaria subiu!\n
 
 [75|off=0x2678|chars=22]
-Creativity increased!\n
+Criatividade subiu!\n
 
 [76|off=0x26ba|chars=17]
-Humor increased!\n
+Humor aumentou!\n
 
 [77|off=0x26f2|chars=58]
-You nao irne to Dr. Hope's\nfor seu maintenance todia!
+Voce nao foi ao Dr. Hope\nfazer sua manutencao hoje!

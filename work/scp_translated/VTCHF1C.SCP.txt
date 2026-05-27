@@ -5,79 +5,79 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0xbde|chars=56]
-Franco: So you've finally started\nraising livestock, eh?
+Franco: Entao voce comecou a\ncriar gado, hein?
 
 [1|off=0xc5a|chars=109]
-Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+Franco: Sabia que os robos de criar\ngado como o Cluck-o-Matic tambem\nsao invencoes do Dr. Hope?
 
 [2|off=0xd40|chars=112]
-Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+Franco: Hoje tudo na fazenda e\nautomatizado, mas na epoca usar robos\nera uma ideia bem revolucionaria.
 
 [3|off=0xe2c|chars=61]
-Franco: Ouvi thnoy ainda usar them\nbastante muito overseas.
+Franco: Ouvi dizer que ainda os usam\nbastante no exterior.
 
 [4|off=0xeb2|chars=74]
-Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+Moonlight: O balido dos animais\nse ouve de novo\nentre essas ruinas!
 
 [5|off=0xf52|chars=90]
-Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+Moonlight: Sua forca vital vai\najudar a revitalizar\nesta terra e a natureza!
 
 [6|off=0x1012|chars=72]
-Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+Franco: Uau!\nVoce teve sorte!\nGanhou um buggy desses de presente!
 
 [7|off=0x10ae|chars=89]
-Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+Franco: Com um buggy desse,\nlevaria a Rose num passeio\nque ela nunca esqueceria!
 
 [8|off=0x116c|chars=11]
-Moonlight: 
+Moonlight:
 
 [9|off=0x1184|chars=52]
-P! I see you got\nquite a nice present from Dr. Hope.
+P! Vejo que ganhou um\nbelo presente do Dr. Hope.
 
 [10|off=0x11f8|chars=63]
-Moonlight: You can ir so about\nanyonde in a buggy gostar esse!
+Moonlight: Com um buggy desses\nvoce vai a quase\nqualquer lugar!
 
 [11|off=0x1282|chars=60]
-Franco: I can't believe Marco could make\nsuch a big mistake.
+Franco: Nao acredito que o Marco\ncometeu um erro tao grande.
 
 [12|off=0x1306|chars=73]
-Franco: When I was young, everyone used\nto take their dates to that cave.
+Franco: Quando eu era novo, todo mundo\nlevava seus pares naquela caverna.
 
 [13|off=0x13a4|chars=11]
-Moonlight: 
+Moonlight:
 
 [14|off=0x13bc|chars=57]
-P!\nOuvi they had alguns trouble na\nVolcano Town gruta.
+P!\nOuvi que teve problemas na\ncaverna de Volcano Town.
 
 [15|off=0x143a|chars=77]
-Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+Moonlight: Vai levar tempo e esforca\npara devolver ao seu estado\noriginal.
 
 [16|off=0x14e0|chars=49]
-Franco: I hear that you planted some\npoinsettias.
+Franco: Ouvi que voce plantou\nbico-de-papagaio.
 
 [17|off=0x154e|chars=120]
-Franco: If you can homemage to ship muito\ndam pelo dia antes Christmas Eve,\nthey can usar them to decorate the cidade.
+Franco: Se conseguir embarcar muitas\nate a vespera do Natal, podem usar\npara decorar a cidade.
 
 [18|off=0x164a|chars=21]
-Franco: Mal posso esp
+Franco: Que ansia!
 
 [19|off=0x1680|chars=41]
-Franco: Ouvi esse Dr. Hope\ncollapsed...
+Franco: Ouvi que o Dr. Hope\ndesabou...
 
 [20|off=0x16de|chars=96]
-Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+Franco: Sei que esta preocupado\ncom ele, mas voce tem um\ntrabalho importante a terminar.
 
 [21|off=0x17aa|chars=89]
-Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+Franco: O melhor para o Dr. Hope\nagora e ver como voce esta\nse dedicando.
 
 [22|off=0x1868|chars=52]
-Moonlight: I never knew that Dr. Hope\nwas so sick...
+Moonlight: Nao sabia que o\nDr. Hope era tao doente..
 
 [23|off=0x18dc|chars=86]
-Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+Moonlight: Por isso ele se\napressava tanto para terminar\no trabalho com voce...
 
 [24|off=0x1994|chars=42]
-Franco: I know you're sad about Dr.\nHope, 
+Franco: Sei que esta triste pelo\nDr. Hope,
 
 [25|off=0x19ea|chars=12]
 P. Eu tambem
@@ -86,742 +86,742 @@ P. Eu tambem
 Franco: Era um bom amigo...
 
 [27|off=0x1a58|chars=48]
-Moonlight: Ouvid the voice da\nFire Spirit!
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
 
 [28|off=0x1ac4|chars=74]
-Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+Moonlight: Ele me disse que ha\nmuito mais neste mundo\ndo que se pode ver!
 
 [29|off=0x1b64|chars=91]
-Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+Moonlight: O que quero dizer e...\nTenho certeza que o Dr. Hope\nsempre vai velar por voce,
 
 [30|off=0x1c2c|chars=62]
-Franco: Who is that strange man who\nnow lives in the new room?
+Franco: Quem e esse estranho que\nagora mora no novo quarto?
 
 [31|off=0x1cb4|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao era de ninguem mesmo...
 
 [32|off=0x1d82|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Acho que nao devemos\nnos preocupar muito com isso.
 
 [33|off=0x1e08|chars=43]
-Franco: An alien is living na novo\nquarto?
+Franco: Um alien mora\nno novo quarto?
 
 [34|off=0x1e6a|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao era de ninguem mesmo...
 
 [35|off=0x1f38|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Acho que nao devemos\nnos preocupar muito com isso.
 
 [36|off=0x1fbe|chars=11]
-Moonlight: 
+Moonlight:
 
 [37|off=0x1fd6|chars=76]
-P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+P!\nVi uma coisa estranha que parecia\num bicho de pelucia no novo quarto.
 
 [38|off=0x207a|chars=51]
-Moonlight: Did you make that?\nIt's very impressive!
+Moonlight: Voce fez isso?\nMuito impressionante!
 
 [39|off=0x20ec|chars=24]
-Masami: Oh, you must be 
+Masami: Voce deve ser
 
 [40|off=0x211e|chars=41]
-P.\nMy name is Masami.\nI run the town bar.
+P.\nSou Masami.\nDono do bar da cidade.
 
 [41|off=0x217c|chars=24]
-Masami: Oh, you must be 
+Masami: Voce deve ser
 
 [42|off=0x21ae|chars=41]
-P.\nMy name is Masami.\nI run the town bar.
+P.\nSou Masami.\nDono do bar da cidade.
 
 [43|off=0x220c|chars=41]
-Masami: Old Franco talks a lot about\nyou.
+Masami: O Franco fala muito\nde voce.
 
 [44|off=0x226a|chars=41]
-Masami: Old Franco talks a lot about\nyou.
+Masami: O Franco fala muito\nde voce.
 
 [45|off=0x22c8|chars=61]
-Masami: He says he's training you so\nyou can save the island.
+Masami: Ele diz que esta te treinando\npara salvar a ilha.
 
 [46|off=0x234e|chars=61]
-Masami: He says he's training you so\nyou can save the island.
+Masami: Ele diz que esta te treinando\npara salvar a ilha.
 
 [47|off=0x23d4|chars=29]
-Masami: Heeheehee.\nHe's cute.
+Masami: Hihihi.\nQue gracinha.
 
 [48|off=0x241a|chars=29]
-Masami: Heeheehee.\nHe's cute.
+Masami: Hihihi.\nQue gracinha.
 
 [49|off=0x2460|chars=20]
-Masami: Well oi, 
+Masami: Oi, oi,
 
 [50|off=0x248a|chars=79]
-P. Did\nGayak tell you about the Spring Festival?\nIt's the 4th Sunday in Spring.
+P. O Gayak\nte falou sobre o Festival da Prima?\nE no 4o domingo da Prima.
 
 [51|off=0x2534|chars=20]
-Masami: Well oi, 
+Masami: Oi, oi,
 
 [52|off=0x255e|chars=79]
-P. Did\nGayak tell you about the Spring Festival?\nIt's the 4th Sunday in Spring.
+P. O Gayak\nte falou sobre o Festival da Prima?\nE no 4o domingo da Prima.
 
 [53|off=0x2608|chars=108]
-Masami: Gayak keeps saying how he wants\nthe offering this year to be made\nup only of handcrafted vegetables.
+Masami: O Gayak fica dizendo que quer\nque a oferta deste ano seja feita\nso de vegetais cultivados a mao.
 
 [54|off=0x26ec|chars=108]
-Masami: Gayak keeps saying how he wants\nthe offering this year to be made\nup only of handcrafted vegetables.
+Masami: O Gayak fica dizendo que quer\nque a oferta deste ano seja feita\nso de vegetais cultivados a mao.
 
 [55|off=0x27d0|chars=108]
-Masami: He says that autofarmed\nvegetables just don't taste right. Did\nhe ask you to grow something for him?
+Masami: Ele diz que vegetais cultivados\npor maquina nao tem o mesmo sabor.\nEle te pediu para crescer algo?
 
 [56|off=0x28b4|chars=108]
-Masami: He says that autofarmed\nvegetables just don't taste right. Did\nhe ask you to grow something for him?
+Masami: Ele diz que vegetais cultivados\npor maquina nao tem o mesmo sabor.\nEle te pediu para crescer algo?
 
 [57|off=0x2998|chars=89]
-Masami: You just have to ship them as\nyou usually do and they'll get to Gayak.\nGood luck.
+Masami: Basta embarcar como de costume\ne eles chegarao ao Gayak.\nBoa sorte.
 
 [58|off=0x2a56|chars=89]
-Masami: You just have to ship them as\nyou usually do and they'll get to Gayak.\nGood luck.
+Masami: Basta embarcar como de costume\ne eles chegarao ao Gayak.\nBoa sorte.
 
 [59|off=0x2b14|chars=113]
-Masami: I believe that plants have\nsouls. If you look at them long enough,\nyou might guess what they're thinking.
+Masami: Acredito que as plantas tem\nalma. Se voce as olhar por tempo\nsuficiente, adivinha o que pensam.
 
 [60|off=0x2c02|chars=88]
-Masami: When I do my flower\narrangements, I just listen to what\nthe flowers have to say.
+Masami: Quando faco meus arranjos\nde flores, so escuto o que as\nflores tem a dizer.
 
 [61|off=0x2cbe|chars=12]
-Masami: Oh, 
+Masami: Ah,
 
 [62|off=0x2cd8|chars=90]
-P. You must be\nquite good at using a watering can.\nIf you like, I'd like you to have this.
+P. Deve ser\nbom com o Regador.\nSe quiser, gostaria de te dar isto.
 
 [63|off=0x2d98|chars=12]
-Masami: Oh, 
+Masami: Ah,
 
 [64|off=0x2db2|chars=90]
-P. You must be\nquite good at using a watering can.\nIf you like, I'd like you to have this.
+P. Deve ser\nbom com o Regador.\nSe quiser, gostaria de te dar isto.
 
 [65|off=0x2e6e|chars=48]
-Masami took out a strangely shaped\nwatering can!
+Masami tirou um Regador de\nforrma estranha!
 
 [66|off=0x2ed6|chars=48]
-Masami took out a strangely shaped\nwatering can!
+Masami tirou um Regador de\nforrma estranha!
 
 [67|off=0x2f42|chars=60]
-Masami: Vou so enviar it alonir to seu\nItem Box, certo?
+Masami: Vou enviar para sua\nCaixa de Itens, tudo bem?
 
 [68|off=0x2fc6|chars=60]
-Masami: Vou so enviar it alonir to seu\nItem Box, certo?
+Masami: Vou enviar para sua\nCaixa de Itens, tudo bem?
 
 [69|off=0x304a|chars=82]
-Masami: Even though I work, I always\nmake it a point to cook lunch for\nmy husband.
+Masami: Mesmo trabalhando, sempre\nprocuro cozinhar o almoco\npara o meu marido.
 
 [70|off=0x30fa|chars=74]
-Masami: After all, the poor dear is all\nalone at night when I'm at my bar.
+Masami: Afinal, o coitado fica\nsozinho a noite quando estou\nno bar.
 
 [71|off=0x319a|chars=25]
-Masami: Snore... Snore...
+Masami: Ronc... Ronc...
 
 [72|off=0x31d4|chars=54]
-Tseu wohomem is appaily Masami,\nthe owner da bar.
+Essa mulher e aparentemente Masami,\na dona do bar.
 
 [73|off=0x324c|chars=48]
-Jessica: My, o que a bem ribbon.\nIs it for me?
+Jessica: Nossa, que fita linda.\nE para mim?
 
 [74|off=0x32b8|chars=111]
-Jessica: Are you sure? It looks\nvaluable. It's so shiny. Almost like it\nis from some other world. Are you sure?
+Jessica: Tem certeza? Parece valiosa.\nE tao brilhante. Quase como se fosse\nde outro mundo. Tem certeza mesmo?
 
 [75|off=0x33a2|chars=86]
-Jessica: Thank you!\nBut I can't just take it without\ngiving something in return. Here.
+Jessica: Obrigada!\nMas nao posso so aceitar\nsem dar algo em troca. Aqui.
 
 [76|off=0x3456|chars=39]
-Jessica took out a sparkling\nred stone.
+Jessica tirou\numa pedra vermelha.
 
 [77|off=0x34ac|chars=17]
-It's a Red Jewel!
+Joia Vermelha!
 
 [78|off=0x34da|chars=55]
-Jessica: I'll send it on to your Item\nBox, Don't worry.
+Jessica: Vou mandar\npara sua Caixa.\nNao se preocupe.
 
 [79|off=0x3554|chars=46]
-Jessica: No, I didn't think so.\nIt's too nice.
+Jessica: Nao achei mesmo.\nE bonita demais.
 
 [80|off=0x35bc|chars=96]
-Jessica: It's so hard to find a man\nwho's really worth something. Oh,\nI'm not talking about you.
+Jessica: E tao dificil achar um homem\nque realmente valha a pena. Ah,\nnao estou falando de voce.
 
 [81|off=0x3688|chars=72]
-Jessica: Because of you, I was able to\nmarry a wonderful man. Thank you.
+Jessica: Por sua causa, consegui\nme casar com um homem otimo. Obrigada.
 
 [82|off=0x3724|chars=103]
-Jessica: We'll be living apart for a\nwhile because of our jobs, but he's very\nunderstanding about that.
+Jessica: Vamos ficar separados por\num tempo por causa do trabalho, mas\nele entende muito bem isso.
 
 [83|off=0x37fe|chars=62]
-Jessica: It sure is a lot of work to\nmake breakfast every day.
+Jessica: E muito trabalhoso fazer\ncafe da manha todo dia.
 
 [84|off=0x3886|chars=90]
-Jessica: My mother may have a cooking\nshow on TV, but at home she hardly\nlifts a finger...
+Jessica: Minha mae tem programa\nde culinaria na TV, mas em casa\nnao levanta um dedo...
 
 [85|off=0x3946|chars=73]
-Jessica: Oh, sorry. My name is Jessica.\nYou must be Dr. Hope's relative,\n
+Jessica: Me desculpe. Sou Jessica.\nDeve ser parente do Dr. Hope,\n
 
 [86|off=0x39da|chars=24]
-P. Eu ouvird about you.
+P. Ja ouvi sobre voce.
 
 [87|off=0x3a16|chars=16]
-Dorothy: Oi, 
+Dorothy: Ola,
 
 [88|off=0x3a38|chars=33]
-P.\nI'm the mayor's wife, Dorothy.
+P.\nDorothy, mulher\ndo prefeito.
 
 [89|off=0x3a86|chars=16]
-Dorothy: Oi, 
+Dorothy: Ola,
 
 [90|off=0x3aa8|chars=33]
-P.\nI'm the mayor's wife, Dorothy.
+P.\nDorothy, mulher\ndo prefeito.
 
 [91|off=0x3af6|chars=72]
-Dorothy: Dr. Hope has been a great deal\nof help to our daughter Jessica.
+Dorothy: O Dr. Hope ajudou muito\nnossa filha Jessica.
 
 [92|off=0x3b92|chars=72]
-Dorothy: Dr. Hope has been a great deal\nof help to our daughter Jessica.
+Dorothy: O Dr. Hope ajudou muito\nnossa filha Jessica.
 
 [93|off=0x3c2e|chars=67]
-Dorothy: I wonder when Jessica is going\nto get better at cooking...
+Dorothy: Quando sera que\nJessica vai melhorar\nna cozinha...
 
 [94|off=0x3cc0|chars=60]
-Dorothy: Do you suppose she's really\nwatching my TV program?
+Dorothy: Acha que ela realmente\nassiste meu programa de TV?
 
 [95|off=0x3d44|chars=26]
 Mayor: Snooze... Snooze...
 
 [96|off=0x3d84|chars=82]
-Dorothy: This is all so worrying.\nI wish there was something I could\ndo to help...
+Dorothy: Estou muito preocupada.\nGostaria de poder fazer algo\npara ajudar...
 
 [97|off=0x3e34|chars=104]
-Lucia: My husband is working day and\nnight on a solution. If only the\nmayor would give him permission...
+Lucia: Meu marido trabalha dia e\nnoite numa solucao. Se ao menos o\nprefeito lhe desse permissao...
 
 [98|off=0x3f10|chars=6]
-Nana: 
+Nana:
 
 [99|off=0x3f1e|chars=71]
-P! You came at just\nthe right time! I have something I want\nto ask you.
+P! Voce veio na hora\ncerta! Tenho algo que quero\nte perguntar.
 
 [100|off=0x3fb8|chars=109]
-Nana: I really want to win the Mushroom\nCooking Festival this year. But I\ncan't do it with my usual dishes...
+Nana: Quero mesmo ganhar o Festival\nde Culinaria de Cogumelo. Mas nao\nconsigo com meus pratos habituais...
 
 [101|off=0x409e|chars=111]
-Nana: So I wonder if you wouldn't mind\ngetting me some Porcini mushrooms.\nThey should be in season by tomorrow.
+Nana: Sera que voce nao se importaria\nde me trazer Cogumelos Porcini?\nDevem estar na temporada amanha.
 
 [102|off=0x4188|chars=122]
-Nana: I'll be sure to give you a\nlittle gift if you'll do it\nfor me!\nJust put them in your Scale\nPack and bring them here.
+Nana: Vou te dar um presentinho\nse fizer isso por mim!\nSo coloque na sua Bolsa\nde Balanca e traga aqui.
 
 [103|off=0x4288|chars=49]
-Nana: Let's ver... Acho 100g should\nbe enough.
+Nana: Veja... Acho que 100g\ndevem bastar.
 
 [104|off=0x42f6|chars=6]
-Nana: 
+Nana:
 
 [105|off=0x4304|chars=52]
-P! You got some\nPorcini mushrooms for me!\nThank you!
+P! Voce trouxe\nCogumelos Porcini!\nObrigada!
 
 [106|off=0x4378|chars=84]
-Nana: I'll just take them then.\nI'm a cinch to win the Mushroom\nCooking Contest now.
+Nana: Pego entao.\nVou ganhar o Concurso\nde Cogumelo com certeza.
 
 [107|off=0x442c|chars=6]
-Nana: 
+Nana:
 
 [108|off=0x443a|chars=41]
-P! You got some\nPorcini mushrooms for me!
+P! Voce trouxe\nalguns Cogumelos Porcini!
 
 [109|off=0x4498|chars=81]
-Nana: But I'm afraid this won't be\nquite enough. I could really use\n100g of them.
+Nana: Mas temo que nao sera\nsuficiente. Precisaria mesmo\nde 100g deles.
 
 [110|off=0x4546|chars=114]
-Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+Nana: Se nao fizer um Bife Especial,\na Dorothy vai ganhar o Concurso de\nCulinaria de Cogumelo de novo.
 
 [111|off=0x4636|chars=114]
-Nana: If I don't make a special kind of\nSalisbury Steak, Dorothy will just win\nthe Mushroom Cooking Contest again.
+Nana: Se nao fizer um Bife Especial,\na Dorothy vai ganhar o Concurso de\nCulinaria de Cogumelo de novo.
 
 [112|off=0x4726|chars=53]
-Nana: I guess she's a better cook than\nI am, overall.
+Nana: Acho que ela cozinha\nmelhor que eu, no geral.
 
 [113|off=0x479c|chars=53]
-Nana: I guess she's a better cook than\nI am, overall.
+Nana: Acho que ela cozinha\nmelhor que eu, no geral.
 
 [114|off=0x4812|chars=101]
-Masami: The Cogumelo Cooking Contest is\nalmost suae. It's sempre held suae\nno 4th Sundia in fall.
+Masami: O Concurso de Culinaria de\nCogumelo esta chegando. E sempre\nno 4o domingo do Outono.
 
 [115|off=0x48e8|chars=101]
-Masami: The Cogumelo Cooking Contest is\nalmost suae. It's sempre held suae\nno 4th Sundia in fall.
+Masami: O Concurso de Culinaria de\nCogumelo esta chegando. E sempre\nno 4o domingo do Outono.
 
 [116|off=0x49be|chars=75]
-Masami: It lasts from evening to\nnighttime, so please feel free to\nstop by.
+Masami: Vai da noite ate tarde,\nentao fique a vontade\npara aparecer.
 
 [117|off=0x4a60|chars=75]
-Masami: It lasts from evening to\nnighttime, so please feel free to\nstop by.
+Masami: Vai da noite ate tarde,\nentao fique a vontade\npara aparecer.
 
 [118|off=0x4b02|chars=81]
-Masami: The accident that happened in\nthe cave certainly was terrible,\nwasn't it?
+Masami: O acidente que aconteceu\nna caverna foi mesmo terrivel,\nnao foi?
 
 [119|off=0x4bb0|chars=81]
-Masami: The accident that happened in\nthe cave certainly was terrible,\nwasn't it?
+Masami: O acidente que aconteceu\nna caverna foi mesmo terrivel,\nnao foi?
 
 [120|off=0x4c5e|chars=99]
-Masami: With all those fumes around, I\nsuppose the Nature Sprites won't\ncome near the cave anymore.
+Masami: Com toda aquela fumaca,\nos Espiritos da Natureza\nnao vao mais a caverna.
 
 [121|off=0x4d30|chars=99]
-Masami: With all those fumes around, I\nsuppose the Nature Sprites won't\ncome near the cave anymore.
+Masami: Com toda aquela fumaca,\nos Espiritos da Natureza\nnao vao mais a caverna.
 
 [122|off=0x4e02|chars=116]
-Masami: What are Nature Sprites?\nWhy, they're tiny little creatures that live in\nthe Giant Forest, far to the north.
+Masami: O que sao Espiritos da Natureza?\nSao pequenas criaturinhas que vivem\nna Floresta Gigante, ao norte.
 
 [123|off=0x4ef6|chars=116]
-Masami: What are Nature Sprites?\nWhy, they're tiny little creatures that live in\nthe Giant Forest, far to the north.
+Masami: O que sao Espiritos da Natureza?\nSao pequenas criaturinhas que vivem\nna Floresta Gigante, ao norte.
 
 [124|off=0x4fea|chars=90]
-Masami: We used to see them all the time\nhere in town and in the surrounding\nwoods, but...
+Masami: Costumavamos ve-los o tempo\ntodo aqui na cidade e nas\nmatas ao redor, mas...
 
 [125|off=0x50aa|chars=90]
-Masami: We used to see them all the time\nhere in town and in the surrounding\nwoods, but...
+Masami: Costumavamos ve-los o tempo\ntodo aqui na cidade e nas\nmatas ao redor, mas...
 
 [126|off=0x516a|chars=81]
-Masami: What?\nYou mean you've seen them?\nYes, that sounds like a Nature Sprite...
+Masami: O que?\nVoce os viu?\nParece Espirito da Natureza...
 
 [127|off=0x5218|chars=81]
-Masami: What?\nYou mean you've seen them?\nYes, that sounds like a Nature Sprite...
+Masami: O que?\nVoce os viu?\nParece Espirito da Natureza...
 
 [128|off=0x52c6|chars=54]
-Masami: Maybe eles chamaring you para o\nGiant Forest.
+Masami: Talvez te chamem\npara a Floresta Gigante.
 
 [129|off=0x533e|chars=54]
-Masami: Maybe eles chamaring you para o\nGiant Forest.
+Masami: Talvez te chamem\npara a Floresta Gigante.
 
 [130|off=0x53b6|chars=32]
-Dorothy: Oh, I'm glad you came,\n
+Dorothy: Ah, que bom que veio,\n
 
 [131|off=0x5408|chars=32]
-Dorothy: Oh, I'm glad you came,\n
+Dorothy: Ah, que bom que veio,\n
 
 [132|off=0x545a|chars=32]
-Dorothy: Oh, I'm glad you came,\n
+Dorothy: Ah, que bom que veio,\n
 
 [133|off=0x54ac|chars=97]
-Dorothy: You see, I'm looking for\nsomeone to help make some cakes\nfor our annual Christmas Party.
+Dorothy: Veja, estou procurando\nalguem para ajudar a fazer bolos\npara nossa Festa de Natal anual.
 
 [134|off=0x557a|chars=97]
-Dorothy: You see, I'm looking for\nsomeone to help make some cakes\nfor our annual Christmas Party.
+Dorothy: Veja, estou procurando\nalguem para ajudar a fazer bolos\npara nossa Festa de Natal anual.
 
 [135|off=0x5648|chars=97]
-Dorothy: You see, I'm looking for\nsomeone to help make some cakes\nfor our annual Christmas Party.
+Dorothy: Veja, estou procurando\nalguem para ajudar a fazer bolos\npara nossa Festa de Natal anual.
 
 [136|off=0x5716|chars=56]
-Dorothy: Have you seen my television\nshow, Cooking Life?
+Dorothy: Ja assistiu ao meu\nshow Cooking Life?
 
 [137|off=0x5792|chars=56]
-Dorothy: Have you seen my television\nshow, Cooking Life?
+Dorothy: Ja assistiu ao meu\nshow Cooking Life?
 
 [138|off=0x580e|chars=56]
-Dorothy: Have you seen my television\nshow, Cooking Life?
+Dorothy: Ja assistiu ao meu\nshow Cooking Life?
 
 [139|off=0x588a|chars=70]
-Dorothy: If you watch the final\nepisode, you'll see how to\nmake cakes.
+Dorothy: Se assistir o ultimo\nepisodio, vera como\nfazer bolos.
 
 [140|off=0x5922|chars=70]
-Dorothy: If you watch the final\nepisode, you'll see how to\nmake cakes.
+Dorothy: Se assistir o ultimo\nepisodio, vera como\nfazer bolos.
 
 [141|off=0x59ba|chars=70]
-Dorothy: If you watch the final\nepisode, you'll see how to\nmake cakes.
+Dorothy: Se assistir o ultimo\nepisodio, vera como\nfazer bolos.
 
 [142|off=0x5a52|chars=112]
-Dorothy: If you would like to help out,\nplease come to my house at night on the\n23rd of winter before the party.
+Dorothy: Se quiser ajudar, venha\na minha casa a noite do dia\n23 do Invern antes da festa.
 
 [143|off=0x5b3e|chars=112]
-Dorothy: If you would like to help out,\nplease come to my house at night on the\n23rd of winter before the party.
+Dorothy: Se quiser ajudar, venha\na minha casa a noite do dia\n23 do Invern antes da festa.
 
 [144|off=0x5c2a|chars=112]
-Dorothy: If you would like to help out,\nplease come to my house at night on the\n23rd of winter before the party.
+Dorothy: Se quiser ajudar, venha\na minha casa a noite do dia\n23 do Invern antes da festa.
 
 [145|off=0x5d16|chars=54]
-Dorothy: Claro, Vou compensate you\nfor seu tempo.
+Dorothy: Claro, vou te compensar\npelo seu tempo.
 
 [146|off=0x5d8e|chars=54]
-Dorothy: Claro, Vou compensate you\nfor seu tempo.
+Dorothy: Claro, vou te compensar\npelo seu tempo.
 
 [147|off=0x5e06|chars=54]
-Dorothy: Claro, Vou compensate you\nfor seu tempo.
+Dorothy: Claro, vou te compensar\npelo seu tempo.
 
 [148|off=0x5e7e|chars=106]
-Masami: Time certainly does fly. I can't\nbelieve we have to worry about the\nChristmas Party again so soon.
+Masami: O tempo voa mesmo. Nao posso\nacreditar que ja temos que nos\npreocupar com a Festa de Natal.
 
 [149|off=0x5f5e|chars=106]
-Masami: Time certainly does fly. I can't\nbelieve we have to worry about the\nChristmas Party again so soon.
+Masami: O tempo voa mesmo. Nao posso\nacreditar que ja temos que nos\npreocupar com a Festa de Natal.
 
 [150|off=0x603e|chars=109]
-Masami: You'll have to get ready too.\nThe mayor usually only buys enough\npoinsettias to decorate Town Hall...
+Masami: Voce tambem se prepare.\nO prefeito so compra bico-de-papagaio\npara decorar o Salao...
 
 [151|off=0x6124|chars=109]
-Masami: You'll have to get ready too.\nThe mayor usually only buys enough\npoinsettias to decorate Town Hall...
+Masami: Voce tambem se prepare.\nO prefeito so compra bico-de-papagaio\npara decorar o Salao...
 
 [152|off=0x620a|chars=105]
-Masami: But if you could grow and ship\nsome poinsettias too, we could decorate\nthe entire town with them!
+Masami: Mas se voce cultivar e embarcar\nmais bico-de-papagaio, podemos\ndecorar a cidade toda com eles!
 
 [153|off=0x62e8|chars=105]
-Masami: But if you could grow and ship\nsome poinsettias too, we could decorate\nthe entire town with them!
+Masami: Mas se voce cultivar e embarcar\nmais bico-de-papagaio, podemos\ndecorar a cidade toda com eles!
 
 [154|off=0x63c6|chars=113]
-Masami: Let's ver... If you could ship\n20 dam, Acho esse would be enough\nto reach as lonire Dr. Hope's casa.
+Masami: Vejamos... Se embarcar\n20 deles, acho que chegaria ate\na casa do Dr. Hope.
 
 [155|off=0x64b4|chars=113]
-Masami: Let's ver... If you could ship\n20 dam, Acho esse would be enough\nto reach as lonire Dr. Hope's casa.
+Masami: Vejamos... Se embarcar\n20 deles, acho que chegaria ate\na casa do Dr. Hope.
 
 [156|off=0x65a2|chars=78]
-Masami: He'd be so surprised, he might\nate ir para o Christmas Party himself!
+Masami: Ele ficaria tao surpreso que\nate poderia ir a Festa de Natal!
 
 [157|off=0x664a|chars=78]
-Masami: He'd be so surprised, he might\nate ir para o Christmas Party himself!
+Masami: Ele ficaria tao surpreso que\nate poderia ir a Festa de Natal!
 
 [158|off=0x66f2|chars=86]
-Masami: Flower arranging helps you\nobtain inner peace... but maybe you\nprefer fishing.
+Masami: Arranjar flores traz paz\ninterior... mas talvez voce\nprefira pescar.
 
 [159|off=0x67aa|chars=86]
-Masami: Flower arranging helps you\nobtain inner peace... but maybe you\nprefer fishing.
+Masami: Arranjar flores traz paz\ninterior... mas talvez voce\nprefira pescar.
 
 [160|off=0x6862|chars=61]
-Masami: I'm sorry, but I'm busy\npreparing for my haiku class.
+Masami: Desculpe, estou\npreparando minha\naula de haiku.
 
 [161|off=0x68e8|chars=61]
-Masami: I'm sorry, but I'm busy\npreparing for my haiku class.
+Masami: Desculpe, estou\npreparando minha\naula de haiku.
 
 [162|off=0x696e|chars=127]
-Charles: Actually, I'd like to just\nsleep late on my days off, but...\nMy father has some great\nideas that we have to implement.
+Charles: Na verdade, preferia\ndormir ate tarde nas folgas, mas...\nMeu pai tem boas ideias\nque devemos implementar.
 
 [163|off=0x6a78|chars=83]
-Mayor: I think one should make time to\neat with one's family, at least on\ndays off.
+Mayor: Devemos comer\ncom a familia, ao menos\nnos dias de folga.
 
 [164|off=0x6b2a|chars=23]
-Principal Rose: Oi, 
+Principal Rose: Ola,
 
 [165|off=0x6b5a|chars=33]
-P.\nI'm Rose, from Volcano School.
+P.\nSou Rose, da Escola Volcano.
 
 [166|off=0x6ba8|chars=116]
-Principal Rose: Oh, are you attending\nthis cooking class too?\nIt's a lot more\ndifficult than the cooking show on TV.
+Principal Rose: Voce tambem esta\nnesta aula de culinaria?\nE bem mais dificil que o\nprograma de culinaria na TV.
 
 [167|off=0x6c9c|chars=111]
-Masami: Whether it's cooking, haiku, or\nflower arranging, the smallest\nmiscalculation can cause major problems.
+Masami: Seja culinaria, haiku ou\narranjo de flores, o menor\ndetalhe mal feito causa grandes problemas.
 
 [168|off=0x6d86|chars=111]
-Masami: Whether it's cooking, haiku, or\nflower arranging, the smallest\nmiscalculation can cause major problems.
+Masami: Seja culinaria, haiku ou\narranjo de flores, o menor\ndetalhe mal feito causa grandes problemas.
 
 [169|off=0x6e70|chars=111]
-Masami: Whether it's cooking, haiku, or\nflower arranging, the smallest\nmiscalculation can cause major problems.
+Masami: Seja culinaria, haiku ou\narranjo de flores, o menor\ndetalhe mal feito causa grandes problemas.
 
 [170|off=0x6f5a|chars=111]
-Masami: Whether it's cooking, haiku, or\nflower arranging, the smallest\nmiscalculation can cause major problems.
+Masami: Seja culinaria, haiku ou\narranjo de flores, o menor\ndetalhe mal feito causa grandes problemas.
 
 [171|off=0x7044|chars=113]
-Dorothy: It's important to have a\nlittle time alone with your spouse, even\nif you've been married for many years.
+Dorothy: E importante ter um\ntempo so com o conjuge, mesmo\nque ja sejam casados ha muitos anos.
 
 [172|off=0x7132|chars=84]
-Mayor: I'll have to admit, I still get a\nlittle bashful when I'm alone with\nmy wife.
+Mayor: Admito que ainda fico\num pouco sem jeito quando\nestou so com minha esposa.
 
 [173|off=0x71e6|chars=80]
-Dorothy: My cooking program is aimed at\nbeginners and covers the\ncooking basics.
+Dorothy: Meu programa e para\niniciantes e cobre\no basico da cozinha.
 
 [174|off=0x7292|chars=60]
-Dorothy: I teach the more advanced\nsubjects here, in person.
+Dorothy: Ensino os temas\nmais avancados\naqui, pessoalmente.
 
 [175|off=0x7316|chars=125]
-Masami: A haiku is a kind of poetry\nthat's made up of 3 lines.\nThe first has 5 syllables,\nthe second 7, and the last 5 again.
+Masami: Um haiku e um tipo de poesia\nformado por 3 linhas.\nA primeira tem 5 silabas,\na segunda 7 e a ultima 5 de novo.
 
 [176|off=0x741c|chars=125]
-Masami: A haiku is a kind of poetry\nthat's made up of 3 lines.\nThe first has 5 syllables,\nthe second 7, and the last 5 again.
+Masami: Um haiku e um tipo de poesia\nformado por 3 linhas.\nA primeira tem 5 silabas,\na segunda 7 e a ultima 5 de novo.
 
 [177|off=0x7522|chars=51]
-Masami: Why don't you try making a haiku\nyourself, 
+Masami: Que tal tentar fazer um haiku\nvoce mesmo,
 
 [178|off=0x758a|chars=44]
-P? Don't forget\nto use a seasonal word, now.
+P? Nao esqueca de\nusar palavra da estacao.
 
 [179|off=0x75ee|chars=51]
-Masami: Why don't you try making a haiku\nyourself, 
+Masami: Que tal tentar fazer um haiku\nvoce mesmo,
 
 [180|off=0x7656|chars=44]
-P? Don't forget\nto use a seasonal word, now.
+P? Nao esqueca de\nusar palavra da estacao.
 
 [181|off=0x76ba|chars=64]
-Masami: Lenny always makes dinner on\nSundays. It's a great help.
+Masami: O Lenny faz o jantar\nnos domingos. E uma grande ajuda.
 
 [182|off=0x7746|chars=64]
-Masami: Lenny always makes dinner on\nSundays. It's a great help.
+Masami: O Lenny faz o jantar\nnos domingos. E uma grande ajuda.
 
 [183|off=0x77d2|chars=85]
-Dorothy: Have you noticed thno\nrefrigerator in seu quarto is\nsempre fully stocked?
+Dorothy: Ja percebeu que a geladeira\nno seu quarto esta sempre\ncheia de comida?
 
 [184|off=0x7888|chars=90]
-Dorothy: Dr. Hope asked Gallion to set\nup a system that automatically\ndelivers food there.
+Dorothy: O Dr. Hope pediu ao Gallion\npara um sistema de entrega\nautomatica de comida.
 
 [185|off=0x7948|chars=95]
-Dorothy: So you should try and cook\nfairly often. If not every day, at least\nonce a week or so.
+Dorothy: Entao tente cozinhar\nbastante. Se nao todo dia, pelo\nmenos uma vez por semana.
 
 [186|off=0x7a12|chars=24]
-Mayor: Oh, oi tsuae, 
+Mayor: Ah, ola voce ai,
 
 [187|off=0x7a44|chars=71]
-P.\nI'm always terribly busy just before\nthe Christmas Party every year.
+P.\nEstou sempre muito ocupado\nperto da Festa de Natal todo ano.
 
 [188|off=0x7ade|chars=68]
-Mayor: After all, we have to get\neverything ready in a single night.
+Mayor: Afinal, temos que deixar\ntudo pronto em uma so noite.
 
 [189|off=0x7b72|chars=100]
-Mayor: And while the Banks Corporation\nhas offered to donate some poinsettias\nfor the celebration...
+Mayor: E enquanto a Banks Corporation\nose ofereceu para doar bico-de-papagaio\npara a celebracao...
 
 [190|off=0x7c46|chars=114]
-Mayor: They nao vai be suae ate the\nhomemha da party,\nand we nao have enough\nto decorate past the cidade hall.
+Mayor: Eles so chegam na manha da\nfesta, e nao temos o suficiente\npara decorar alem do Salao da cidade.
 
 [191|off=0x7d36|chars=39]
-Dorothy: Oh, did you come to help out,\n
+Dorothy: Ah, veio ajudar,\n
 
 [192|off=0x7d86|chars=12]
-P? How nice.
+P? Que legal
 
 [193|off=0x7daa|chars=107]
-Dorothy: I'd like to have you help with\nthe cake baking, but you don't know\nhow to make a cake yet, do you?
+Dorothy: Gostaria que ajudasse no\nfazer bolos, mas voce ainda nao\nsabe fazer bolo, sabe?
 
 [194|off=0x7e8c|chars=60]
-Dorothy: Just vir para o party\nahomemha and enjoy seusarlf.
+Dorothy: So venha a festa\namanha e se divirta.
 
 [195|off=0x7f10|chars=39]
-Dorothy: Oh, did you come to help out,\n
+Dorothy: Ah, veio ajudar,\n
 
 [196|off=0x7f60|chars=12]
-P? How nice.
+P? Que legal
 
 [197|off=0x7f84|chars=65]
-Dorothy: Well then, let's make some\nnice cake together, shall we?
+Dorothy: Entao, vamos fazer\num bolo gostoso juntos, certo?
 
 [198|off=0x8012|chars=126]
-Dorothy: We have a lot to get ready, so\nwe may not be finished until midday\ntomorrow.\nAre you sure that you want\nto start now?
+Dorothy: Temos muito a preparar, entao\npode ser que so terminemos\namanha ao meio-dia.\nTem certeza que quer\ncomecar agora?
 
 [199|off=0x811a|chars=76]
-Dorothy: All right, let's get going!\nFirst, I need you to sift this flour...
+Dorothy: Certo, vamos la!\nPrimeiro, preciso que peneire\nessa farinha...
 
 [200|off=0x81ba|chars=71]
-And so you began to help Dorothy make\na cake for the Christmas Party...
+Voce comecou a ajudar\nDorothy a fazer bolo\npara a Festa de Natal...
 
 [201|off=0x8250|chars=109]
-Not only that, you also helped clean\nup the Town Hall. It grew late and you\nfinally fell into a deep sleep...
+Alem disso, voce ajudou a limpar o\nSalao da cidade. Foi ficando tarde\ne voce finalmente dormiu fundo...
 
 [202|off=0x8336|chars=108]
-Dorothy: Oh, is there something you\nneed to do first? All right then. Talk\nto me again when you're finished.
+Dorothy: Ah, tem algo que precisa\nfazer primeiro? Certo. Fale comigo\nde novo quando terminar.
 
 [203|off=0x841a|chars=59]
-Jessica: I'm not much for parties, but I\ndo like Christmas.
+Jessica: Nao curto muito festas, mas\ngosto do Natal.
 
 [204|off=0x849c|chars=14]
-Gayak: Oi, 
+Gayak: Ola,
 
 [205|off=0x84ba|chars=57]
-P!\nThe mayor sure knows how to throw\na party, doesn't he?
+P!\nO prefeito sabe mesmo dar\numa festa, nao sabe?
 
 [206|off=0x8538|chars=68]
-Gayak: It must have been\ndifficult to ship all of those\npoinsettias.
+Gayak: Deve ter sido dificil\nembarcar tantos\nbico-de-papagaio.
 
 [207|off=0x85cc|chars=62]
-Gayak: But surprisingly enough, Dr. Hope\nis suae no party.
+Gayak: Mas surpreendentemente,\no Dr. Hope esta aqui na festa.
 
 [208|off=0x8654|chars=98]
-Gayak: He hasn't been out since his\nhealth problems started. This is all\nthanks to your hard work.
+Gayak: Ele nao saia desde que os\nproblemas de saude comecaram. Isso\ne tudo fruto do seu esforco.
 
 [209|off=0x8724|chars=34]
-Gayak: It's Christmas time again,\n
+Gayak: E Natal de novo,\n
 
 [210|off=0x877a|chars=72]
-Gayak: I feel like Dr. Hope is somewhere\nwatching this party, don't you?
+Gayak: Sinto que o Dr. Hope\nesta em algum lugar\nvendo a festa.
 
 [211|off=0x8816|chars=18]
-Marlene: Welcome, 
+Marlene: Bem-vindo
 
 [212|off=0x884c|chars=44]
-Marlene: I made a Christmas present for\nyou.
+Marlene: Fiz um presente de Natal\npara voce.
 
 [213|off=0x88b0|chars=86]
-Marlene: Well, it's just a plain Seed\nBag. I'm sorry it couldn't be\nsomething fancier.
+Marlene: So uma Bolsa\nde Sementes simples.\nDesculpe nao ser mais.
 
 [214|off=0x8968|chars=73]
-Marlene: I sent the Seed Bag to your\nItem Box, so keep an eye out for it.
+Marlene: Enviei a Bolsa\nde Sementes para sua Caixa.\nFique de olho.
 
 [215|off=0x8a06|chars=78]
-Simon: I always thought Dr. Hope was\nkinda scary, but I guess he's a nice\nguy.
+Simon: Sempre achei o Dr. Hope\nassustador, mas acho que ele e\num cara legal.
 
 [216|off=0x8aae|chars=86]
-Simon: That cake is delicious, but I\nbet it's very fattening. Better not eat\ntoo much.
+Simon: Esse bolo e delicioso, mas aposto\nque engorda muito. Melhor nao\ncomer demais.
 
 [217|off=0x8b66|chars=81]
-Becky: You shipped so homemy poinsettias\nthnoy ate decorated\nDr. Hope's casa!
+Becky: Voce embarcou tantos\nbico-de-papagaio e decoraram\nate a casa do Dr. Hope!
 
 [218|off=0x8c14|chars=42]
-Becky: The Nature Sprites might ate\nvir!
+Becky: Talvez os\nEspiritos aparecam!
 
 [219|off=0x8c74|chars=81]
-Becky: You shipped so homemy poinsettias\nthnoy ate decorated\nDr. Hope's casa!
+Becky: Voce embarcou tantos\nbico-de-papagaio e decoraram\nate a casa do Dr. Hope!
 
 [220|off=0x8d22|chars=41]
-Becky: I'm sure Dr. Hope is very\npleased.
+Becky: O Dr. Hope\nficou satisfeito.
 
 [221|off=0x8d80|chars=84]
-Becky: About the only time everyone in\ntown gets together is at the Christmas\nParty.
+Becky: O unico momento em que todo\nmundo da cidade se reune e na\nFesta de Natal.
 
 [222|off=0x8e34|chars=94]
-Big: The poinsettias no Town\nHall were donated by meu dad's company.\nThey do it emuito ano.
+Big: Os bico-de-papagaio no Salao\nforam doados pela empresa do pai.\nEles fazem isso todo ano.
 
 [223|off=0x8efc|chars=34]
-Bobby: S-Sorry.\nYou can't come in.
+Bobby: D-Desculpe.\nNao pode entrar
 
 [224|off=0x8f4c|chars=105]
-Marcia: Lionel's been trying to say\nsomething for a while now, but I can't\nmake heads or tails out of it.
+Marcia: O Lionel tenta dizer algo\nha um tempo, mas nao consigo\nentender nada do que ele fala.
 
 [225|off=0x902a|chars=39]
-Marcia: Why can't you just spit it out?
+Marcia: Fala logo\nde uma vez!
 
 [226|off=0x9084|chars=43]
-Lionel: I-I've been t-trying to tell\nyou...
+Lionel: E-Eu e-estava t-tentando\nte dizer..
 
 [227|off=0x90e6|chars=27]
-Lionel: I l-l-l-love y-y...
+Lionel: Eu a-a-a-amo v-v...
 
 [228|off=0x9128|chars=52]
-Lionel: Eu amar seu skirt...\nHaha! Sim, isso it...
+Lionel: Adoro sua saia...\nHaha! Sim, e isso...
 
 [229|off=0x919c|chars=51]
-Marcia: Hmph! You're making fun of me,\naren't you?!
+Marcia: Hmph! Voce esta cacoando\nde mim, nao esta?!
 
 [230|off=0x920e|chars=43]
-Lionel: W-what? Don't look at me like\nthat!
+Lionel: O-o que? Nao me olhe\nassim!
 
 [231|off=0x9270|chars=36]
-Lionel: Um... I, uh...\nL-l-l-love...
+Lionel: Hm... Eu, bom...\nA-a-a-amo..
 
 [232|off=0x92c4|chars=105]
-Marcia: Lionel's been trying to say\nsomething for a while now, but I can't\nmake heads or tails out of it.
+Marcia: O Lionel tenta dizer algo\nha um tempo, mas nao consigo\nentender nada do que ele fala.
 
 [233|off=0x93a2|chars=35]
-Lenny: How long are you gonna wait?
+Lenny: Ate quando vai esperar?
 
 [234|off=0x93f4|chars=82]
-Lenny: If you don't do something soon,\nanother woman is gonna snap old\nMillion up.
+Lenny: Se nao fizer algo logo,\noutra mulher vai agarrar o\nMillion.
 
 [235|off=0x94a4|chars=72]
-Emma: Oh, be quiet...\nLike you're a big expert on these\nkinds of things!
+Emma: Ah, cale-se...\nVoce nao e nenhum especialista\nnesses assuntos!
 
 [236|off=0x9540|chars=59]
-Emma: Million and I have been friends\nsince we were kids...
+Emma: O Million e eu somos amigos\ndesde criancas...
 
 [237|off=0x95c2|chars=84]
-Emma: Our relationship is much more\nimportant to me than any garden\nvariety romance.
+Emma: Nossa relacao e mais\nimportante do que qualquer\nromance.
 
 [238|off=0x9676|chars=29]
-Lenny: Okay. If you say so...
+Lenny: Certo. Se voce diz...
 
 [239|off=0x96bc|chars=44]
-Emma: Don't you have some work to do,\nLenny?
+Emma: Nao tem\ntrabalho, Lenny?
 
 [240|off=0x9720|chars=17]
-Emma: Oh, oi, 
+Emma: Ah, ola,
 
 [241|off=0x9744|chars=35]
-P.\nI hope you're enjoying yourself.
+P.\nEspero que esteja se divertindo.
 
 [242|off=0x9796|chars=109]
-Lenny: I'll never understand her. She's\nnot bad looking, but she's never going\nto make her move at this rate.
+Lenny: Nunca vou entende-la. Ela nao\ne feia, mas nunca vai dar o\nprimeiro passo nesse ritmo.
 
 [243|off=0x987c|chars=68]
-Lenny: Claro, Million nao e exactly\nthe perfeito pegar, eseuua...
+Lenny: Claro, o Million tambem nao\ne bem o partido perfeito...
 
 [244|off=0x9910|chars=86]
-Lenny: If only he had something that\ncould give him a little more\nconfidence as a man.
+Lenny: Se ao menos ele tivesse\nalgo que le desse mais\nconfianca como homem.
 
 [245|off=0x99c8|chars=21]
-Lenny: Oh, e you, 
+Lenny: Ah, e voce,
 
 [246|off=0x99f4|chars=49]
-P.\nI'm here helping out with the\nChristmas Party.
+P.\nEstou aqui ajudando na\nFesta de Natal.
 
 [247|off=0x9a62|chars=22]
-Becky: Huh? It's you, 
+Becky: Hum? E voce,
 
 [248|off=0x9a90|chars=25]
-P.\nLooking for something?
+P.\nProcurando algo?
 
 [249|off=0x9ace|chars=78]
-Becky: I heard that you're addicted to\nsome kind of weird Dictionary lately...
+Becky: Ouvi que voce esta viciado\nnum Dicionario esquisito\nultimamente...
 
 [250|off=0x9b76|chars=84]
-Becky: I always carry this weird book that\nI found one day.\nDo you want to read it, 
+Becky: Sempre carrego este livro\nesquisito que achei um dia.\nQuer ler,
 
 [251|off=0x9c30|chars=24]
-Becky: Here, tseu is it.
+Becky: Aqui, e este.
 
 [252|off=0x9c6a|chars=25]
-White Rose Story-Volume 2
+Rosa Branca\nVol. 2
 
 [253|off=0x9ca6|chars=52]
-Masso failed the city college\nentrance exam again...
+Masso reprovou no exame\nde admissao de novo...
 
 [254|off=0x9d16|chars=98]
-He boarded a train to return home.\nHe lamented his misfortune to an\nold man riding the same train.
+Ele embarcou num trem de volta\npara casa. Lamentou sua azar\na um velho no mesmo vagao.
 
 [255|off=0x9de2|chars=26]
-...Then the old mad said,\n
+...Entao o velho disse,\n
 
 [256|off=0x9e18|chars=44]
-Smell this white rose,\nand rest for a while.
+Cheire esta rosa branca\ne descanse um pouco.
 
 [257|off=0x9e7c|chars=38]
-The scent holds the key to your luck."
+O aroma guarda a chave da sua sorte."
 
 [258|off=0x9ed0|chars=78]
-Even though Masso was suspicious,\nhe sniffed the white rose\nand fell asleep...
+Mesmo desconfiado, Masso cheirou\na rosa branca\ne adormeceu...
 
 [259|off=0x9f74|chars=111]
-One year later, Masso passed the\nentrance exam for an elite university.\nIt may be due to the scent of the rose.
+Um ano depois, Masso passou no\nexame de uma universidade de elite.\nTalvez fosse o aroma da rosa.
 
 [260|off=0xa05a|chars=109]
-Later, he achieved great success in\nbusiness, established a happy family\nwith a beautiful wife and many kids.
+Depois, teve grande sucesso nos\nnegociosegocio, formou uma familia feliz\ncom uma bela esposa e filhos.
 
 [261|off=0xa13c|chars=55]
-His happy and affluent life continued.\nUntil one day...
+Sua vida feliz e abastada continuou.\nAte um dia...
 
 [262|off=0xa1b2|chars=30]
-An ear-piercing wseutle blew!!
+Um apito ensurdecedor soou!!
 
 [263|off=0xa1f6|chars=21]
-...and Masso woke up.
+...e Masso acordou.
 
 [264|off=0xa228|chars=78]
-The train had just reached the last\nstop. The old man was nowhere to be\nfound.
+O trem tinha chegado ao fim da\nlinha. O velho nao estava\nem lugar algum.
 
 [265|off=0xa2cc|chars=100]
-Only the scent of wbatere rose was\nleft, lingering na air.\n                                The end
+So o aroma da rosa branca restou,\nno ar.\n                                Fim
 
 [266|off=0xa3a0|chars=77]
-Becky: Acho ha an velho tale about\nwbatere roses in tseu area too,\ncerto?
+Becky: Ha uma historia antiga\nsobre rosas brancas\nnessa area tambem, nao?
 
 [267|off=0xa446|chars=101]
-Becky: Those who find a white rose in the\nwhite snow will have\neverlasting happiness...isn't that so?
+Becky: Quem encontrar uma rosa branca\nna neve branca tera\nfelicidade eterna...nao e isso?
 
 [268|off=0xa51c|chars=57]
-Becky: But I wonder what kind of rose\nblooms in winter...
+Becky: Mas que tipo de rosa\nfloresce no Invern...
 
 [269|off=0xa59a|chars=66]
-Becky: I see... Let me know if you\nfeel like reading it again, OK?
+Becky: Entendi... Me avise se\nquiser ler de novo, certo?
 
 [270|off=0xa62a|chars=27]
-Becky: Do you want to read 
+Becky: Quer ler
 
 [271|off=0xa662|chars=25]
-White Rose\nStory - Vol.2,
+Rosa Branca\nVol.2,
 
 [272|off=0xa696|chars=28]
- que Eu fortely recommend?
+ que eu recomendo bastante?
 
 [273|off=0xa6da|chars=19]
 Masami: Ga... gaga!
@@ -860,274 +860,274 @@ Mayor: Ga-ga.
 Principal Rose: Gaga.
 
 [285|off=0xa928|chars=44]
-This is a very expensive looking\nwardrobe...
+Este e um guarda-roupa\nmto caro...
 
 [286|off=0xa988|chars=31]
-Tsuae are dishes lined up suae.
+Ha pratos enfileirados aqui.
 
 [287|off=0xa9ce|chars=27]
-You try washing your hands.
+Voce tenta lavar as maos.
 
 [288|off=0xaa0c|chars=30]
-This sink is very easy to use.
+Esta pia e bem facil de usar.
 
 [289|off=0xaa50|chars=25]
-Your hands are now clean.
+Suas maos estao limpas.
 
 [290|off=0xaa8a|chars=24]
-But tsuae was no soap...
+Mas nao havia sabao...
 
 [291|off=0xaac2|chars=40]
-The water pressure seems a little\nlow...
+A pressao da agua\nparece baixa...
 
 [292|off=0xab1a|chars=48]
-You were surprised at how dirty\nyour hands were.
+Voce se surpreendeu\ncom suas maos\nsujas.
 
 [293|off=0xab82|chars=43]
-There's water splashed all around\nthe sink!
+Ha agua espirrada por toda\na pia!
 
 [294|off=0xabe0|chars=24]
-You wipe the area clean.
+Voce limpa a area.
 
 [295|off=0xac18|chars=26]
-Lukewarm water came out...
+Saiu agua morna...
 
 [296|off=0xac54|chars=49]
-The drain doesn't seem to be\nworking very well...
+O ralo nao parece estar\nfuncionando muito bem...
 
 [297|off=0xacbe|chars=41]
-Hot agua came out with\nincredible force!
+Saiu agua quente com\nforca incrivel!
 
 [298|off=0xad18|chars=44]
-A very nice smell surrounds the\nsoap here...
+Um aroma agradavel\nvem do sabao aqui...
 
 [299|off=0xad78|chars=55]
-You try washing your face.\nYou feel somewhat refreshed.
+Voce lava o rosto.\nSente-se um pouco\nmais refrescado.
 
 [300|off=0xadee|chars=42]
-Tsuae are lots of things no\nshelves...
+Ha muitas coisas nas\nprateleiras...
 
 [301|off=0xae4a|chars=19]
-There is wine here.
+Ha vinho aqui.
 
 [302|off=0xae78|chars=23]
-You olhar no toilet.
+Voce olha o banheiro.
 
 [303|off=0xaeae|chars=32]
-It verms to have been flushed...
+Parece que foi dado descarga...
 
 [304|off=0xaef6|chars=21]
-It's sparkling clean!
+Esta brilhando limpo!
 
 [305|off=0xaf28|chars=28]
-You push the "Flush" button.
+Aperta o botao Descarga.
 
 [306|off=0xaf68|chars=30]
-Tsuae is a note no toilet.
+Ha um bilhete no banheiro.
 
 [307|off=0xafac|chars=20]
-"Please keep clean!"
+"Mantenha limpo!"
 
 [308|off=0xafdc|chars=70]
-It appears to have a toilet seat\nthat raises and lowers automatically.
+Parece ter um assento de vaso\nque sobe e desce automaticamente.
 
 [309|off=0xb070|chars=68]
-Tsuae is a Banks Corporation\nsticker no side da toilet\nsvirr.
+Ha um adesivo da Banks Corporation\nna lateral do assento\ndo vaso.
 
 [310|off=0xb100|chars=53]
-The scent of aromatic oil floats\naround the toilet...
+O cheiro de oleo aromatico\nflutua em torno do vaso...
 
 [311|off=0xb172|chars=29]
-This is an automatic bathtub.
+E um banheiro automatico.
 
 [312|off=0xb1b4|chars=62]
-You opened the drawer.\nThere are many different things\ninside.
+Voce abriu a gaveta.\nHa muitas coisas diferentes\nla dentro.
 
 [313|off=0xb238|chars=64]
-This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+Guarda-roupa.\nNada de especial\naqui dentro.
 
 [314|off=0xb2c0|chars=38]
-Tsuae are homemy books na\nbookshelf.
+Ha muitos livros na\nestante.
 
 [315|off=0xb314|chars=45]
-But ha no reafilho for you to\nread them...
+Mas nao ha motivo para voce\nlos ler...
 
 [316|off=0xb376|chars=26]
-You open the refrigerator.
+Voce abre a geladeira.
 
 [317|off=0xb3b2|chars=65]
-But you quickly close it again\nto prevent the food from spoiling.
+Mas a fecha rapidamente\npara nao estragar a comida.
 
 [318|off=0xb43c|chars=75]
-"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+"Serpente do Arco-iris"\n  Ela te leva pela floresta\nou para a tentacao?
 
 [319|off=0xb4da|chars=86]
-"Wseupering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound da lake.
+"Arvores Sussurrantes"\n  Vozes distantes. Vozes proximas.\nEcos do ceu. O som do lago.
 
 [320|off=0xb58e|chars=63]
-"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+"Lua do Deserto"\n  As estrelas viram areia\ne voltam a terra.
 
 [321|off=0xb614|chars=50]
-"Waltz"\n  Visitors da sea. Turn turn\nturn...
+"Valsa"\n  Visitantes do mar. Gira gira\ngira...
 
 [322|off=0xb680|chars=71]
-"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+"Constelacao do Sul"\n  Veja, o Centauro. Escultura\ne pintura.
 
 [323|off=0xb716|chars=39]
-"Here and There"\n  Where on earth am I?
+"Aqui e Ali"\n  Onde estou no mundo?
 
 [324|off=0xb76c|chars=39]
-"Straight Ahead: South Heartflame\nCave"
+"Em frente: Caverna Sul\nHeartflame"
 
 [325|off=0xb7c2|chars=30]
-"Straight Ahead: Easter Ruins"
+"Em frente: Ruinas Easter"
 
 [326|off=0xb806|chars=45]
-"Straight Ahead: Southeast Bank\nof East Lake"
+"Em frente: Margem Sudeste\ndo Lago Leste"
 
 [327|off=0xb868|chars=23]
-"East: Cogumelo Forest"
+"Leste: Fl. Cogumelo"
 
 [328|off=0xb89e|chars=45]
-"Straight Ahead: Southwest Bank\nof East Lake"
+"Em frente: Margem Sudoeste\ndo Lago Leste"
 
 [329|off=0xb900|chars=37]
-"Danger! Fallen Trees.\nDo Not Enter."
+"Perigo! Arvores caidas.\nNao entre."
 
 [330|off=0xb952|chars=25]
-"East: Heartflame Desert"
+"L: Deserto Heartflame"
 
 [331|off=0xb98c|chars=18]
-"Heartflame Dunes"
+"Dunas Heartflame"
 
 [332|off=0xb9b8|chars=26]
-"North: Heartflame Plains"
+"N: Planicie Heartflame"
 
 [333|off=0xb9f4|chars=19]
-"Heartflame Plains"
+"Pl. Heartflame"
 
 [334|off=0xba22|chars=32]
-"Southeast Bank of Mermaid Lake"
+"Margem Sudeste Lago Sereia"
 
 [335|off=0xba6a|chars=14]
-"Mermaid Lake"
+"Lago Sereia"
 
 [336|off=0xba8e|chars=24]
-"South: Cogumelo Forest"
+"Sul: Floresta Cogumelo"
 
 [337|off=0xbac6|chars=32]
-"Southwest Bank of Mermaid Lake"
+"Margem Sudoeste Lago Sereia"
 
 [338|off=0xbb0e|chars=11]
-"East Lake"
+"Lago Este"
 
 [339|off=0xbb2c|chars=54]
-I found a TV schedule wedged\nbetween sodden magazines.
+Achei uma grade de TV\nentre revistas molhadas.
 
 [340|off=0xbba0|chars=73]
-Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+Seg. Qua. Sex.\n"Onde esta minha Mae? A Jornada",\n"Final Z Rangers,"
 
 [341|off=0xbc3a|chars=70]
-Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+Ter. Qui. "Bosque Melancolico,"\nSab&Dom. "Srta. Fofa - Bruxa,"
 
 [342|off=0xbcd0|chars=28]
-How to play with Cart Rails,
+Como usar os Trilhos,
 
 [343|off=0xbd0a|chars=7]
  ~Rails
 
 [344|off=0xbd20|chars=57]
-First, lay rails and\nprepare conditions to use Pod Rails.
+Coloque trilhos e prepare\nos Pod Rails para usar.
 
 [345|off=0xbd9a|chars=113]
-You can let the train correr in a circle,\nor back and forth between two points.\nWsuae ha a rail, ha a caminho.
+Pode deixar o trem andar em circulo,\nou de um ponto a outro.\nOnde ha trilho, ha um caminho.
 
 [346|off=0xbe88|chars=28]
-How to play with Cart Rails,
+Como usar os Trilhos,
 
 [347|off=0xbec2|chars=8]
  ~Motors
 
 [348|off=0xbeda|chars=102]
-Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+Motores funcionam como locomotivas.\nSe colocar nos trilhos para rodar,\npode mover carrinhos acoplados.
 
 [349|off=0xbfae|chars=96]
-You can control the motor da\nComhomemd Menu, or directly control\nit no monitor com o 
+Pode controlar o motor pelo\nMenu de Comandos, ou diretamente\nno monitor com o
 
 [350|off=0xc070|chars=8]
- button.
+ botao.
 
 [351|off=0xc088|chars=38]
-"How to play with Cart Rails," ~ Carts
+"Como usar os Trilhos," ~ Carrinhos
 
 [352|off=0xc0dc|chars=118]
-Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+Carrinhos sao Vagoes de Carga e Passageiros.\nUsando Motores, podem rodar nos\nTrilhos com Carga ou Pessoas.
 
 [353|off=0xc1d0|chars=62]
-You can be a driver\nif you operate Motors\nwhile riding a Cart.
+Voce pode ser motorista\nse operar Motores\nnum Carrinho.
 
 [354|off=0xc254|chars=40]
-"How to play with Cart Rails," ~Shipping
+"Como usar os Trilhos," ~Embarque
 
 [355|off=0xc2ac|chars=95]
-If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+Se comprar Auto Units, serao\ncolocadas entre dois\nBins de Embarque na Fazenda.
 
 [356|off=0xc372|chars=120]
-Place Cart Rails to pass Square in front\nof Auto Unit. Items na Cart will be\nautomaticoally shipped. It's convenient.
+Coloque Trilhos na Praca na frente da\nUnidade Auto. Itens no Carrinho serao\nembarcados automaticamente. Pratico.
 
 [357|off=0xc46c|chars=22]
-Physiocracy and Magic,
+Fisiocracia e Magia,
 
 [358|off=0xc49a|chars=21]
-\n~or "Book of Spirit"
+\n~ou 'Livro Espirito'
 
 [359|off=0xc4cc|chars=69]
-If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+Regando com Agua Sagrada\ncom o Regador Mistico,\nderretes a neve.
 
 [360|off=0xc55e|chars=75]
-You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+So pode usar o Regador Mistico\nse tiver trabalhado bastante\nna Fazenda...
 
 [361|off=0xc5fc|chars=59]
-It's a book with Fairy Tales\nfor early childhood education.
+E um livro de Contos de Fadas\npara educacao infantil.
 
 [362|off=0xc67a|chars=91]
-I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+Parei em uma pagina com\num boneco de madeira\nsendo engolido pela baleia...
 
 [363|off=0xc738|chars=28]
-My heart is twinging...\nWhy?
+Meu coracao aperta.\nPor que?
 
 [364|off=0xc778|chars=44]
-It's a Haiku Book\nwritten by Principle Rose.
+Livro de Haiku da\nDiretora Rose.
 
 [365|off=0xc7d8|chars=68]
-There are more Haikus about love\nthan about scenery or daily life...
+Ha mais Haikus sobre amor\ndo que sobre paisagens ou o cotidiano...
 
 [366|off=0xc868|chars=69]
-It's like reading someone else's diary.\nI feel a little bit guilty...
+E como ler o diario de outra pessoa.\nMe sinto um pouco culpado...
 
 [367|off=0xc8fc|chars=30]
-Tale da Love & Bow Knoite,
+Historia do Cavaleiro do Arco,
 
 [368|off=0xc93a|chars=7]
  Vol. 1
 
 [369|off=0xc950|chars=63]
-Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+Cavaleiro: T-t-tome o arco!\nPrincesa: ...sou a quem\nvoce quer?
 
 [370|off=0xc9d6|chars=108]
-There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+Nao havia mais hesitacao.\nEle tomou coragem e deu um presente.\nO por do sol deixou seu rosto vermelho...
 
 [371|off=0xcab8|chars=30]
-Tale da Love & Bow Knoite,
+Historia do Cavaleiro do Arco,
 
 [372|off=0xcaf6|chars=7]
  Vol. 2
 
 [373|off=0xcb0c|chars=73]
-Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+Princesa: Tambem tenho algo\npra te dar,\nCavaleiro: I-isso e um broche!?
 
 [374|off=0xcba6|chars=106]
-They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+Eles se apaixonaram um pelo outro.\nEstavam quase 100 pixels mais proximos\nquando a escuridao os encobriu.
 
 [375|off=0xcc82|chars=6]
 Yes\nNo

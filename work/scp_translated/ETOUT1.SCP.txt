@@ -1,1 +1,1454 @@
-Blocks: 483
+# ETOUT1.SCP - 483 strings UTF-16
+# Formato: [N|off=0xXXXX|chars=CC] linha de header.
+# Texto traduzido na linha seguinte ate proximo bloco.
+# IMPORTANTE: PT precisa ter EXATAMENTE 'chars' caracteres (padding com espaco se PT menor).
+# SEM ACENTOS. \n literal = quebra de linha (1 char).
+
+[0|off=0xe5e|chars=14]
+Franco: Olha,
+
+[1|off=0xe7c|chars=57]
+P.\nEste e o topo do Planalto\nde Pascoa. E todo seu.
+
+[2|off=0xefa|chars=90]
+Franco: Acho que e um pouco\ndificil entender agora o que\nisso significa pra voce.
+
+[3|off=0xfba|chars=88]
+Franco: Mais tarde pode caminhar\npor aqui e ver como esta\nterra e magnifica.
+
+[4|off=0x1076|chars=79]
+Franco: Por agora, plante suas\nSementes no solo perto\ndo elevador.
+
+[5|off=0x1120|chars=103]
+Franco: Cheguei logo apos o\namanhecer e arei o solo pra voce,\nentao esta pronto pra plantar.
+
+[6|off=0x11fa|chars=113]
+Franco: Ah, e este e um Pod de\nEnvio. Voce coloca as plantacoes\ncolhidas aqui. Viu um na fazenda\ndo Gayak, certo?
+
+[7|off=0x12e8|chars=129]
+Franco: Se colocar uma plantacao\naqui, ela vai automaticamente\npor um cano.\nDepois chega ao mercado\nainda fresca.
+
+[8|off=0x13f6|chars=66]
+Franco: Este pod envia outras\ncoisas como minerio\ne madeira.
+
+[9|off=0x1486|chars=50]
+Franco: Nao vai precisar\ndisso tao cedo.
+
+[10|off=0x14f6|chars=23]
+Franco: Venha ca,\n
+
+[11|off=0x1536|chars=92]
+Franco: So consegui arar esses 9\nquadrados. Temo que nao sou\nmais tao jovem como antes.
+
+[12|off=0x15fa|chars=58]
+Franco: Entao, que tal comecar\nlogo,
+
+[13|off=0x1680|chars=96]
+Franco: Regue todo dia e voce\npode colher batatas em 5\ndias e nabos em 6.
+
+[14|off=0x174c|chars=90]
+Franco: A passagem do tempo vai\nter um efeito importante na\nsua vida daqui pra frente.
+
+[15|off=0x180c|chars=84]
+Franco: Voce vai querer aproveitar\nao maximo o tempo de cada dia\ne nao desperdicalo.
+
+[16|off=0x18c0|chars=59]
+Franco: Vou descansar ali,\nse nao se importar.
+
+[17|off=0x1942|chars=19]
+Franco: Atencao,
+
+[18|off=0x196a|chars=76]
+P.\nDepois de plantar as Sementes no\nsolo arado, voce precisa regalas.
+
+[19|off=0x1a0e|chars=67]
+Franco: Felizmente, tem bastante\nagua de nascente na sua fazenda.
+
+[20|off=0x1aa0|chars=79]
+Franco: Equipe o Regador, va ate\na beira da agua e pressione\no
+
+[21|off=0x1b40|chars=8]
+ botao.
+
+[22|off=0x1b5c|chars=78]
+Franco: O Regador do Doutor deve\ncomportar agua para 25 quadrados.
+
+[23|off=0x1c04|chars=90]
+Franco: A proposito, regar\nquadrados sem arar nao\nfaz nenhum efeito.
+
+[24|off=0x1cc4|chars=19]
+Franco: Atencao,
+
+[25|off=0x1cec|chars=71]
+P.\nLembre-se de regar os quadrados\ncom Sementes todo dia.
+
+[26|off=0x1d86|chars=67]
+Franco: Se fizer isso, pode\ncolher as plantacoes quando\nmaturarem.
+
+[27|off=0x1e18|chars=109]
+Franco: O solo aqui nas Ruinas\nde Pascoa e fertil demais.\nAs plantas nao morrem sem\nrega...
+
+[28|off=0x1efe|chars=111]
+Franco: Mas o crescimento vai\nficar lento. E nao vao ter\nbom sabor, logo valem menos\ndinheiro.
+
+[29|off=0x1fe8|chars=15]
+Franco: Pegou?
+
+[30|off=0x2012|chars=72]
+Franco: Muito bem. Lembre-se de\naproveitar ao maximo cada dia.
+
+[31|off=0x20ae|chars=80]
+Franco: Vou ficar de olho em\nvoce ate que faca sua\nprimeira colheita.
+
+[32|off=0x215a|chars=52]
+Franco: Que pena.\nVou tentar explicar de novo.
+
+[33|off=0x21ce|chars=50]
+Franco: Ei, ja sao 17h.\nEsta me ouvindo,
+
+[34|off=0x2244|chars=44]
+Franco: Voce ainda nao regou\nsua plantacao,
+
+[35|off=0x22ae|chars=80]
+Franco: A passagem do tempo vai\nter impacto na sua vida\ndaqui pra frente.
+
+[36|off=0x235a|chars=80]
+Franco: Lembre-se, aproveite ao\nmaximo cada dia e nao\ndesperdice tempo nenhum.
+
+[37|off=0x2406|chars=16]
+Franco: Escuta,
+
+[38|off=0x2428|chars=77]
+P.\nDepois de plantar as Sementes no\nsolo arado, voce tem que regalas.
+
+[39|off=0x24ce|chars=67]
+Franco: Felizmente, tem bastante\nagua de nascente na sua fazenda.
+
+[40|off=0x2560|chars=79]
+Franco: Equipe o Regador, va ate\na beira da agua e pressione\no
+
+[41|off=0x2600|chars=8]
+ botao.
+
+[42|off=0x261c|chars=78]
+Franco: O Regador do Doutor deve\ncomportar agua para 25 quadrados.
+
+[43|off=0x26c4|chars=90]
+Franco: A proposito, regar\nquadrados sem arar nao\nfaz nenhum efeito.
+
+[44|off=0x2784|chars=76]
+Franco: Lembre-se de regar os\nquadrados com Sementes\ntodo dia.
+
+[45|off=0x2828|chars=67]
+Franco: Se fizer isso, pode\ncolher as plantacoes quando\nmaturarem.
+
+[46|off=0x28ba|chars=109]
+Franco: O solo aqui nas Ruinas\nde Pascoa e fertil demais.\nAs plantas nao morrem sem\nrega...
+
+[47|off=0x29a0|chars=111]
+Franco: Mas o crescimento vai\nficar lento. E nao vao ter\nbom sabor, logo valem menos\ndinheiro.
+
+[48|off=0x2a8a|chars=15]
+Franco: Pegou?
+
+[49|off=0x2ab4|chars=72]
+Franco: Muito bem. Lembre-se de\naproveitar ao maximo cada dia.
+
+[50|off=0x2b50|chars=80]
+Franco: Vou ficar de olho em\nvoce ate que faca sua\nprimeira colheita.
+
+[51|off=0x2bfc|chars=52]
+Franco: Que pena.\nVou tentar explicar de novo.
+
+[52|off=0x2c70|chars=50]
+Franco: Ei, ja sao 17h.\nEsta me ouvindo,
+
+[53|off=0x2ce6|chars=16]
+Franco: Escuta,
+
+[54|off=0x2d08|chars=70]
+P Lembre-se\nde regar os quadrados com\nSementes todo dia.
+
+[55|off=0x2da0|chars=67]
+Franco: Se fizer isso, pode\ncolher as plantacoes quando\nmaturarem.
+
+[56|off=0x2e32|chars=109]
+Franco: O solo aqui nas Ruinas\nde Pascoa e fertil demais.\nAs plantas nao morrem sem\nrega...
+
+[57|off=0x2f18|chars=111]
+Franco: Mas o crescimento vai\nficar lento. E nao vao ter\nbom sabor, logo valem menos\ndinheiro.
+
+[58|off=0x3002|chars=15]
+Franco: Pegou?
+
+[59|off=0x302c|chars=72]
+Franco: Muito bem. Lembre-se de\naproveitar ao maximo cada dia.
+
+[60|off=0x30c8|chars=80]
+Franco: Vou ficar de olho em\nvoce ate que faca sua\nprimeira colheita.
+
+[61|off=0x3174|chars=52]
+Franco: Que pena.\nVou tentar explicar de novo.
+
+[62|off=0x31e8|chars=15]
+Sharon: Ola,
+
+[63|off=0x3208|chars=54]
+P.\nSou Sharon, professora\nda Escola do Vulcao.
+
+[64|off=0x3280|chars=105]
+Sharon: Entendo que Dr. Hope\nnao quer que voce entre em\nnossa escola, mas pode visitar.
+
+[65|off=0x335e|chars=79]
+Sharon: Queria apresentar voce\naos meus alunos, entao os\ntrouxe aqui hoje.
+
+[66|off=0x3408|chars=117]
+Sharon: Afinal, e preciso muita\ncoragem pra cuidar de uma fazenda\ngrande sozinho! Quero que vejam!
+
+[67|off=0x34fe|chars=64]
+Sharon: Tenho certeza que pode\nfazer amigos se tentar.
+
+[68|off=0x358a|chars=34]
+Simon: Hmm... Sou Simon.\nE voce e
+
+[69|off=0x35e0|chars=98]
+Simon: Marcia disse que voce e\nparente do Dr. Hope. Imagino\nque deve ser bem inteligente!
+
+[70|off=0x36b0|chars=62]
+Simon: Pode vir me visitar em\ncasa quando quiser.
+
+[71|off=0x3738|chars=81]
+Simon: Minha familia tem a\nFazenda Branch em Volcano Town.\nUma grande autofarm.
+
+[72|off=0x37e6|chars=92]
+Lionel: Quando pede o nome de\nalguem, tem que dizer o seu\nprimeiro. O meu e Lionel.
+
+[73|off=0x38aa|chars=100]
+Lionel: Dizem que essa pedra\ngrande e na verdade um altar\npra quebrar o selo do campo.
+
+[74|off=0x397e|chars=45]
+Lionel: Todo mundo em\nVolcano Town sabe.
+
+[75|off=0x39e4|chars=50]
+Lionel: Mas ninguem cultiva\nmais a mao!
+
+[76|off=0x3a54|chars=86]
+Lionel: Ate o velho Gayak se\naposentou. Devia mesmo\npensar em desistir tambem,
+
+[77|off=0x3b12|chars=15]
+Max: Oi,
+
+[78|off=0x3b32|chars=44]
+P!\nSou o Max. Professor na\nEscola do Vulcao.
+
+[79|off=0x3b96|chars=56]
+Max: Este lugar e bem\nimpressionate, nao e!
+
+[80|off=0x3c12|chars=51]
+Max: Ah, nao estou falando\ndesses campos aridos!
+
+[81|off=0x3c84|chars=75]
+Max: E a paisagem desse planalto\nque e tao incrivel!
+
+[82|off=0x3d26|chars=84]
+Max: Otimo lugar pra correr.\nTente! Fico com inveja\nde voce!
+
+[83|off=0x3dda|chars=85]
+Becky: Oi! Me chamo Becky!\nMe sinto como uma princesa\npresa numa torre aqui.
+
+[84|off=0x3e90|chars=117]
+Becky: Dizem que esses campos\nforam selados ha muito tempo,\nmas ainda tem uma parte que\npode ser usada.
+
+[85|off=0x3f86|chars=117]
+Becky: Imagino que se vai\ncuidar da fazenda sozinho,\nnao precisara se preocupar\nem quebrar os selos.
+
+[86|off=0x407c|chars=118]
+Becky: Quero dizer, mesmo que\nconseguisse quebrar todos os\nselos, nao daria pra cuidar\nda fazenda inteira sozinho.
+
+[87|off=0x4174|chars=49]
+Big: Ei, nao me perturbe.\nHm? Ah, meu nome e Big.
+
+[88|off=0x41e2|chars=75]
+Big: Estou analisando a agua\ndessa nascente agora, entao\nnao me fale.
+
+[89|off=0x4284|chars=114]
+Big: Se vai cultivar aqui e\nvender na cidade, temos que\ngarantir que a agua e segura.
+
+[90|off=0x4374|chars=72]
+Big: Nao quero ficar doente\ncomendo algum Vegetal\nmutante.
+
+[91|off=0x4410|chars=12]
+Marcia: Ah,
+
+[92|off=0x442a|chars=39]
+P!\nFinalmente esta comecando, hein?
+
+[93|off=0x4484|chars=64]
+Marcia: E incrivel ter uma\nfazenda num lugar assim.
+
+[94|off=0x4510|chars=119]
+Marcia: Talvez nao tenha muitas\nSementes agora, mas se guardar\ndinheiro,\npode comprar mais na loja\nda cidade.
+
+[95|off=0x460a|chars=113]
+Marcia: Ha uma loja chamada\nShop-a-Million. O dono e\nlegao, mas talvez um pouco\nnao confiavel.
+
+[96|off=0x46f8|chars=78]
+Marcia: Enfim, te mostro a\nloja da proxima vez que for\nvisitar o Dr. Hope.
+
+[97|off=0x47a0|chars=78]
+Franco: Faz muito tempo que\nninguem de Volcano Town\nvinha por aqui...
+
+[98|off=0x4848|chars=8]
+Franco:
+
+[99|off=0x485a|chars=70]
+P, imagino\nque quer saber por que tem que\ncuidar destes campos, certo?
+
+[100|off=0x48f2|chars=33]
+Franco: Tudo bem, vou te contar.
+
+[101|off=0x4940|chars=55]
+Franco: Foram os Espiritos\nque selaram estes campos.
+
+[102|off=0x49ba|chars=115]
+Franco: Veja bem, ha muito tempo\no Povo de Pascoa e o Povo do\nVulcao travaram uma guerra\npela terra.
+
+[103|off=0x4aac|chars=55]
+Franco: O comportamento\nhumano enfureceu os\nEspiritos.
+
+[104|off=0x4b26|chars=115]
+Franco: E assim decidiram selar\nessa terra fertil. O Povo de\nPascoa deixou a ilha e nunca\nmais voltou.
+
+[105|off=0x4c18|chars=75]
+Franco: Mas os Espiritos nos\ndeixaram uma chance de\nexpiar o que fizemos.
+
+[106|off=0x4cba|chars=116]
+Franco: Se alguem pudesse amar\nesta terra de novo e nutrir\nvida nela com as proprias\nmaos, os selos se romperiam.
+
+[107|off=0x4dae|chars=111]
+Franco: Mas o povo de Volcano\nTown so liga pra autofazenda.\nTemo que desistiram dessa\nterra...
+
+[108|off=0x4e98|chars=117]
+Franco: E duvido que haja\nalguem hoje em dia que ainda\nacredite na existencia\ndos Espiritos.
+
+[109|off=0x4f8e|chars=111]
+Franco: Mas se nada for feito,\ncedo ou tarde a ira dos\nEspiritos pode destruir\ntoda esta ilha.
+
+[110|off=0x5078|chars=27]
+Franco: Voce entende,\n
+
+[111|off=0x50b0|chars=50]
+P?  Voce e o unico\nque pode salvar esta ilha.
+
+[112|off=0x5120|chars=42]
+Franco: Tudo bem, vou contar\nmesmo assim.
+
+[113|off=0x5180|chars=78]
+Franco: Faz muito tempo que\nninguem de Volcano Town\nvinha por aqui...
+
+[114|off=0x5228|chars=8]
+Franco:
+
+[115|off=0x523a|chars=82]
+P, quando terminar\nde cuidar dos campos, tente\ndescansar bem.
+
+[116|off=0x52ea|chars=102]
+Franco: A partir de amanha,\nvoce vai ter que acordar\nsozinho e cuidar dos campos.
+
+[117|off=0x53c2|chars=115]
+Franco: E prometa a si mesmo\nque nao vai deixar as Ruinas\nde Pascoa ate fazer a\nprimeira colheita.
+
+[118|off=0x54b4|chars=51]
+Franco: Nao se preocupe.\nVou ficar de olho em voce.
+
+[119|off=0x5526|chars=67]
+Sharon: Puxa, ja ficou bem\ntarde. Devemos ir pra casa.
+
+[120|off=0x55b8|chars=60]
+Sharon: Obrigada por tudo.\nGostei de conversar com voce,\n
+
+[121|off=0x5642|chars=59]
+Sharon: Muito bem, todos!\nNossa excursao esta quase no\nfim!
+
+[122|off=0x56c4|chars=62]
+Sharon: Vamos todos voltar pra\nVolcano Town! Vamos! Me sigam!
+
+[123|off=0x574c|chars=59]
+Big: Parece que a agua dessa\nnascente e segura o bastante.
+
+[124|off=0x57ce|chars=86]
+Big: Claro, nunca pode comparar\ncom Agua Brilhante. Meu pai\na inventou, sabia.
+
+[125|off=0x5886|chars=19]
+Big: Bom, ate mais!
+
+[126|off=0x58b8|chars=21]
+Lionel: Ai! Ai!\nMax!!
+
+[127|off=0x58ee|chars=50]
+Max: Voce sempre faz\ncoisas assim, Lionel!
+
+[128|off=0x595e|chars=66]
+Max: Falei varias vezes pra\nnao mexer nos altares!!
+
+[129|off=0x59ee|chars=16]
+Max: Que saco...
+
+[130|off=0x5a1a|chars=84]
+Max: Desculpe a confusao!\nVou visitar de novo um dia.\nBoa sorte,
+
+[131|off=0x5ad4|chars=20]
+Lionel: Doeu...
+
+[132|off=0x5b08|chars=59]
+Becky: Lionel e idiota.\nNao acredito que sou\nirmao dele!
+
+[133|off=0x5b8a|chars=66]
+Marcia: Ah, os professores\nja foram? E melhor ir logo!
+
+[134|off=0x5c1a|chars=80]
+Becky: Ainda esta aqui, Marcia?\nSe nao se apressar, a Sharon\nva ficar brava!
+
+[135|off=0x5cc6|chars=29]
+Marcia: A gente se ve,\n
+
+[136|off=0x5d12|chars=95]
+Marcia: Te mostro Volcano Town\nno proximo domingo. Espere na\ncasa do Dr., ok?
+
+[137|off=0x5ddc|chars=70]
+*: Hmm....\nEssa fazenda e ainda maior\ndo que os boatos diziam.
+
+[138|off=0x5e74|chars=58]
+*: Tentar cultivar um lugar\nassim a mao e ridiculo.
+
+[139|off=0x5ef4|chars=32]
+*: Com certeza, senhor.
+
+[140|off=0x5f40|chars=96]
+*: Pensei que Dr. Hope ia\ninventar alguma maquina\nincrivel, mas e so um garoto?
+
+[141|off=0x600c|chars=106]
+Marco: Mais razao para a\nCorporacao Banks liderar na\nconstrucao do futuro\ndesta ilha!
+
+[142|off=0x60ec|chars=117]
+Marco: Espero que nao acredite\nno que esse velho maluco\ndisse sobre os Espiritos\ndestruindo a ilha, Charles.
+
+[143|off=0x61e2|chars=85]
+Charles: Claro que nao.\nComo se algo assim pudesse\nacontecer nos dias de hoje...
+
+[144|off=0x6298|chars=75]
+Charles: Vamos voltar pra\ncidade. Quer tentar dirigir\nmeu carro, senhor?
+
+[145|off=0x633a|chars=71]
+Marco: Nao, melhor nao. Nao\nquero amassar o carro\ndele.
+
+[146|off=0x63d4|chars=26]
+Marco: Vamos indo?
+
+[147|off=0x6414|chars=35]
+Marco: Oh! E-E voce...\nCom licenca.
+
+[148|off=0x6466|chars=100]
+Marco: Ouvimos que Dr. Hope\ncomprou uma nova fazenda,\nentao resolvemos vir ver\npessoalmente.
+
+[149|off=0x653a|chars=21]
+Marco: Bom, ate logo!
+
+[150|off=0x6570|chars=87]
+Charles: Prazer em conhecer!\nSou Charles Gremley. Meu pai\ne o prefeito de Volcano Town.
+
+[151|off=0x662a|chars=37]
+Charles: Dr. Hope me falou de voce,\n
+
+[152|off=0x6686|chars=83]
+Charles: Nem eu nem meu pai\nqueremos nos meter nos\nassuntos do Dr. Hope...
+
+[153|off=0x6738|chars=94]
+Charles: Mas se viesse a publico\nque voce nao e de fato\nhumano, causaria problemas.
+
+[154|off=0x6800|chars=100]
+Charles: Voce sabe guardar\nsegredo, certo? Diga a todos\nque e parente do doutor.
+
+[155|off=0x68d4|chars=18]
+Charles: Adeus!
+
+[156|off=0x6904|chars=21]
+Million: Ei, voce e
+
+[157|off=0x6930|chars=51]
+P, certo?\nSou Million.\nTenho uma loja na cidade.
+
+[158|off=0x69a2|chars=104]
+Million: Provavelmente vou\nvender suas plantacoes la,\nentao resolvi vir ver\nsua fazenda.
+
+[159|off=0x6a7e|chars=68]
+Million: Espero que faca\nbastante Legumes frescos\ngostosos pra mim!
+
+[160|off=0x6b12|chars=67]
+*: Ugh, que saco...\nPor que tenho que vir ate\naqui?
+
+[161|off=0x6ba4|chars=76]
+*: Nao podia ter vindo\nsozinho? To perdendo\nmeu programa favorito...
+
+[162|off=0x6c48|chars=67]
+*: Ugh, que saco...\nPor que tenho que vir ate\naqui?
+
+[163|off=0x6cda|chars=17]
+*: Hm? Voce e
+
+[164|off=0x6cfe|chars=18]
+P, hein?\nQual e?
+
+[165|off=0x6d2e|chars=55]
+Million: Lenny!\nPor que voce sempre\ntem que ser assim?
+
+[166|off=0x6da8|chars=96]
+Million: Com essa atitude\nvoce nao vai chegar a lugar\nnenhum! Por que nao e mais\ncomo a Emma?
+
+[167|off=0x6e74|chars=86]
+Lenny: La vamos nos. Voce\nsempre me compara com minha\nirma... Ta bom. Tanto faz.
+
+[168|off=0x6f2c|chars=33]
+Million: Hmph...\nIgnora ele,
+
+[169|off=0x6f70|chars=25]
+P.\nEle e sempre assim.
+
+[170|off=0x6fae|chars=78]
+Million: Vem ca, voce! Talvez\npossa botar um pouco de\njuizo nessa cabeca!
+
+[171|off=0x7056|chars=30]
+Lenny: Ai! Ei, para!\nOuch!
+
+[172|off=0x709e|chars=94]
+Franco: Que manha linda.\nAs vezes e bom apenas dar\num passeio tranquilo la fora.
+
+[173|off=0x7166|chars=61]
+Franco: O que foi?\nQue atrapalhando? Hmpf!
+
+[174|off=0x71ec|chars=24]
+Emma: Ah, ola.\nVoce e
+
+[175|off=0x721e|chars=19]
+P, certo?\nSou Emma.
+
+[176|off=0x7250|chars=37]
+Emma: Desculpe a intrusao.
+
+[177|off=0x72a6|chars=108]
+Emma: E que o Big fica falando\nde como a agua aqui e boa,\nentao quis experimentar\npor mim mesma...
+
+[178|off=0x738a|chars=58]
+Emma: Trabalho numa vineria,\nentao sou exigente com agua.
+
+[179|off=0x740a|chars=71]
+Emma: E bastante boa, mas\nparece estar faltando\nalgo.
+
+[180|off=0x74a4|chars=98]
+Emma: Dizem que tem uma\nnascente de agua sagrada\nen algum lugar nestas ruinas.\nJa ouviu falar?
+
+[181|off=0x7574|chars=24]
+Emma: Ah, ola.\nVoce e
+
+[182|off=0x75a6|chars=19]
+P, certo?\nSou Emma.
+
+[183|off=0x75d8|chars=37]
+Emma: Desculpe a intrusao.
+
+[184|off=0x762e|chars=108]
+Emma: E que o Big fica falando\nde como a agua aqui e boa,\nentao quis experimentar\npor mim mesma...
+
+[185|off=0x7712|chars=58]
+Emma: Trabalho numa vineria,\nentao sou exigente com agua.
+
+[186|off=0x7792|chars=71]
+Emma: E bastante boa, mas\nparece estar faltando\nalgo.
+
+[187|off=0x782c|chars=98]
+Emma: Dizem que tem uma\nnascente de agua sagrada\nem algum lugar nestas ruinas.\nJa ouviu falar?
+
+[188|off=0x78fc|chars=105]
+Emma: A proposito, o Million\nestava se vangloriando que\niria vender suas plantacoes\nquando colhesse.
+
+[189|off=0x79da|chars=105]
+Emma: Faz muitos anos que\nninguem cultivou nada a mao\npor aqui. Pode conseguir\nbom preco.
+
+[190|off=0x7ab8|chars=105]
+Franco: Quase chegou a hora.\nSo mais um dia e pode\ncolher suas plantacoes.\nAnimado, certo?
+
+[191|off=0x7b96|chars=59]
+Franco: Seja la o que for, nao\nesqueca de regar hoje,
+
+[192|off=0x7c0e|chars=18]
+P.\nColhemos o
+
+[193|off=0x7c34|chars=11]
+I amanha!
+
+[194|off=0x7c56|chars=61]
+Franco: O que foi?\nQue atrapalhando? Hmpf!
+
+[195|off=0x7cdc|chars=9]
+Max: Ei
+
+[196|off=0x7cf0|chars=16]
+P!\nSou eu! Max!
+
+[197|off=0x7d1c|chars=77]
+Max: O tempo esta bom hoje\ne o ceu esta lindo!\nSo sinta o ar!
+
+[198|off=0x7dc2|chars=69]
+Max: Mas esta terra arida e\nosses selos apresentam\nproblemas...
+
+[199|off=0x7e58|chars=115]
+Max: Como se diz que os\nEspiritos selaram esta terra,\ntalvez uma Pedra Espiritual\npossa quebrar o selo.
+
+[200|off=0x7f4a|chars=53]
+Max: Mas Pedras Espirituais\nnao crescem em arvores...
+
+[201|off=0x7fc0|chars=63]
+Max: Bom, por ora vou apenas\napreciar este ar! Ah!
+
+[202|off=0x804a|chars=78]
+Max: Ja esta quase escuro.\nDevia voltar pro seu\nquarto, nao?
+
+[203|off=0x80f2|chars=45]
+Nana: Queria morar num lugar\nassim...
+
+[204|off=0x8158|chars=64]
+Nana: Mas seria inconveniente\nnao ter lojas por perto.
+
+[205|off=0x81e4|chars=48]
+Franco: Va colher suas plantacoes!\nPegue o
+
+[206|off=0x8246|chars=49]
+I na mao\ne jogue no Pod de Envio!
+
+[207|off=0x82b4|chars=26]
+Moonlight: Zzzz... Zzzz...
+
+[208|off=0x82f4|chars=48]
+Franco: Va colher suas plantacoes!\nPegue o
+
+[209|off=0x8356|chars=49]
+I na mao\ne jogue no Pod de Envio!
+
+[210|off=0x83c4|chars=69]
+Franco: Otimo!\nComo e enviar plantacoes\nque voce mesmo cultivou,
+
+[211|off=0x8460|chars=64]
+Franco: Mas ainda tem plantacoes\nque podem ser enviadas.
+
+[212|off=0x84ec|chars=117]
+Franco: Acho melhor adiar a ida\na Volcano Town ate colocar\ntodas as plantacoes no\nPod de Envio.
+
+[213|off=0x85e2|chars=69]
+Franco: Isso mesmo.\nFale comigo de novo\nquando terminar.
+
+[214|off=0x8678|chars=69]
+Franco: Isso mesmo.\nFale comigo de novo\nquando terminar.
+
+[215|off=0x870e|chars=94]
+Franco: Deveria terminar a\ncolheita em um dia. Tem certeza\nque quer sair?
+
+[216|off=0x87d6|chars=75]
+Franco: Entendo...\nAcho que nao tem jeito.\nPode sair com Moonlight.
+
+[217|off=0x8878|chars=39]
+Franco: Ei! Acorda!\nTem que levar
+
+[218|off=0x88c8|chars=22]
+P\na casa do Dr. Hope!
+
+[219|off=0x8900|chars=23]
+Franco: Acorde logo!
+
+[220|off=0x893a|chars=32]
+Franco: Ei!\nMoonlight, acorda!
+
+[221|off=0x8982|chars=77]
+Um pouco depois...\nMoonlight de algum jeito\nsaiu com voce a reboque...
+
+[222|off=0x8a28|chars=40]
+Franco: Otimo!\nVoce dominou o envio,\n
+
+[223|off=0x8a8a|chars=90]
+Franco: As plantacoes que puser\nno Pod de Envio sao mandadas\nao mercado as 17:30.
+
+[224|off=0x8b4a|chars=81]
+Franco: As plantacoes sao\nenviadas automaticamente,\nsem voce precisar fazer nada.
+
+[225|off=0x8bf8|chars=82]
+Franco: Entao...\nJa enviou as plantacoes,\nque tal ir a Volcano Town?
+
+[226|off=0x8ca8|chars=48]
+Franco: Muito bem!\nMoonlight vai te levar.
+
+[227|off=0x8d14|chars=100]
+Franco: Oh! Parece que ainda\ntem trabalho a fazer nos\ncampos. Volte quando terminar.
+
+[228|off=0x8de8|chars=13]
+Franco: Ei!
+
+[229|off=0x8e04|chars=64]
+P!\nSe nao sair logo pras Ruinas\nde Pascoa, vai se atrasar!
+
+[230|off=0x8e90|chars=90]
+Franco: As plantacoes que puser\nno Pod de Envio sao mandadas\nao mercado as 17:30.
+
+[231|off=0x8f50|chars=81]
+Franco: As plantacoes sao\nenviadas automaticamente,\nsem voce precisar fazer nada.
+
+[232|off=0x8ffe|chars=26]
+Franco: Venha aqui.
+
+[233|off=0x903e|chars=52]
+Franco: Muito bem.\nVamos pras Ruinas de Pascoa.
+
+[234|off=0x90b2|chars=13]
+Franco: Ei!
+
+[235|off=0x90ce|chars=64]
+P!\nSe nao sair logo pras Ruinas\nde Pascoa, vai se atrasar!
+
+[236|off=0x915a|chars=26]
+Franco: Venha aqui.
+
+[237|off=0x919a|chars=21]
+Franco: O que e isso?
+
+[238|off=0x91c6|chars=53]
+P!\nVoce nao pos nenhuma\nplantacao no Pod de Envio.
+
+[239|off=0x923c|chars=33]
+Franco: Voce nao e\npreguicoso, e?
+
+[240|off=0x928a|chars=84]
+Franco: Tenho que admitir que\nvoce esta me preocupando\num pouco com seu futuro.
+
+[241|off=0x933e|chars=96]
+Franco: Mas prometi ao Dr. Hope\nque te cuidaria, e e\nexatamente isso que\nvou fazer.
+
+[242|off=0x940a|chars=62]
+Franco: Vou enviar suas\nplantacoes. Pode ir.
+
+[243|off=0x9492|chars=61]
+Franco: Pode dizer ao Dr. Hope\nque voce mesmo as enviou.
+
+[244|off=0x9518|chars=34]
+Franco: E mentira, mas tudo\nbem...
+
+[245|off=0x9568|chars=66]
+Franco: Mas talvez isso te\nensine uma licao. Espero\nque sim.
+
+[246|off=0x95f8|chars=22]
+Franco: Va. Vai logo!
+
+[247|off=0x9630|chars=94]
+Franco: Hmm... Esta me dizendo\nque nao sabe como colher\nou enviar suas plantacoes?
+
+[248|off=0x96f8|chars=110]
+Franco: Devia ter aprendido\nna casa do Gayak, mas suponho\nque e possivel que tenha\nesquecido...
+
+[249|off=0x97e0|chars=56]
+Franco: Entao finalmente\ncomecou a criar animais, hein?
+
+[250|off=0x985c|chars=109]
+Franco: Sabia que os robos de\ncriacao como o Cluck-o-Matic\ntambem sao invencoes\ndo Dr. Hope?
+
+[251|off=0x9942|chars=112]
+Franco: Hoje tudo na fazenda e\nautomatizado, mas naquela\nepoca usar robos era uma\nideia revolucionaria.
+
+[252|off=0x9a2e|chars=61]
+Franco: Ouvi que ainda os usam\nbastante no exterior.
+
+[253|off=0x9ab4|chars=74]
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnestas ruinas!
+
+[254|off=0x9b54|chars=90]
+Moonlight: Tenho certeza que\nsua forca vital vai ajudar\na revitalizar essa terra!
+
+[255|off=0x9c14|chars=72]
+Franco: Nossa!\nVoce tem sorte!\nGanhar um buggy de presente!
+
+[256|off=0x9cb0|chars=89]
+Franco: Se eu tivesse um buggy\nassim, levaria a Rose num\npasseio que nunca esqueceria!
+
+[257|off=0x9d6e|chars=11]
+Moonlight:
+
+[258|off=0x9d86|chars=52]
+P! Vejo que ganhou\num belo presente do Dr. Hope.
+
+[259|off=0x9dfa|chars=63]
+Moonlight: Com um buggy\ndesses pode ir quase\na qualquer lugar!
+
+[260|off=0x9e84|chars=60]
+Franco: Nao acredito que\nMarco cometeu um erro\ntao grande.
+
+[261|off=0x9f08|chars=73]
+Franco: Quando era jovem, todo\nmundo levava seus pares\npara aquela gruta.
+
+[262|off=0x9fa6|chars=11]
+Moonlight:
+
+[263|off=0x9fbe|chars=57]
+P!\nOuvi que tiveram\nproblemas na gruta de\nVolcano Town.
+
+[264|off=0xa03c|chars=77]
+Moonlight: Vai levar tempo e\nesforco pra devolver ao\nestado original.
+
+[265|off=0xa0e2|chars=49]
+Franco: Ouvi que plantou\nbico-de-papagaio.
+
+[266|off=0xa150|chars=120]
+Franco: Se conseguir enviar\nbastante ate a vespera\nda Noite de Natal, podem\nusar pra enfeitar a cidade.
+
+[267|off=0xa24c|chars=21]
+Franco: Mal posso!
+
+[268|off=0xa282|chars=41]
+Franco: Ouvi que Dr. Hope\ndesmaiou...
+
+[269|off=0xa2e0|chars=96]
+Franco: Sei que deve estar\npreocupado com ele, mas voce\ntem trabalho importante\npra terminar.
+
+[270|off=0xa3ac|chars=89]
+Franco: Tenho certeza que o\nmelhor agora pro Dr. Hope e\nver voce trabalhando duro.
+
+[271|off=0xa46a|chars=52]
+Moonlight: Nunca soube que\nDr. Hope estava doente...
+
+[272|off=0xa4de|chars=86]
+Moonlight: Imagino que por\nisso ele se apressou tanto\npra terminar com voce...
+
+[273|off=0xa596|chars=42]
+Franco: Sei que esta triste\npelo Dr. Hope,
+
+[274|off=0xa5ec|chars=12]
+P. Eu sim.
+
+[275|off=0xa610|chars=31]
+Franco: Era um bom amigo...
+
+[276|off=0xa65a|chars=48]
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
+
+[277|off=0xa6c6|chars=74]
+Moonlight: Ele me disse que\nha mais neste mundo do\nque os olhos veem!
+
+[278|off=0xa766|chars=91]
+Moonlight: O que quero dizer\ne... Tenho certeza que\nDr. Hope sempre vai velar\npor voce,
+
+[279|off=0xa82e|chars=62]
+Franco: Quem e esse homem\nestranha que mora no\nnovo quarto?
+
+[280|off=0xa8b6|chars=97]
+Franco: Claro, aquela area\nesteve selada por muito tempo,\nnao e como se alguem a\npossuisse...
+
+[281|off=0xa984|chars=61]
+Franco: Bom, nao devemos\nnos preocupar muito\ncom isso.
+
+[282|off=0xaa0a|chars=43]
+Franco: Um alien mora\nno novo quarto?
+
+[283|off=0xaa6c|chars=97]
+Franco: Claro, aquela area\nesteve selada por muito tempo,\nnao e como se alguem a\npossuisse...
+
+[284|off=0xab3a|chars=61]
+Franco: Bom, nao devemos\nnos preocupar muito\ncom isso.
+
+[285|off=0xabc0|chars=11]
+Moonlight:
+
+[286|off=0xabd8|chars=76]
+P!\nVi uma coisa estranha que\nparecia um bicho de pelucia\nno novo quarto.
+
+[287|off=0xac7c|chars=51]
+Moonlight: Voce fez isso?\nE muito impressionante!
+
+[288|off=0xacec|chars=12]
+N: Arf! Arf!
+
+[289|off=0xad0e|chars=11]
+N: Whimper.
+
+[290|off=0xad2e|chars=11]
+N: Whimper.
+
+[291|off=0xad4e|chars=11]
+N: Whimper.
+
+[292|off=0xad72|chars=33]
+R:\nCOMECAREI A TRABALHAR AMANHA.
+
+[293|off=0xadc2|chars=79]
+R: PRESSIONE O BOTAO R1\nE SELECIONE NO MENU\nPARA ME DAR UM COMANDO.
+
+[294|off=0xae6e|chars=84]
+R: DEVO TERMINAR O SCAN\nHOJE, ENTAO AGUARDE ATE\nAMANHA PARA DAR COMANDOS.
+
+[295|off=0xaf24|chars=12]
+R:\nSCANEANDO
+
+[296|off=0xaf3e|chars=9]
+P'S FARM.
+
+[297|off=0xaf52|chars=42]
+\nCALCULANDO AREA...\nVERIF. OBSTACULOS...
+
+[298|off=0xafb4|chars=69]
+R: PREPARACAO CONCLUIDA.\nMENU BOTAO R1 PARA\nDAR UM COMANDO.
+
+[299|off=0xb04c|chars=79]
+R: NAO POSSO PLANTAR SEMENTES\nOU COLHER, MAS POSSO\nREGAR OU LIMPAR CAMPOS.
+
+[300|off=0xb0f8|chars=24]
+R: AGUARDO SEU COMANDO.
+
+[301|off=0xb130|chars=90]
+Ha uma tempestade terrivel\nla fora! Voce nao conseguira\nse mover muito rapido assim...
+
+[302|off=0xb1ec|chars=106]
+A neve com vento torna quase\nimpossivel ver qualquer coisa!\nVoce nunca conseguiria\nandar por ai...
+
+[303|off=0xb2c8|chars=54]
+Esta chovendo. Nao precisara\nregar as plantacoes hoje.
+
+[304|off=0xb33c|chars=76]
+O poder da joia colocada\nno altar quebrou o selo\ndeste campo!
+
+[305|off=0xb3dc|chars=75]
+Quer esvaziar o conteudo\nda sua Bolsa de Balanca\nno Pod de Envio?
+
+[306|off=0xb47a|chars=50]
+Voce esvaziou a Bolsa de\nBalanca no Pod de Envio.
+
+[307|off=0xb4e6|chars=65]
+Quer esvaziar as plantacoes\nda sua bolsa no Pod de Envio?
+
+[308|off=0xb570|chars=52]
+Qual plantacao quer colocar\nno Pod de Envio?
+
+[309|off=0xb5e0|chars=56]
+Voce esvaziou as plantacoes\nda bolsa no Pod de Envio!
+
+[310|off=0xb658|chars=84]
+Este e um Pod de Envio. Os\nitens dentro sao enviados ao\nmercado todo dia as 17:30.
+
+[311|off=0xb708|chars=84]
+Este e um Pod de Envio. Os\nitens dentro sao enviados ao\nmercado todo dia as 17:30.
+
+[312|off=0xb7b8|chars=102]
+Este Pod de Envio e para\nplantacoes e outros alimentos.\nColoque materiais e minerio\nno pod azul.
+
+[313|off=0xb88c|chars=94]
+Este Pod e para pedra,\nmadeira e minerio. Coloque\nplantacoes e alimentos\nno pod verde.
+
+[314|off=0xb950|chars=61]
+Voce esvaziou o conteudo\nda cesta no Pod de Envio!
+
+[315|off=0xb9d2|chars=36]
+Nao ha nada no Pod de Envio!
+
+[316|off=0xba22|chars=36]
+Nao ha nada no Pod de Envio!
+
+[317|off=0xba72|chars=30]
+Nao ha nada na cesta!
+
+[318|off=0xbab6|chars=76]
+Quer colocar os recursos\nda sua bolsa no Pod\nde Envio?
+
+[319|off=0xbb56|chars=56]
+Qual recurso quer colocar\nno Pod de Envio?
+
+[320|off=0xbbce|chars=58]
+Voce colocou os recursos\nda bolsa no Pod de Envio!
+
+[321|off=0xbc4a|chars=29]
+Sua bolsa esta cheia!
+
+[322|off=0xbc8c|chars=29]
+Sua bolsa esta cheia!
+
+[323|off=0xbcce|chars=29]
+Sua bolsa esta cheia!
+
+[324|off=0xbd10|chars=44]
+Deseja colocar uma\njoia neste altar?
+
+[325|off=0xbd70|chars=17]
+Voce colocou o\n
+
+[326|off=0xbd94|chars=15]
+I\nno altar.
+
+[327|off=0xbdba|chars=17]
+Voce colocou o\n
+
+[328|off=0xbdde|chars=15]
+I\nno altar.
+
+[329|off=0xbe04|chars=17]
+Voce colocou o\n
+
+[330|off=0xbe28|chars=15]
+I\nno altar.
+
+[331|off=0xbe4e|chars=31]
+As 4 joias brilham\nem uniom!
+
+[332|off=0xbe94|chars=31]
+As 4 joias brilham\nem uniom!
+
+[333|off=0xbeda|chars=34]
+As joias nao\ntiveram efeito.
+
+[334|off=0xbf26|chars=34]
+As joias nao\ntiveram efeito.
+
+[335|off=0xbf72|chars=24]
+Remover joia do altar?
+
+[336|off=0xbfaa|chars=16]
+Voce removeu o\n
+
+[337|off=0xbfcc|chars=17]
+I\ndo altar.
+
+[338|off=0xbff6|chars=16]
+Voce removeu o
+
+[339|off=0xc018|chars=29]
+J\ndo altar e colocou o\n
+
+[340|off=0xc054|chars=15]
+I no lugar!
+
+[341|off=0xc07a|chars=16]
+Voce removeu o
+
+[342|off=0xc09c|chars=29]
+J\ndo altar e colocou o\n
+
+[343|off=0xc0d8|chars=15]
+I no lugar!
+
+[344|off=0xc0fe|chars=4]
+O
+
+[345|off=0xc108|chars=29]
+I\nlibera uma luz brilhante!
+
+[346|off=0xc14a|chars=4]
+O
+
+[347|off=0xc154|chars=29]
+I\nlibera uma luz brilhante!
+
+[348|off=0xc196|chars=4]
+O
+
+[349|off=0xc1a0|chars=63]
+I irradia energia\ntambem pro campo ao\nredor deste altar.
+
+[350|off=0xc226|chars=53]
+Os altares flutuam,\nlibertando uma aura!
+
+[351|off=0xc298|chars=26]
+Voce nao tem joias.
+
+[352|off=0xc2d4|chars=26]
+Voce nao tem joias.
+
+[353|off=0xc310|chars=26]
+A cor da joia muda!
+
+[354|off=0xc34c|chars=68]
+Parece que as 4 joias\nuniram suas auras para\naumentar a energia...
+
+[355|off=0xc3dc|chars=66]
+Deseja substituir a joia\nno altar por outra?
+
+[356|off=0xc468|chars=92]
+Esta e a Caixa de Itens.\nGuarde ferramentas ou outros\nitens que nao pode carregar.
+
+[357|off=0xc528|chars=55]
+Para guardar/retirar itens,\nfique de frente\ne aperte o
+
+[358|off=0xc598|chars=8]
+\nbotao.
+
+[359|off=0xc5b0|chars=71]
+Voce pode guardar ferramentas\nque nao cabem na bolsa\njogando aqui.
+
+[360|off=0xc646|chars=12]
+Voce colocou
+
+[361|off=0xc660|chars=18]
+I na\nCx. de Itens.
+
+[362|off=0xc68c|chars=12]
+Colocar o
+
+[363|off=0xc6a6|chars=75]
+I na\nCaixa de Itens reduz qualidade\ne valor. Tem certeza?
+
+[364|off=0xc744|chars=12]
+Voce colocou
+
+[365|off=0xc75e|chars=18]
+I na\nCx. de Itens.
+
+[366|off=0xc78a|chars=18]
+Nao pode colocar o
+
+[367|off=0xc7b0|chars=20]
+I\nna Caixa de Itens!
+
+[368|off=0xc7e0|chars=32]
+O que deseja retirar?
+
+[369|off=0xc828|chars=49]
+ itemname xxxxx\n itemname2 xxxxx\n itemname3 xxxxx
+
+[370|off=0xc892|chars=45]
+Nao ha nada na sua\nCaixa de Itens...
+
+[371|off=0xc8f4|chars=43]
+Nao cabe mais itens\nna sua bolsa!
+
+[372|off=0xc952|chars=8]
+Voce poe
+
+[373|off=0xc96a|chars=16]
+i\nna sua bolsa!
+
+[374|off=0xc992|chars=17]
+Voce retirou o
+
+[375|off=0xc9b6|chars=25]
+I\ne colocou na bolsa!
+
+[376|off=0xc9f0|chars=23]
+Nao pode retirar o\n
+
+[377|off=0xca20|chars=27]
+I enquanto carrega\no
+
+[378|off=0xca64|chars=13]
+Voce tirou o
+
+[379|off=0xca80|chars=47]
+I\nda Caixa de Itens e\ncolocou nas maos!
+
+[380|off=0xcae6|chars=27]
+Voce ja esta\ncarregando o
+
+[381|off=0xcb2a|chars=12]
+Colocar o
+
+[382|off=0xcb44|chars=87]
+J na\nCaixa de Itens reduz qualidade\ne valor de venda. Tem certeza?
+
+[383|off=0xcbfa|chars=13]
+Voce retirou
+
+[384|off=0xcc1c|chars=14]
+i e colocou\no
+
+[385|off=0xcc3a|chars=5]
+J la!
+
+[386|off=0xcc4c|chars=13]
+Voce retirou
+
+[387|off=0xcc6e|chars=14]
+i e colocou\no
+
+[388|off=0xcc8c|chars=5]
+J la!
+
+[389|off=0xcc9e|chars=17]
+Voce retirou o
+
+[390|off=0xccc2|chars=19]
+I\ne devolveu o
+
+[391|off=0xccea|chars=16]
+J\nque carregava!
+
+[392|off=0xcd12|chars=17]
+Voce retirou o
+
+[393|off=0xcd36|chars=19]
+I\ne devolveu o
+
+[394|off=0xcd5e|chars=16]
+J\nque carregava!
+
+[395|off=0xcd86|chars=43]
+O que deseja colocar\nna Caixa de Itens?
+
+[396|off=0xcde4|chars=36]
+Voce nao tem nada\nna sua bolsa.
+
+[397|off=0xce34|chars=8]
+Voce poe
+
+[398|off=0xce4c|chars=18]
+i\nna Cx. de Itens.
+
+[399|off=0xce78|chars=12]
+Colocar o
+
+[400|off=0xce92|chars=87]
+I na\nCaixa de Itens reduz qualidade\ne valor de venda. Tem certeza?
+
+[401|off=0xcf48|chars=12]
+Colocar o
+
+[402|off=0xcf62|chars=87]
+I na\nCaixa de Itens reduz qualidade\ne valor de venda. Tem certeza?
+
+[403|off=0xd018|chars=13]
+Voce tirou o
+
+[404|off=0xd034|chars=43]
+I\nda bolsa e colocou\nna Caixa de Itens.
+
+[405|off=0xd092|chars=13]
+Voce tirou o
+
+[406|off=0xd0ae|chars=43]
+I\nda bolsa e colocou\nna Caixa de Itens.
+
+[407|off=0xd10c|chars=49]
+Bolsa de Sementes\ncolocada na Cx. de Itens.
+
+[408|off=0xd176|chars=99]
+Se colocar a Bolsa de\nSementes na caixa, as sementes\ndentro irao pra Caixa de\nSementes. Certo?
+
+[409|off=0xd244|chars=48]
+Voce tem estes itens\nna Caixa de Itens:
+
+[410|off=0xd2ac|chars=90]
+Tudo que comprar alem de\ncesstas sera enviado aqui,\nentao fique de olho\nem novos itens!
+
+[411|off=0xd368|chars=30]
+Esta e a Caixa de Itens.\nUse o
+
+[412|off=0xd3a6|chars=25]
+ botao para o menu.
+
+[413|off=0xd3e0|chars=72]
+Esta e a Caixa de Sementes.\nUse para por ou remover\nSementes da Bolsa.
+
+[414|off=0xd478|chars=85]
+Para ver ou gerenciar a\nCaixa de Sementes, fique de\nfrente e pressione o
+
+[415|off=0xd524|chars=8]
+ botao.
+
+[416|off=0xd53c|chars=36]
+Quais Sementes quer retirar?
+
+[417|off=0xd58c|chars=42]
+Voce nao tem Bolsa de\nSementes pra essas.
+
+[418|off=0xd5e8|chars=9]
+Voce poe
+
+[419|off=0xd5fc|chars=19]
+K quadrados\nde
+
+[420|off=0xd624|chars=24]
+I na\nBolsa de Sementes!
+
+[421|off=0xd65c|chars=39]
+Quais Sementes quer guardar?
+
+[422|off=0xd6c2|chars=51]
+Voce nao tem Bolsas de\nSementes com sementes...
+
+[423|off=0xd730|chars=51]
+Voce nao tem Bolsas de\nSementes com sementes...
+
+[424|off=0xd79e|chars=9]
+Voce poe
+
+[425|off=0xd7b2|chars=19]
+K quadrados\nde
+
+[426|off=0xd7da|chars=24]
+I na\nCaixa de Sementes!
+
+[427|off=0xd812|chars=55]
+Todas as Sementes da bolsa\nforam pra Caixa de Sementes!
+
+[428|off=0xd888|chars=53]
+Estas Sementes e Bulbos\nestao na Caixa de Sementes:
+
+[429|off=0xd8fa|chars=67]
+Retirar Sementes\nGuardar Sementes\nGuardar todas\nVer caixa\nAnular
+
+[430|off=0xd988|chars=52]
+Retirar item\nGuardar item\nVer caixa\nAnular
+
+[431|off=0xd9f8|chars=6]
+Yes\nNo
+
+[432|off=0xda0c|chars=6]
+Yes\nNo
+
+[433|off=0xda20|chars=6]
+Yes\nNo
+
+[434|off=0xda34|chars=6]
+Yes\nNo
+
+[435|off=0xda48|chars=6]
+Yes\nNo
+
+[436|off=0xda5c|chars=6]
+Yes\nNo
+
+[437|off=0xda70|chars=6]
+Yes\nNo
+
+[438|off=0xda84|chars=6]
+Yes\nNo
+
+[439|off=0xda98|chars=6]
+Yes\nNo
+
+[440|off=0xdaac|chars=6]
+Yes\nNo
+
+[441|off=0xdac0|chars=6]
+Yes\nNo
+
+[442|off=0xdad4|chars=6]
+Yes\nNo
+
+[443|off=0xdae8|chars=6]
+Yes\nNo
+
+[444|off=0xdafc|chars=6]
+Yes\nNo
+
+[445|off=0xdb10|chars=6]
+Yes\nNo
+
+[446|off=0xdb24|chars=6]
+Yes\nNo
+
+[447|off=0xdb38|chars=6]
+Yes\nNo
+
+[448|off=0xdb4c|chars=6]
+Yes\nNo
+
+[449|off=0xdb60|chars=6]
+Yes\nNo
+
+[450|off=0xdb74|chars=84]
+Ir para seu quarto.\nIr para a area de estoque.\nIr ate a entrada das ruinas.\nAnular.
+
+[451|off=0xdc24|chars=23]
+Iniciar.\nVoltar.\nAnular
+
+[452|off=0xdc5a|chars=51]
+Ver cesta.\nIniciar o Braco de Vida.\nAnular.
+
+[453|off=0xdcc8|chars=55]
+Ver o interior da cesta.\nChamar o Braco de Vida.\nAnular
+
+[454|off=0xdd3e|chars=31]
+Ver o interior da cesta.\nAnular
+
+[455|off=0xdd84|chars=95]
+Nao e um quadrado de campo,\nentao nao pode iniciar o\nBraco de Vida! Mova a cesta.
+
+[456|off=0xde4a|chars=95]
+Nao e um quadrado de campo,\nentao nao pode iniciar o\nBraco de Vida! Mova a cesta.
+
+[457|off=0xdf10|chars=75]
+Este e um Pod de Envio.\nSo pode colocar coisas que\npodem ser enviadas.
+
+[458|off=0xdfae|chars=75]
+Este e um Pod de Envio.\nSo pode colocar coisas que\npodem ser enviadas.
+
+[459|off=0xe04c|chars=37]
+Ver o Pod de Envio.\nAnular.
+
+[460|off=0xe09e|chars=37]
+Ver o Pod de Envio.\nAnular.
+
+[461|off=0xe0f0|chars=4]
+Life
+
+[462|off=0xe100|chars=5]
+Forte
+
+[463|off=0xe112|chars=7]
+Chocobi
+
+[464|off=0xe128|chars=5]
+Cocoa
+
+[465|off=0xe13a|chars=4]
+Yogi
+
+[466|off=0xe14a|chars=5]
+Cow 1
+
+[467|off=0xe15c|chars=5]
+Cow 2
+
+[468|off=0xe16e|chars=5]
+Cow 3
+
+[469|off=0xe180|chars=5]
+Cow 4
+
+[470|off=0xe192|chars=5]
+Cow 5
+
+[471|off=0xe1a4|chars=7]
+Sheep 1
+
+[472|off=0xe1ba|chars=7]
+Sheep 2
+
+[473|off=0xe1d0|chars=7]
+Sheep 3
+
+[474|off=0xe1e6|chars=7]
+Sheep 4
+
+[475|off=0xe1fc|chars=7]
+Sheep 5
+
+[476|off=0xe212|chars=9]
+Chicken 1
+
+[477|off=0xe22c|chars=9]
+Chicken 2
+
+[478|off=0xe246|chars=9]
+Chicken 3
+
+[479|off=0xe260|chars=9]
+Chicken 4
+
+[480|off=0xe27a|chars=9]
+Chicken 5
+
+[481|off=0xe294|chars=4]
+Yogi
+
+[482|off=0xe2a8|chars=78]
+Franco: Regue todo dia e voce\npode colher nabos em 6 dias.

@@ -5,7 +5,7 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0x5ae|chars=56]
-Franco: Entao voce finalmente\ncomeou a criar animais, hein?
+Franco: Entao voce enfim\ncomecou a criar animais, ne?
 
 [1|off=0x62a|chars=109]
 Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem sao\ninvencoes do Dr. Hope?
@@ -17,7 +17,7 @@ Franco: Hoje tudo na fazenda e\nautomatico, mas naquela epoca usar\nrobos era um
 Franco: Ouvi que eles ainda sao\nbastante usados no exterior.
 
 [4|off=0x882|chars=74]
-Moonlight: O balido dos animais\npode ser ouvido novamente\nentre essas ruinas!
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnessas ruinas!
 
 [5|off=0x922|chars=90]
 Moonlight: Tenho certeza de que\na forca vital deles vai revitalizar\nesta terra e o ermo!
@@ -26,16 +26,16 @@ Moonlight: Tenho certeza de que\na forca vital deles vai revitalizar\nesta terra
 Franco: Uau!\nQue sortudo voce e!\nGanhou um buggy desse como presente!
 
 [7|off=0xa7e|chars=89]
-Franco: Se eu tivesse um buggy\ndesses, levava a Rose pra um\npasseio que ela nunca esqueceria!
+Franco: Com um buggy desses,\neu levava a Rose num passeio\ninesquecivel!
 
 [8|off=0xb3c|chars=11]
 Moonlight:
 
 [9|off=0xb54|chars=52]
-<06>P! Vi que voce ganhou\num belo presente do Dr. Hope.
+P! Vi que voce ganhou\num belo presente do Dr. Hope.
 
 [10|off=0xbc8|chars=63]
-Moonlight: Num buggy desses\nvoce pode ir a praticamente\nqualquer lugar!
+Moonlight: Num buggy desses\nvoce vai quase a\nqualquer lugar!
 
 [11|off=0xc52|chars=60]
 Franco: Nao acredito que Marco\ncometeu um erro tao grande.
@@ -47,7 +47,7 @@ Franco: Quando eu era jovem, todos\nlevavam seus pares aquela caverna.
 Moonlight:
 
 [14|off=0xd8c|chars=57]
-<06>P!\nOuvi que houve problemas na\ncaverna de Volcano Town.
+P!\nOuvi que houve problemas na\ncaverna de Volcano Town.
 
 [15|off=0xe0a|chars=77]
 Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
@@ -56,31 +56,31 @@ Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
 Franco: Ouvi que voce plantou\nbicos-de-papagaio.
 
 [17|off=0xf1e|chars=120]
-Franco: Se conseguir enviar bastante\ndeles ate a vespera do Natal, podem\nusá-los para enfeitar a cidade.
+Franco: Se conseguir enviar bastante\ndeles ate a vespera do Natal, podem\nusa-los para enfeitar a cidade.
 
 [18|off=0x101a|chars=21]
-Franco: Mal posso esperar!
+Franco: Ansioso!
 
 [19|off=0x1050|chars=41]
-Franco: Ouvi que o Dr. Hope\ncaiu doente...
+Franco: Ouvi que o Dr. Hope\ncaiu mal...
 
 [20|off=0x10ae|chars=96]
 Franco: Sei que deve estar preocupado\ncom ele, mas voce tem um trabalho\nimportante a terminar.
 
 [21|off=0x117a|chars=89]
-Franco: Tenho certeza de que a\nmelhor coisa pro Dr. Hope agora\ne ver como voce trabalha duro.
+Franco: A melhor coisa pro\nDr. Hope agora e ver o\nquanto voce trabalha duro.
 
 [22|off=0x1238|chars=52]
-Moonlight: Nunca soube que o\nDr. Hope estava tao doente...
+Moonlight: Nao sabia que\nDr. Hope estava tao mal...
 
 [23|off=0x12ac|chars=86]
-Moonlight: Suponho que era por isso\nque ele tinha tanta pressa em\nterminar o trabalho com voce...
+Moonlight: Deve ser por isso\nque ele tinha tanta pressa\nde terminar o trabalho...
 
 [24|off=0x1364|chars=42]
-Franco: Sei que esta triste com\no Dr. Hope,
+Franco: Sei que esta triste\npelo Dr. Hope,
 
 [25|off=0x13ba|chars=12]
-<06>P. Eu tambem.
+P, eu tambem
 
 [26|off=0x13de|chars=31]
 Franco: Ele era um bom amigo...
@@ -98,25 +98,25 @@ Moonlight: O que tento dizer e...\nTenho certeza de que o Dr. Hope\nsempre velar
 Franco: Quem e esse homem estranho\nque mora no novo quarto?
 
 [31|off=0x1684|chars=97]
-Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao era como se alguem a possuisse...
+Franco: Claro, aquela area\nficou fechada tanto tempo\nque nao era de ninguem mesmo...
 
 [32|off=0x1752|chars=61]
-Franco: Bom, acho que nao devemos\nnos preocupar muito com isso.
+Franco: Bom, nao devemos\nnos preocupar muito com isso.
 
 [33|off=0x17d8|chars=43]
 Franco: Um alien mora\nno novo quarto?
 
 [34|off=0x183a|chars=97]
-Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao era como se alguem a possuisse...
+Franco: Claro, aquela area\nficou fechada tanto tempo\nque nao era de ninguem mesmo...
 
 [35|off=0x1908|chars=61]
-Franco: Bom, acho que nao devemos\nnos preocupar muito com isso.
+Franco: Bom, nao devemos\nnos preocupar muito com isso.
 
 [36|off=0x198e|chars=11]
 Moonlight:
 
 [37|off=0x19a6|chars=76]
-<06>P!\nVi uma coisa estranha parecida com\num bicho de pelucia no novo quarto.
+P!\nVi uma coisa estranha parecida com\num bicho de pelucia no novo quarto.
 
 [38|off=0x1a4a|chars=51]
 Moonlight: Voce fez isso?\nMuito impressionante!
@@ -170,25 +170,25 @@ Qual recurso deseja colocar\nno Pod de Envio?
 Voce colocou os recursos\nda bolsa no Pod de Envio!
 
 [55|off=0x2326|chars=92]
-Esta e a Caixa de Itens. Guarde\nferramentas de fazenda ou outras que\nnao puder carregar aqui.
+Esta e a Caixa de Itens. Guarde\naqui ferramentas que nao\npuder carregar.
 
 [56|off=0x23e6|chars=55]
-Para guardar ou retirar itens,\nfique de frente e pressione o
+Para guardar ou tirar itens,\nencare a caixa e aperte o
 
 [57|off=0x2456|chars=8]
 \nbotao.
 
 [58|off=0x246e|chars=71]
-Voce pode guardar ferramentas\nque nao cabem na bolsa\njoгando-as aqui.
+Voce pode guardar ferramentas\nque nao cabem na bolsa\njogando-as aqui.
 
 [59|off=0x2504|chars=12]
 Voce guardou
 
 [60|off=0x251e|chars=18]
-I\nna Caixa de Itens.
+I\nCaixa de Itens.
 
 [61|off=0x254a|chars=12]
-Guardando o/a
+Guardando o
 
 [62|off=0x2564|chars=75]
 I na\nCaixa de Itens, sua qualidade e\nvalor cairao. Confirma?
@@ -197,7 +197,7 @@ I na\nCaixa de Itens, sua qualidade e\nvalor cairao. Confirma?
 Voce guardou
 
 [64|off=0x261c|chars=18]
-I na\nCaixa de Itens.
+I\nCaixa de Itens.
 
 [65|off=0x2648|chars=18]
 Nao pode guardar
@@ -236,10 +236,10 @@ I\ne colocou na bolsa!
 Nao pode retirar o/a\n
 
 [77|off=0x28d2|chars=27]
-I enquanto\nesta segurando o/a
+I enquanto\nsegura o
 
 [78|off=0x2916|chars=13]
-Voce pegou o/a
+Voce pegou o
 
 [79|off=0x2932|chars=47]
 I\nda Caixa de Itens e\ncolocou em suas maos!
@@ -248,7 +248,7 @@ I\nda Caixa de Itens e\ncolocou em suas maos!
 Ja esta segurando\no/a
 
 [81|off=0x29dc|chars=12]
-Guardando o/a
+Guardando o
 
 [82|off=0x29f6|chars=87]
 J na\nCaixa de Itens, sua qualidade\ne valor de venda cairao. Confirma?
@@ -257,7 +257,7 @@ J na\nCaixa de Itens, sua qualidade\ne valor de venda cairao. Confirma?
 Voce retirou
 
 [84|off=0x2ace|chars=14]
-i e colocou\no/a
+i e pos\no
 
 [85|off=0x2aec|chars=5]
 J la!
@@ -266,7 +266,7 @@ J la!
 Voce retirou
 
 [87|off=0x2b20|chars=14]
-i e colocou\no/a
+i e pos\no
 
 [88|off=0x2b3e|chars=5]
 J la!
@@ -278,7 +278,7 @@ Voce retirou o/a
 I\ne devolveu o/a
 
 [91|off=0x2b9c|chars=16]
-J\nque estava segurando!
+J que\nsegurava!
 
 [92|off=0x2bc4|chars=17]
 Voce retirou o/a
@@ -287,7 +287,7 @@ Voce retirou o/a
 I\ne devolveu o/a
 
 [94|off=0x2c10|chars=16]
-J\nque estava segurando!
+J que\nsegurava!
 
 [95|off=0x2c38|chars=43]
 O que deseja colocar\nna Caixa de Itens?
@@ -302,34 +302,34 @@ Nao ha nada\nna sua bolsa.
 Guardou
 
 [99|off=0x2d4e|chars=18]
-i\nna Caixa de Itens.
+i\nna Caixa Itens.
 
 [100|off=0x2d7a|chars=12]
-Guardando o/a
+Guardando o
 
 [101|off=0x2d94|chars=87]
 I na\nCaixa de Itens, sua qualidade e\nvalor de venda cairao. Confirma?
 
 [102|off=0x2e4a|chars=12]
-Guardando o/a
+Guardando o
 
 [103|off=0x2e64|chars=87]
 I na\nCaixa de Itens, sua qualidade e\nvalor de venda cairao. Confirma?
 
 [104|off=0x2f1a|chars=13]
-Voce pegou o/a
+Voce pegou o
 
 [105|off=0x2f36|chars=43]
 I\nda bolsa e colocou\nna Caixa de Itens.
 
 [106|off=0x2f94|chars=13]
-Voce pegou o/a
+Voce pegou o
 
 [107|off=0x2fb0|chars=43]
 I\nda bolsa e colocou\nna Caixa de Itens.
 
 [108|off=0x300e|chars=49]
-Voce pegou a Bolsa de Sementes\ne colocou na Caixa de Itens.
+Pegou Bolsa de Sementes\ne pos na Caixa de Itens.
 
 [109|off=0x3078|chars=99]
 Ao guardar essa Bolsa de Sementes,\nas sementes irao para a Caixa\nde Sementes. Esta bem?
@@ -347,7 +347,7 @@ Esta e a Caixa de Itens. Use\no
  botao para ver o menu.
 
 [114|off=0x32e2|chars=72]
-Esta e a Caixa de Sementes.\nUse-a para esvaziar ou colocar\nsementes na Bolsa.
+Esta e a Caixa de Sementes.\nUse pra esvaziar ou por\nsementes na Bolsa.
 
 [115|off=0x337a|chars=85]
 Para ver ou colocar ou retirar\nsementes da Caixa, fique de\nfrente e pressione o
@@ -362,7 +362,7 @@ Quais sementes deseja retirar?
 Nao ha sementes na\nCaixa de Sementes...
 
 [119|off=0x34ea|chars=42]
-Nao ha Bolsa de Sementes\npara essas sementes.
+Sem Bolsa de Sementes\npra essas sementes.
 
 [120|off=0x3546|chars=9]
 Guardou
@@ -380,7 +380,7 @@ Voce retirou
 K quadrados de\n
 
 [125|off=0x35fe|chars=29]
-I e colocou\nna Bolsa de Sementes!
+I e pos na\nBolsa de Sementes!
 
 [126|off=0x3640|chars=39]
 Quais sementes deseja guardar?
@@ -398,7 +398,7 @@ K quadrados de\n
 I e guardou\nna Caixa de Sementes!
 
 [131|off=0x3798|chars=55]
-Voce guardou todas as sementes\nda bolsa na Caixa de Sementes!
+Voce pos todas as sementes\nda bolsa na Caixa!
 
 [132|off=0x380e|chars=53]
 Essas sementes e bulbos\nestao na Caixa de Sementes:
@@ -422,7 +422,7 @@ Jogando
 I\nna lixeira e retirando depois,\nreduzira qualidade e valor.\nJogar fora mesmo?
 
 [139|off=0x3b96|chars=14]
-Voce jogou o/a\n
+Voce jogou o\n
 
 [140|off=0x3bb4|chars=21]
 I\nna lixeira!
@@ -452,7 +452,7 @@ i\nna bolsa!
 Nao pode retirar o/a\n
 
 [149|off=0x3e00|chars=27]
-I enquanto\nesta segurando o/a
+I enquanto\nsegura o
 
 [150|off=0x3e44|chars=9]
 Retirou
@@ -464,7 +464,7 @@ K do/a\n
 i da\nlixeira e segurou em suas maos!
 
 [153|off=0x3ed8|chars=13]
-Voce pegou o/a
+Voce pegou o
 
 [154|off=0x3ef4|chars=45]
 I\nda lixeira e segurou\nem suas maos!
@@ -476,7 +476,7 @@ Retirou
 i\nda lixeira e jogou fora o/a\n
 
 [157|off=0x3fbe|chars=16]
-J que estava\nsegurando!
+J que\nsegurava!
 
 [158|off=0x3fe6|chars=17]
 Voce retirou o/a
@@ -515,13 +515,13 @@ Jogando
 I na\nlixeira, a qualidade e valor cairao.\nJogar fora mesmo?
 
 [170|off=0x42d2|chars=13]
-Voce pegou o/a
+Voce pegou o
 
 [171|off=0x42ee|chars=48]
 I\nda bolsa e jogou\nna lixeira!
 
 [172|off=0x4356|chars=13]
-Voce pegou o/a
+Voce pegou o
 
 [173|off=0x4372|chars=48]
 I\nda bolsa e jogou\nna lixeira!
@@ -542,46 +542,46 @@ Retirar sementes\nGuardar sementes\nGuardar todas\nVer caixa\nAnular
 Retirar um item\nGuardar um item\nVer caixa\nAnular
 
 [179|off=0x45fe|chars=6]
-Sim\nNao
+Yes\nNo
 
 [180|off=0x4612|chars=6]
-Sim\nNao
+Yes\nNo
 
 [181|off=0x4626|chars=6]
-Sim\nNao
+Yes\nNo
 
 [182|off=0x463a|chars=6]
-Sim\nNao
+Yes\nNo
 
 [183|off=0x464e|chars=6]
-Sim\nNao
+Yes\nNo
 
 [184|off=0x4662|chars=6]
-Sim\nNao
+Yes\nNo
 
 [185|off=0x4676|chars=6]
-Sim\nNao
+Yes\nNo
 
 [186|off=0x468a|chars=6]
-Sim\nNao
+Yes\nNo
 
 [187|off=0x469e|chars=6]
-Sim\nNao
+Yes\nNo
 
 [188|off=0x46b2|chars=6]
-Sim\nNao
+Yes\nNo
 
 [189|off=0x46c6|chars=6]
-Sim\nNao
+Yes\nNo
 
 [190|off=0x46da|chars=73]
-Subir para a fazenda.\nSubir para o quarto.\nIr a entrada das ruinas.\nAnular.
+Subir a fazenda.\nSubir ao quarto.\nEntrada das ruinas.\nAnular.
 
 [191|off=0x4774|chars=73]
-Subir para a fazenda.\nSubir para o quarto.\nIr a entrada das ruinas.\nAnular.
+Subir a fazenda.\nSubir ao quarto.\nEntrada das ruinas.\nAnular.
 
 [192|off=0x480e|chars=23]
-Iniciar.\nVoltar. \nAnular.
+Iniciar.\nVoltar.\nSair.
 
 [193|off=0x4844|chars=51]
 Ver cesta.\nIniciar Braca Vital.\nAnular.
@@ -593,16 +593,16 @@ Ver cesta.\nChamar Braca Vital de volta.\nAnular.
 Ver cesta.\nAnular.
 
 [196|off=0x496e|chars=95]
-Este nao e um quadrado de campo,\nportanto o Braca Vital nao pode\niniciar! Mova a cesta para um campo.
+Aqui nao e campo, o Braco\nVital nao inicia! Mova a\ncesta para um quadrado de campo.
 
 [197|off=0x4a34|chars=95]
-Este nao e um quadrado de campo,\nportanto o Braca Vital nao pode\niniciar! Mova a cesta para um campo.
+Aqui nao e campo, o Braco\nVital nao inicia! Mova a\ncesta para um quadrado de campo.
 
 [198|off=0x4afa|chars=75]
-Este e um Pod de Envio.\nSo pode colocar coisas dentro\nque podem ser enviadas.
+Este e um Pod de Envio.\nSo cabe dentro\ncoisas que dao pra enviar.
 
 [199|off=0x4b98|chars=75]
-Este e um Pod de Envio.\nSo pode colocar coisas dentro\nque podem ser enviadas.
+Este e um Pod de Envio.\nSo cabe dentro\ncoisas que dao pra enviar.
 
 [200|off=0x4c36|chars=37]
 Ver o Pod de Envio.\nAnular.

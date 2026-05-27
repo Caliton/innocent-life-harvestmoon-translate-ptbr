@@ -5,79 +5,79 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0x416|chars=56]
-Franco: So you've finally started\nraising livestock, eh?
+Franco: Entao voce\ncomecou a criar animais, hein?
 
 [1|off=0x492|chars=109]
-Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+Franco: Sabia que os robos de\ncriacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?
 
 [2|off=0x578|chars=112]
-Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+Franco: Hoje tudo na fazenda e\nautomatizado, mas na epoca usar robos\nera uma ideia bem revolucionaria.
 
 [3|off=0x664|chars=61]
-Franco: Ouvi thnoy ainda usar them\nbastante muito overseas.
+Franco: Ouvi que ainda usam\nmuito esses robos\nno exterior.
 
 [4|off=0x6ea|chars=74]
-Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnestas ruinas!
 
 [5|off=0x78a|chars=90]
-Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+Moonlight: Sua forca vital\ncom certeza vai ajudar a revitalizar\nesta terra e a natureza!
 
 [6|off=0x84a|chars=72]
-Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+Franco: Uau!\nQue sortudo voce e!\nGanhou um buggy de presente!
 
 [7|off=0x8e6|chars=89]
-Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+Franco: Se eu tivesse um buggy,\nlevaria a Rose num passeio\nque ela nunca esqueceria!
 
 [8|off=0x9a4|chars=11]
-Moonlight: 
+Moonlight:
 
 [9|off=0x9bc|chars=52]
-P! I see you got\nquite a nice present from Dr. Hope.
+P! Vejo que ganhou\num belo presente do Dr. Hope.
 
 [10|off=0xa30|chars=63]
-Moonlight: You can ir so about\nanyonde in a buggy gostar esse!
+Moonlight: Com um buggy\ndesses, pode ir\nquase qualquer lugar!
 
 [11|off=0xaba|chars=60]
-Franco: I can't believe Marco could make\nsuch a big mistake.
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.
 
 [12|off=0xb3e|chars=73]
-Franco: When I was young, everyone used\nto take their dates to that cave.
+Franco: Quando era jovem, todos\nlevavam seus pares\npara aquela caverna.
 
 [13|off=0xbdc|chars=11]
-Moonlight: 
+Moonlight:
 
 [14|off=0xbf4|chars=57]
-P!\nOuvi they had alguns trouble na\nVolcano Town gruta.
+P!\nOuvi que teve problema na\ncaverna de Volcano Town.
 
 [15|off=0xc72|chars=77]
-Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+Moonlight: Vai levar tempo e\nesforco para voltar ao\nestado original.
 
 [16|off=0xd18|chars=49]
-Franco: I hear that you planted some\npoinsettias.
+Franco: Ouvi que voce plantou\nbico-de-papagaio.
 
 [17|off=0xd86|chars=120]
-Franco: If you can homemage to ship muito\ndam pelo dia antes Christmas Eve,\nthey can usar them to decorate the cidade.
+Franco: Se conseguir enviar muitas\nate a vespera do Natal,\npodemos usa-las para decorar a cidade.
 
 [18|off=0xe82|chars=21]
-Franco: Mal posso esp
+Franco: Que vontade!
 
 [19|off=0xeb8|chars=41]
-Franco: Ouvi esse Dr. Hope\ncollapsed...
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
 
 [20|off=0xf16|chars=96]
-Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+Franco: Sei que esta preocupado\ncom ele, mas tem seu proprio\ntrabalho importante a terminar.
 
 [21|off=0xfe2|chars=89]
-Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+Franco: A melhor coisa para o Dr.\nHope agora e ver o quanto\nvoce esta trabalhando.
 
 [22|off=0x10a0|chars=52]
-Moonlight: I never knew that Dr. Hope\nwas so sick...
+Moonlight: Nao sabia que\nDr. Hope era tao doente...
 
 [23|off=0x1114|chars=86]
-Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+Moonlight: Deve ser por isso que\nele estava com tanta pressa\nde terminar o trabalho.
 
 [24|off=0x11cc|chars=42]
-Franco: I know you're sad about Dr.\nHope, 
+Franco: Sei que esta triste\npor Dr. Hope,
 
 [25|off=0x1222|chars=12]
 P. Eu tambem
@@ -86,214 +86,214 @@ P. Eu tambem
 Franco: Era um bom amigo...
 
 [27|off=0x1290|chars=48]
-Moonlight: Ouvid the voice da\nFire Spirit!
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
 
 [28|off=0x12fc|chars=74]
-Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+Moonlight: Ele me disse que ha\nmuito mais neste mundo do\nque aparenta!
 
 [29|off=0x139c|chars=91]
-Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+Moonlight: O que quero dizer e...\nTenho certeza que o Dr. Hope\nsempre vai olhar por voce,
 
 [30|off=0x1464|chars=62]
-Franco: Who is that strange man who\nnow lives in the new room?
+Franco: Quem e esse homem estranho\nque mora no novo quarto?
 
 [31|off=0x14ec|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, aquela area ficou\nfechada por muito tempo, como se\nninguem a possuisse...
 
 [32|off=0x15ba|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Bom, nao devemos nos\npreocupar tanto com isso mesmo.
 
 [33|off=0x1640|chars=43]
-Franco: An alien is living na novo\nquarto?
+Franco: Um alien mora no\nnovo quarto?
 
 [34|off=0x16a2|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, aquela area ficou\nfechada por muito tempo, como se\nninguem a possuisse...
 
 [35|off=0x1770|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Bom, nao devemos nos\npreocupar tanto com isso mesmo.
 
 [36|off=0x17f6|chars=11]
-Moonlight: 
+Moonlight:
 
 [37|off=0x180e|chars=76]
-P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+P!\nVi uma coisa estranha parecendo\num bicho de pelucia no novo quarto.
 
 [38|off=0x18b2|chars=51]
-Moonlight: Did you make that?\nIt's very impressive!
+Moonlight: Voce fez isso?\nMuito impressionante!
 
 [39|off=0x1924|chars=130]
-Charles: My job is listening to what the\npeople have to say and conveying\ninformation to my father.\nPlease talk to me at any time.
+Charles: Meu trabalho e ouvir\no que as pessoas tem a dizer e\nlevar as informacoes ao meu pai.\nFale comigo a qualquer hora.
 
 [40|off=0x1a34|chars=100]
-Charles: What am I saying? I should be\ncoming to you for help! You're the\none who saved this island!
+Charles: O que estou dizendo? Sou eu\nquem deveria pedir sua ajuda!\nVoce e quem salvou esta ilha!
 
 [41|off=0x1b08|chars=62]
-Liberta: Nobody really thinks the mayor\nknows what he's doing.
+Liberta: Ninguem acha de verdade\nque o prefeito sabe fazer.
 
 [42|off=0x1b90|chars=84]
-Liberta: You can't expect a man who\ndoesn't even appreciate good wine\nto protect us.
+Liberta: Nao se pode esperar que\num homem que nem aprecia bom\nvinho nos proteja.
 
 [43|off=0x1c44|chars=29]
-Liberta: Hmph. Oh, e you, 
+Liberta: Hmph. Oh, e voce,
 
 [44|off=0x1c80|chars=64]
-P.\nWhen you grow up, remind me to give\nyou a bottle of our wine.
+P.\nQuando crescer, me lembre de\ndar uma garrafa do nosso vinho
 
 [45|off=0x1d0c|chars=86]
-Jessica: An impressive statue like this\ndoesn't really fit in here. It seems\nso empty.
+Jessica: Uma estatua imponente\nassim nao combina bem aqui.\nParece tao vazia.
 
 [46|off=0x1dc4|chars=73]
-Jessica: Oh, I'm sorry. My name is\nJessica. Please excuse my bad manners!
+Jessica: Oh, desculpe.\nMeu nome e Jessica.\nPerdoe minha grosseria!
 
 [47|off=0x1e62|chars=48]
-Jessica: My, o que a bem ribbon.\nIs it for me?
+Jessica: Nossa, que laco bonito.\nE para mim?
 
 [48|off=0x1ece|chars=111]
-Jessica: Are you sure? It looks\nvaluable. It's so shiny. Almost like it\nis from some other world. Are you sure?
+Jessica: Tem certeza? Parece\nvalioso. Tao brilhante. Quase como\nse fosse de outro mundo. Tem certeza?
 
 [49|off=0x1fb8|chars=86]
-Jessica: Thank you!\nBut I can't just take it without\ngiving something in return. Here.
+Jessica: Obrigada!\nMas nao posso aceitar sem\ndar algo em troca. Aqui esta.
 
 [50|off=0x206c|chars=39]
-Jessica took out a sparkling\nred stone.
+Jessica tirou\numa pedra vermelha.
 
 [51|off=0x20c2|chars=17]
-It's a Red Jewel!
+E uma Joia Rubi!
 
 [52|off=0x20f0|chars=55]
-Jessica: I'll send it on to your Item\nBox, Don't worry.
+Jessica: Enviando a\nCaixa de Itens. Nao\nse preocupe.
 
 [53|off=0x216a|chars=46]
-Jessica: No, I didn't think so.\nIt's too nice.
+Jessica: Nao, eu nao achei.\nE bonito demais.
 
 [54|off=0x21d2|chars=96]
-Jessica: It's so hard to find a man\nwho's really worth something. Oh,\nI'm not talking about you.
+Jessica: E tao dificil achar\num homem que realmente vale algo.\nAh, nao estou falando de voce.
 
 [55|off=0x229e|chars=72]
-Jessica: Because of you, I was able to\nmarry a wonderful man. Thank you.
+Jessica: Por sua causa\npude casar com um homem maravilhoso.\nObrigada.
 
 [56|off=0x233a|chars=103]
-Jessica: We'll be living apart for a\nwhile because of our jobs, but he's very\nunderstanding about that.
+Jessica: Vamos ficar separados por\num tempo por causa do trabalho,\nmas ele e muito compreensivo.
 
 [57|off=0x2414|chars=103]
-Jessica: We'll be living apart for a\nwhile because of our jobs, but he's very\nunderstanding about that.
+Jessica: Vamos ficar separados por\num tempo por causa do trabalho,\nmas ele e muito compreensivo.
 
 [58|off=0x24ee|chars=64]
-Liberta: Hm. A boy, eh...?\nYou're Dr. Hope's son,\naren't you...?
+Liberta: Hm. Um menino, hein...?\nFilho do Dr. Hope,\nnao e...?
 
 [59|off=0x257a|chars=75]
-Liberta: ...Hm.\nYour face looks tender,\nbut you've got wise looking eyes...
+Liberta: ...Hm.\nSeu rosto parece gentil,\nmas tem olhos de sabedoria...
 
 [60|off=0x261c|chars=82]
-Liberta: ...Hm.\nI will pass this Dictionary that\nI, Liberta, have complied to you!
+Liberta: ...Hm.\nVou lhe passar este Dicionario\nque eu, Liberta, compilei!
 
 [61|off=0x26cc|chars=24]
-Liberta: Here, take it. 
+Liberta: Aqui, pegue.
 
 [62|off=0x270c|chars=96]
-Liberta: Hm? Your hands are full...\nThen, I will have someone bring it\nto you later at the site.
+Liberta: Hm? Suas maos estao cheias...\nEntao, farei alguem levar\nate voce no canteiro.
 
 [63|off=0x27d8|chars=95]
-Liberta: I'm not finished writing it yet,\nbut my words will ripen\nwhen the boy meets the world.
+Liberta: Ainda nao terminei,\nmas minhas palavras vao amadurecer\nquando o menino ver o mundo.
 
 [64|off=0x28a2|chars=76]
-Liberta: Let's see...\nWhy don't you come see me\nwhen the new season arrives?
+Liberta: Vejamos...\nPor que nao vem me ver\nquando a nova estacao chegar?
 
 [65|off=0x2946|chars=12]
-Liberta: If 
+Liberta: Se
 
 [66|off=0x2960|chars=92]
-P works hard,\nyou may have words to register in my\nDictionary which should be ready by then.
+P trabalhar muito,\npode ter palavras para registrar\nno meu Dicionario que estara pronto.
 
 [67|off=0x2a24|chars=19]
-Liberta: It's you, 
+Liberta: E voce,
 
 [68|off=0x2a4c|chars=34]
-P.\nAre you using my Dictionary...?
+P.\nEsta usando meu Dicionario...?
 
 [69|off=0x2a9c|chars=113]
-Liberta: Ho, ho. You are expanding your\nadventure world. You completed shipping\nthe Spring Vegetables already...!
+Liberta: Ho, ho. Esta expandindo\nseu mundo de aventura. Ja terminou\nde enviar os Vegetais de Prima...!
 
 [70|off=0x2b8a|chars=98]
-Liberta: Hm. You are working really hard!\nYou completed shipping\nthe Summer Vegetables already...!
+Liberta: Hm. Esta trabalhando duro!\nJa terminou de enviar\nos Vegetais de Verao...!
 
 [71|off=0x2c5a|chars=80]
-Liberta: Oh! You completed shipping\nall Fall Vegetables already...\nWay to go...!
+Liberta: Oh! Ja terminou de enviar\ntodos os Vegetais de Outono...\nParabens...!
 
 [72|off=0x2d06|chars=94]
-Liberta: Oh, I just remembered...\nI heard that you were a great help\nwhen Million got married!
+Liberta: Oh, acabei de lembrar...\nOuvi que voce foi de grande ajuda\nquando Million se casou!
 
 [73|off=0x2dce|chars=92]
-Liberta: I see... You understand the Arts.\nYou've seen the works that\nMoonlight created, eh?
+Liberta: Entendo... Voce entende\nde Arte. Ja viu as obras que\nMoonlight criou, nao e?
 
 [74|off=0x2e92|chars=90]
-Liberta: Well, voce e truly a gnossomet.\nYou've ja completed\nmaking the menu lists, eh?
+Liberta: Bom, voce e um gourmet.\nJa terminou de completar\nos cardapios todos, nao e?
 
 [75|off=0x2f52|chars=87]
-Liberta: That's great!\nYou finally were able to ship\nall sorts of flowers and herbs...!
+Liberta: Otimo!\nFinalmente conseguiu enviar\ntodo tipo de flores e ervas...!
 
 [76|off=0x300c|chars=72]
-Liberta: By the way, is it true that you\nstopped the aliens? That's the\n
+Liberta: A proposito, e verdade que\nvoce parou os aliens? Isso e o\n
 
 [77|off=0x309e|chars=25]
-P Sei, Eu should dizer...
+P que eu sei, devo dizer.
 
 [78|off=0x30dc|chars=102]
-Liberta: HOORAY! You finally shipped\nall of the Native Vegetation\nthat you can get on this island....!
+Liberta: VIVA! Voce finalmente\nenviou toda a Vegetacao Nativa\nque existe nesta ilha....!
 
 [79|off=0x31b4|chars=114]
-Liberta: No way! Amazing... You're saying\nthat you disciplined spirits, mastered\nskills and made a fortune, right?
+Liberta: Incrivel! Voce esta\ndizendo que disciplinou espiritos,\ndominou habilidades e fez\nfortuna, certo?
 
 [80|off=0x32a4|chars=89]
-Liberta: Oh...! As a matter of fact, Estava\nso gatsuaing possible words\nna crueltempo.
+Liberta: Oh...! Na verdade, estava\nreunindo possiveis palavras\nnesse meio tempo.
 
 [81|off=0x3362|chars=106]
-Liberta: These words will mature like wine.\nThey will fill the warehouse of\nyour intelligence even more...
+Liberta: Essas palavras vao amadurecer\ncomo vinho. Vao encher o deposito\nda sua inteligencia ainda mais.
 
 [82|off=0x343e|chars=55]
-A new word has been registered\nin Liberta's Dictionary!
+Nova palavra registrada\nno Dicionario de Liberta!
 
 [83|off=0x34b8|chars=20]
-Liberta: Well done, 
+Liberta: Muito bem,
 
 [84|off=0x34e2|chars=58]
-P.\nI'm impressed. That's Dr. Hope's beloved\nInnocent Life!
+P.\nImpressionado. E a amada\nInnocent Life do Dr. Hope!
 
 [85|off=0x3562|chars=72]
-Liberta: I must say my Dictionary has\nreached its peak.\nI owe it to you.
+Liberta: Devo dizer, meu\nDicionario chegou ao auge.\nDevo isso a voce.
 
 [86|off=0x35fe|chars=64]
-Liberta: Hm....\nIt's not such a bad idea\nto share this joy with 
+Liberta: Hm....\nNao e ma ideia\ncompartilhar esta alegria com
 
 [87|off=0x3690|chars=55]
-Liberta: OK! I will give you\nfour Ripened Black Jewels.
+Liberta: OK! Te dou\nquatro Joias Negras Amadurecidas.
 
 [88|off=0x3708|chars=30]
-P received four Black Jewels.\n
+P recebeu quatro Joias Negras.
 
 [89|off=0x3754|chars=95]
-Liberta: Hm? Your hands are full...\nThen, I'll have someone\nbring it to you later at the ruins.
+Liberta: Hm? Suas maos estao cheias...\nEntao, farei alguem levar\nate voce nas ruinas.
 
 [90|off=0x381e|chars=79]
-Liberta: ...I thought that was all,\nbut there seem to be even more things\nthat 
+Liberta: ...Achei que era tudo,\nmas parece que ha ainda mais\ncoisas que
 
 [91|off=0x38be|chars=19]
-P has accomplished.
+P realizou.
 
 [92|off=0x38f0|chars=70]
-Liberta: Even ordinary words have\nendless possibilities\nhidden within.
+Liberta: Ate palavras comuns\ntem possibilidades infinitas\nescondida.
 
 [93|off=0x3988|chars=81]
-Liberta: It's just like fine wine.\nLove and time,\nthat's what it takes to mature.
+Liberta: E como vinho fino.\nAmor e tempo,\ne isso que leva para amadurecer.
 
 [94|off=0x3a36|chars=20]
-Liberta: Well done, 
+Liberta: Muito bem,
 
 [95|off=0x3a60|chars=58]
-P.\nI'm impressed. That's Dr. Hope's beloved\nInnocent Life!
+P.\nImpressionado. E a amada\nInnocent Life do Dr. Hope!
 
 [96|off=0x3ae0|chars=72]
-Liberta: I must say my Dictionary has\nreached its peak.\nI owe it to you.
+Liberta: Devo dizer, meu\nDicionario chegou ao auge.\nDevo isso a voce.
 
 [97|off=0x3b7c|chars=18]
 Charles: Ga! Gaga!

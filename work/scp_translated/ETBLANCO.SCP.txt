@@ -5,316 +5,316 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0x92e|chars=8]
-Franco: 
+Franco:
 
 [1|off=0x940|chars=70]
-P, I suppose\nyou'd like to know why you have to work\nthese fields, eh?
+P, deve querer saber\npor que tem de cuidar\ndestes campos, hein?
 
 [2|off=0x9d8|chars=33]
-Franco: All right, I'll tell you.
+Franco: Tudo bem, vou contar.
 
 [3|off=0xa26|chars=55]
-Franco: It was the Spirits who sealed\noff these fields.
+Franco: Foram os Espiritos que selaram\nestes campos.
 
 [4|off=0xaa0|chars=115]
-Franco: You see, long ago the Easter\nPeople and the Volcano People fought a\nterrible war over control of this land.
+Franco: Veja, ha muito o Povo de\nPascoa e o Povo do Vulcao travaram uma\nguerra terrivel pelo controle da terra.
 
 [5|off=0xb92|chars=55]
-Franco: The behavior of the humans\nangered the Spirits.
+Franco: O agir dos humanos\nirritou os Espiritos.
 
 [6|off=0xc0c|chars=115]
-Franco: And so they decided to seal off\nthis fertile land. The Easter People\nthen left the island, never to return.
+Franco: Entao decidiram selar esta\nterra fertil. O Povo de Pascoa entao\ndeixou a ilha, para nunca mais voltar.
 
 [7|off=0xcfe|chars=74]
-Franco: But the Spirits did give us one\nchance to make up for what we\ndid.
+Franco: Mas os Espiritos nos deram uma\nchance de consertar o que\nfizemos.
 
 [8|off=0xd9e|chars=119]
-Franco: If someone could once again\nlove this land and nurture life on\nit with his own hands,\nthe seals will be broken.
+Franco: Se alguem pudesse amar de novo\nesta terra e nutrir a vida nela\ncom as proprias maos,\nos selos se romperiam.
 
 [9|off=0xe98|chars=107]
-Franco: But the people in Volcano Town\nonly care about autofarming. I'm afraid\nthey gave up on this land...
+Franco: Mas o povo de Volcano Town so\nliga p/ fazenda automatica. Temo\nque tenham desistido desta terra...
 
 [10|off=0xf7a|chars=117]
-Franco: And I doubt that there is\nanyone left in this day and\nage who still believes\nin the existence of the\nSpirits.
+Franco: E duvido que reste\nalguem nos dias de hoje\nque ainda acredite\nna existencia dos\nEspiritos.
 
 [11|off=0x1070|chars=105]
-Franco: But if something isn't done,\nsooner or later the Spirits' anger\ncould destroy this entire island.
+Franco: Mas se nada for feito,\nmais cedo ou mais tarde a ira dos\nEspiritos pode destruir toda a ilha.
 
 [12|off=0x114e|chars=27]
-Franco: Do you understand,\n
+Franco: Voce entende,\n
 
 [13|off=0x1186|chars=50]
-P?  You are the only one\nwho can save this island.
+P?  Voce e o unico\nque pode salvar esta ilha.
 
 [14|off=0x11f6|chars=42]
-Franco: Well I'm going to tell you\nanyway.
+Franco: Bem, vou contar\nde qualquer jeito.
 
 [15|off=0x1256|chars=64]
-Franco: How are things on the farm?\nAre your crops growing well?
+Franco: Como vao as coisas na fazenda?\nSuas plantacoes vao bem?
 
 [16|off=0x12e2|chars=32]
-Franco: Ah. That's good to hear.
+Franco: Ah. Que bom ouvir isso.
 
 [17|off=0x132e|chars=113]
-Franco: You don't have much land to farm\nat the moment, but once you have your\nfirst harvest, you can go to town.
+Franco: Voce nao tem muita terra para\ncultivar agora, mas apos sua primeira\ncolheita, podera ir a cidade.
 
 [18|off=0x141c|chars=100]
-Franco: For the moment, just do your\nbest to grow a few things in the places\nthat aren't sealed off.
+Franco: Por enquanto, apenas faca o\nmelhor para cultivar nas areas\nque nao estao seladas.
 
 [19|off=0x14f0|chars=73]
-Franco: You could even stick to just the\n9 squares that I tilled for you.
+Franco: Voce pode ate ficar so nos\n9 quadrados que arei para voce.
 
 [20|off=0x158e|chars=88]
-Franco: If you plant some seeds and\nwater them, you should see some\nsprouts by tomorrow.
+Franco: Se plantar algumas sementes e\nrega-las, devera ver alguns\nbrotos ate amanha.
 
 [21|off=0x164a|chars=73]
-Franco: Once they start to sprout, come\nto me again for some more advice.
+Franco: Quando comecarem a brotar,\nvolte aqui para mais conselhos.
 
 [22|off=0x16e8|chars=64]
-Franco: How are things on the farm?\nAre your crops growing well?
+Franco: Como vao as coisas na fazenda?\nSuas plantacoes vao bem?
 
 [23|off=0x1774|chars=32]
-Franco: Ah. That's good to hear.
+Franco: Ah. Que bom ouvir isso.
 
 [24|off=0x17c0|chars=113]
-Franco: You don't have much land to farm\nat the moment, but once you have your\nfirst harvest, you can visit town.
+Franco: Voce nao tem muita terra para\ncultivar agora, mas apos sua primeira\ncolheita, podera visitar a cidade.
 
 [25|off=0x18ae|chars=100]
-Franco: For the moment, just do your\nbest to grow a few things in the\nplaces that aren't sealed off.
+Franco: Por enquanto, apenas faca o\nmelhor para cultivar nas\nareas que nao estao seladas.
 
 [26|off=0x1982|chars=73]
-Franco: You could even stick to just the\n9 squares that I tilled for you.
+Franco: Voce pode ate ficar so nos\n9 quadrados que arei para voce.
 
 [27|off=0x1a20|chars=88]
-Franco: If you plant some seeds and\nwater them, you should see some\nsprouts by tomorrow.
+Franco: Se plantar algumas sementes e\nrega-las, devera ver alguns\nbrotos ate amanha.
 
 [28|off=0x1adc|chars=73]
-Franco: Once they start to sprout, come\nto me again for some more advice.
+Franco: Quando comecarem a brotar,\nvolte aqui para mais conselhos.
 
 [29|off=0x1b7a|chars=23]
 Franco: Zzzz... Zzzz...
 
 [30|off=0x1bb4|chars=8]
-Franco: 
+Franco:
 
 [31|off=0x1bc6|chars=87]
-P, you can't leave\nthe Easter Ruins until you've shipped\nsome of your crops... Zzzz....
+P, voce nao pode sair\ndas Ruinas de Pascoa ate enviar\nalgumas plantacoes... Zzzz....
 
 [32|off=0x1c80|chars=23]
 Franco: Zzzz... Zzzz...
 
 [33|off=0x1cba|chars=8]
-Franco: 
+Franco:
 
 [34|off=0x1ccc|chars=44]
-P, you should\nreally be in bed...\nZzzzz.....
+P, devia mesmo\nestar na cama...\nZzzzz.....
 
 [35|off=0x1d30|chars=8]
-Franco: 
+Franco:
 
 [36|off=0x1d42|chars=77]
-P, it seems like your\nbody restores a lot of its power\nwhile you're sleeping.
+P, parece que seu\ncorpo recupera muito de sua energia\nenquanto voce dorme.
 
 [37|off=0x1de8|chars=99]
-Franco: Don't work too hard. If you\nget tired, just take a rest in bed.\nFace the bed and press the 
+Franco: Nao trabalhe demais. Se ficar\ncansado, descanse na cama.\nFique de frente para ela e aperte
 
 [38|off=0x1eb0|chars=8]
  botao.
 
 [39|off=0x1ecc|chars=66]
-Franco: Oh, by the way, your seeds\nare already starting to sprout.
+Franco: Ah, a proposito, suas\nsementes ja estao comecando a sair.
 
 [40|off=0x1f5c|chars=104]
-Franco: The potatoes should really start\nto grow by tomorrow. The turnips\nwill take until the day after.
+Franco: As batatas devem mesmo comecar\na crescer ate amanha. Os nabos\nvao demorar ate depois de amanha.
 
 [41|off=0x2038|chars=74]
-Franco: Just remember to always water\nyour crops every day after planting.
+Franco: So lembre de sempre regar\nsuas plantacoes todo dia apos plantar.
 
 [42|off=0x20d8|chars=49]
-Franco: If you don't, they won't grow as\nquickly.
+Franco: Se nao, elas nao\ncrescem rapido.
 
 [43|off=0x2146|chars=8]
-Franco: 
+Franco:
 
 [44|off=0x2158|chars=77]
-P, it seems like your\nbody restores a lot of its power\nwhile you're sleeping.
+P, parece que seu\ncorpo recupera muito de sua energia\nenquanto voce dorme.
 
 [45|off=0x21fe|chars=99]
-Franco: Don't work too hard. If you\nget tired, just take a rest in bed.\nFace the bed and press the 
+Franco: Nao trabalhe demais. Se ficar\ncansado, descanse na cama.\nFique de frente para ela e aperte
 
 [46|off=0x22c6|chars=8]
  botao.
 
 [47|off=0x22e2|chars=89]
-Franco: If everything goes well, you\nshould be able to harvest your\ncrops by this Sunday.
+Franco: Se tudo correr bem, voce\ndevera colher suas\nplantacoes ate este domingo.
 
 [48|off=0x23a0|chars=99]
-Franco: After that, if you go and tell\nDr. Hope how you did, he might\ngive you some kind of reward.
+Franco: Depois, se contar ao\nDr. Hope como se saiu, ele pode\nlhe dar algum tipo de recompensa.
 
 [49|off=0x2472|chars=23]
 Franco: Zzzz... Zzzz...
 
 [50|off=0x24ac|chars=8]
-Franco: 
+Franco:
 
 [51|off=0x24be|chars=87]
-P, you can't leave\nthe Easter Ruins until you've shipped\nsome of your crops... Zzzz....
+P, voce nao pode sair\ndas Ruinas de Pascoa ate enviar\nalgumas plantacoes... Zzzz....
 
 [52|off=0x2578|chars=23]
 Franco: Zzzz... Zzzz...
 
 [53|off=0x25b2|chars=8]
-Franco: 
+Franco:
 
 [54|off=0x25c4|chars=44]
-P, you should\nreally be in bed...\nZzzzz.....
+P, devia mesmo\nestar na cama...\nZzzzz.....
 
 [55|off=0x2628|chars=18]
-Franco: Oh, hello 
+Franco: Ola,
 
 [56|off=0x264e|chars=33]
-P.\nAre you used to farm\nwork yet?
+P.\nJa se acostumou ao\ntrabalho?
 
 [57|off=0x269c|chars=59]
-Franco: That's good. Then maybe you'll\nbe able to use this.
+Franco: Que bom. Entao talvez voce\nconsiga usar isto.
 
 [58|off=0x271a|chars=31]
-Franco gave you an\nIron Sickle!
+Franco deu a voce\nFoice Ferro!
 
 [59|off=0x2764|chars=89]
-Franco: If you have a sickle, you can\nget rid of any grass or weeds\nthat are in your way.
+Franco: Com uma foice, voce pode\nse livrar de grama ou ervas\nque estejam no seu caminho.
 
 [60|off=0x2822|chars=73]
-Franco: Why don't you try using it\nwhen you're done watering\nfor the day?
+Franco: Por que nao tenta usa-la\nquando terminar de regar\npor hoje?
 
 [61|off=0x28c0|chars=45]
-Franco: Hang on a minute...\nYour bag is full.
+Franco: Um momento...\nSua bolsa esta cheia.
 
 [62|off=0x2926|chars=66]
-Franco: All right then. I'll just put\nit in your Item Box for you.
+Franco: Tudo bem entao. Vou colocar\nna sua Caixa de Itens.
 
 [63|off=0x29b6|chars=66]
-Franco: I don't think there's anything\nleft for me to teach you...
+Franco: Acho que nao resta mais\nnada para eu te ensinar...
 
 [64|off=0x2a46|chars=96]
-Franco: Farming should get more\nenjoyable once you harvest the crops\nthat you watered every day.
+Franco: Cultivar devera ficar mais\nprazeroso quando colher as plantacoes\nque regou todo dia.
 
 [65|off=0x2b12|chars=20]
-Franco: By the way, 
+Franco: A proposito,
 
 [66|off=0x2b3c|chars=48]
-P,\nhave you ever seen the sunset\nfrom your farm?
+P,\nvoce ja viu o por do sol\nda sua fazenda?
 
 [67|off=0x2ba8|chars=95]
-Franco: Hm? You look a little confused.\nDon't you know what a sunset is?\nIt's really beautiful.
+Franco: Hm? Voce parece confuso.\nNao sabe o que e um por do sol?\nE muito bonito mesmo.
 
 [68|off=0x2c72|chars=88]
-Franco: If you head toward the northern\ncliffs of your fields around 4:30\nyou'll see it.
+Franco: Se for ate os penhascos ao\nnorte dos seus campos por volta\ndas 4:30, voce vera.
 
 [69|off=0x2d2e|chars=28]
-Franco: Oh, one more thing,\n
+Franco: Ah, mais uma coisa,\n
 
 [70|off=0x2d78|chars=75]
-Franco: Million from Volcano town\nstopped by and left you a\nlittle present.
+Franco: A Million de Volcano\npassou aqui e deixou\num presentinho para voce.
 
 [71|off=0x2e1a|chars=90]
-Franco: I think they're Asparagus Seeds.\nI left them in your Seed Box in\nthe Storage Area.
+Franco: Acho que sao Sementes\nde Aspargo. Deixei na Caixa\nde Sementes na Area de Estoque.
 
 [72|off=0x2eda|chars=100]
-Franco: The Storage Area is that big\nspace beneath your room. Why\ndon't you go and see for yourself?
+Franco: A Area de Estoque e o\ngrande espaco abaixo do seu quarto.\nPor que nao vai ver voce mesmo?
 
 [73|off=0x2fae|chars=20]
-Franco: By the way, 
+Franco: A proposito,
 
 [74|off=0x2fd8|chars=48]
-P,\nhave you ever seen the sunset\nfrom your farm?
+P,\nvoce ja viu o por do sol\nda sua fazenda?
 
 [75|off=0x3044|chars=95]
-Franco: Hm? You look a little confused.\nDon't you know what a sunset is?\nIt's really beautiful.
+Franco: Hm? Voce parece confuso.\nNao sabe o que e um por do sol?\nE muito bonito mesmo.
 
 [76|off=0x310e|chars=88]
-Franco: If you head toward the northern\ncliffs of your fields around 4:30\nyou'll see it.
+Franco: Se for ate os penhascos ao\nnorte dos seus campos por volta\ndas 4:30, voce vera.
 
 [77|off=0x31ca|chars=73]
-Franco: I love watching time pass.\nSeeing one season blend into\nthe next.
+Franco: Adoro ver o tempo passar.\nVer uma estacao virar\nna seguinte.
 
 [78|off=0x3268|chars=103]
-Franco: The rising sun is pretty, but\nthe sunsets around here are just\namazing. Particularly in autumn.
+Franco: O nascer do sol e bonito, mas\no por do sol aqui e simplesmente\nincrivel. Sobretudo no outono.
 
 [79|off=0x3342|chars=88]
-Franco: If you head toward the northern\ncliffs of your fields around 4:30\nyou'll see it.
+Franco: Se for ate os penhascos ao\nnorte dos seus campos por volta\ndas 4:30, voce vera.
 
 [80|off=0x33fe|chars=23]
 Franco: Zzzz... Zzzz...
 
 [81|off=0x3438|chars=89]
-Franco: I could sure go for some\nAsparagus sauteed in olive\noil right about now. Zzzz....
+Franco: Eu bem que comeria um Aspargo\nsalteado em azeite de oliva\nagora mesmo. Zzzz....
 
 [82|off=0x34f6|chars=50]
-Franco: Zzzz... Zzzz...\nJust a bit more...\nZzzz...
+Franco: Zzzz... Zzzz...\nSo um pouco...\nZzzz...
 
 [83|off=0x3566|chars=37]
-Franco: Zzzz.... Zzzz....\nGo to bed, 
+Franco: Zzzz.... Zzzz....\nVa dormir,
 
 [84|off=0x35b2|chars=10]
 P.\nZzzz...
 
 [85|off=0x35d2|chars=63]
-Franco: Zzzz... Zzzz...\nI watered your crops for you...\nZzzz...
+Franco: Zzzz... Zzzz...\nReguei suas plantacoes...\nZzzz...
 
 [86|off=0x365c|chars=95]
-Franco: What can I do for you so early\nin the morning? I'm a little busy right\nat the moment...
+Franco: O que posso fazer por voce tao\ncedo? Estou um pouco ocupado\nno momento...
 
 [87|off=0x3726|chars=111]
-Franco: I just love the quiet stillness\nof the morning... Close your eyes\nand take a deep breath. That's right.
+Franco: Eu adoro a quieta calmaria\nda manha... Feche os olhos\ne respire fundo. Isso mesmo.
 
 [88|off=0x3810|chars=62]
-Franco: Have you been clearing your\nfields of weeds and rocks?
+Franco: Voce tem limpado seus\ncampos de ervas e pedras?
 
 [89|off=0x3898|chars=98]
-Franco: Ah, I see.\nDr. Hope always did like to keep things\nclean, and I guess you're no different.
+Franco: Ah, entendo.\nO Dr. Hope sempre gostou de manter\ntudo limpo, e acho que voce tambem.
 
 [90|off=0x3968|chars=104]
-Franco: There are some kinds of weeds\nthat can be used for medicine. You can\nsell them if you find them.
+Franco: Ha alguns tipos de ervas\nque servem de remedio. Voce pode\nvende-las se as encontrar.
 
 [91|off=0x3a44|chars=86]
-Franco: But remember that if you\nlet weeds grow unchecked,\nthey can kill nearby crops.
+Franco: Mas lembre: ervas\ncrescendo soltas\nmatam plantacoes vizinhas.
 
 [92|off=0x3afc|chars=110]
-Franco: Oh, and if you smash the rocks\nin your field with a hammer, you\ncan sometimes find building materials.
+Franco: Ah, e se quebrar as pedras\ndo seu campo com um martelo, as\nvezes acha materiais de construcao.
 
 [93|off=0x3be4|chars=71]
-Franco: You can ship the stone building\nmaterials using a Shipping Pod.
+Franco: Voce pode enviar os materiais\nde pedra usando um Pod de Envio.
 
 [94|off=0x3c7e|chars=65]
-Franco: Oh! You like to keep things\nthe way nature made them, eh?
+Franco: Oh! Voce gosta de manter tudo\ncomo a natureza fez, hein?
 
 [95|off=0x3d0c|chars=92]
-Franco: That's commendable, but you\nshould really think about cleaning\nup your fields a bit.
+Franco: Isso e louvavel, mas voce\ndeveria mesmo pensar em limpar\nseus campos um pouco.
 
 [96|off=0x3dd0|chars=23]
 Franco: Zzzz... zzZZzz!
 
 [97|off=0x3e0a|chars=118]
-Franco: That tea really hit the spot!\nWhen the weather's bad, there's nothing\nbetter than staying warm and dry inside.
+Franco: Aquele cha caiu muito bem!\nQuando o tempo esta ruim, nada melhor\ndo que ficar quentinho e seco dentro.
 
 [98|off=0x3f02|chars=95]
-Franco: What can I do for you so early\nin the morning? I'm a little busy right\nat the moment...
+Franco: O que posso fazer por voce tao\ncedo? Estou um pouco ocupado\nno momento...
 
 [99|off=0x3fcc|chars=111]
-Franco: I just love the quiet stillness\nof the morning... Close your eyes and\ntake a deep breath. That's right.
+Franco: Eu adoro a quieta calmaria\nda manha... Feche os olhos e\nrespire fundo. Isso mesmo.
 
 [100|off=0x40b6|chars=84]
-Franco: Farm work can sometimes be a\nlittle repetitive. Do you ever get\ntired of it?
+Franco: O trabalho na fazenda as\nvezes e repetitivo. Voce chega\na se cansar disso?
 
 [101|off=0x416a|chars=99]
-Franco: Hoo hoo! I suppose that can't be\nhelped. You're young, after all. But\nthat's good in a way.
+Franco: Hoo hoo! Acho que nao tem\njeito. Voce e jovem, afinal. Mas\nisso e bom de certa forma.
 
 [102|off=0x423c|chars=76]
-Franco: When you start to feel bored,\nthat's when the real challenge\nbegins.
+Franco: Quando voce se entedia,\ne ai que o verdadeiro\ndesafio comeca.
 
 [103|off=0x42e0|chars=113]
-Franco: You have to see how you can make\nyour work more efficient. See how you\ncan be the best farmer you can be!
+Franco: Voce tem de ver como tornar\nseu trabalho mais eficiente. Veja como\nser o melhor fazendeiro possivel!
 
 [104|off=0x43ce|chars=23]
 Franco: Zzzz... zzZZzz!
@@ -323,193 +323,193 @@ Franco: Zzzz... zzZZzz!
 Franco: Ugh... Ugh...
 
 [106|off=0x443e|chars=77]
-Franco: I think the milk I drank in\nMoonlight's room yesterday was\nspoiled...
+Franco: Acho que o leite que bebi\nno quarto da Moonlight\nestava estragado...
 
 [107|off=0x44e4|chars=111]
-Franco: I just love the quiet stillness\nof the morning... Close your eyes\nand take a deep breath. That's right.
+Franco: Eu adoro a quieta calmaria\nda manha... Feche os olhos\ne respire fundo. Isso mesmo.
 
 [108|off=0x45ce|chars=84]
-Franco: Farm work can sometimes be a\nlittle repetitive. Do you ever get\ntired of it?
+Franco: O trabalho na fazenda as\nvezes e repetitivo. Voce chega\na se cansar disso?
 
 [109|off=0x4682|chars=99]
-Franco: Hoo hoo! I suppose that can't be\nhelped. You're young, after all. But\nthat's good in a way.
+Franco: Hoo hoo! Acho que nao tem\njeito. Voce e jovem, afinal. Mas\nisso e bom de certa forma.
 
 [110|off=0x4754|chars=76]
-Franco: When you start to feel bored,\nthat's when the real challenge begins.
+Franco: Quando voce se entedia,\ne ai que o verdadeiro desafio comeca.
 
 [111|off=0x47f8|chars=113]
-Franco: You have to see how you can make\nyour work more efficient. See how you\ncan be the best farmer you can be!
+Franco: Voce tem de ver como tornar\nseu trabalho mais eficiente. Veja como\nser o melhor fazendeiro possivel!
 
 [112|off=0x48e6|chars=23]
 Franco: Zzzz... Zzzz...
 
 [113|off=0x4920|chars=18]
-Franco: Oh hello, 
+Franco: Ola,
 
 [114|off=0x4946|chars=29]
-P.\nYou're certainly up early.
+P.\nVoce acordou bem cedo.
 
 [115|off=0x498c|chars=42]
-Franco: I'm going into Volcano Town\ntoday.
+Franco: Hoje eu vou ate\nVolcano Town.
 
 [116|off=0x49ec|chars=65]
-Franco: There's nothing better than an\nearly bath on the weekend.
+Franco: Nada melhor do que um banho\ncedo no fim de semana.
 
 [117|off=0x4a7a|chars=49]
-Moonlight: Franco has quite a collection\nof pots.
+Moonlight: Franco tem bela\ncolecao de potes.
 
 [118|off=0x4ae8|chars=50]
-Moonlight: But he never lets me touch\nany of them!
+Moonlight: Mas ele nunca me deixa\ntocar em nenhum!
 
 [119|off=0x4b58|chars=85]
-Moonlight: That's why I have to sneak in\nhere and do it when he's not around.\nHahaha!
+Moonlight: Por isso me esgueiro\naqui e faco isso quando ele nao esta.\nHahaha!
 
 [120|off=0x4c0e|chars=75]
-Franco: Yawn.\nIsn't it about time we told our\ntrue feelings, Rose?  Zzzz...
+Franco: Bocejo.\nNao e hora de dizer o que\nsentimos, Rose?  Zzzz...
 
 [121|off=0x4cb0|chars=74]
-Franco: I heard that you were asked\nto grow crops for the Spring\nFestival.
+Franco: Ouvi que te pediram\npara cultivar para o\nFestival da Primavera.
 
 [122|off=0x4d50|chars=106]
-Franco: That's a big responsibility!\nAnd it's the perfect chance to show\neveryone how good your crops are.
+Franco: E uma grande responsabilidade!\nE a chance ideal de mostrar a\ntodos como suas plantacoes sao boas.
 
 [123|off=0x4e30|chars=106]
-Franco: That's a big responsibility!\nAnd it's the perfect chance to show\neveryone how good your crops are.
+Franco: E uma grande responsabilidade!\nE a chance ideal de mostrar a\ntodos como suas plantacoes sao boas.
 
 [124|off=0x4f10|chars=95]
-Franco: I saw that robot of yours!\nIt's pretty "cool!" Is that what\nyoung folks say these days?
+Franco: Eu vi aquele seu robo!\nEle e bem "legal!" E assim que\nos jovens dizem hoje em dia?
 
 [125|off=0x4fda|chars=95]
-Franco: I saw that robot of yours!\nIt's pretty "cool!" Is that what\nyoung folks say these days?
+Franco: Eu vi aquele seu robo!\nEle e bem "legal!" E assim que\nos jovens dizem hoje em dia?
 
 [126|off=0x50a4|chars=90]
-Franco: And he can talk quite well, too!\nMaybe he and I can go out for a\ndrink sometime...
+Franco: E ele fala muito bem!\nTalvez ele e eu possamos sair\npara beber qualquer dia...
 
 [127|off=0x5164|chars=90]
-Franco: And he can talk quite well, too!\nMaybe he and I can go out for a\ndrink sometime...
+Franco: E ele fala muito bem!\nTalvez ele e eu possamos sair\npara beber qualquer dia...
 
 [128|off=0x5224|chars=87]
-Franco: Just kidding.\nDr. Hope would kill me if I did anything\nthat damaged that robot.
+Franco: So brincadeira.\nO Dr. Hope me mata se eu fizer\nalgo que danifique aquele robo.
 
 [129|off=0x52de|chars=87]
-Franco: Just kidding.\nDr. Hope would kill me if I did anything\nthat damaged that robot.
+Franco: So brincadeira.\nO Dr. Hope me mata se eu fizer\nalgo que danifique aquele robo.
 
 [130|off=0x5398|chars=56]
-Franco: So you've finally started\nraising livestock, eh?
+Franco: Entao voce enfim comecou\na criar gado, hein?
 
 [131|off=0x5414|chars=109]
-Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+Franco: Sabia que os robos de criacao\nde gado como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?
 
 [132|off=0x54fa|chars=112]
-Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+Franco: Hoje tudo na fazenda e\nautomatizado, mas naquela epoca usar\nrobos era uma ideia revolucionaria.
 
 [133|off=0x55e6|chars=61]
-Franco: I hear that they still use them\nquite a lot overseas.
+Franco: Ouvi dizer que ainda os usam\nbastante no exterior.
 
 [134|off=0x566c|chars=74]
-Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+Moonlight: O balido dos animais\npode soar de novo entre\nestas ruinas!
 
 [135|off=0x570c|chars=90]
-Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+Moonlight: Tenho certeza que a\nforca vital deles vai revitalizar\nesta terra e a natureza!
 
 [136|off=0x57cc|chars=72]
-Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+Franco: Uau!\nVoce e um sortudo!\nGanhar um buggy desses de presente!
 
 [137|off=0x5868|chars=89]
-Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+Franco: Se eu tivesse esse\nbuggy, levaria a Rose num passeio\nque ela nunca esqueceria!
 
 [138|off=0x5926|chars=11]
-Moonlight: 
+Moonlight:
 
 [139|off=0x593e|chars=52]
-P! I see you got\nquite a nice present from Dr. Hope.
+P! Vejo que ganhou\num belo presente do Dr. Hope.
 
 [140|off=0x59b2|chars=63]
-Moonlight: You can go just about\nanywhere in a buggy like that!
+Moonlight: Da pra ir a quase\nqualquer lugar num buggy desses!
 
 [141|off=0x5a3c|chars=60]
-Franco: I can't believe Marco could make\nsuch a big mistake.
+Franco: Nao acredito que o Marco\ncometeu um erro tao grande.
 
 [142|off=0x5ac0|chars=73]
-Franco: When I was young, everyone used\nto take their dates to that cave.
+Franco: Quando eu era jovem, todos\nlevavam seus amores aquela caverna.
 
 [143|off=0x5b5e|chars=11]
-Moonlight: 
+Moonlight:
 
 [144|off=0x5b76|chars=57]
-P!\nI hear they had some trouble in the\nVolcano Town cave.
+P!\nOuvi que tiveram problemas na\ncaverna de Volcano Town.
 
 [145|off=0x5bf4|chars=77]
-Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+Moonlight: Vai levar tempo e\nesforco para devolve-la a sua\ncondicao original.
 
 [146|off=0x5c9a|chars=49]
-Franco: I hear that you planted some\npoinsettias.
+Franco: Ouvi que voce plantou\nalgumas poinsetias.
 
 [147|off=0x5d08|chars=120]
-Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+Franco: Se conseguir enviar muitas\ndelas ate a vespera do Natal,\npodem usa-las para enfeitar a cidade.
 
 [148|off=0x5e04|chars=21]
-Franco: I can't wait!
+Franco: Mal espero!
 
 [149|off=0x5e3a|chars=41]
-Franco: I hear that Dr. Hope\ncollapsed...
+Franco: Ouvi que o Dr. Hope\ndesmaiou...
 
 [150|off=0x5e98|chars=96]
-Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+Franco: Sei que voce deve estar\npreocupado com ele, mas tem um\ntrabalho importante a terminar.
 
 [151|off=0x5f64|chars=89]
-Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+Franco: O melhor para o\nDr. Hope agora e ver o quanto\nvoce esta se esforcando.
 
 [152|off=0x6022|chars=52]
-Moonlight: I never knew that Dr. Hope\nwas so sick...
+Moonlight: Nem sabia que o\nDr. Hope estava doente...
 
 [153|off=0x6096|chars=86]
-Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+Moonlight: Por isso ele estava\ncom tanta pressa de acabar o\ntrabalho com voce...
 
 [154|off=0x614e|chars=42]
-Franco: I know you're sad about Dr.\nHope, 
+Franco: Sei que esta triste pelo Dr.\nHope,
 
 [155|off=0x61a4|chars=12]
-P. I am too.
+P. Eu tb.
 
 [156|off=0x61c8|chars=31]
-Franco: He was a good friend...
+Franco: Ele era um bom amigo...
 
 [157|off=0x6212|chars=48]
-Moonlight: I heard the voice of the\nFire Spirit!
+Moonlight: Eu ouvi a voz do\nEspirito do Fogo!
 
 [158|off=0x627e|chars=74]
-Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+Moonlight: Ele me disse que ha mais\nneste mundo do que se ve\na olho nu!
 
 [159|off=0x631e|chars=91]
-Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+Moonlight: O que tento dizer\ne... Tenho certeza que o Dr. Hope\nsempre vai zelar por voce,
 
 [160|off=0x63e6|chars=62]
-Franco: Who is that strange man who\nnow lives in the new room?
+Franco: Quem e aquele homem estranho\nque mora no quarto novo?
 
 [161|off=0x646e|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, aquela area ficou\nselada por muito tempo, nao e como\nse alguem fosse dono dela...
 
 [162|off=0x653c|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Bem, acho que nao e\npra se preocupar tanto.
 
 [163|off=0x65c2|chars=43]
-Franco: An alien is living in the new\nroom?
+Franco: Um alien mora no\nquarto novo?
 
 [164|off=0x6624|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, aquela area ficou\nselada por muito tempo, nao e como\nse alguem fosse dono dela...
 
 [165|off=0x66f2|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Bem, acho que nao e\npra se preocupar tanto.
 
 [166|off=0x6778|chars=11]
-Moonlight: 
+Moonlight:
 
 [167|off=0x6790|chars=76]
-P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+P!\nVi uma coisa estranha parecida com um\nbicho de pelucia no quarto novo.
 
 [168|off=0x6834|chars=51]
-Moonlight: Did you make that?\nIt's very impressive!
+Moonlight: Voce fez aquilo?\nE muito impressionante!
 
 [169|off=0x68a6|chars=20]
 Franco: Gaga gagaga.
@@ -563,7 +563,7 @@ Franco: Ga... Zzz...
 Moonlight: Gaagaa!\nGaga gagagagaga!
 
 [186|off=0x6c34|chars=44]
-This is a very expensive looking\nwardrobe...
+Este e um guarda-roupa de\naparencia cara...
 
 [187|off=0x6c94|chars=31]
 Ha pratos enfileirados aqui.
@@ -572,7 +572,7 @@ Ha pratos enfileirados aqui.
 Voce tenta lavar as maos.
 
 [189|off=0x6d18|chars=30]
-This sink is very easy to use.
+Esta pia e bem facil de usar.
 
 [190|off=0x6d5c|chars=25]
 Suas maos estao limpas.
@@ -581,13 +581,13 @@ Suas maos estao limpas.
 Mas nao havia sabao...
 
 [192|off=0x6dce|chars=40]
-The water pressure seems a little\nlow...
+A pressao da agua parece\nbaixa...
 
 [193|off=0x6e26|chars=48]
-You were surprised at how dirty\nyour hands were.
+Voce ve o quao\nsujas suas maos estavam.
 
 [194|off=0x6e8e|chars=43]
-There's water splashed all around\nthe sink!
+Ha agua espirrada por toda a\nvolta da pia!
 
 [195|off=0x6eec|chars=24]
 Voce limpa o local.
@@ -596,19 +596,19 @@ Voce limpa o local.
 Saiu agua morna...
 
 [197|off=0x6f60|chars=49]
-The drain doesn't seem to be\nworking very well...
+O ralo parece nao estar\nfuncionando muito bem...
 
 [198|off=0x6fca|chars=41]
-Hot water came out with\nincredible force!
+Saiu agua quente com\nforca incrivel!
 
 [199|off=0x7024|chars=44]
-A very nice smell surrounds the\nsoap here...
+Um cheiro bom envolve\no sabonete aqui...
 
 [200|off=0x7084|chars=55]
-You try washing your face.\nYou feel somewhat refreshed.
+Voce lava o rosto.\nSe sente um tanto revigorado.
 
 [201|off=0x70fa|chars=42]
-There are lots of things on the\nshelves...
+Ha muitas coisas nas\nprateleiras...
 
 [202|off=0x7156|chars=19]
 Ha vinho aqui.
@@ -617,124 +617,121 @@ Ha vinho aqui.
 Voce olha para o vaso.
 
 [204|off=0x71ba|chars=32]
-It seems to have been flushed...
+Parece que deram descarga...
 
 [205|off=0x7202|chars=21]
-It's sparkling clean!
+Brilhando de limpo!
 
 [206|off=0x7234|chars=28]
-You push the "Flush" button.
+Voce aperta "Descarga".
 
 [207|off=0x7274|chars=30]
 Ha um bilhete no vaso.
 
 [208|off=0x72b8|chars=20]
-"Please keep clean!"
+"Mantenha limpo!"
 
 [209|off=0x72e8|chars=70]
-It appears to have a toilet seat\nthat raises and lowers automatically.
+Parece ter um assento de vaso\nque sobe e desce automaticamente.
 
 [210|off=0x737c|chars=68]
-There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+Ha um adesivo da Banks\nCorporation na lateral do\nassento do vaso.
 
 [211|off=0x740c|chars=53]
-The scent of aromatic oil floats\naround the toilet...
+O aroma de oleo perfumado paira\nao redor do vaso...
 
 [212|off=0x747e|chars=29]
-This is an automatic bathtub.
+E uma banheira automatica.
 
 [213|off=0x74c0|chars=62]
-You opened the drawer.\nThere are many different things\ninside.
+Voce abriu a gaveta.\nHa muitas coisas diferentes\ndentro.
 
 [214|off=0x7544|chars=64]
-This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+Este e um guarda-roupa.\nNao ha nada de especial\ndentro.
 
 [215|off=0x75cc|chars=38]
-There are many books in the\nbookshelf.
+Ha muitos livros na\nestante.
 
 [216|off=0x7620|chars=45]
-But there's no reason for you to\nread them...
+Mas nao ha motivo para voce\nle-los...
 
 [217|off=0x7682|chars=26]
 Voce abre a geladeira.
 
 [218|off=0x76be|chars=65]
-But you quickly close it again\nto prevent the food from spoiling.
+Mas voce a fecha de novo logo\npara evitar que a comida estrague.
 
 [219|off=0x7748|chars=75]
-"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+"Serpente Arco-Iris"\n  Ela te leva pela floresta\nou a tentacao?
 
 [220|off=0x77e6|chars=86]
-"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+"Arvores Sussurrantes"\n  Vozes distantes. Vozes proximas.\nEcos do ceu. O som do lago.
 
 [221|off=0x789a|chars=63]
-"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+"Lua do Deserto"\n  As estrelas viram areia e\nvoltam a terra.
 
 [222|off=0x7920|chars=50]
-"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+"Valsa"\n  Visitantes do mar. Gira gira\ngira...
 
 [223|off=0x798c|chars=71]
-"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+"Constelacao do Sul"\n  Eis o Centauro. Escultura\ne pintura.
 
 [224|off=0x7a22|chars=39]
-"Here and There"\n  Where on earth am I?
+"Aqui e Ali"\n  Onde diabos estou?
 
 [225|off=0x7a78|chars=39]
-"Straight Ahead: South Heartflame\nCave"
+"Em Frente: Caverna Heartflame\nSul"
 
 [226|off=0x7ace|chars=30]
-"Em Frente: Ruinas
-de Pascoa"
+"Em Frente: Ruinas\nde Pascoa"
 
 [227|off=0x7b12|chars=45]
-"Straight Ahead: Southeast Bank\nof East Lake"
+"Em Frente: Margem Sudeste\ndo Lago Leste"
 
 [228|off=0x7b74|chars=23]
-"East: Mushroom Forest"
+"Leste: Floresta Cogum"
 
 [229|off=0x7baa|chars=45]
-"Straight Ahead: Southwest Bank\nof East Lake"
+"Em Frente: Margem Sudoeste\ndo Lago Leste"
 
 [230|off=0x7c0c|chars=37]
-"Danger! Fallen Trees.\nDo Not Enter."
+"Perigo! Arvores Caidas.\nNao Entre."
 
 [231|off=0x7c5e|chars=25]
-"East: Heartflame Desert"
+"Leste: Deserto Heartfl"
 
 [232|off=0x7c98|chars=18]
-"Heartflame Dunes"
+"Dunas Heartflame"
 
 [233|off=0x7cc4|chars=26]
-"North: Heartflame Plains"
+"Norte: Planicies Heartfl"
 
 [234|off=0x7d00|chars=19]
-"Heartflame Plains"
+"Planicies Heartf"
 
 [235|off=0x7d2e|chars=32]
-"Margem SE do Lago
-da Sereia"
+"Margem SE do Lago\nda Sereia"
 
 [236|off=0x7d76|chars=14]
-"Mermaid Lake"
+"Lago Sereia"
 
 [237|off=0x7d9a|chars=24]
-"South: Mushroom Forest"
+"Sul: Floresta Cogumelo"
 
 [238|off=0x7dd2|chars=32]
-"Margem SO do Lago
-da Sereia"
+"Margem SO do Lago\nda Sereia"
 
 [239|off=0x7e1a|chars=11]
-"East Lake"
+"Lago Lest"
 
 [240|off=0x7e38|chars=54]
-I found a TV schedule wedged\nbetween sodden magazines.
+Achei uma grade de TV\nentre revistas encharcadas.
 
 [241|off=0x7eac|chars=73]
-Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+Seg. Qua. Sex.\n"Cade Minha Mae? A Jornada do Gatinho,"\n"Final Z Rangers,"
 
 [242|off=0x7f46|chars=70]
-Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+Ter. Qui. "Bosque Melancolico,"\nSab Dom. "Srta. Fofa, Bruxa Aprendiz,"
 
 [243|off=0x7fdc|chars=28]
 Como jogar com Trilhos,
@@ -743,10 +740,10 @@ Como jogar com Trilhos,
  ~Rails
 
 [245|off=0x802c|chars=57]
-First, lay rails and\nprepare conditions to use Pod Rails.
+Primeiro, assente trilhos e\nprepare p/ usar Pod Rails.
 
 [246|off=0x80a6|chars=113]
-You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+Voce pode deixar o trem rodar em\ncirculo, ou ir e voltar entre dois\npontos. Onde ha trilho, ha caminho.
 
 [247|off=0x8194|chars=28]
 Como jogar com Trilhos,
@@ -755,10 +752,10 @@ Como jogar com Trilhos,
  ~Motors
 
 [249|off=0x81e6|chars=102]
-Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+Motores agem como locomotivas,\npor assim dizer. Se os por nos\ntrilhos, pode mover vagoes unidos.
 
 [250|off=0x82ba|chars=96]
-You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+Voce controla o motor pelo Menu\nde Comando, ou direto no monitor\ncom o
 
 [251|off=0x837c|chars=8]
  botao.
@@ -767,73 +764,73 @@ You can control the motor from the\nCommand Menu, or directly control\nit on the
 "Como jogar com Trilhos," ~ Vagoes
 
 [253|off=0x83e8|chars=118]
-Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+Vagoes agem como Vagoes de Carga e\nde Passageiros. Com Motores, voce os\nfaz rodar nos Trilhos com Carga ou Gente.
 
 [254|off=0x84dc|chars=62]
-You can be a driver\nif you operate Motors\nwhile riding a Cart.
+Pode ser motorista\nse operar Motores\nandando num Vagao.
 
 [255|off=0x8560|chars=40]
 "Como jogar com Trilhos," ~Envio
 
 [256|off=0x85b8|chars=95]
-If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+Se comprar Auto Units, elas\nserao postas automaticamente entre\nduas Caixas de Envio na Fazenda.
 
 [257|off=0x867e|chars=120]
-Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+Ponha Trilhos para passar o Quadrado\nem frente a Auto Unit. Itens no Vagao\nserao enviados sozinhos. E pratico.
 
 [258|off=0x8778|chars=22]
 Fisiocracia e Magia,
 
 [259|off=0x87a6|chars=21]
-\n~or "Book of Spirit"
+\n~ou "Livro do Esp"
 
 [260|off=0x87d8|chars=69]
-If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+Com Agua Sagrada num\nRegador Mistico, voce\nderrete a neve.
 
 [261|off=0x886a|chars=75]
-You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+Voce so pode usar um Regador Mistico\nse tiver se esforcado na Fazenda...
 
 [262|off=0x8908|chars=59]
-It's a book with Fairy Tales\nfor early childhood education.
+E um livro com Contos de Fadas\npara educacao infantil.
 
 [263|off=0x8986|chars=91]
-I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+Parei numa pagina com a\nilustracao de um boneco de madeira\nsendo engolido por uma baleia...
 
 [264|off=0x8a44|chars=28]
-My heart is twinging...\nWhy?
+Meu peito aperta...\nPor que?
 
 [265|off=0x8a84|chars=44]
-It's a Haiku Book\nwritten by Principle Rose.
+E um Livro de Haiku\nda Diretora Rose.
 
 [266|off=0x8ae4|chars=68]
-There are more Haikus about love\nthan about scenery or daily life...
+Ha mais Haikus sobre amor do que\nsobre paisagem ou vida diaria...
 
 [267|off=0x8b74|chars=69]
-It's like reading someone else's diary.\nI feel a little bit guilty...
+E como ler o diario de outra pessoa.\nMe sinto um pouco culpado...
 
 [268|off=0x8c08|chars=30]
-Tale of the Love & Bow Knight,
+Conto do Amor e do Cavaleiro,
 
 [269|off=0x8c46|chars=7]
  Vol. 1
 
 [270|off=0x8c5c|chars=63]
-Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+Cavaleiro: T-t-tome o arco!\nPrincesa: ... sou eu que voce quer?
 
 [271|off=0x8ce2|chars=108]
-There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+Nao havia mais hesitacao.\nEle tomou coragem e deu um presente.\nO por do sol corou as faces dele...
 
 [272|off=0x8dc4|chars=30]
-Tale of the Love & Bow Knight,
+Conto do Amor e do Cavaleiro,
 
 [273|off=0x8e02|chars=7]
  Vol. 2
 
 [274|off=0x8e18|chars=73]
-Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+Princesa: Tambem tenho algo a te dar,\nCavaleiro: I-isto e... um broche!?
 
 [275|off=0x8eb2|chars=106]
-They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+Eles se apaixonaram um pelo outro.\nEstavam uns 100 pixels mais perto\nquando um manto de treva os cobriu.
 
 [276|off=0x8f8e|chars=6]
 Yes\nNo

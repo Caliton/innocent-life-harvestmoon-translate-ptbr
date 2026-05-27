@@ -5,7 +5,7 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0x466|chars=56]
-Franco: Entao voce finalmente\ncomeou a criar animais, hein?
+Franco: Entao voce enfim\ncomecou a criar animais, ne?
 
 [1|off=0x4e2|chars=109]
 Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem sao\ninvencoes do Dr. Hope?
@@ -17,7 +17,7 @@ Franco: Hoje tudo na fazenda e\nautomatico, mas naquela epoca usar\nrobos era um
 Franco: Ouvi que eles ainda sao\nbastante usados no exterior.
 
 [4|off=0x73a|chars=74]
-Moonlight: O balido dos animais\npode ser ouvido novamente\nentre essas ruinas!
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnessas ruinas!
 
 [5|off=0x7da|chars=90]
 Moonlight: Tenho certeza de que\na forca vital deles vai revitalizar\nesta terra e o ermo!
@@ -26,16 +26,16 @@ Moonlight: Tenho certeza de que\na forca vital deles vai revitalizar\nesta terra
 Franco: Uau!\nQue sortudo voce e!\nGanhou um buggy desse como presente!
 
 [7|off=0x936|chars=89]
-Franco: Se eu tivesse um buggy\ndesses, levava a Rose pra um\npasseio que ela nunca esqueceria!
+Franco: Com um buggy desses,\neu levava a Rose num passeio\ninesquecivel!
 
 [8|off=0x9f4|chars=11]
 Moonlight:
 
 [9|off=0xa0c|chars=52]
-<06>P! Vi que voce ganhou\num belo presente do Dr. Hope.
+P! Vi que voce ganhou\num belo presente do Dr. Hope.
 
 [10|off=0xa80|chars=63]
-Moonlight: Num buggy desses\nvoce pode ir a praticamente\nqualquer lugar!
+Moonlight: Num buggy desses\nvoce vai quase a\nqualquer lugar!
 
 [11|off=0xb0a|chars=60]
 Franco: Nao acredito que Marco\ncometeu um erro tao grande.
@@ -47,7 +47,7 @@ Franco: Quando eu era jovem, todos\nlevavam seus pares aquela caverna.
 Moonlight:
 
 [14|off=0xc44|chars=57]
-<06>P!\nOuvi que houve problemas na\ncaverna de Volcano Town.
+P!\nOuvi que houve problemas na\ncaverna de Volcano Town.
 
 [15|off=0xcc2|chars=77]
 Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
@@ -56,31 +56,31 @@ Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
 Franco: Ouvi que voce plantou\nbicos-de-papagaio.
 
 [17|off=0xdd6|chars=120]
-Franco: Se conseguir enviar bastante\ndeles ate a vespera do Natal, podem\nusá-los para enfeitar a cidade.
+Franco: Se conseguir enviar bastante\ndeles ate a vespera do Natal, podem\nusa-los para enfeitar a cidade.
 
 [18|off=0xed2|chars=21]
-Franco: Mal posso esperar!
+Franco: Ansioso!
 
 [19|off=0xf08|chars=41]
-Franco: Ouvi que o Dr. Hope\ncaiu doente...
+Franco: Ouvi que o Dr. Hope\ncaiu mal...
 
 [20|off=0xf66|chars=96]
 Franco: Sei que deve estar preocupado\ncom ele, mas voce tem um trabalho\nimportante a terminar.
 
 [21|off=0x1032|chars=89]
-Franco: Tenho certeza de que a\nmelhor coisa pro Dr. Hope agora\ne ver como voce trabalha duro.
+Franco: A melhor coisa pro\nDr. Hope agora e ver o\nquanto voce trabalha duro.
 
 [22|off=0x10f0|chars=52]
-Moonlight: Nunca soube que o\nDr. Hope estava tao doente...
+Moonlight: Nao sabia que\nDr. Hope estava tao mal...
 
 [23|off=0x1164|chars=86]
-Moonlight: Suponho que era por isso\nque ele tinha tanta pressa em\nterminar o trabalho com voce...
+Moonlight: Deve ser por isso\nque ele tinha tanta pressa\nde terminar o trabalho...
 
 [24|off=0x121c|chars=42]
-Franco: Sei que esta triste com\no Dr. Hope,
+Franco: Sei que esta triste\npelo Dr. Hope,
 
 [25|off=0x1272|chars=12]
-<06>P. Eu tambem.
+P, eu tambem
 
 [26|off=0x1296|chars=31]
 Franco: Ele era um bom amigo...
@@ -98,82 +98,82 @@ Moonlight: O que tento dizer e...\nTenho certeza de que o Dr. Hope\nsempre velar
 Franco: Quem e esse homem estranho\nque mora no novo quarto?
 
 [31|off=0x153c|chars=97]
-Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao era como se alguem a possuisse...
+Franco: Claro, aquela area\nficou fechada tanto tempo\nque nao era de ninguem mesmo...
 
 [32|off=0x160a|chars=61]
-Franco: Bom, acho que nao devemos\nnos preocupar muito com isso.
+Franco: Bom, nao devemos\nnos preocupar muito com isso.
 
 [33|off=0x1690|chars=43]
 Franco: Um alien mora\nno novo quarto?
 
 [34|off=0x16f2|chars=97]
-Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao era como se alguem a possuisse...
+Franco: Claro, aquela area\nficou fechada tanto tempo\nque nao era de ninguem mesmo...
 
 [35|off=0x17c0|chars=61]
-Franco: Bom, acho que nao devemos\nnos preocupar muito com isso.
+Franco: Bom, nao devemos\nnos preocupar muito com isso.
 
 [36|off=0x1846|chars=11]
 Moonlight:
 
 [37|off=0x185e|chars=76]
-<06>P!\nVi uma coisa estranha parecida com\num bicho de pelucia no novo quarto.
+P!\nVi uma coisa estranha parecida com\num bicho de pelucia no novo quarto.
 
 [38|off=0x1902|chars=51]
 Moonlight: Voce fez isso?\nMuito impressionante!
 
 [39|off=0x1974|chars=104]
-Charles: Estou praticando imaginar\ncoisas positivas para nao errar\nquando for prefeito e fizer discursos.
+Charles: Treino pensar coisas\npositivas pra nao errar quando\nfor prefeito e der discursos.
 
 [40|off=0x1a50|chars=18]
-Dorothy: Bem-vindo,
+Dorothy: Ola,
 
 [41|off=0x1a76|chars=60]
-<06>P.\nEste ano usamos um bolo feito\npela autocozinheira da Lucia.
+P.\nEste ano usamos um bolo\nda autococora da Lucia.
 
 [42|off=0x1afa|chars=81]
 Dorothy: Espero que ajude da proxima\nvez. Prefiro muito um bolo\nfeiro a mao.
 
 [43|off=0x1ba8|chars=62]
-Dorothy: Gracas a voce, fizemos\num bolo esplendido, <06>P
+Dorothy: Gracas a voce, fizemos\num bolo esplendido,
 
 [44|off=0x1c36|chars=70]
 Dorothy: E como prometi, transferi\no pagamento para sua conta.
 
 [45|off=0x1cce|chars=62]
-Dorothy: Gracas a voce, fizemos\num bolo esplendido, <06>P
+Dorothy: Gracas a voce, fizemos\num bolo esplendido,
 
 [46|off=0x1d5c|chars=59]
-Dorothy: Tenho certeza de que o\nDr. Hope ficaria muito feliz.
+Dorothy: Aposto que o Dr. Hope\nficaria muito feliz em ver.
 
 [47|off=0x1dde|chars=64]
-Dorothy: Ah, e transferi o pagamento\npara sua conta, como de costume.
+Dorothy: Ah, e paguei na sua\nconta, como sempre.
 
 [48|off=0x1e6a|chars=103]
 Charles: Devia ter pensado antes\nde ir a festa na noite antes\nda grande Festa de Natal...
 
 [49|off=0x1f44|chars=26]
-Charles: Ah, ola ai, <06>P
+Charles: Ah, ola ai,
 
 [50|off=0x1f7a|chars=31]
-<06>P.\nHeh heh. Curtindo?
+P.\nHeh heh. Curtindo?
 
 [51|off=0x1fc4|chars=87]
-Charles: Hm? Acha que seria uma\nboa ideia voce ir pra casa\ncom o Dr. Hope, <06>P
+Charles: Hm? Acha que seria uma\nboa ideia voce ir pra casa\ncom o Dr. Hope,
 
 [52|off=0x2084|chars=64]
 Masami: Nao parece Natal sem\nbicos-de-papagaio.
 
 [53|off=0x2110|chars=77]
-Masami: Na minha terra natal,\nsempre usamos muitos bicos-de-papagaio\nno Natal.
+Masami: Na minha terra, sempre\nusavamos muitos bicos-de-papagaio\nno Natal.
 
 [54|off=0x21b6|chars=79]
-Masami: Mas os bicos-de-papagaio\ndaqui nao parecem ser de um\nfornecedor muito bom.
+Masami: Mas os daqui nao\nparecem ser de um fornecedor\nmuito confiavel.
 
 [55|off=0x2260|chars=67]
-Masami: Os que voce enviou sao\ntodos lindos por comparacao,\n<06>P
+Masami: Os que voce enviou sao\ntodos lindos por comparacao,\n
 
 [56|off=0x22f8|chars=57]
-Masami: Amor e necessario para\numa flor desabrochar lindamente.
+Masami: Flor so desabrocha\nlinda com amor.
 
 [57|off=0x2376|chars=42]
 Masami: E isso nao se compra\ncom dinheiro.
@@ -182,7 +182,7 @@ Masami: E isso nao se compra\ncom dinheiro.
 Gallion:
 
 [59|off=0x23ea|chars=102]
-<06>P... Sei que pode dar\ntrabalho, mas toparia cultivar\nbicos-de-papagaio pra nos todo ano?
+P... Sei que pode dar\ntrabalho, mas toparia cultivar\nbicos-de-papagaio pra nos todo ano?
 
 [60|off=0x24c2|chars=80]
 Gallion: Masami realmente espera\npelos envios de flores\nda sua fazenda.
@@ -203,22 +203,22 @@ Sharon: Ouvi que a criada do Dr. Hope\nfazia os bolos ate agora. Os bolos\ndela 
 Sharon: Mas a criada faleceu,\ne entao a Vita foi morar com ele.
 
 [66|off=0x28f4|chars=99]
-Sharon: Pensando bem, acho que o\nDr. Hope disse que ela veio do\nmesmo lugar que voce, <06>P
+Sharon: Pensando bem, acho que o\nDr. Hope disse que ela veio do\nmesmo lugar que voce,
 
 [67|off=0x29cc|chars=51]
-Sharon: E bonita e inteligente.\nRealmente uma moca adoravel.
+Sharon: Bonita e esperta.\nUma moca otima mesmo.
 
 [68|off=0x2a3e|chars=61]
 Sharon: Sempre penso no meu ex\nna epoca de Natal.
 
 [69|off=0x2ac4|chars=90]
-Sharon: Ah, desculpe... Realmente\nnao devia falar de assuntos\nassim com voce, <06>P
+Sharon: Ah, desculpe... Realmente\nnao devia falar de assuntos\nassim com voce,
 
 [70|off=0x2b8a|chars=37]
 Prefeito: Trabalhou duro este ano,\n
 
 [71|off=0x2bd6|chars=23]
-<06>P. Por que nao descansa?
+P. Que tal descansar?
 
 [72|off=0x2c10|chars=105]
 Prefeito: O bolo deste ano e\nainda mais impressionante que o ultimo.\nRealcou muito a festa.
@@ -233,22 +233,22 @@ Prefeito: Nao conte, mas nao ha\nmuita gente nesta ilha boa o bastante\nna cozin
 Prefeito: Ver os rostos sorridentes\ndos moradores assim e a maior\nrecompensa de um prefeito.
 
 [76|off=0x2f9e|chars=97]
-Marco: Estamos aqui com a Montanha\nFlama prestes a entrar em erupcao,\ne meus homens continuam ociosos...
+Marco: A Montanha Flama prestes\na entrar em erupcao, e meus\nhomens ainda de bracos cruzados...
 
 [77|off=0x306c|chars=81]
 Marco: Eles sabem o que acontece\nse nosso projeto nao for\nconcluido a tempo...
 
 [78|off=0x311a|chars=24]
-Marco: Ah, ola ai, <06>P
+Marco: Ah, ola ai,
 
 [79|off=0x314c|chars=74]
-<06>P!\nEra so uma brincadeirinha. Estava\nfingindo falar comigo mesmo... Sim.
+P!\nEra so uma brincadeirinha. Estava\nfingindo falar comigo mesmo... Sim.
 
 [80|off=0x31ec|chars=68]
 Marco: Claro que a construcao\ndo tunel segue conforme\no planejado!
 
 [81|off=0x3280|chars=97]
-Marco: O superresfriante desenvolvido\npela minha empresa pode deter\nqualquer erupcao antes que exploda!
+Marco: O superresfriante da\nminha empresa pode deter\nqualquer erupcao antes da hora!
 
 [82|off=0x334e|chars=106]
 Marco: Meu plano de usar\nsuperresfriante para deter a erupcao\npode nao ter dado certo, mas estou aqui!
@@ -257,19 +257,19 @@ Marco: Meu plano de usar\nsuperresfriante para deter a erupcao\npode nao ter dad
 Marco: O fato de ser convidado\npara a festa e um claro indicativo\nde que o prefeito confia na minha pericia.
 
 [84|off=0x3518|chars=52]
-Lucia: Que bolo maravilhoso.\nVoce ajudou a fazer, <06>P
+Lucia: Que bolo maravilhoso.\nVoce ajudou a fazer,
 
 [85|off=0x3582|chars=22]
-<06>P?\nParece delicioso.
+P?\nParece delicioso.
 
 [86|off=0x35ba|chars=59]
-Lucia: Nao sabia que voce sabia\nfazer um bolo assim, <06>P
+Lucia: Nao sabia que voce sabia\nfazer um bolo assim,
 
 [87|off=0x3632|chars=17]
-<06>P.\nFiquei impressionada.
+P.\nQue incrivel.
 
 [88|off=0x3660|chars=68]
-Lucia: Queria que minha filha\nMarcia se interessasse por culinaria...
+Lucia: Queria que a Marcia\nse interessasse por culinaria...
 
 [89|off=0x36f4|chars=94]
 Lucia: Este ano minha autocozinheira\nfez o bolo. E so apertar um botao\ne pronto.
@@ -278,16 +278,16 @@ Lucia: Este ano minha autocozinheira\nfez o bolo. E so apertar um botao\ne pront
 Jonathan: Meus animais estao\nagitados. Devem sentir\na erupcao iminente.
 
 [91|off=0x3860|chars=95]
-Jonathan: Pensando bem, e dificil\nacreditar como estivemos perto de\na Montanha Flama entrar em erupcao.
+Jonathan: Pensando bem, e dificil\ncrer como chegamos perto da\nMontanha Flama entrar em erupcao.
 
 [92|off=0x392a|chars=36]
 Jonathan: Voce realmente nos\najudou,
 
 [93|off=0x3974|chars=51]
-<06>P. Minha filha poderia\naprrender muito com voce.
+P. Minha filha poderia\naprrender muito com voce.
 
 [94|off=0x39e6|chars=99]
-Vanessa: Parece que o Dr. Hope\nnao pôde vir de novo este ano.\nPergunto-me se esta bem.
+Vanessa: Parece que o Dr. Hope\nnao pode vir de novo este ano.\nPergunto-me se esta bem.
 
 [95|off=0x3ab8|chars=107]
 Vanessa: O Dr. Hope parece estar\nse divertindo. Acho que esses\nrumores sobre doenca eram errados.
@@ -302,22 +302,22 @@ Diretora Rose: Devemos ser gratos\npor poder ter mais uma Festa\nde Natal.
 Dr. Hope: Faz tanto tempo que nao\nsaia. Mas estava tao festivo\nque simplesmente nao resisti.
 
 [99|off=0x3e20|chars=81]
-Dr. Hope: E tudo gracas a voce\ne as belas flores que cultivou\ncom tanto esforco, <06>P
+Dr. Hope: E tudo gracas a voce\ne as belas flores que cultivou\ncom tanto esforco,
 
 [100|off=0x3ed4|chars=93]
 Dr. Hope: E voce tambem fez\no bolo, hein? Impressionante. Dorothy\nme contou como nos ajudou.
 
 [101|off=0x3f9a|chars=40]
-Dr. Hope: Tenho orgulho de\nchamá-lo de filho, <06>P
+Dr. Hope: Orgulho de\nte chamar de filho,
 
 [102|off=0x3ffc|chars=107]
 Dr. Hope: Faz tanto tempo que nao\nsaia. Mas estava tao festivo que\nsimplesmente nao resisti.
 
 [103|off=0x40de|chars=81]
-Dr. Hope: E tudo gracas a voce\ne as belas flores que cultivou\ncom tanto esforco, <06>P
+Dr. Hope: E tudo gracas a voce\ne as belas flores que cultivou\ncom tanto esforco,
 
 [104|off=0x4192|chars=40]
-Dr. Hope: Tenho orgulho de\nchamá-lo de filho, <06>P
+Dr. Hope: Orgulho de\nte chamar de filho,
 
 [105|off=0x41f4|chars=96]
 Dr. Hope: Bom, entao. Ainda e\num pouco cedo, mas quer voltar\na minha casa e descansar?
@@ -332,10 +332,10 @@ Dr. Hope: Entendo.\nEntao vamos indo.
 Charles: Dr. Hope!\nJa vai saindo?
 
 [109|off=0x43c8|chars=19]
-Dr. Hope: Sim. Mas <06>P
+Dr. Hope: Sim. Mas
 
 [110|off=0x43f0|chars=34]
-<06>P e eu\nnos divertimos muito.
+P e eu\nnos divertimos muito.
 
 [111|off=0x4440|chars=113]
 Dr. Hope: Todos parecem se\ndivertir tanto que nao quero\ninterromper. Entao saimos de fininho.
@@ -344,7 +344,7 @@ Dr. Hope: Todos parecem se\ndivertir tanto que nao quero\ninterromper. Entao sai
 Charles: Compreendo, doutor.\nCuide-se.
 
 [113|off=0x458c|chars=81]
-Dr. Hope: Entendo. Entao vá\nconversar com todos. Estarei\naguardando aqui.
+Dr. Hope: Entendo. Entao va\nconversar com todos. Estarei\naguardando aqui.
 
 [114|off=0x463a|chars=84]
 Max: As flores e o bolo estao\nmaravilhosos. Mas nao sao nada\nperto de voce, Nana...
@@ -356,4 +356,4 @@ Nana: Ah voce...\nSempre foi tao romantico,\namor. Eu te amo.
 Charles: Ga! Gaga!
 
 [117|off=0x47aa|chars=6]
-Sim\nNao
+Yes\nNo

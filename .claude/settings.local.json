@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -)",
+      "Bash(python tools/_progress.py)",
+      "Bash(python tools/_overflow_check.py)",
+      "Bash(python tools/_overflow_breakdown.py)",
+      "Bash(python - \"tools/_progress.py\")",
+      "Bash(python tools/_token_audit.py)",
+      "Bash(python tools/_token_classify.py)",
+      "Bash(python tools/_gap_inspect.py)",
+      "Bash(python tools/fix_scp_tokens.py)",
+      "Bash(python tools/fix_scp_tokens.py --apply)",
+      "Bash(python tools/_nonascii_scan.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python tools/_nonascii_scan.py)",
+      "Bash(PYTHONIOENCODING=utf-8 bash -c ' *)",
+      "Bash(PYTHONIOENCODING=utf-8 python tools/fix_accents.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python tools/fix_accents.py --apply)",
+      "Bash(PYTHONIOENCODING=utf-8 python tools/overflow_report.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python tools/status_report.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python tools/_dupes.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python tools/consolidate_dupes.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python tools/consolidate_dupes.py --apply)",
+      "Bash(PYTHONIOENCODING=utf-8 python tools/overflow_worklist.py --json work/overflow_worklist.json)",
+      "Bash(PYTHONIOENCODING=utf-8 python tools/overflow_worklist.py --show 25)",
+      "Bash(PYTHONIOENCODING=utf-8 python -c \"import json; d=json.load\\(open\\('work/overflow_worklist.json',encoding='utf-8'\\)\\); print\\(json.dumps\\(d[:3], ensure_ascii=False, indent=1\\)\\); print\\('total:', len\\(d\\)\\)\")",
+      "Bash(python -c \"import json; d=json.load\\(open\\('work/overflow_worklist.json',encoding='utf-8'\\)\\); print\\('count',len\\(d\\)\\); print\\(json.dumps\\(d[0],ensure_ascii=False,indent=2\\)\\); print\\('---'\\); print\\(json.dumps\\(d[1],ensure_ascii=False,indent=2\\)\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(python -c \"print\\('ready'\\)\")"
+    ]
+  }
+}

@@ -290,22 +290,22 @@ Seu Nivel Humano\naumentou!
 Suas atividades do dia anterior\naumentaram seu Nivel\nHumano!
 
 [95|off=0x365a|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [96|off=0x369a|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [97|off=0x36da|chars=16]
-Love increased!\n
+Amor aumentou!\n
 
 [98|off=0x3710|chars=24]
-Intelligence increased!\n
+Inteligencia aumentou!\n
 
 [99|off=0x3756|chars=19]
-Cooking increased!\n
+Cozinha aumentou!\n
 
 [100|off=0x3792|chars=22]
-Creativity increased!\n
+Criativid. aumentou!\n
 
 [101|off=0x37d4|chars=17]
-Humor increased!\n
+Humor aumentou!\n

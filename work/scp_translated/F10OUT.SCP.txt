@@ -173,10 +173,10 @@ Hmph... Nao leve todo o credito.\nAfinal, voce nao fez isso\nsozinho, nao foi?
 Nao. Nao teria conseguido\nsem 
 
 [56|off=0x2670|chars=9]
-P's help.
+P ajudou.
 
 [57|off=0x268a|chars=23]
-You've done very well, 
+Voce foi muito bem,
 
 [58|off=0x26ba|chars=47]
 P.\nAgora e hora de\nvoltar para casa.
@@ -197,7 +197,7 @@ Devo ter sonhado...
 Moonlight: Huh? 
 
 [64|off=0x2972|chars=42]
-P....\nWhat a coincidence that we met here.
+P....\nQue coincidencia nos encontrarmos.
 
 [65|off=0x29d2|chars=103]
 Moonlight: Me pergunto se voce\nbusca algo ou apenas\nse achou caminhando ate aqui...
@@ -206,7 +206,7 @@ Moonlight: Me pergunto se voce\nbusca algo ou apenas\nse achou caminhando ate aq
 Moonlight: Hm... Eu?\nSo recebi poder criativo\nda lua e da mae terra.
 
 [67|off=0x2b68|chars=23]
-Moonlight: By the way, 
+Moonlight: Por sinal,
 
 [68|off=0x2b98|chars=70]
 P,\nvocl se lembra do dia em que\nviemos ao local pela primeira vez?
@@ -215,7 +215,7 @@ P,\nvocl se lembra do dia em que\nviemos ao local pela primeira vez?
 Moonlight: Eu disse que um dia\nqueria discutir beleza com voce...
 
 [70|off=0x2cda|chars=28]
-Moonlight: Here's a story...
+Moonlight: Vou te contar...
 
 [71|off=0x2d1e|chars=105]
 Moonlight: Ouvi que um poeta\nafogou tentando capturar a lua\nrefletida na superficie do lago...
@@ -227,7 +227,7 @@ Moonlight:
 P,\nvoce acha que o poeta foi tolo?
 
 [74|off=0x2e6a|chars=45]
-Moonlight: I see...\nYou seem to be a realist.
+Moonlight: Ah...\nVoce parece ser realista.
 
 [75|off=0x2ed0|chars=44]
 Moonlight: Hmm...\nVoce parece ser romantico.
@@ -251,10 +251,10 @@ Moonlight:
 P...\nVoce pode viver por\ncentenas de anos mais.
 
 [82|off=0x312c|chars=73]
-Moonlight: Even after a long time\nwhen all of my works\nfall into decay...
+Moonlight: Mesmo com muito\ntempo e minhas obras\nem ruinas...
 
 [83|off=0x31ca|chars=38]
-Moonlight: Will you still remember me?
+Moonlight: Ainda vai me lembrar?
 
 [84|off=0x3222|chars=71]
 Moonlight: Ha-ha-ha...\nTalvez eu seja reencarnado\nem algo diferente.
@@ -269,7 +269,7 @@ P at all...
 Moonlight: Mas se me reconhecer,\nnao hesite em falar comigo.\nTenho certeza que me ajudaria.
 
 [88|off=0x3418|chars=21]
-Moonlight: All about 
+Moonlight: Tudo de
 
 [89|off=0x3444|chars=4]
 P...
@@ -278,10 +278,10 @@ P...
 Moonlight: E sobre como\nconversamos sob o brilho da lua...
 
 [91|off=0x34da|chars=58]
-Moonlight: Ha-ha-ha...\nNever know what the future holds...
+Moonlight: Ha-ha-ha...\nO futuro e sempre incerto...
 
 [92|off=0x355a|chars=58]
-Moonlight: Ha-ha-ha...\nNever know what the future holds...
+Moonlight: Ha-ha-ha...\nO futuro e sempre incerto...
 
 [93|off=0x35da|chars=46]
 Moonlight: Ok entao, tchau!\nAte nas ruinas.
@@ -542,7 +542,7 @@ Coloque Trilhos pela Praca da\nUnidade Auto. Itens no Vagao\nserao enviados. Pra
 Fisiocracy e Magia,
 
 [179|off=0x5712|chars=21]
-\n~or "Book of Spirit"
+\n~ou "Livro Espirito"
 
 [180|off=0x5744|chars=69]
 Com Agua Sagrada e\num Regador Mistico,\nvoce pode derreter neve.
@@ -593,7 +593,7 @@ Princesa: Tenho algo pra voce,\nCavalh.: I-isso e... um alfinete!?
 Eles se apaixonaram.\nEstavam 100 pixels mais perto\nquando a escuridao os cobriu.
 
 [196|off=0x5efa|chars=25]
-You don't have enough PP!
+PP insuficiente!
 
 [197|off=0x5f34|chars=6]
 Ok\nNao
@@ -623,25 +623,25 @@ Ok\nNao
 Salvar e dormir.\nDormir sem salvar.\nAnular.
 
 [206|off=0x604e|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [207|off=0x608e|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [208|off=0x60ce|chars=16]
-Love increased!\n
+Amor aumentou!\n
 
 [209|off=0x6104|chars=24]
-Intelligence increased!\n
+Inteligencia aumentou!\n
 
 [210|off=0x614a|chars=19]
-Cooking increased!\n
+Cozinha aumentou!\n
 
 [211|off=0x6186|chars=22]
-Creativity increased!\n
+Criatividade subiu!\n
 
 [212|off=0x61c8|chars=17]
-Humor increased!\n
+Humor aumentou!\n
 
 [213|off=0x6200|chars=58]
 Voce nao foi ao Dr. Hope\npara manutencao hoje!

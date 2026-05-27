@@ -5,7 +5,7 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0x956|chars=63]
-Moonlight: Zzzz... Zzzz...\nDon't worry! I'll take good care of\n
+Moonlight: Zzzz... Zzzz...\nNao se preocupe! Vou cuidar bem de\n
 
 [1|off=0x9d6|chars=10]
 P! Zzzz...
@@ -14,316 +14,316 @@ P! Zzzz...
 Moonlight: Zzzz.....
 
 [3|off=0xa2a|chars=22]
-Moonlight: Greetings, 
+Moonlight: Saudacoes,
 
 [4|off=0xa58|chars=35]
-P.\nYour farm is doing well I trust?
+P.\nSua fazenda vai bem, espero?
 
 [5|off=0xaaa|chars=114]
-Moonlight: Taking a stroll is no\nproblem,\nbut you should\nwait until you've made your first\nharvest before leaving.
+Moonlight: Dar uma volta nao e\nproblema,\nmas voce deveria\nesperar ate fazer sua primeira\ncolheita antes de sair.
 
 [6|off=0xb9a|chars=119]
-Moonlight: When the sun sets and the\nmoon takes her place as guardian\nof the heavens...\nThat's when I truly come\nalive!
+Moonlight: Quando o sol se poe e a\nlua assume seu posto de guardia\ndos ceus...\nE quando eu realmente\nganho vida!
 
 [7|off=0xc94|chars=68]
-Moonlight: I wish I could share some of\nthe limitless energy I feel!
+Moonlight: Quem dera dividir um pouco\nda energia infinita que sinto!
 
 [8|off=0xd28|chars=26]
-Moonlight: Art is freedom!
+Moonlight: Arte e livre!
 
 [9|off=0xd68|chars=95]
-Moonlight: The stars are na heavens\nand the entire terra verms to\nbe slumbering pacificoly.
+Moonlight: As estrelas estao no ceu\ne a terra inteira parece\ndormir em paz.
 
 [10|off=0xe32|chars=81]
-Moonlight: The quiet of the night seems\nto calling to me... Telling me to\ncreate!
+Moonlight: O silencio da noite parece\nme chamar... Dizendo para eu\ncriar!
 
 [11|off=0xee0|chars=11]
 Moonlight: 
 
 [12|off=0xef8|chars=61]
-P, you should\nlisten to what Mother Nature has\nto say to you.
+P, voce deveria\nouvir o que a Mae Natureza tem\na dizer.
 
 [13|off=0xf7e|chars=61]
-Moonlight: Only if you feel something\ncan you be truly alive!
+Moonlight: So sentindo algo\nvoce pode estar vivo de verdade!
 
 [14|off=0x1004|chars=26]
-Moonlight: Art is freedom!
+Moonlight: Arte e livre!
 
 [15|off=0x1044|chars=22]
-Moonlight: Oh, oi, 
+Moonlight: Ah, ola,
 
 [16|off=0x1072|chars=74]
-P.\nYou're certainly burning the midnight\noil. How are things on your farm?
+P.\nVoce esta mesmo virando a noite\nacordado. Como vai sua fazenda?
 
 [17|off=0x1112|chars=114]
-Moonlight: Taking a stroll is no\nproblem, but you should wait\nuntil you've made your\nfirst harvest before leaving.
+Moonlight: Dar uma volta nao e\nproblema, mas voce deveria esperar\nate fazer sua\nprimeira colheita antes de sair.
 
 [18|off=0x1202|chars=79]
-Moonlight: It's coming to me!\nI can feel it! The goddess of\nbeauty is revealed!
+Moonlight: Esta vindo a mim!\nEu sinto! A deusa da\nbeleza se revela!
 
 [19|off=0x12ac|chars=75]
-Moonlight: Actually, I'm\nplanning a project to revitalize\nthis farm, but...
+Moonlight: Na verdade, estou\nplanejando revitalizar\nesta fazenda, mas...
 
 [20|off=0x134e|chars=75]
-Moonlight: Farming is just such a pain.\nI was about ready to give up\non it.
+Moonlight: A lavoura e um tormento.\nEu estava quase desistindo\ndela.
 
 [21|off=0x13f0|chars=77]
-Moonlight: So to be honest, I'm really\nglad that you came along when\nyou did!
+Moonlight: Pra ser sincero, fico\nmuito feliz que voce tenha\nchegado na hora!
 
 [22|off=0x1496|chars=97]
-Moonlight: There's something poetic\nabout creating new life in ruins like\nthese, don't you think?
+Moonlight: Ha algo poetico em\ncriar nova vida em ruinas como\nestas, voce nao acha?
 
 [23|off=0x1564|chars=98]
-Moonlight: I know! We should invite\npeople from all over the world here\nto see this farm of yours!
+Moonlight: Ja sei! Devemos convidar\ngente do mundo todo para vir\nver esta sua fazenda!
 
 [24|off=0x1634|chars=119]
-Moonlight: When the sun sets and the\nmoon takes her place as\nguardian of the heavens...\nThat's when I truly come\nalive!
+Moonlight: Quando o sol se poe e a\nlua assume seu posto de\nguardia dos ceus...\nE quando eu realmente\nganho vida!
 
 [25|off=0x172e|chars=68]
-Moonlight: I wish I could share some of\nthe limitless energy I feel!
+Moonlight: Quem dera dividir um pouco\nda energia infinita que sinto!
 
 [26|off=0x17c2|chars=23]
-Moonlight: Art is amar!
+Moonlight: Arte e amor!
 
 [27|off=0x17fc|chars=75]
-Moonlight: Actually, I'm planning\na project to revitalize this farm,\nbut...
+Moonlight: Na verdade, planejo\nrevitalizar esta\nfazenda, mas...
 
 [28|off=0x189e|chars=75]
-Moonlight: Farming is just such a pain.\nI was about ready to give up\non it.
+Moonlight: A lavoura e um tormento.\nEu estava quase desistindo\ndela.
 
 [29|off=0x1940|chars=77]
-Moonlight: So to be honest, I'm really\nglad that you came along when\nyou did!
+Moonlight: Pra ser sincero, fico\nmuito feliz que voce tenha\nchegado na hora!
 
 [30|off=0x19e6|chars=97]
-Moonlight: There's something poetic\nabout creating new life in ruins like\nthese, don't you think?
+Moonlight: Ha algo poetico em\ncriar nova vida em ruinas como\nestas, voce nao acha?
 
 [31|off=0x1ab4|chars=98]
-Moonlight: I know! We should invite\npeople from all over the world here\nto see this farm of yours!
+Moonlight: Ja sei! Devemos convidar\ngente do mundo todo para vir\nver esta sua fazenda!
 
 [32|off=0x1b84|chars=95]
-Moonlight: The stars are na heavens\nand the entire terra verms to\nbe slumbering pacificoly.
+Moonlight: As estrelas estao no ceu\ne a terra inteira parece\ndormir em paz.
 
 [33|off=0x1c4e|chars=81]
-Moonlight: The quiet of the night seems\nto calling to me... Telling me to\ncreate!
+Moonlight: O silencio da noite parece\nme chamar... Dizendo para eu\ncriar!
 
 [34|off=0x1cfc|chars=11]
 Moonlight: 
 
 [35|off=0x1d14|chars=61]
-P, you should\nlisten to what Mother Nature has\nto say to you.
+P, voce deveria\nouvir o que a Mae Natureza tem\na dizer.
 
 [36|off=0x1d9a|chars=61]
-Moonlight: Only if you feel something\ncan you be truly alive!
+Moonlight: So sentindo algo\nvoce pode estar vivo de verdade!
 
 [37|off=0x1e20|chars=23]
-Moonlight: Art is amar!
+Moonlight: Arte e amor!
 
 [38|off=0x1e5a|chars=22]
-Moonlight: Oh, oi, 
+Moonlight: Ah, ola,
 
 [39|off=0x1e88|chars=74]
-P.\nYou're certainly burning the midnight\noil. How are things on your farm?
+P.\nVoce esta mesmo virando a noite\nacordado. Como vai sua fazenda?
 
 [40|off=0x1f28|chars=114]
-Moonlight: Taking a stroll is no\nproblem,\nbut you should\nwait until you've made your first\nharvest before leaving.
+Moonlight: Dar uma volta nao e\nproblema,\nmas voce deveria\nesperar ate fazer sua primeira\ncolheita antes de sair.
 
 [41|off=0x2018|chars=79]
-Moonlight: It's coming to me!\nI can feel it! The goddess of\nbeauty is revealed!
+Moonlight: Esta vindo a mim!\nEu sinto! A deusa da\nbeleza se revela!
 
 [42|off=0x20c2|chars=50]
-Moonlight: Are you starting to miss\nDr. Hope yet, 
+Moonlight: Ja esta com saudade do\nDr. Hope,
 
 [43|off=0x2138|chars=64]
-Moonlight: Wonderful! That means that\nyou have feelings for him.
+Moonlight: Maravilhoso! Significa\nque voce gosta dele.
 
 [44|off=0x21c4|chars=57]
-Moonlight: Hmm... I see.\nI'm sure the doctor misses\nyou, 
+Moonlight: Hmm... Entendo.\nO doutor sente sua\nfalta,
 
 [45|off=0x2248|chars=44]
-Moonlight: It's coming to me!\nI can feel it!
+Moonlight: Esta vindo a mim!\nEu sinto!
 
 [46|off=0x22ac|chars=86]
-Moonlight: Yes, I can feel the potato\nchips I ate a bit ago coming back to\nhaunt me...
+Moonlight: Sim, sinto as batatas\nfritas que comi ha pouco voltando\npra me assombrar...
 
 [47|off=0x2364|chars=49]
-Moonlight: How scary...\nPurple tomatoes...\nUgh...
+Moonlight: Que medo...\nTomates roxos...\nUgh...
 
 [48|off=0x23d2|chars=49]
-Moonlight: How scary...\nPurple tomatoes...\nUgh...
+Moonlight: Que medo...\nTomates roxos...\nUgh...
 
 [49|off=0x2440|chars=18]
-Moonlight: Oi, 
+Moonlight: Ola,
 
 [50|off=0x2466|chars=62]
-P.\nIt looks like your crops still\naren't ready for harvesting.
+P.\nSuas plantacoes ainda nao\nestao prontas pra colheita.
 
 [51|off=0x24ee|chars=83]
-Moonlight: Well, potatoes take 5 days\nand turnips take 6.\nDon't be in such a hurry.
+Moonlight: Batatas levam 5 dias\ne nabos levam 6.\nNao tenha tanta pressa.
 
 [52|off=0x25a0|chars=77]
-Moonlight: Ugh!\nIs that what these colors look like\nwhen you mix them? Hmm...
+Moonlight: Ugh!\nE assim que essas cores ficam\nquando se misturam? Hmm...
 
 [53|off=0x2646|chars=71]
-Franco: It's been raining since this\nmorning. It's a little depressing.
+Franco: Esta chovendo desde\nmanha cedo. E meio deprimente.
 
 [54|off=0x26e0|chars=55]
-Franco: But ha a silver lining\namong estes caltos.
+Franco: Mas ha um lado bom\nnessas nuvens.
 
 [55|off=0x275a|chars=69]
-Franco: You don't have to water your\ncrops by hand when it's raining.
+Franco: Nao precisa regar suas\nplantacoes na mao quando chove.
 
 [56|off=0x27f0|chars=96]
-Franco: That Moonlight is incrivel...\nHe nao acordar up, ate com o\nsound of all esse rain...
+Franco: Esse Moonlight e incrivel...\nNao acorda, nem com o\nbarulho de toda essa chuva...
 
 [57|off=0x28bc|chars=35]
-Moonlight: Zzzz....\nSnort!\nZzzz....
+Moonlight: Zzzz....\nRonc!\nZzzz....
 
 [58|off=0x290e|chars=71]
-Franco: It's been raining since this\nmorning. It's a little depressing.
+Franco: Esta chovendo desde\nmanha cedo. E meio deprimente.
 
 [59|off=0x29a8|chars=55]
-Franco: But ha a silver lining\namong estes caltos.
+Franco: Mas ha um lado bom\nnessas nuvens.
 
 [60|off=0x2a22|chars=69]
-Franco: You don't have to water your\ncrops by hand when it's raining.
+Franco: Nao precisa regar suas\nplantacoes na mao quando chove.
 
 [61|off=0x2ab8|chars=55]
-Franco: You've been working on the farm\nfor 5 days now.
+Franco: Voce ja trabalha na fazenda\nha 5 dias.
 
 [62|off=0x2b32|chars=91]
-Franco: The potatoes are nearly ready.\nYou should finally be able to\nharvest them tomorrow.
+Franco: As batatas estao quase\nprontas. Voce finalmente vai\npoder colher elas amanha.
 
 [63|off=0x2bf4|chars=92]
-Franco: And desde e raining todia,\nyou nao ate have to agua them.\nJust rest and esperar.
+Franco: E como esta chovendo hoje,\nnem precisa rega-las.\nSo descanse e espere.
 
 [64|off=0x2cb8|chars=55]
-Franco: You've been working on the farm\nfor 5 days now.
+Franco: Voce ja trabalha na fazenda\nha 5 dias.
 
 [65|off=0x2d32|chars=102]
-Franco: The turnips are growing nicely,\nbut it'll take 2 more days before\nthey'll be ready to harvest.
+Franco: Os nabos estao crescendo bem,\nmas vai levar mais 2 dias ate\nque fiquem prontos pra colheita.
 
 [66|off=0x2e0a|chars=92]
-Franco: And desde e raining todia,\nyou nao ate have to agua\nthem. Just rest and esperar.
+Franco: E como esta chovendo hoje,\nnem precisa\nrega-las. So descanse e espere.
 
 [67|off=0x2ece|chars=35]
-Moonlight: Zzzz....\nSnort!\nZzzz....
+Moonlight: Zzzz....\nRonc!\nZzzz....
 
 [68|off=0x2f20|chars=80]
-Franco: What is this picture?\nMoonlight still hasn't quite got\nthe hang of it...
+Franco: Que quadro e esse?\nMoonlight ainda nao pegou\nbem o jeito...
 
 [69|off=0x2fcc|chars=55]
-Franco: You've been working on the farm\nfor 5 days now.
+Franco: Voce ja trabalha na fazenda\nha 5 dias.
 
 [70|off=0x3046|chars=91]
-Franco: The potatoes are nearly ready.\nYou should finally be able to\nharvest them tomorrow.
+Franco: As batatas estao quase\nprontas. Voce finalmente vai\npoder colher elas amanha.
 
 [71|off=0x3108|chars=92]
-Franco: And desde e raining todia,\nyou nao ate have to agua them.\nJust rest and esperar.
+Franco: E como esta chovendo hoje,\nnem precisa rega-las.\nSo descanse e espere.
 
 [72|off=0x31cc|chars=55]
-Franco: You've been working on the farm\nfor 5 days now.
+Franco: Voce ja trabalha na fazenda\nha 5 dias.
 
 [73|off=0x3246|chars=102]
-Franco: The turnips are growing nicely,\nbut it'll take 2 more days before\nthey'll be ready to harvest.
+Franco: Os nabos estao crescendo bem,\nmas vai levar mais 2 dias ate\nque fiquem prontos pra colheita.
 
 [74|off=0x331e|chars=92]
-Franco: And desde e raining todia,\nyou nao ate have to agua\nthem. Just rest and esperar.
+Franco: E como esta chovendo hoje,\nnem precisa\nrega-las. So descanse e espere.
 
 [75|off=0x33e2|chars=79]
-Moonlight: I thought it was awfully\nnoisy. Franco is walking around\nhis room...
+Moonlight: Achei que estava muito\nbarulhento. Franco anda pelo\nquarto dele...
 
 [76|off=0x348c|chars=77]
-Moonlight: Ugh!\nIs that what these colors look like\nwhen you mix them? Hmm...
+Moonlight: Ugh!\nE assim que essas cores ficam\nquando se misturam? Hmm...
 
 [77|off=0x3532|chars=26]
 Moonlight: Zzzz... Zzzz...
 
 [78|off=0x3572|chars=80]
-Franco: What is this picture?\nMoonlight still hasn't quite got\nthe hang of it...
+Franco: Que quadro e esse?\nMoonlight ainda nao pegou\nbem o jeito...
 
 [79|off=0x361e|chars=44]
-Franco: This is your 6th day of farm\nwork...
+Franco: Este e seu 6o dia de\ntrabalho...
 
 [80|off=0x3682|chars=100]
-Franco: Tomorrow you'll finally be able\nto harvest your turnips. It seems\nlike a long time in a way.
+Franco: Amanha voce finalmente vai\npoder colher seus nabos. De certa\nforma, foi bastante tempo.
 
 [81|off=0x3756|chars=107]
-Franco: When you harvest your turnips\ntomorrow, be sure to go straight\nto Dr. Hope's and tell him about it.
+Franco: Quando colher seus nabos\namanha, va direto ao\nDr. Hope e conte tudo a ele.
 
 [82|off=0x3838|chars=46]
-Moonlight: That Franco is causing me\nproblems.
+Moonlight: Esse Franco me\ncausa problemas.
 
 [83|off=0x38a0|chars=72]
-Moonlight: He just barges into my room\nand starts critiquing my artwork!
+Moonlight: Ele invade meu quarto\ne comeca a criticar minha arte!
 
 [84|off=0x393c|chars=38]
-Moonlight: Anyway, it's finally\ntime, 
+Moonlight: Enfim, chegou\na hora,
 
 [85|off=0x399a|chars=95]
-Moonlight: I'll be coming with you to\ntell Dr. Hope about your harvest.\nDon't worry about that.
+Moonlight: Vou com voce contar ao\nDr. Hope sobre sua colheita.\nNao se preocupe com isso.
 
 [86|off=0x3a64|chars=77]
-Moonlight: Ugh!\nIs that what these colors look like\nwhen you mix them? Hmm...
+Moonlight: Ugh!\nE assim que essas cores ficam\nquando se misturam? Hmm...
 
 [87|off=0x3b0a|chars=37]
-Moonlight: Anyway, it's finally\ntime 
+Moonlight: Enfim, chegou\na hora
 
 [88|off=0x3b66|chars=95]
-Moonlight: I'll be coming with you to\ntell Dr. Hope about your harvest.\nDon't worry about that.
+Moonlight: Vou com voce contar ao\nDr. Hope sobre sua colheita.\nNao se preocupe com isso.
 
 [89|off=0x3c30|chars=26]
 Moonlight: Zzzz... Zzzz...
 
 [90|off=0x3c70|chars=60]
-Moonlight: Hmm... Hmm...\nWhat should I do for my next piece?
+Moonlight: Hmm... Hmm...\nO que farei na proxima obra?
 
 [91|off=0x3cf4|chars=71]
-Moonlight: Hmm...\nSim, Eu nao been to esse part da\nilha yet...
+Moonlight: Hmm...\nE, ainda nao fui naquela parte\nda ilha...
 
 [92|off=0x3d8e|chars=21]
-Moonlight: Oh oi, 
+Moonlight: Ah, ola,
 
 [93|off=0x3dba|chars=25]
-P.\nIsn't it your bedtime?
+P.\nNao e hora de dormir?
 
 [94|off=0x3df8|chars=26]
 Moonlight: Zzzz... Zzzz...
 
 [95|off=0x3e38|chars=86]
-Franco: I suppose he'll be going soon to\ncollect materials for his next\nmasterpiece...
+Franco: Acho que ele logo vai sair\npra juntar material pra sua\nproxima obra-prima...
 
 [96|off=0x3ef0|chars=84]
-Franco: I suppose Moonlight's wandering\nsomewhere around the island right\nabout now.
+Franco: Acho que o Moonlight esta\nperambulando pela ilha\nagora mesmo.
 
 [97|off=0x3fa4|chars=11]
 Moonlight: 
 
 [98|off=0x3fbc|chars=58]
-P!\nYou shouldn't spy on people when\nthey're taking a bath!
+P!\nNao se espia as pessoas\nquando elas tomam banho!
 
 [99|off=0x403c|chars=80]
-Moonlight: You need to take a bath\nafter camping out all night,\ndon't you think?
+Moonlight: Precisamos tomar banho\napos acampar a noite toda,\nnao acha?
 
 [100|off=0x40e8|chars=49]
-Moonlight: Franco has quite a collection\nof pots.
+Moonlight: Franco tem uma boa\ncolecao de potes.
 
 [101|off=0x4156|chars=50]
-Moonlight: But he nunca lets me touch\nany dam!
+Moonlight: Mas ele nunca me deixa\ntocar em nenhum!
 
 [102|off=0x41c6|chars=85]
-Moonlight: That's why I have to sneak in\nhere and do it when he's not around.\nHahaha!
+Moonlight: Por isso me esgueiro\naqui e faco quando ele nao esta.\nHahaha!
 
 [103|off=0x427c|chars=26]
 Moonlight: Zzzz... Zzzz...
 
 [104|off=0x42bc|chars=80]
-Moonlight: Hmm...\nNo matter what I do, this picture\nalways turns out this way...
+Moonlight: Hmm...\nFaca o que eu fizer, este quadro\nsempre fica assim...
 
 [105|off=0x4368|chars=72]
-Moonlight: Come to achar of it, I\nnao tried to sculpt for a enquanto...
+Moonlight: Pensando bem, faz\ntempo que nao tento esculpir...
 
 [106|off=0x4404|chars=58]
-Moonlight: Maybe I should try a piece\nbased on your farm, 
+Moonlight: Talvez eu faca uma obra\nsobre sua fazenda,
 
 [107|off=0x447a|chars=4]
 P...
@@ -332,145 +332,145 @@ P...
 Moonlight: Zzzz... Zzzz...
 
 [109|off=0x44ce|chars=81]
-Moonlight: Yes! I'm in the zone!\nI can feel my artistic powers\ngrowing inside me!
+Moonlight: Sim! Estou inspirado!\nSinto meus poderes artisticos\ncrescendo em mim!
 
 [110|off=0x457c|chars=94]
-Moonlight: For some reason, I always\nseem to get the urge to create when\nold Franco is away...
+Moonlight: Por algum motivo, sempre\nme da vontade de criar quando\no velho Franco nao esta...
 
 [111|off=0x4644|chars=72]
-Moonlight: Come to achar of it, I\nnao tried to sculpt for a enquanto...
+Moonlight: Pensando bem, faz\ntempo que nao tento esculpir...
 
 [112|off=0x46e0|chars=58]
-Moonlight: Maybe I should try a piece\nbased on your farm, 
+Moonlight: Talvez eu faca uma obra\nsobre sua fazenda,
 
 [113|off=0x4756|chars=4]
 P...
 
 [114|off=0x476a|chars=75]
-Moonlight: Hmm. Tseu is no bom.\nEu nao expect the wvirrsua to\nturn mau...
+Moonlight: Hmm. Isto nao esta bom.\nNao esperava que o tempo\nfosse piorar...
 
 [115|off=0x480c|chars=53]
-Moonlight: You should go back to your\nroom and rest, 
+Moonlight: Volte para seu quarto\ne descanse,
 
 [116|off=0x4888|chars=62]
-Moonlight: If they fix that bridge, I\ncould go farther away...
+Moonlight: Se consertarem a ponte,\neu poderia ir mais longe...
 
 [117|off=0x4910|chars=62]
-Moonlight: If they fix that bridge, I\ncould go farther away...
+Moonlight: Se consertarem a ponte,\neu poderia ir mais longe...
 
 [118|off=0x4998|chars=122]
-Moonlight: Hm? The bridge on the river\nto the north? It's been washed out\never since the spring flood.\nNo one will fix it.
+Moonlight: Hm? A ponte sobre o rio\nao norte? Foi levada pela\nenchente da primavera.\nNinguem vai consertar.
 
 [119|off=0x4a98|chars=93]
-Moonlight: But I suppose you and I are\nabout the only ones who would\nwant to use it anyway...
+Moonlight: Mas acho que so voce e eu\nseriamos os unicos a querer\nusa-la mesmo...
 
 [120|off=0x4b5e|chars=107]
-Moonlight: Still, if you were to ask,\nsomeone might fix it for us. Why don't\nyou try asking around in town?
+Moonlight: Ainda assim, se pedir,\nalguem pode consertar pra nos. Por\nque nao pergunta pela cidade?
 
 [121|off=0x4c40|chars=74]
-Franco: I heard that you were asked\nto grow crops for the Spring\nFestival.
+Franco: Soube que pediram pra voce\ncultivar para o\nSpring Festival.
 
 [122|off=0x4ce0|chars=106]
-Franco: That's a big responsibility!\nAnd it's the perfect chance to show\neveryone how good your crops are.
+Franco: E uma grande responsabilidade!\nE a chance perfeita de mostrar\na todos como sao boas suas plantas.
 
 [123|off=0x4dc0|chars=131]
-Moonlight: I hear they're really going\nto do the Spring Festival\nright this year.\nIt's been a long time since\nthey celebrated that.
+Moonlight: Soube que vao fazer mesmo\no Spring Festival\ndireito este ano.\nFaz muito tempo que nao\ncelebravam isso.
 
 [124|off=0x4ed2|chars=105]
-Moonlight: I can feel their creative\nenergy... It's spurring me on to\ngreater and greater artistic feats!
+Moonlight: Sinto a energia criativa\ndeles... Isso me impulsiona a\nfeitos artisticos cada vez maiores!
 
 [125|off=0x4fb0|chars=95]
-Franco: I saw that robot of yours!\nIt's pretty "cool!" Is that what\nyoung folks say these days?
+Franco: Vi aquele seu robo!\nE bem "legal!" E assim que os\njovens dizem hoje em dia?
 
 [126|off=0x507a|chars=90]
-Franco: And he can talk quite well, too!\nMaybe he and I can go out for a\ndrink sometime...
+Franco: E ele fala muito bem tambem!\nQuem sabe a gente sai pra\nbeber qualquer dia...
 
 [127|off=0x513a|chars=87]
-Franco: Just kidding.\nDr. Hope would kill me if I did anything\nthat damaged that robot.
+Franco: Brincadeira.\nO Dr. Hope me mataria se eu\ndanificasse aquele robo.
 
 [128|off=0x51f4|chars=11]
 Moonlight: 
 
 [129|off=0x520c|chars=89]
-P! I see that the\nBattlebot has been repaired. Talk\nabout beating swords into plowshares!
+P! Vejo que o\nBattlebot foi consertado. Falando\nem transformar armas em arados!
 
 [130|off=0x52ca|chars=80]
-Moonlight: The doctor must really like\nyou to spend all that time\nconverting it!
+Moonlight: O doutor deve gostar\nmuito de voce pra passar\ntanto tempo nisso!
 
 [131|off=0x5376|chars=56]
-Franco: So you've finally started\nraising livestock, eh?
+Franco: Entao finalmente comecou\na criar gado, hein?
 
 [132|off=0x53f2|chars=109]
-Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+Franco: Sabia que os robos de criacao\nde gado como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?
 
 [133|off=0x54d8|chars=112]
-Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+Franco: Hoje tudo na fazenda e\nautomatizado, mas na epoca usar\nrobos era uma ideia revolucionaria.
 
 [134|off=0x55c4|chars=61]
-Franco: Ouvi thnoy ainda usar them\nbastante muito overseas.
+Franco: Soube que ainda os usam\nbastante no exterior.
 
 [135|off=0x564a|chars=74]
-Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+Moonlight: O balido dos animais\nvolta a ser ouvido entre\nestas ruinas!
 
 [136|off=0x56ea|chars=90]
-Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+Moonlight: Tenho certeza que a vida\ndeles revitalizara esta terra\ne a natureza selvagem!
 
 [137|off=0x57aa|chars=72]
-Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+Franco: Uau!\nVoce e um sortudo!\nGanhar um buggy desses de presente!
 
 [138|off=0x5846|chars=89]
-Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+Franco: Se eu tivesse um buggy desses,\nlevaria a Rose num passeio\ninesquecivel!
 
 [139|off=0x5904|chars=11]
 Moonlight: 
 
 [140|off=0x591c|chars=52]
-P! I see you got\nquite a nice present from Dr. Hope.
+P! Vejo que ganhou\num belo presente do Dr. Hope.
 
 [141|off=0x5990|chars=63]
-Moonlight: You can ir so about\nanyonde in a buggy gostar esse!
+Moonlight: Voce pode ir quase a\nqualquer lugar num buggy desse!
 
 [142|off=0x5a1a|chars=60]
-Franco: I can't believe Marco could make\nsuch a big mistake.
+Franco: Nao acredito que Marco cometeu\num erro tao grande.
 
 [143|off=0x5a9e|chars=73]
-Franco: When I was young, everyone used\nto take their dates to that cave.
+Franco: Quando eu era jovem, todos\nlevavam seus pares aquela caverna.
 
 [144|off=0x5b3c|chars=11]
 Moonlight: 
 
 [145|off=0x5b54|chars=57]
-P!\nOuvi they had alguns trouble na\nVolcano Town gruta.
+P!\nSoube que tiveram problema na\ncaverna de Volcano Town.
 
 [146|off=0x5bd2|chars=77]
-Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+Moonlight: Vai levar tempo e\nesforco para voltar ao\nestado original.
 
 [147|off=0x5c78|chars=49]
-Franco: I hear that you planted some\npoinsettias.
+Franco: Soube que voce plantou\npoinsettias.
 
 [148|off=0x5ce6|chars=120]
-Franco: If you can homemage to ship muito\ndam pelo dia antes Christmas Eve,\nthey can usar them to decorate the cidade.
+Franco: Se conseguir enviar muitas\nate o dia antes da vespera de Natal,\npodem usa-las pra enfeitar a cidade.
 
 [149|off=0x5de2|chars=21]
-Franco: Mal posso esp
+Franco: Ja quero ver!
 
 [150|off=0x5e18|chars=41]
-Franco: Ouvi esse Dr. Hope\ncollapsed...
+Franco: Soube que o Dr. Hope\ndesmaiou...
 
 [151|off=0x5e76|chars=96]
-Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+Franco: Sei que voce deve estar\npreocupado, mas tem um trabalho\nimportante pra terminar.
 
 [152|off=0x5f42|chars=89]
-Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+Franco: O melhor para o Dr. Hope\nagora e ver o quanto voce\nesta trabalhando.
 
 [153|off=0x6000|chars=52]
-Moonlight: I never knew that Dr. Hope\nwas so sick...
+Moonlight: Nao sabia que o\nDr. Hope estava doente...
 
 [154|off=0x6074|chars=86]
-Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+Moonlight: Talvez por isso ele\nestava com tanta pressa de\nterminar com voce...
 
 [155|off=0x612c|chars=42]
-Franco: I know you're sad about Dr.\nHope, 
+Franco: Sei que sofre pelo\nDr. Hope,
 
 [156|off=0x6182|chars=12]
 P. Eu tambem
@@ -479,55 +479,55 @@ P. Eu tambem
 Franco: Era um bom amigo...
 
 [158|off=0x61f0|chars=48]
-Moonlight: Ouvid the voice da\nFire Spirit!
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
 
 [159|off=0x625c|chars=74]
-Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+Moonlight: Ela me disse que ha mais\nneste mundo do que se ve\na olho nu!
 
 [160|off=0x62fc|chars=91]
-Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+Moonlight: O que quero dizer e...\nO Dr. Hope sempre estara\nvelando por voce,
 
 [161|off=0x63c4|chars=62]
-Franco: Who is that strange man who\nnow lives in the new room?
+Franco: Quem e aquele homem estranho\nque mora no quarto novo?
 
 [162|off=0x644c|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, aquela area ficou\nfechada por muito tempo,\nninguem era dono dela mesmo...
 
 [163|off=0x651a|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Bem, acho que nao devemos\nnos preocupar tanto.
 
 [164|off=0x65a0|chars=43]
-Franco: An alien is living na novo\nquarto?
+Franco: Um alien mora no quarto\nnovo?
 
 [165|off=0x6602|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, aquela area ficou\nfechada por muito tempo,\nninguem era dono dela mesmo...
 
 [166|off=0x66d0|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Bem, acho que nao devemos\nnos preocupar tanto.
 
 [167|off=0x6756|chars=11]
 Moonlight: 
 
 [168|off=0x676e|chars=76]
-P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+P!\nVi uma coisa estranha parecida com\num bicho de pelucia no quarto novo.
 
 [169|off=0x6812|chars=51]
-Moonlight: Did you make that?\nIt's very impressive!
+Moonlight: Voce fez isso?\nE muito impressionante!
 
 [170|off=0x6884|chars=81]
-Moonlight: Zzzz.....Hm?\nA agua pistol will do?\nDid you dizer a Spire Crest...!?
+Moonlight: Zzzz.....Hm?\nUma pistola d'agua serve?\nDisse Brasao do Espirito...!?
 
 [171|off=0x6932|chars=66]
-Moonlight: Hm... where am I?\nCocoa...? A mermaid?\nZzzz... Zzzz....
+Moonlight: Hm... onde estou?\nCocoa...? Sereia?\nZzzz... Zzzz....
 
 [172|off=0x69c2|chars=17]
 Moonlight: Hm...\n
 
 [173|off=0x69e6|chars=43]
-P, that animal trail is...\nZzzz.... Zzzz...
+P, aquela trilha e...\nZzzz.... Zzzz...
 
 [174|off=0x6a48|chars=70]
-Moonlight: ...Hm?\nThere's a banana right over here...\nZzzz.... Zzzz...
+Moonlight: ...Hm?\nTem uma banana bem aqui...\nZzzz.... Zzzz...
 
 [175|off=0x6ae0|chars=20]
 Franco: Gaga gagaga.
@@ -578,274 +578,274 @@ Moonlight: Gaagaa!\nGaga gagagagaga!
 Moonlight: Gaagaa!\nGaga gagagagaga!
 
 [191|off=0x6fe8|chars=44]
-This is a very expensive looking\nwardrobe...
+Este guarda-roupa parece\nmuito caro...
 
 [192|off=0x7048|chars=31]
-Tsuae are dishes lined up suae.
+Ha pratos enfileirados aqui.
 
 [193|off=0x708e|chars=27]
-You try washing your hands.
+Voce tenta lavar as maos.
 
 [194|off=0x70cc|chars=30]
-This sink is very easy to use.
+Esta pia e bem facil de usar.
 
 [195|off=0x7110|chars=25]
-Your hands are now clean.
+Suas maos estao limpas.
 
 [196|off=0x714a|chars=24]
-But tsuae was no soap...
+Mas faltava sabonete...
 
 [197|off=0x7182|chars=40]
-The water pressure seems a little\nlow...
+A pressao da agua parece\nmeio baixa...
 
 [198|off=0x71da|chars=48]
-You were surprised at how dirty\nyour hands were.
+Voce se surpreendeu com a\nsujeira das suas maos.
 
 [199|off=0x7242|chars=43]
-There's water splashed all around\nthe sink!
+Tem agua espirrada por toda\na volta da pia!
 
 [200|off=0x72a0|chars=24]
-You wipe the area clean.
+Voce limpa a area.
 
 [201|off=0x72d8|chars=26]
-Lukewarm water came out...
+Saiu agua morna...
 
 [202|off=0x7314|chars=49]
-The drain doesn't seem to be\nworking very well...
+O ralo parece nao estar\nfuncionando muito bem...
 
 [203|off=0x737e|chars=41]
-Hot agua came out with\nincredible force!
+Saiu agua quente com\nforca incrivel!
 
 [204|off=0x73d8|chars=44]
-A very nice smell surrounds the\nsoap here...
+Um cheiro bom envolve\no sabonete aqui...
 
 [205|off=0x7438|chars=55]
-You try washing your face.\nYou feel somewhat refreshed.
+Voce tenta lavar o rosto.\nVoce se sente revigorado.
 
 [206|off=0x74ae|chars=42]
-Tsuae are lots of things no\nshelves...
+Ha muitas coisas nas\nprateleiras...
 
 [207|off=0x750a|chars=19]
-There is wine here.
+Ha vinho aqui.
 
 [208|off=0x7538|chars=23]
-You olhar no toilet.
+Voce olha o vaso.
 
 [209|off=0x756e|chars=32]
-It verms to have been flushed...
+Parece que deram descarga...
 
 [210|off=0x75b6|chars=21]
-It's sparkling clean!
+Brilhando de limpo!
 
 [211|off=0x75e8|chars=28]
-You push the "Flush" button.
+Voce aperta o botao "Flush".
 
 [212|off=0x7628|chars=30]
-Tsuae is a note no toilet.
+Ha um bilhete no vaso.
 
 [213|off=0x766c|chars=20]
-"Please keep clean!"
+"Mantenha limpo!"
 
 [214|off=0x769c|chars=70]
-It appears to have a toilet seat\nthat raises and lowers automatically.
+Parece ter um assento que sobe\ne desce automaticamente.
 
 [215|off=0x7730|chars=68]
-Tsuae is a Banks Corporation\nsticker no side da toilet\nsvirr.
+Ha um adesivo da Banks\nCorporation na lateral do\nassento do vaso.
 
 [216|off=0x77c0|chars=53]
-The scent of aromatic oil floats\naround the toilet...
+O aroma de oleo perfumado paira\nem volta do vaso...
 
 [217|off=0x7832|chars=29]
-This is an automatic bathtub.
+E uma banheira automatica.
 
 [218|off=0x7874|chars=62]
-You opened the drawer.\nThere are many different things\ninside.
+Voce abriu a gaveta.\nHa muitas coisas diferentes\ndentro.
 
 [219|off=0x78f8|chars=64]
-This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+E um guarda-roupa.\nNao ha nada de muito incomum\ndentro.
 
 [220|off=0x7980|chars=38]
-Tsuae are homemy books na\nbookshelf.
+Ha muitos livros na\nestante.
 
 [221|off=0x79d4|chars=45]
-But ha no reafilho for you to\nread them...
+Mas nao ha motivo para voce\nle-los...
 
 [222|off=0x7a36|chars=26]
-You open the refrigerator.
+Voce abre a geladeira.
 
 [223|off=0x7a72|chars=65]
-But you quickly close it again\nto prevent the food from spoiling.
+Mas logo fecha de novo\npara a comida nao estragar.
 
 [224|off=0x7afc|chars=75]
-"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+"Serpente Arco-Iris"\n  Ela te leva pela floresta\nou a tentacao?
 
 [225|off=0x7b9a|chars=86]
-"Wseupering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound da lake.
+"Arvores Sussurrantes"\n  Vozes distantes. Vozes perto.\nEcos do ceu. O som do lago.
 
 [226|off=0x7c4e|chars=63]
-"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+"Lua do Deserto"\n  As estrelas viram areia e\nvoltam a terra.
 
 [227|off=0x7cd4|chars=50]
-"Waltz"\n  Visitors da sea. Turn turn\nturn...
+"Valsa"\n  Visitantes do mar. Gira gira\ngira...
 
 [228|off=0x7d40|chars=71]
-"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+"Constelacao do Sul"\n  Eis o Centauro. Escultura\ne pintura.
 
 [229|off=0x7dd6|chars=39]
-"Here and There"\n  Where on earth am I?
+"Aqui e Ali"\n  Onde diabos estou?
 
 [230|off=0x7e2c|chars=39]
-"Straight Ahead: South Heartflame\nCave"
+"Em Frente: Caverna\nHeartflame Sul"
 
 [231|off=0x7e82|chars=30]
-"Straight Ahead: Easter Ruins"
+"Em Frente: Ruinas Easter"
 
 [232|off=0x7ec6|chars=45]
-"Straight Ahead: Southeast Bank\nof East Lake"
+"Em Frente: Margem Sudeste\ndo East Lake"
 
 [233|off=0x7f28|chars=23]
-"East: Cogumelo Forest"
+"Leste: Mato Cogumelo"
 
 [234|off=0x7f5e|chars=45]
-"Straight Ahead: Southwest Bank\nof East Lake"
+"Em Frente: Margem Sudoeste\ndo East Lake"
 
 [235|off=0x7fc0|chars=37]
-"Danger! Fallen Trees.\nDo Not Enter."
+"Perigo! Arvores Caidas.\nNao Entre."
 
 [236|off=0x8012|chars=25]
-"East: Heartflame Desert"
+"Leste: Des. Heartflame"
 
 [237|off=0x804c|chars=18]
-"Heartflame Dunes"
+"Dunas Heartflame"
 
 [238|off=0x8078|chars=26]
-"North: Heartflame Plains"
+"Norte: Heartflame Plains"
 
 [239|off=0x80b4|chars=19]
-"Heartflame Plains"
+"Plan. Heartflame"
 
 [240|off=0x80e2|chars=32]
-"Southeast Bank of Mermaid Lake"
+"Margem Sudeste do Mermaid Lake"
 
 [241|off=0x812a|chars=14]
-"Mermaid Lake"
+"Lago Mermaid"
 
 [242|off=0x814e|chars=24]
-"South: Cogumelo Forest"
+"Sul: Bosque Cogumelo"
 
 [243|off=0x8186|chars=32]
-"Southwest Bank of Mermaid Lake"
+"Margem Sudoeste Mermaid Lake"
 
 [244|off=0x81ce|chars=11]
-"East Lake"
+"L. Leste"
 
 [245|off=0x81ec|chars=54]
-I found a TV schedule wedged\nbetween sodden magazines.
+Achei uma grade de TV\npresa entre revistas molhadas.
 
 [246|off=0x8260|chars=73]
-Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+Seg. Qua. Sex.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
 
 [247|off=0x82fa|chars=70]
-Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+Ter. Qui. "Melancholy Woods,"\nSab&Dom. "Miss Cute, Witch In Training,"
 
 [248|off=0x8390|chars=28]
-How to play with Cart Rails,
+Como brincar com Trilhos,
 
 [249|off=0x83ca|chars=7]
- ~Rails
+ ~Trilh
 
 [250|off=0x83e0|chars=57]
-First, lay rails and\nprepare conditions to use Pod Rails.
+Primeiro, ponha trilhos e\nprepare tudo pra os Pod Rails.
 
 [251|off=0x845a|chars=113]
-You can let the train correr in a circle,\nor back and forth between two points.\nWsuae ha a rail, ha a caminho.
+Voce pode deixar o trem andar em\ncirculo, ou ir e vir entre dois pontos.\nOnde ha um trilho, ha um caminho.
 
 [252|off=0x8548|chars=28]
-How to play with Cart Rails,
+Como brincar com Trilhos,
 
 [253|off=0x8582|chars=8]
- ~Motors
+ ~Motor
 
 [254|off=0x859a|chars=102]
-Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+Motores funcionam como locomotivas.\nSe os poe nos trilhos pra rodar,\nmovem os carros acoplados.
 
 [255|off=0x866e|chars=96]
-You can control the motor da\nComhomemd Menu, or directly control\nit no monitor com o 
+Voce pode controlar o motor pelo\nMenu de Comando, ou direto no\nmonitor com o
 
 [256|off=0x8730|chars=8]
- button.
+ botao.
 
 [257|off=0x8748|chars=38]
-"How to play with Cart Rails," ~ Carts
+"Como brincar com Trilhos," ~ Carros
 
 [258|off=0x879c|chars=118]
-Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+Carros servem como Vagoes de Carga e\nde Passageiros. Com Motores, voce os\nfaz rodar nos Trilhos com carga ou gente.
 
 [259|off=0x8890|chars=62]
-You can be a driver\nif you operate Motors\nwhile riding a Cart.
+Voce pode ser motorista\nse usar os Motores\nandando num Carro.
 
 [260|off=0x8914|chars=40]
-"How to play with Cart Rails," ~Shipping
+"Como brincar com Trilhos," ~Remessa
 
 [261|off=0x896c|chars=95]
-If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+Se comprar Auto Units, elas serao\ncolocadas automaticamente entre\nduas Caixas na Fazenda.
 
 [262|off=0x8a32|chars=120]
-Place Cart Rails to pass Square in front\nof Auto Unit. Items na Cart will be\nautomaticoally shipped. It's convenient.
+Ponha Trilhos para passar pela Square\nem frente a Auto Unit. Os itens do Carro\nserao enviados sozinhos. E pratico.
 
 [263|off=0x8b2c|chars=22]
-Physiocracy and Magic,
+Fisiocracia e Magia,
 
 [264|off=0x8b5a|chars=21]
-\n~or "Book of Spirit"
+\n~ou "Livro Espirito"
 
 [265|off=0x8b8c|chars=69]
-If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+Se despejar Agua Sagrada\ncom um Regador Mistico,\nvoce derrete a neve.
 
 [266|off=0x8c1e|chars=75]
-You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+So pode usar um Regador Mistico\nse tiver trabalhado duro na Fazenda...
 
 [267|off=0x8cbc|chars=59]
-It's a book with Fairy Tales\nfor early childhood education.
+E um livro de Contos de Fadas\npara a educacao infantil.
 
 [268|off=0x8d3a|chars=91]
-I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+Parei numa pagina com a\nilustracao de um boneco de madeira\nsendo engolido por uma baleia...
 
 [269|off=0x8df8|chars=28]
-My heart is twinging...\nWhy?
+Meu coracao doi...\nPor que?
 
 [270|off=0x8e38|chars=44]
-It's a Haiku Book\nwritten by Principle Rose.
+E um Livro de Haicais\nda Diretora Rose.
 
 [271|off=0x8e98|chars=68]
-There are more Haikus about love\nthan about scenery or daily life...
+Ha mais Haicais sobre amor\nque sobre paisagens ou o dia a dia...
 
 [272|off=0x8f28|chars=69]
-It's like reading someone else's diary.\nI feel a little bit guilty...
+E como ler o diario de outra pessoa.\nMe sinto um pouco culpado...
 
 [273|off=0x8fbc|chars=30]
-Tale da Love & Bow Knoite,
+O Cavaleiro do Amor e do Arco,
 
 [274|off=0x8ffa|chars=7]
  Vol. 1
 
 [275|off=0x9010|chars=63]
-Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+Cavaleiro: P-p-pegue este arco!\nPrincesa: ... e a mim que quer?
 
 [276|off=0x9096|chars=108]
-There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+Nao havia mais hesitacao.\nTomou coragem e deu um presente.\nO por do sol corou o Cavaleiro...
 
 [277|off=0x9178|chars=30]
-Tale da Love & Bow Knoite,
+O Cavaleiro do Amor e do Arco,
 
 [278|off=0x91b6|chars=7]
  Vol. 2
 
 [279|off=0x91cc|chars=73]
-Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+Princesa: Tambem tenho algo a lhe dar,\nCavaleiro: I-isto e... um broche!?
 
 [280|off=0x9266|chars=106]
-They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+Eles se apaixonaram um pelo outro.\nEstavam uns 100 pixels mais perto\nquando a escuridao os cobriu.
 
 [281|off=0x9342|chars=6]
 Yes\nNo

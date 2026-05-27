@@ -44,13 +44,13 @@ Moonlight: Com um buggy assim\nvoce vai a qualquer lugar!
 Franco: Nao acredito que Marco\ncometeu um erro tao grande.
 
 [13|off=0x1086|chars=73]
-Franco: Quando jovem, todos iam\ncurtir naquela caverna\ncom as namoradas.
+Franco: Na juventude, todos iam\ncurtir naquela caverna\ncom as namoradas.
 
 [14|off=0x1124|chars=11]
 Moonlight: 
 
 [15|off=0x113c|chars=57]
-P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
+P!\nSoube de problemas\nna caverna de Volcano Town.
 
 [16|off=0x11ba|chars=77]
 Moonlight: Vai levar tempo e\nesforco para restaurar\nao estado original.
@@ -74,13 +74,13 @@ Franco: Sei que esta preocupado,\nmas tem trabalho importante\na terminar.
 Franco: O melhor pro Dr. Hope\nagora e ver o quanto\nvoce esta se dedicando.
 
 [23|off=0x15e8|chars=52]
-Moonlight: Nao sabia que o\nDr. Hope estava doente...
+Moonlight: Nao sabia que\nDr. Hope estava doente...
 
 [24|off=0x165c|chars=86]
 Moonlight: Suponho que por isso\nele corria para terminar\no trabalho com voce...
 
 [25|off=0x1714|chars=42]
-Franco: Sei que esta triste\ncom Dr. Hope, 
+Franco: Sei que esta triste\npelo Dr. Hope,
 
 [26|off=0x176a|chars=12]
 P. Eu sinto.
@@ -143,7 +143,7 @@ Vita: Se precisar falar com ele\nnum dia sem exame, faca isso\ndurante o cafe da
 Vita: O Sr. Franco sempre vem\npernoitar aqui nos fins de semana.
 
 [46|off=0x21e2|chars=56]
-Vita: Ele e um velhinho\nbem simpatioc, nao acha?
+Vita: Ele e um velhinho\nbem simpatico, nao acha?
 
 [47|off=0x225e|chars=65]
 Vita: Sei que o doutor\nconfia muito no Sr. Franco.
@@ -161,7 +161,7 @@ Vita: Se precisar falar com\no doutor num dia sem exame,\nfaca no cafe ou jantar
 Dr. Hope: Zzzz....
 
 [52|off=0x24cc|chars=33]
-The cat is sleeping peacefully...
+O gato dorme tranquilamente...
 
 [53|off=0x251a|chars=6]
 Nana: 
@@ -179,13 +179,13 @@ Nana: Sera que voce poderia\npegar uns cogumelos Porcini?\nDevem estar na epoca 
 Nana: Vou lhe dar um\npresentinho se fizer isso!\nSo coloque na sua Bolsa\nde Balanca e traga aqui.
 
 [58|off=0x2892|chars=49]
-Nana: Let's see... I think 100g should\nbe enough.
+Nana: Vejamos... Acho que\n100g devem bastar.
 
 [59|off=0x2900|chars=6]
 Nana: 
 
 [60|off=0x290e|chars=52]
-P! Voce pegou\nsome cogumelos Porcini!\nObrigada!
+P! Voce pegou\nuns cogumelos Porcini!\nObrigada!
 
 [61|off=0x2982|chars=84]
 Nana: Vou pegar entao.\nAgora e certo que ganho\no Concurso de Cogumelos.
@@ -194,7 +194,7 @@ Nana: Vou pegar entao.\nAgora e certo que ganho\no Concurso de Cogumelos.
 Nana: 
 
 [63|off=0x2a44|chars=41]
-P! Voce pegou\ncogumelos Porcini para mim!
+P! Voce pegou\ncogumelos Porcini pra mim!
 
 [64|off=0x2aa2|chars=81]
 Nana: Mas temo que nao\nbaste. Precisaria de 100g\nno minimo.
@@ -206,16 +206,16 @@ Nana: Se nao fizer um\nBife Especial, Dorothy vai ganhar\no Concurso de Cogumelo
 Nana: Se nao fizer um\nBife Especial, Dorothy vai ganhar\no Concurso de Cogumelos de novo.
 
 [67|off=0x2d30|chars=53]
-Nana: I guess she's a better cook than\nI am, overall.
+Nana: No geral, acho que ela\ncozinha melhor que eu.
 
 [68|off=0x2da6|chars=53]
-Nana: I guess she's a better cook than\nI am, overall.
+Nana: No geral, acho que ela\ncozinha melhor que eu.
 
 [69|off=0x2e1c|chars=37]
-Vita: Are the Life Arms working well?
+Vita: Os Life Arms vao bem, Mestre?
 
 [70|off=0x2e72|chars=89]
-Vita: As cestas e caixas que\nvocl receber daqui em diante\nterao Life Arms instalados.
+Vita: As cestas e caixas que\nvoce receber daqui em diante\nterao Life Arms instalados.
 
 [71|off=0x2f30|chars=56]
 Vita: No entanto, so ha\n14 Life Arms no total.
@@ -242,16 +242,16 @@ P, pode usa-lo\na qualquer momento.
 Vita: O Sr. Franco sempre vem\npernoitar aqui nos fins de semana.
 
 [79|off=0x33a8|chars=50]
-Vita: Old Franco certainly was fond\nof the doctor.
+Vita: O velho Franco gostava\nmuito do doutor.
 
 [80|off=0x3414|chars=63]
 Voce ouve a voz do Espirito\ndo Fogo ecoar em sua cabeca!
 
 [81|off=0x349a|chars=100]
-Voce me decepcionou... Seu\nano acabou e nao tenho escolha\nsenat liberar o poder do alien.
+Voce me decepcionou... Seu\nano acabou e nao tenho escolha\nsenao liberar o poder do alien.
 
 [82|off=0x356a|chars=51]
-I'm afraid there's nothing you can\ndo to stop it...
+Temo que nada possa\nser feito para impedir...
 
 [83|off=0x35dc|chars=71]
 Jessica: O Dr. Hope me deixa\nusar o lugar para pesquisa\ntodo sabado.
@@ -266,34 +266,34 @@ Jessica: Ainda hoje peco ao\nSr. Vita para usar a\nmansao todo sabado.
 Jessica: Ainda hoje peco ao\nSr. Vita para usar a\nmansao todo sabado.
 
 [87|off=0x37f4|chars=66]
-Jessica: Todos os artigos que\no Dr. Hope escreveu\nsao excelentes.
+Jessica: Os artigos que o\nDr. Hope escreveu\nsao todos excelentes.
 
 [88|off=0x3884|chars=66]
-Jessica: Todos os artigos que\no Dr. Hope escreveu\nsao excelentes.
+Jessica: Os artigos que o\nDr. Hope escreveu\nsao todos excelentes.
 
 [89|off=0x3914|chars=10]
 *: Meeoow.
 
 [90|off=0x3934|chars=62]
-Vita: O doutor esta sorrindo...\nDeve estar tendo um bom sonho.
+Vita: O doutor sorri...\nDeve estar tendo um bom sonho.
 
 [91|off=0x39bc|chars=84]
 Vita: Nao se preocupe com\no doutor. Ficarei ao seu\nlado ate ele abrir os olhos.
 
 [92|off=0x3a70|chars=24]
-Vita: So please, Master 
+Vita: Por favor, Mestre
 
 [93|off=0x3aa2|chars=57]
-P.\nYou must save this island before the\nvolcano erupts...
+P.\nSalve esta ilha antes\nque o vulcao entre em erupcao...
 
 [94|off=0x3b20|chars=78]
-Vita: Go to the Giant Forest!\nMeet the Nature Sprites there.\nBut please hurry.
+Vita: Va a Floresta Gigante!\nEncontre os Espiritos da\nNatureza la. Va logo.
 
 [95|off=0x3bc8|chars=105]
 Vita: Mesmo com a ajuda do\nEspirito da Agua, o Espirito\ndo Fogo so se acalma no inverno.
 
 [96|off=0x3ca6|chars=62]
-Vita: O doutor esta sorrindo...\nDeve estar tendo um bom sonho.
+Vita: O doutor sorri...\nDeve estar tendo um bom sonho.
 
 [97|off=0x3d2e|chars=84]
 Vita: Nao se preocupe com\no doutor. Ficarei ao seu\nlado ate ele abrir os olhos.
@@ -302,7 +302,7 @@ Vita: Nao se preocupe com\no doutor. Ficarei ao seu\nlado ate ele abrir os olhos
 Vita: Voce nao precisa mais\ndos checkups do doutor.\nNao ha com que se preocupar.
 
 [99|off=0x3e94|chars=102]
-Vita: Please. Become as human as you\ncan. For both of us... I'm sure you must\nknow the truth by now...
+Vita: Por favor. Torne-se o mais\nhumano possivel. Por nos dois...\nVoce ja deve saber a verdade...
 
 [100|off=0x3f6c|chars=101]
 Vita: Como voce, sou um robo.\nSou um modelo mais antigo\ne nao posso ir longe da mansao.
@@ -314,7 +314,7 @@ Vita: Obrigado por esperar,\nMestre
 Vita: Obrigado por esperar,\nMestre 
 
 [103|off=0x40f2|chars=43]
-Dr. Hope appears to be sleeping\npeacefully.
+O Dr. Hope parece dormir\ntranquilamente.
 
 [104|off=0x4150|chars=90]
 Voce jura que ve um leve\nsorriso em seus labios.\nTalvez seja imaginacao...
@@ -326,10 +326,10 @@ Vita: Havia um presente seu\nno deposito do doutor.
 Vita: Havia um presente seu\nno deposito do doutor.
 
 [107|off=0x4324|chars=111]
-Vita: It seems that even as he was\nfighting his sickness,\nthe doctor took time to\nmake farming devices for you.
+Vita: Parece que, mesmo lutando\ncontra a doenca, o doutor\narranjou tempo para criar\nequipamentos para voce.
 
 [108|off=0x440e|chars=111]
-Vita: It seems that even as he was\nfighting his sickness,\nthe doctor took time to\nmake farming devices for you.
+Vita: Parece que, mesmo lutando\ncontra a doenca, o doutor\narranjou tempo para criar\nequipamentos para voce.
 
 [109|off=0x44f8|chars=91]
 Vita: Fiz entrega-los\na sua fazenda conforme as\ninstrucoes do doutor.
@@ -356,10 +356,10 @@ Vita: Pode ser um pouco dificil\nde entender. O melhor e\ntentar na sua fazenda.
 Vita: Pode ser um pouco dificil\nde entender. O melhor e\ntentar na sua fazenda.
 
 [117|off=0x4bc8|chars=37]
-Vita: Are the Life Arms working well?
+Vita: Os Life Arms vao bem, Mestre?
 
 [118|off=0x4c1e|chars=89]
-Vita: As cestas e caixas que\nvocl receber daqui em diante\nterao Life Arms instalados.
+Vita: As cestas e caixas que\nvoce receber daqui em diante\nterao Life Arms instalados.
 
 [119|off=0x4cdc|chars=56]
 Vita: No entanto, so ha\n14 Life Arms no total.
@@ -374,19 +374,19 @@ Vita: Se colocar cestas muito\njuntas, eles se atrapalham\ne perdem eficiencia.
 Vita: Tente coloca-los em\nlocais variados para ver\no que funciona melhor.
 
 [123|off=0x4f60|chars=44]
-Voce ouve uma voz ecoar\nde todos os lados...
+Ouve-se uma voz ecoar\nde todos os lados...
 
 [124|off=0x4fc0|chars=17]
-Winter has come, 
+Chegou o inverno,
 
 [125|off=0x4ff0|chars=74]
-It is time to place the Fire Spirit's\nCrest in the Ice Altar in East Lake.
+Hora de por o Brasao do Espirito\ndo Fogo no Altar de Gelo do Lago Leste.
 
 [126|off=0x508c|chars=85]
 Meu poder e o do Calice de Gelo\ndevem conseguir acalmar\na ira do Espirito do Fogo.
 
 [127|off=0x513e|chars=64]
-Now then, I'll open the\npath on the frozen surface of\nEast Lake.
+Pois bem, abrirei o\ncaminho na superficie gelada\ndo Lago Leste.
 
 [128|off=0x51ca|chars=48]
 Marcia: O Dr. Hope acordou\nha poucos momentos!
@@ -395,10 +395,10 @@ Marcia: O Dr. Hope acordou\nha poucos momentos!
 Dr. Hope: Ola, 
 
 [130|off=0x525a|chars=21]
-P.\nI'm glad you came.
+P.\nQue bom que veio.
 
 [131|off=0x5290|chars=68]
-Dr. Hope: You did it.\nI knew you could.\nYou brought about a miracle.
+Dr. Hope: Voce conseguiu.\nEu sabia que sim.\nVoce fez um milagre.
 
 [132|off=0x5324|chars=89]
 Dr. Hope: So espero que algo\naconteca para recompensar\ntodo o seu esforco.
@@ -407,7 +407,7 @@ Dr. Hope: So espero que algo\naconteca para recompensar\ntodo o seu esforco.
 Dr. Hope: Nao se preocupe comigo.\nTive uma boa vida.
 
 [134|off=0x5458|chars=34]
-Dr. Hope: No, it was a great life.
+Dr. Hope: Nao, foi otima vida.
 
 [135|off=0x54a8|chars=76]
 Dr. Hope: E poder conversar\ncom voce ate o fim\ntorna a minha completa.
@@ -419,10 +419,10 @@ Dr. Hope: Deixei Vita responsavel\npor tudo. Se precisar de\nalgo, fale com ela.
 Dr. Hope: Adeus... Desejo-lhe\ntoda a felicidade....
 
 [138|off=0x568e|chars=28]
-Marcia: Is he...\nIs he dead?
+Marcia: Ele...\nEle morreu?
 
 [139|off=0x56d2|chars=27]
-Marcia: Doctor!\nSob... Oh, 
+Marcia: Doutor!\nSnif... Ah,
 
 [140|off=0x570a|chars=11]
 P...\nSob...
@@ -431,7 +431,7 @@ P...\nSob...
 Marcia: Hm?\nOlha, 
 
 [142|off=0x5754|chars=43]
-P! You're crying!\nYou're crying real tears!
+P! Voce esta chorando!\nLagrimas de verdade!
 
 [143|off=0x57b6|chars=8]
 Marcia: 
@@ -452,7 +452,7 @@ Sem perceber,\namanheceu...
 Vita: Todos na cidade enlouqueceram...
 
 [149|off=0x5948|chars=40]
-Vita: Only you and I\nremain unchanged...
+Vita: So voce e eu\ncontinuamos iguais...
 
 [150|off=0x59a4|chars=20]
 Jessica: Ga... ga...
@@ -542,7 +542,7 @@ Ha vinho aqui.
 Voce olha para o vaso.
 
 [179|off=0x6380|chars=32]
-Parece que alguem\ndescarregou...
+Parece ter sido\ndescarregado...
 
 [180|off=0x63c8|chars=21]
 Esta reluzente!
@@ -704,10 +704,10 @@ Ao comprar Unidades Auto, serao\ncolocadas automaticamente entre\nduas Caixas de
 Coloque Trilhos pela Praca da\nUnidade Auto. Itens no Vagao\nserao enviados. Pratico.
 
 [233|off=0x793e|chars=22]
-Fisiocracy e Magia,
+Fisiocracia e Magia,
 
 [234|off=0x796c|chars=21]
-\n~or "Book of Spirit"
+\n~ou "Liv. Espirito"
 
 [235|off=0x799e|chars=69]
 Com Agua Sagrada e\num Regador Mistico,\nvoce pode derreter neve.
@@ -722,7 +722,7 @@ E um livro de Contos de Fadas\npara educacao infantil.
 Parei numa pagina com\numa ilustracao de boneco de\nmadeira engolido por uma baleia...
 
 [239|off=0x7c0a|chars=28]
-O coracao aperta...\nPor que?
+Coracao aperta...\nPor que?
 
 [240|off=0x7c4a|chars=44]
 Livro de Haiku\nda Diretora Rose.
@@ -758,40 +758,40 @@ Princesa: Tenho algo pra voce,\nCavalh.: I-isso e... um alfinete!?
 Eles se apaixonaram.\nEstavam 100 pixels mais perto\nquando a escuridao os cobriu.
 
 [251|off=0x8154|chars=6]
-Ok\nNao
+Yes\nNo
 
 [252|off=0x8168|chars=6]
-Ok\nNao
+Yes\nNo
 
 [253|off=0x817c|chars=6]
-Ok\nNao
+Yes\nNo
 
 [254|off=0x8190|chars=6]
-Ok\nNao
+Yes\nNo
 
 [255|off=0x81a4|chars=57]
 Salvar e dormir.\nDormir sem salvar.\nAnular.
 
 [256|off=0x821e|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [257|off=0x825e|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [258|off=0x829e|chars=16]
-Love increased!\n
+Amor aumentou!\n
 
 [259|off=0x82d4|chars=24]
-Intelligence increased!\n
+Inteligencia aumentou!\n
 
 [260|off=0x831a|chars=19]
-Cooking increased!\n
+Cozinha aumentou!\n
 
 [261|off=0x8356|chars=22]
-Creativity increased!\n
+Criatividade aumentou\n
 
 [262|off=0x8398|chars=17]
-Humor increased!\n
+Humor aumentou!\n
 
 [263|off=0x83d0|chars=58]
 Voce nao foi ao Dr. Hope\npara manutencao hoje!

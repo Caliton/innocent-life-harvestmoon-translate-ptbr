@@ -365,7 +365,7 @@ Coloque Trilhos pela Praca da\nUnidade Auto. Itens no Vagao\nserao enviados. Pra
 Fisiocracy e Magia,
 
 [120|off=0x38fe|chars=21]
-\n~or "Book of Spirit"
+\n~ou "Livro Espirito"
 
 [121|off=0x3930|chars=69]
 Com Agua Sagrada e\num Regador Mistico,\nvoce pode derreter neve.

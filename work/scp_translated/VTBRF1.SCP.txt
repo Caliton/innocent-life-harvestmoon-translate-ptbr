@@ -5,7 +5,7 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0x8ee|chars=56]
-Franco: Entao voce finalmente\ncomeou a criar animais, hein?
+Franco: Entao voce enfim\ncomecou a criar animais, ne?
 
 [1|off=0x96a|chars=109]
 Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?
@@ -17,7 +17,7 @@ Franco: Hoje tudo na fazenda e\nautomatizado, mas antes usar robos\nera uma idei
 Franco: Ouvi que eles ainda usam\nbastante isso no exterior.
 
 [4|off=0xbc2|chars=74]
-Moonlight: O balido dos animais\npode ser ouvido de novo\nentre essas ruinas!
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnessas ruinas!
 
 [5|off=0xc62|chars=90]
 Moonlight: Tenho certeza que sua\nforca vital vai revitalizar esta\nterra e a natureza!
@@ -32,7 +32,7 @@ Franco: Se eu tivesse um buggy\ndesse, levaria a Rose num passeio\ninesquecivel!
 Moonlight:
 
 [9|off=0xe94|chars=52]
-<06>P! Vi que voce ganhou\num presente do Dr. Hope.
+P! Vi que voce ganhou\num presente do Dr. Hope.
 
 [10|off=0xf08|chars=63]
 Moonlight: Voce pode ir a\nqualquer lugar com um\nbuggy desse!
@@ -41,13 +41,13 @@ Moonlight: Voce pode ir a\nqualquer lugar com um\nbuggy desse!
 Franco: Nao acredito que Marco\ncometeu um erro tao grande.
 
 [12|off=0x1016|chars=73]
-Franco: Quando era jovem, todos\nlevavam suas paqueras\npara aquela caverna.
+Franco: Quando eu era jovem, todos\nlevavam suas paqueras\naquela caverna.
 
 [13|off=0x10b4|chars=11]
 Moonlight:
 
 [14|off=0x10cc|chars=57]
-<06>P!\nOuvi que houve problemas na\ncaverna de Volcano Town.
+P!\nOuvi que houve problemas na\ncaverna de Volcano Town.
 
 [15|off=0x114a|chars=77]
 Moonlight: Vai levar tempo e\nesforco para voltar\nao estado original.
@@ -59,7 +59,7 @@ Franco: Ouvi que voce plantou\nalgunas poinsetias.
 Franco: Se conseguir enviar\nbastante ate a vespera do Natal,\npode usar para decorar a cidade.
 
 [18|off=0x135a|chars=21]
-Franco: Mal posso esperar!
+Franco: Ansioso!
 
 [19|off=0x1390|chars=41]
 Franco: Ouvi que o Dr. Hope\ndesmaiou...
@@ -71,16 +71,16 @@ Franco: Sei que deve estar\npreocupado, mas voce tem\num trabalho importante a t
 Franco: Tenho certeza que a melhor\ncoisa pro Dr. Hope e ver\nvoce trabalhando duro.
 
 [22|off=0x1578|chars=52]
-Moonlight: Nunca soube que o\nDr. Hope estava tao doente...
+Moonlight: Nao sabia que\nDr. Hope estava tao mal...
 
 [23|off=0x15ec|chars=86]
-Moonlight: Acho que foi por isso\nque ele estava com tanta pressa\nde terminar seu trabalho...
+Moonlight: Deve ser por isso\nque ele tinha tanta pressa\nde terminar o trabalho...
 
 [24|off=0x16a4|chars=42]
-Franco: Sei que voce esta triste\npelo Dr. Hope,
+Franco: Sei que esta triste\npelo Dr. Hope,
 
 [25|off=0x16fa|chars=12]
-<06>P. Eu tambem.
+P, eu tambem
 
 [26|off=0x171e|chars=31]
 Franco: Ele era um bom amigo...
@@ -92,7 +92,7 @@ Moonlight: Ouvi a voz do\nEspirito do Fogo!
 Moonlight: Ele me disse que ha\nmuito mais neste mundo\ndo que parece!
 
 [29|off=0x1874|chars=91]
-Moonlight: O que quero dizer e...\nTenho certeza que o Dr. Hope\nolhara por voce, <06>P.
+Moonlight: O que quero dizer e...\nTenho certeza que o Dr. Hope\nolhara por voce,
 
 [30|off=0x193c|chars=62]
 Franco: Quem e esse estranho\nque mora no novo quarto?
@@ -116,19 +116,19 @@ Franco: Bom, acho que nao\ndevemos nos preocupar tanto.
 Moonlight:
 
 [37|off=0x1ce6|chars=76]
-<06>P!\nVi uma coisa estranha parecendo\nbicho de pelucia no novo quarto.
+P!\nVi uma coisa estranha parecendo\nbicho de pelucia no novo quarto.
 
 [38|off=0x1d8a|chars=51]
 Moonlight: Voce que fez isso?\nQue impressionante!
 
 [39|off=0x1dfc|chars=35]
-*: Hm? Quem e voce?\nAh espera, voce e <06>
+*: Hm? Quem e voce?\nEspera, voce e
 
 [40|off=0x1e44|chars=9]
-<06>P, ne?
+P, ne?
 
 [41|off=0x1e62|chars=61]
-Jonathan: Sou Jonathan Branch.\nCuido da fazenda no alto da colina.
+Jonathan: Sou Jonathan Branch.\nCuido da fazenda na colina.
 
 [42|off=0x1ee8|chars=99]
 Jonathan: Ouvi sobre voce. Muito\nimpressionate! Cultivar na\nRuinas de Pascoa sozinho!
@@ -146,13 +146,13 @@ Jonathan: Mas sinto que criar\nanimais nos lembra do nosso lugar\nna natureza co
 Jonathan: Temos responsabilidade\nde trata-los bem.
 
 [47|off=0x22c2|chars=36]
-*: Hm? Quem e voce?\nAh espera, voce e <06>
+*: Hm? Quem e voce?\nEspera, voce e
 
 [48|off=0x230c|chars=9]
-<06>P, ne?
+P, ne?
 
 [49|off=0x232a|chars=61]
-Jonathan: Sou Jonathan Branch.\nCuido da fazenda no alto da colina.
+Jonathan: Sou Jonathan Branch.\nCuido da fazenda na colina.
 
 [50|off=0x23b0|chars=99]
 Jonathan: Ouvi sobre voce. Muito\nimpressionate! Cultivar na\nRuinas de Pascoa sozinho!
@@ -164,16 +164,16 @@ Jonathan: Se decidir criar animais\nalgum dia, venha me ver.\nPosso te ensinar m
 Jonathan: Quando bebem, as pessoas\nsempre parecem voltar\naos mesmos assuntos...
 
 [53|off=0x2618|chars=30]
-Vanessa: Bem-vindo!\nVoce deve ser <06>
+Vanessa: Ola!\nVoce deve ser
 
 [54|off=0x2656|chars=36]
-<06>P.\nSou Vanessa da Fazenda Branch.
+P.\nSou Vanessa da Fazenda Branch.
 
 [55|off=0x26aa|chars=30]
-Vanessa: Bem-vindo!\nVoce deve ser <06>
+Vanessa: Ola!\nVoce deve ser
 
 [56|off=0x26e8|chars=36]
-<06>P.\nSou Vanessa da Fazenda Branch.
+P.\nSou Vanessa da Fazenda Branch.
 
 [57|off=0x273c|chars=86]
 Vanessa: Voce deve vir\na minha aula de pintura. E todo\nSabado na escola.
@@ -182,34 +182,34 @@ Vanessa: Voce deve vir\na minha aula de pintura. E todo\nSabado na escola.
 Vanessa: Voce deve vir\na minha aula de pintura. E todo\nSabado na escola.
 
 [59|off=0x28ac|chars=27]
-Vanessa: Bom dia, <06>P!
+Vanessa: Bom dia,
 
 [60|off=0x28e4|chars=71]
-<06>P!\nJa foi a Escola Vulcao? Pode\nfazer amigos la.
+P!\nJa foi a Escola Vulcao? Pode\nfazer amigos la.
 
 [61|off=0x297e|chars=27]
-Vanessa: Bom dia, <06>P!
+Vanessa: Bom dia,
 
 [62|off=0x29b6|chars=73]
-<06>P!\nQue buggy bonito voce tem.\nTalvez eu deva pegar um tambem...
+P!\nQue buggy bonito voce tem.\nTalvez eu deva pegar um tambem...
 
 [63|off=0x2a54|chars=49]
-Lionel: Nao me incomode tao\ncedo, <06>P.
+Lionel: Nao me incomode tao\ncedo,
 
 [64|off=0x2ab8|chars=29]
-<06>P.\nJa estou cansado o suficiente.
+P.\nJa estou bem cansado.
 
 [65|off=0x2afe|chars=16]
-Simon: Bom dia, <06>
+Simon: Bom dia,
 
 [66|off=0x2b20|chars=65]
-<06>P.\nIgnore o Lionel. Ele nao\nquer ser mal-educado.
+P.\nIgnore o Lionel. Ele nao\nquer ser mal-educado.
 
 [67|off=0x2bae|chars=35]
-*: Hm? Quem e voce?\nAh espera, voce e <06>
+*: Hm? Quem e voce?\nEspera, voce e
 
 [68|off=0x2bf6|chars=9]
-<06>P, ne?
+P, ne?
 
 [69|off=0x2c14|chars=75]
 Jonathan: Sou Jonathan Branch.\nCuido da fazenda e\ndos animais aqui.
@@ -296,10 +296,10 @@ Jonathan: Mas sinto que criar\nanimais nos lembra do nosso lugar\nna natureza co
 Jonathan: Temos responsabilidade\nde trata-los bem.
 
 [97|off=0x410a|chars=6]
-Nana: <06>
+Nana:
 
 [98|off=0x4118|chars=71]
-<06>P! Veio na hora\ncerta! Tenho algo que quero\nte perguntar.
+P! Veio na hora\ncerta! Tenho algo que quero\nte perguntar.
 
 [99|off=0x41b2|chars=109]
 Nana: Quero muito ganhar o Festival\nde Culinaria de Cogumelos. Mas\nnao consigo com meus pratos comuns.
@@ -314,19 +314,19 @@ Nana: Vou te dar um\npresentinho se fizer isso\npor mim!\nSo coloque na sua Bols
 Nana: Vejamos... Acho que\n100g e suficiente.
 
 [103|off=0x44f0|chars=6]
-Nana: <06>
+Nana:
 
 [104|off=0x44fe|chars=52]
-<06>P! Trouxe\ncogumelos Porcini!\nObrigada!
+P! Trouxe\ncogumelos Porcini!\nObrigada!
 
 [105|off=0x4572|chars=84]
 Nana: Vou pega-los entao.\nEstou certa de ganhar\no Concurso de Culinaria.
 
 [106|off=0x4626|chars=6]
-Nana: <06>
+Nana:
 
 [107|off=0x4634|chars=41]
-<06>P! Trouxe\ncogumelos Porcini!
+P! Trouxe\ncogumelos Porcini!
 
 [108|off=0x4692|chars=81]
 Nana: Mas temo que nao seja\nsuficiente. Preciso\nde 100g deles.
@@ -338,25 +338,25 @@ Nana: Se eu nao fizer um Steak\nespecial, Dorothy vai ganhar de\nnovo o Concurso
 Nana: Se eu nao fizer um Steak\nespecial, Dorothy vai ganhar de\nnovo o Concurso de Culinaria.
 
 [111|off=0x4920|chars=53]
-Nana: Acho que ela cozinha\nmelhor do que eu, no geral.
+Nana: Acho que ela cozinha\nmelhor que eu, no geral.
 
 [112|off=0x4996|chars=53]
-Nana: Acho que ela cozinha\nmelhor do que eu, no geral.
+Nana: Acho que ela cozinha\nmelhor que eu, no geral.
 
 [113|off=0x4a0c|chars=73]
-Becky: Vou ser uma mae legal\nigual a minha. Me leva, <06>P?
+Becky: Vou ser uma mae legal\nigual a minha. Me leva,
 
 [114|off=0x4ab0|chars=44]
-Becky: Naooo!\nNao leve a serio, <06>P!
+Becky: Naooo!\nNao leve a serio,
 
 [115|off=0x4b0a|chars=26]
-tudo bem?\nVoce e cheio de amor, <06>
+tudo bem?\nCheio de amor,
 
 [116|off=0x4b50|chars=99]
 Vanessa: O fato de ter que\ncasa-la algum dia e a parte\nmais dificil de criar uma filha...
 
 [117|off=0x4c22|chars=69]
-Vanessa: Espero que um cavaleiro\nigual ao pai dela apareca\npara ela...
+Vanessa: Espero que um cavaleiro\nigual ao pai dela\napareca pra ela...
 
 [118|off=0x4cb8|chars=75]
 Vanessa: Comam rapido!\nVao se atrasar pra\naula de pintura.
@@ -395,16 +395,16 @@ Jonathan: Zzzz... Zzzz...
 Jonathan: Zzzz... Zzzz...
 
 [130|off=0x53d4|chars=14]
-Jonathan: Ei <06>
+Jonathan: Ei
 
 [131|off=0x53f2|chars=62]
-<06>P.\nTalvez nao queira automatizar\nsua fazenda, mas...
+P.\nTalvez nao queira automatizar\nsua fazenda, mas...
 
 [132|off=0x547a|chars=50]
 Jonathan: Seria divertido\ntryar o Trilho de Pod.
 
 [133|off=0x54ea|chars=94]
-Jonathan: Quando se acostumar,\npode colocar trilhos e brincar\ncomo se fossem trens de brinquedo.
+Jonathan: Quando se acostumar,\npode por trilhos e brincar\ncomo trens de brinquedo.
 
 [134|off=0x55b2|chars=80]
 Vanessa: Comam rapido!\nVao se atrasar pra\naula de educacao geral.
@@ -422,22 +422,22 @@ Simon: Todo domingo so como\ncornflakes com leite. Queria\ncomer\npure de batata
 Jonathan: Esta TV LCD de ultra\nalta definicao e incrivel.\nDeixa pra Banks\nCorporation fazer algo assim.
 
 [139|off=0x5a1a|chars=22]
-Becky: Hein? E voce, <06>
+Becky: Hein? E voce,
 
 [140|off=0x5a48|chars=25]
-<06>P.\nProcurando algo?
+P.\nProcurando algo?
 
 [141|off=0x5a86|chars=78]
 Becky: Ouvi que voce esta viciado\nnum Dicionario estranho...
 
 [142|off=0x5b2e|chars=84]
-Becky: Sempre carrego este livro\nestranho que achei um dia.\nQuer ler, <06>P?
+Becky: Sempre carrego este livro\nestranho que achei um dia.\nQuer ler,
 
 [143|off=0x5be8|chars=24]
 Becky: Aqui, este e ele.
 
 [144|off=0x5c22|chars=25]
-Historia da Rosa Branca-Vol.2
+Hist. da Rosa Branca-V.2
 
 [145|off=0x5c5e|chars=52]
 Masso reprovou no vestibular\nda cidade de novo...
@@ -446,10 +446,10 @@ Masso reprovou no vestibular\nda cidade de novo...
 Pegou um trem de volta pra casa.\nLamentou o azar a um\nvelhinho no mesmo trem.
 
 [147|off=0x5d9a|chars=26]
-...Entao o velhinho disse,\n
+...Entao o velho disse,\n
 
 [148|off=0x5dd0|chars=44]
-Cheire esta rosa branca,\ne descanse por um momento.
+Cheire esta rosa branca\ne descanse um pouco.
 
 [149|off=0x5e34|chars=38]
 O perfume e a chave\nda sua sorte."
@@ -491,10 +491,10 @@ Becky: Mas que tipo de rosa\nfloresce no inverno...
 Becky: Entendo... Me avise se\nquiser ler de novo, tudo bem?
 
 [162|off=0x65e2|chars=27]
-Becky: Quer ler\n<06>P?
+Becky: Quer ler\n
 
 [163|off=0x661a|chars=25]
-Historia da Rosa\nBranca - Vol.2,
+Hist. da\nRosa Branca-V.2,
 
 [164|off=0x664e|chars=28]
  que recomendo muito?
@@ -572,7 +572,7 @@ Ha pratos enfileirados aqui.
 Voce tenta lavar as maos.
 
 [189|off=0x6b22|chars=30]
-Esta pia e muito facil de usar.
+Esta pia e bem facil de usar.
 
 [190|off=0x6b66|chars=25]
 Suas maos estao limpas.
@@ -584,7 +584,7 @@ Mas nao tinha sabao...
 A pressao da agua esta um\npouco fraca...
 
 [193|off=0x6c30|chars=48]
-Ficou surpreso com o quanto\nsuas maos estavam sujas.
+Voce viu o quanto suas\nmaos estavam sujas.
 
 [194|off=0x6c98|chars=43]
 Ha agua espirrada por toda\na pia!
@@ -602,10 +602,10 @@ O ralo nao parece estar\nfuncionando muito bem...
 Saiu agua quente com\nforca incrivel!
 
 [199|off=0x6e2e|chars=44]
-Um cheiro muito agradavel\nvem do sabao aqui...
+Um cheiro agradavel vem\ndo sabao aqui...
 
 [200|off=0x6e8e|chars=55]
-Voce tenta lavar o rosto.\nSente-se um pouco mais refrescado.
+Voce lava o rosto.\nSente-se um pouco refrescado.
 
 [201|off=0x6f04|chars=42]
 Ha muitas coisas\nnas prateleiras...
@@ -635,19 +635,19 @@ Ha um bilhete no banheiro.
 Parece ter um assento\nque sobe e desce automaticamente.
 
 [210|off=0x7186|chars=68]
-Ha um adesivo da Banks\nCorporation na lateral\ndo assento do banheiro.
+Ha um adesivo da Banks\nCorp. na lateral do\nassento do banheiro.
 
 [211|off=0x7216|chars=53]
 O aroma de oleo flutuando\nao redor do banheiro...
 
 [212|off=0x7288|chars=29]
-Esta e uma banheira automatica.
+E uma banheira automatica.
 
 [213|off=0x72ca|chars=62]
 Abriu a gaveta.\nHa muitas coisas diferentes\nla dentro.
 
 [214|off=0x734e|chars=64]
-Este e um guarda-roupa.\nNao ha nada particularmente\nincomum dentro.
+Este e um guarda-roupa.\nNao ha nada de incomum\nla dentro.
 
 [215|off=0x73d6|chars=38]
 Ha muitos livros\nna estante.
@@ -689,7 +689,7 @@ Mas fecha rapidamente\npara nao estragar a comida.
 "Em Frente: Margem Sudeste\ndo Lago Leste"
 
 [228|off=0x797e|chars=23]
-"Leste: Floresta Cogumelo"
+"Leste: Mata Cogumelo"
 
 [229|off=0x79b4|chars=45]
 "Em Frente: Margem Sudoeste\ndo Lago Leste"
@@ -698,16 +698,16 @@ Mas fecha rapidamente\npara nao estragar a comida.
 "Perigo! Arvores Caidas.\nNao Entre."
 
 [231|off=0x7a68|chars=25]
-"Leste: Deserto Heartflame"
+"Leste: Deserto Flama"
 
 [232|off=0x7aa2|chars=18]
 "Dunas Heartflame"
 
 [233|off=0x7ace|chars=26]
-"Norte: Planicie Heartflame"
+"Norte: Planicie Flama"
 
 [234|off=0x7b0a|chars=19]
-"Planicie Heartflame"
+"Planicie Flama"
 
 [235|off=0x7b38|chars=32]
 "Margem Sudeste do Lago Sereia"
@@ -722,22 +722,22 @@ Mas fecha rapidamente\npara nao estragar a comida.
 "Margem Sudoeste do Lago Sereia"
 
 [239|off=0x7c24|chars=11]
-"Lago Leste"
+"Lago Este"
 
 [240|off=0x7c42|chars=54]
 Encontrei uma grade de TV\nentre revistas encharcadas.
 
 [241|off=0x7cb6|chars=73]
-Seg. Qua. Sex.\n"Cade Minha Mamae? A Jornada do Gatinho,"\n"Final Z Rangers,"
+Seg. Qua. Sex.\n"Cade Minha Mae? A Jornada do Gatinho,"\n"Final Z Rangers,"
 
 [242|off=0x7d50|chars=70]
-Ter. Qui. "Floresta Melancolica,"\nSab&Dom. "Miss Cute, Bruxa em Treinamento,"
+Ter. Qui. "Bosque Melancolico,"\nSab&Dom. "Miss Cute, Bruxa Aprendiz,"
 
 [243|off=0x7de6|chars=28]
 Como jogar com Trilhos,
 
 [244|off=0x7e20|chars=7]
- ~Trilho
+~Trilho
 
 [245|off=0x7e36|chars=57]
 Primeiro, coloque trilhos e\nprepare as condicoes do Pod.
@@ -749,13 +749,13 @@ Pode fazer o trem rodar em circulo,\nou entre dois pontos.\nOnde ha trilho, ha c
 Como jogar com Trilhos,
 
 [248|off=0x7fd8|chars=8]
- ~Motores
+ ~Motor
 
 [249|off=0x7ff0|chars=102]
 Motores funcionam como locomotivas.\nSe colocar nos trilhos,\npode mover vagoes juntos.
 
 [250|off=0x80c4|chars=96]
-Pode controlar o motor pelo\nMenu de Comandos ou diretamente\nno monitor com o botao <06>P.
+Pode controlar o motor pelo\nMenu de Comandos ou diretamente\nno monitor com o botao
 
 [251|off=0x8186|chars=8]
  botao.
@@ -767,7 +767,7 @@ Pode controlar o motor pelo\nMenu de Comandos ou diretamente\nno monitor com o b
 Vagoes servem como Carga e Passageiros.\nUsando Motores, pode faze-los\ncorrer com Carga ou Pessoas.
 
 [254|off=0x82e6|chars=62]
-Pode ser motorista\nse operar Motores\nenquanto estiver num Vagao.
+Voce pode dirigir se\noperar os Motores num Vagao.
 
 [255|off=0x836a|chars=40]
 "Como jogar com Trilhos," ~Envio
@@ -782,10 +782,10 @@ Coloque Trilhos pelo Quadrado na\nfrente da Unidade Auto. Itens\nno Vagao serao 
 Fisiocracia e Magia,
 
 [259|off=0x85b0|chars=21]
-\n~ou "Livro do Espirito"
+\n~ou "Livro Espirito"
 
 [260|off=0x85e2|chars=69]
-Se despejar Agua Sagrada\ncom um Regador Mistico,\npode derreter a neve.
+Se regar com Agua Sagrada\nnum Regador Mistico,\nderrete a neve.
 
 [261|off=0x8674|chars=75]
 So pode usar um Regador Mistico\nse trabalhou duro na Fazenda...
@@ -794,13 +794,13 @@ So pode usar um Regador Mistico\nse trabalhou duro na Fazenda...
 E um livro de Contos de Fadas\npara educacao infantil.
 
 [263|off=0x8790|chars=91]
-Parei numa pagina com\nilustração de um boneco de madeira\nsendo engolido por uma baleia enorme.
+Pausei numa pagina com a\nilustracao de um boneco de madeira\nengolido por uma baleia...
 
 [264|off=0x884e|chars=28]
-Meu coracao aperta...\nPor que?
+Meu coracao doi...\nPor que?
 
 [265|off=0x888e|chars=44]
-E um Livro de Haiku\nescrito pela Diretora Rose.
+E um Livro de Haiku\nda Diretora Rose.
 
 [266|off=0x88ee|chars=68]
 Ha mais Haikus sobre amor\ndo que sobre paisagem ou cotidiano.
@@ -809,19 +809,19 @@ Ha mais Haikus sobre amor\ndo que sobre paisagem ou cotidiano.
 E como ler o diario de outra\npessoa. Sinto-me um pouco culpado.
 
 [268|off=0x8a12|chars=30]
-Conto do Cavaleiro Arco e Amor,
+Conto do Cavaleiro Arco-Amor,
 
 [269|off=0x8a50|chars=7]
  Vol. 1
 
 [270|off=0x8a66|chars=63]
-Cavaleiro: P-p-pega este arco!\nPrincesa: ... sou eu que voce quer?
+Cavaleiro: P-pega este arco!\nPrincesa: ...sou eu que quer?
 
 [271|off=0x8aec|chars=108]
 Nao havia mais hesitacao.\nEle tomou coragem e deu um presente.\nO por do sol enrubesceu as bochechas.
 
 [272|off=0x8bce|chars=30]
-Conto do Cavaleiro Arco e Amor,
+Conto do Cavaleiro Arco-Amor,
 
 [273|off=0x8c0c|chars=7]
  Vol. 2
@@ -833,7 +833,7 @@ Princesa: Tambem tenho algo pra\nte dar, Cavaleiro: I-isso e...um broche!?
 Apaixonaram-se um pelo outro.\nEstavam quase 100 pixels mais pertos\nquando a escuridao os cobriu.
 
 [276|off=0x8d98|chars=6]
-Sim\nNao
+Yes\nNo
 
 [277|off=0x8dac|chars=6]
-Sim\nNao
+Yes\nNo

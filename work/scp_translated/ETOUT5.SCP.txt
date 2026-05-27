@@ -137,7 +137,7 @@ Becky: A lenda era sobre\nneve no verao, nao\nrosa florescendo no inverno...!
 Mas 
 
 [44|off=0x1aa4|chars=53]
-P's hands\nsomehow felt too weak\nto check the items...
+P ficou fraco demais\npara checar\nos itens...
 
 [45|off=0x1b18|chars=16]
 P olhou redor.
@@ -155,7 +155,7 @@ Ar frio saindo\ndo Shipping Pod...
 Ar frio saindo\ndo Shipping Pod...
 
 [50|off=0x1cc4|chars=29]
-Gayak: What's wrong with you\n
+Gayak: O que ha de errado\n
 
 [51|off=0x1d00|chars=59]
 P, me olhando assim?\nTenho algo no rosto?
@@ -257,25 +257,25 @@ Ok\nNao
 Salvar e dormir.\nDormir sem salvar.\nAnular.
 
 [84|off=0x28a2|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [85|off=0x28e2|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [86|off=0x2922|chars=16]
-Love increased!\n
+Amor aumentou!\n
 
 [87|off=0x2958|chars=24]
-Intelligence increased!\n
+Inteligencia aumentou!\n
 
 [88|off=0x299e|chars=19]
-Cooking increased!\n
+Cozinha aumentou!\n
 
 [89|off=0x29da|chars=22]
-Creativity increased!\n
+Criativid. aumentou!\n
 
 [90|off=0x2a1c|chars=17]
-Humor increased!\n
+Humor aumentou!\n
 
 [91|off=0x2a54|chars=58]
 Voce nao foi ao Dr. Hope\npara manutencao hoje!

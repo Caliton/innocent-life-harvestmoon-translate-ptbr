@@ -215,25 +215,25 @@ Voce usou o
 Salvar e dormir.\nDormir sem salvar.\nAnular.
 
 [70|off=0x24ae|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [71|off=0x24ee|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [72|off=0x252e|chars=16]
-Love increased!\n
+Amor aumentou!\n
 
 [73|off=0x2564|chars=24]
-Intelligence increased!\n
+Inteligencia aumentou!\n
 
 [74|off=0x25aa|chars=19]
-Cooking increased!\n
+Cozinha aumentou!\n
 
 [75|off=0x25e6|chars=22]
-Creativity increased!\n
+Criativid. aumentou!\n
 
 [76|off=0x2628|chars=17]
-Humor increased!\n
+Humor aumentou!\n
 
 [77|off=0x2660|chars=58]
 Voce nao foi ao Dr. Hope\npara manutencao hoje!

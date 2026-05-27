@@ -1,0 +1,814 @@
+[
+ {
+  "i": 0,
+  "pt": null
+ },
+ {
+  "i": 1,
+  "pt": "Conto do Cavaleiro Arco-Amor,"
+ },
+ {
+  "i": 2,
+  "pt": "Moonlight: O balido dos animais\\npode ser ouvido de novo\\nnessas ruinas!"
+ },
+ {
+  "i": 3,
+  "pt": "Franco: Ansioso!"
+ },
+ {
+  "i": 4,
+  "pt": "Moonlight: Nao sabia que\\nDr. Hope estava tao mal..."
+ },
+ {
+  "i": 5,
+  "pt": "P, eu tambem"
+ },
+ {
+  "i": 6,
+  "pt": "Franco: Entao voce enfim\\ncomecou a criar animais, ne?"
+ },
+ {
+  "i": 7,
+  "pt": "Moonlight: Deve ser por isso\\nque ele tinha tanta pressa\\nde terminar o trabalho..."
+ },
+ {
+  "i": 8,
+  "pt": "Franco: Sei que esta triste\\npelo Dr. Hope,"
+ },
+ {
+  "i": 9,
+  "pt": "Franco: Bom, nao devemos\\nnos preocupar muito com isso."
+ },
+ {
+  "i": 10,
+  "pt": "Esta pia e bem facil de usar."
+ },
+ {
+  "i": 11,
+  "pt": "Voce viu o quanto suas\\nmaos estavam sujas."
+ },
+ {
+  "i": 12,
+  "pt": "Voce lava o rosto.\\nSente-se um pouco refrescado."
+ },
+ {
+  "i": 13,
+  "pt": "E uma banheira automatica."
+ },
+ {
+  "i": 14,
+  "pt": "Este e um guarda-roupa.\\nNao ha nada de incomum\\nla dentro."
+ },
+ {
+  "i": 15,
+  "pt": "\"Leste: Mata Cogumelo\""
+ },
+ {
+  "i": 16,
+  "pt": "\"Leste: Deserto Flama\""
+ },
+ {
+  "i": 17,
+  "pt": "\"Norte: Planicie Flama\""
+ },
+ {
+  "i": 18,
+  "pt": "\"Planicie Flama\""
+ },
+ {
+  "i": 19,
+  "pt": "\"Lago Este\""
+ },
+ {
+  "i": 20,
+  "pt": "Seg. Qua. Sex.\\n\"Cade Minha Mae? A Jornada do Gatinho,\"\\n\"Final Z Rangers,\""
+ },
+ {
+  "i": 21,
+  "pt": "Ter. Qui. \"Bosque Melancolico,\"\\nSab&Dom. \"Miss Cute, Bruxa Aprendiz,\""
+ },
+ {
+  "i": 22,
+  "pt": "~Trilho"
+ },
+ {
+  "i": 23,
+  "pt": " ~Motor"
+ },
+ {
+  "i": 24,
+  "pt": "Voce pode dirigir se\\noperar os Motores num Vagao."
+ },
+ {
+  "i": 25,
+  "pt": "\\n~ou \"Livro Espirito\""
+ },
+ {
+  "i": 26,
+  "pt": "Se regar com Agua Sagrada\\nnum Regador Mistico,\\nderrete a neve."
+ },
+ {
+  "i": 27,
+  "pt": "Pausei numa pagina com a\\nilustracao de um boneco de madeira\\nengolido por uma baleia..."
+ },
+ {
+  "i": 28,
+  "pt": "Meu coracao doi...\\nPor que?"
+ },
+ {
+  "i": 29,
+  "pt": "Cavaleiro: P-pega este arco!\\nPrincesa: ...sou eu que quer?"
+ },
+ {
+  "i": 30,
+  "pt": "Franco: Quando eu era jovem, todos\\nlevavam suas paqueras\\naquela caverna."
+ },
+ {
+  "i": 31,
+  "pt": "Um cheiro agradavel vem\\ndo sabao aqui..."
+ },
+ {
+  "i": 32,
+  "pt": "Ha um adesivo da Banks\\nCorp. na lateral do\\nassento do banheiro."
+ },
+ {
+  "i": 33,
+  "pt": "E um Livro de Haiku\\nda Diretora Rose."
+ },
+ {
+  "i": 34,
+  "pt": "Franco: Claro, aquela area\\nficou fechada tanto tempo\\nque nao era de ninguem mesmo..."
+ },
+ {
+  "i": 35,
+  "pt": "Voce pegou o"
+ },
+ {
+  "i": 36,
+  "pt": "Nana: Acho que ela cozinha\\nmelhor que eu, no geral."
+ },
+ {
+  "i": 37,
+  "pt": "Vanessa: Ola!\\nVoce deve ser"
+ },
+ {
+  "i": 38,
+  "pt": "Prefeito: Ga."
+ },
+ {
+  "i": 39,
+  "pt": "Guardando o"
+ },
+ {
+  "i": 40,
+  "pt": "*: Hm? Quem e voce?\\nEspera, voce e"
+ },
+ {
+  "i": 41,
+  "pt": "Jonathan: Sou Jonathan Branch.\\nCuido da fazenda na colina."
+ },
+ {
+  "i": 42,
+  "pt": "Vita: So voce e eu\\nseguimos iguais..."
+ },
+ {
+  "i": 43,
+  "pt": "Franco: Com um buggy desses,\\neu levava a Rose num passeio\\ninesquecivel!"
+ },
+ {
+  "i": 44,
+  "pt": "Moonlight: Num buggy desses\\nvoce vai quase a\\nqualquer lugar!"
+ },
+ {
+  "i": 45,
+  "pt": "Franco: Ouvi que o Dr. Hope\\ncaiu mal..."
+ },
+ {
+  "i": 46,
+  "pt": "Franco: A melhor coisa pro\\nDr. Hope agora e ver o\\nquanto voce trabalha duro."
+ },
+ {
+  "i": 47,
+  "pt": "Marco: Enfim, Prefeito, segundo\\nas previsoes de Neo, a ilha\\ncorre perigo em um ou dois anos!"
+ },
+ {
+  "i": 48,
+  "pt": "Vita: A cidade toda\\nenlouqueceu..."
+ },
+ {
+  "i": 49,
+  "pt": "I\\nCaixa de Itens."
+ },
+ {
+  "i": 50,
+  "pt": "I enquanto\\nsegura o"
+ },
+ {
+  "i": 51,
+  "pt": "i e pos\\no"
+ },
+ {
+  "i": 52,
+  "pt": "J que\\nsegurava!"
+ },
+ {
+  "i": 53,
+  "pt": "Subir a fazenda.\\nSubir ao quarto.\\nEntrada das ruinas.\\nAnular."
+ },
+ {
+  "i": 54,
+  "pt": "Aqui nao e campo, o Braco\\nVital nao inicia! Mova a\\ncesta para um quadrado de campo."
+ },
+ {
+  "i": 55,
+  "pt": "Este e um Pod de Envio.\\nSo cabe dentro\\ncoisas que dao pra enviar."
+ },
+ {
+  "i": 56,
+  "pt": "*: Hm? Quem e voce?\\nEspera, voce e"
+ },
+ {
+  "i": 57,
+  "pt": "Jonathan: Quando se acostumar,\\npode por trilhos e brincar\\ncomo trens de brinquedo."
+ },
+ {
+  "i": 58,
+  "pt": "Hist. da Rosa Branca-V.2"
+ },
+ {
+  "i": 59,
+  "pt": "...Entao o velho disse,\\n"
+ },
+ {
+  "i": 60,
+  "pt": "Cheire esta rosa branca\\ne descanse um pouco."
+ },
+ {
+  "i": 61,
+  "pt": "Hist. da\\nRosa Branca-V.2,"
+ },
+ {
+  "i": 62,
+  "pt": "Dr. Hope: Orgulho de\\nte chamar de filho,"
+ },
+ {
+  "i": 63,
+  "pt": "Dr. Hope: Para se tornar\\nmesmo humano, tera que\\naprender o valor da vida"
+ },
+ {
+  "i": 64,
+  "pt": "Dr. Hope: E quero adicionar\\numas opcoes a"
+ },
+ {
+  "i": 65,
+  "pt": "R logo, se\\nvoce puder..."
+ },
+ {
+  "i": 66,
+  "pt": "Dorothy: Ja viu meu\\nprograma de TV, Vida na Cozinha?"
+ },
+ {
+  "i": 67,
+  "pt": "Jessica tirou pedra\\nvermelha brilhante."
+ },
+ {
+  "i": 68,
+  "pt": "Joia Vermelha!"
+ },
+ {
+  "i": 69,
+  "pt": "Jessica: Eu mando pra sua\\nCaixa de Itens. Sem stress."
+ },
+ {
+  "i": 70,
+  "pt": "Jessica: Gracas a voce, casei\\ncom um homem maravilhoso. Valeu."
+ },
+ {
+  "i": 71,
+  "pt": "Diretora Rose: Bocejo...\\nCochilo..."
+ },
+ {
+  "i": 72,
+  "pt": "P.\\nImpressionante. E a amada\\nVida Inocente do Dr. Hope!"
+ },
+ {
+  "i": 73,
+  "pt": "Esta e a Caixa de Itens. Guarde\\naqui ferramentas que nao\\npuder carregar."
+ },
+ {
+  "i": 74,
+  "pt": "Para guardar ou tirar itens,\\nencare a caixa e aperte o"
+ },
+ {
+  "i": 75,
+  "pt": "i\\nna Caixa Itens."
+ },
+ {
+  "i": 76,
+  "pt": "Pegou Bolsa de Sementes\\ne pos na Caixa de Itens."
+ },
+ {
+  "i": 77,
+  "pt": "Esta e a Caixa de Sementes.\\nUse pra esvaziar ou por\\nsementes na Bolsa."
+ },
+ {
+  "i": 78,
+  "pt": "Sem Bolsa de Sementes\\npra essas sementes."
+ },
+ {
+  "i": 79,
+  "pt": "I e pos na\\nBolsa de Sementes!"
+ },
+ {
+  "i": 80,
+  "pt": "Voce pos todas as sementes\\nda bolsa na Caixa!"
+ },
+ {
+  "i": 81,
+  "pt": "Voce jogou o\\n"
+ },
+ {
+  "i": 82,
+  "pt": "J que\\nsegurava!"
+ },
+ {
+  "i": 83,
+  "pt": "Iniciar.\\nVoltar.\\nSair."
+ },
+ {
+  "i": 84,
+  "pt": "P!\\nSao as Ruinas de Pascoa!"
+ },
+ {
+  "i": 85,
+  "pt": "P?\\nValeu!"
+ },
+ {
+  "i": 86,
+  "pt": "Marcia: Acho que disse que eram\\nsementes de aspargo. Aqui,\\nna Bolsa de Sementes."
+ },
+ {
+  "i": 87,
+  "pt": "P.\\nO fim de semana vem ai."
+ },
+ {
+  "i": 88,
+  "pt": "Franco: Temos que ralar\\na semana toda pra poder\\ndescansar nos fins de semana."
+ },
+ {
+  "i": 89,
+  "pt": "Moonlight: Perdao"
+ },
+ {
+  "i": 90,
+  "pt": "Moonlight: Sim!\\nDa pra sentir!\\nEnfim em casa!"
+ },
+ {
+  "i": 91,
+  "pt": "Franco: Brincadeira.\\nO Dr. Hope me mataria se eu\\ndanificasse aquele robo."
+ },
+ {
+  "i": 92,
+  "pt": "\"Quando acabar de explorar,\\nva ao norte do deserto...\\nAlem das planicies...\""
+ },
+ {
+  "i": 93,
+  "pt": "\"Ela pode te contar mais\\nsobre o Espirito da Agua\\nque cuida desta ilha.\""
+ },
+ {
+  "i": 94,
+  "pt": "R espera!\\nTalvez deva falar com ele."
+ },
+ {
+  "i": 95,
+  "pt": "Culinaria subiu!\\n"
+ },
+ {
+  "i": 96,
+  "pt": "Criatividade subiu!\\n"
+ },
+ {
+  "i": 97,
+  "pt": "P.\\nJa estou bem cansado."
+ },
+ {
+  "i": 98,
+  "pt": "tudo bem?\\nCheio de amor,"
+ },
+ {
+  "i": 99,
+  "pt": "Vanessa: Espero que um cavaleiro\\nigual ao pai dela\\napareca pra ela..."
+ },
+ {
+  "i": 100,
+  "pt": "Charles: Treino pensar coisas\\npositivas pra nao errar quando\\nfor prefeito e der discursos."
+ },
+ {
+  "i": 101,
+  "pt": "Dorothy: Ola,"
+ },
+ {
+  "i": 102,
+  "pt": "P.\\nEste ano usamos um bolo\\nda autococora da Lucia."
+ },
+ {
+  "i": 103,
+  "pt": "Dorothy: Aposto que o Dr. Hope\\nficaria muito feliz em ver."
+ },
+ {
+  "i": 104,
+  "pt": "Dorothy: Ah, e paguei na sua\\nconta, como sempre."
+ },
+ {
+  "i": 105,
+  "pt": "Masami: Na minha terra, sempre\\nusavamos muitos bicos-de-papagaio\\nno Natal."
+ },
+ {
+  "i": 106,
+  "pt": "Masami: Mas os daqui nao\\nparecem ser de um fornecedor\\nmuito confiavel."
+ },
+ {
+  "i": 107,
+  "pt": "Masami: Flor so desabrocha\\nlinda com amor."
+ },
+ {
+  "i": 108,
+  "pt": "Sharon: Bonita e esperta.\\nUma moca otima mesmo."
+ },
+ {
+  "i": 109,
+  "pt": "P. Que tal descansar?"
+ },
+ {
+  "i": 110,
+  "pt": "Marco: A Montanha Flama prestes\\na entrar em erupcao, e meus\\nhomens ainda de bracos cruzados..."
+ },
+ {
+  "i": 111,
+  "pt": "Marco: O superresfriante da\\nminha empresa pode deter\\nqualquer erupcao antes da hora!"
+ },
+ {
+  "i": 112,
+  "pt": "P.\\nQue incrivel."
+ },
+ {
+  "i": 113,
+  "pt": "Lucia: Queria que a Marcia\\nse interessasse por culinaria..."
+ },
+ {
+  "i": 114,
+  "pt": "Jonathan: Pensando bem, e dificil\\ncrer como chegamos perto da\\nMontanha Flama entrar em erupcao."
+ },
+ {
+  "i": 115,
+  "pt": "*: Pai! To entrando!"
+ },
+ {
+  "i": 116,
+  "pt": "Prefeito: Nao grite, Charles.\\nNao falei pra nao me chamar\\nde \"Pai\" no trabalho?"
+ },
+ {
+  "i": 117,
+  "pt": "Prefeito: Hmm...\\nEntao foi aquele em vez\\ndeste, hein...?"
+ },
+ {
+  "i": 118,
+  "pt": "Prefeito: Precisa de hora\\nmarcada pra me ver, ok?"
+ },
+ {
+  "i": 119,
+  "pt": "Marco: Se voce destinasse parte\\ndo orcamento da cidade ao projeto\\nde resfriamento da minha empresa..."
+ },
+ {
+  "i": 120,
+  "pt": "Marco: E por isso, Prefeito! Pelas\\nleituras de Neo, esta ilha vai\\nse tornar pacifica com certeza."
+ },
+ {
+  "i": 121,
+  "pt": "Neo te da um bilhete."
+ },
+ {
+  "i": 122,
+  "pt": "Dr. Hope: Gosto sempre de um\\npequeno prato de legumes\\nno jantar."
+ },
+ {
+  "i": 123,
+  "pt": "Dr. Hope: Pra falar a verdade,\\nmeu medico que mandou."
+ },
+ {
+  "i": 124,
+  "pt": "Dr. Hope: Meu corpo nao da\\npra consertar tao facil\\nquanto o seu,\\n"
+ },
+ {
+  "i": 125,
+  "pt": "Dr. Hope: Hm? Nao se preocupe.\\nVou estar por aqui ate voce\\nse virar."
+ },
+ {
+  "i": 126,
+  "pt": "Dr. Hope: Quando contei aos\\nmeus pais, ficaram bem felizes."
+ },
+ {
+  "i": 127,
+  "pt": "Vita: Os Bracos Vitais vao bem?"
+ },
+ {
+  "i": 128,
+  "pt": "Este guarda-roupa parece\\nbem caro..."
+ },
+ {
+  "i": 129,
+  "pt": "A pressao da agua\\nparece baixa..."
+ },
+ {
+  "i": 130,
+  "pt": "Parece que ja deram\\ndescarga..."
+ },
+ {
+  "i": 131,
+  "pt": "Voce aperta o botao \"Desc.\"."
+ },
+ {
+  "i": 132,
+  "pt": "Achei um guia de TV preso\\nentre revistas encharcadas."
+ },
+ {
+  "i": 133,
+  "pt": "Ponha trilhos e prepare\\ntudo pra usar os Trilhos Pod."
+ },
+ {
+  "i": 134,
+  "pt": "Princesa: Tambem tenho algo a dar,\\nCavaleiro: I-isso e...um broche!?"
+ },
+ {
+  "i": 135,
+  "pt": "Dr. Hope: Tempos atras, aquela area\\nera muito fertil --\\nsonho de qualquer morador."
+ },
+ {
+  "i": 136,
+  "pt": "Dr. Hope: Mas todo saber do\\nmundo nao vai te ajudar a\\nentender certas coisas."
+ },
+ {
+  "i": 137,
+  "pt": "Moonlight: Estava enterrado na mata\\nperto das Ruinas Leste. Acho\\nque e um Battlebot."
+ },
+ {
+  "i": 138,
+  "pt": "Dr. Hope: Hmm... Sim, isso\\nvai demorar pra reparar..."
+ },
+ {
+  "i": 139,
+  "pt": "Franco: Nao acredito que Marco\\ncometeu um erro tao grande."
+ },
+ {
+  "i": 140,
+  "pt": "Franco: Ouvi que voce plantou\\nbicos-de-papagaio."
+ },
+ {
+  "i": 141,
+  "pt": "O cafe que a Vita preparou\\nestava incrivelmente bom."
+ },
+ {
+  "i": 142,
+  "pt": "Vita parece dormir..."
+ },
+ {
+  "i": 143,
+  "pt": "Nana: Vejamos... Acho que\\n100g ja bastam."
+ },
+ {
+  "i": 144,
+  "pt": "Dr. Hope: Da pra ver TV, cozinhar,\\nou bater papo com gente da cidade."
+ },
+ {
+  "i": 145,
+  "pt": "P...\\nComo vai o buggy?"
+ },
+ {
+  "i": 146,
+  "pt": "Gayak: Eu queria"
+ },
+ {
+  "i": 147,
+  "pt": "P cultivasse\\noutras plantacoes."
+ },
+ {
+  "i": 148,
+  "pt": "Gayak: Se oferecermos um\\n"
+ },
+ {
+  "i": 149,
+  "pt": "Gayak: Hmm... Ok.\\nVou tentar de novo."
+ },
+ {
+  "i": 150,
+  "pt": "Gayak: Mando 3 Bolsas e uma\\nCesta de Colheita pra sua\\nCaixa de Itens."
+ },
+ {
+  "i": 151,
+  "pt": "Dr. Hope: Festival\\ne domingo que vem."
+ },
+ {
+  "i": 152,
+  "pt": "P.\\nTenho um presente pra ti."
+ },
+ {
+  "i": 153,
+  "pt": "Dr. Hope: Enfim terminei de\\nmodificar seu robo assistente!"
+ },
+ {
+  "i": 154,
+  "pt": "Dr. Hope: Receio que"
+ },
+ {
+  "i": 155,
+  "pt": "R comecou a\\nvarrer area..."
+ },
+ {
+  "i": 156,
+  "pt": "P.\\nAcho que seu exame\\nacabou, ne?"
+ },
+ {
+  "i": 157,
+  "pt": "Marcia: Essa voz...\\nO prefeito veio?"
+ },
+ {
+  "i": 158,
+  "pt": "P e o resultado."
+ },
+ {
+  "i": 159,
+  "pt": "Marcia: Sei. Uau..."
+ },
+ {
+  "i": 160,
+  "pt": "Marcia: Calma,"
+ },
+ {
+  "i": 161,
+  "pt": "Vita: Ambos tem esperancas,\\nsonhos, ideias e medos.\\nAmbos sao gente."
+ },
+ {
+  "i": 162,
+  "pt": "Marcia: Perdao"
+ },
+ {
+  "i": 163,
+  "pt": "Pela primeira vez voce ve\\nsua natureza real!"
+ },
+ {
+  "i": 164,
+  "pt": "Masami te deu uma pedra\\nbrilhante! E Joia Vermelha!"
+ },
+ {
+  "i": 165,
+  "pt": "Vita: Hm? A Floresta\\nCogumelo? Bem..."
+ },
+ {
+  "i": 166,
+  "pt": "Dr. Hope: E agora a ma noticia..."
+ },
+ {
+  "i": 167,
+  "pt": "Marcia: Oh...\\nTriste..."
+ },
+ {
+  "i": 168,
+  "pt": "P.\\nDorothy, mulher do prefeito."
+ },
+ {
+  "i": 169,
+  "pt": "Marco: Voce e"
+ },
+ {
+  "i": 170,
+  "pt": "Marco: Voce tem que acreditar,\\n"
+ },
+ {
+  "i": 171,
+  "pt": "P. O que houve na\\ncaverna nao foi acidente."
+ },
+ {
+  "i": 172,
+  "pt": "Lucia: Nossa! Que bolsa barata!\\nE \"leve um, ganhe outro\"!"
+ },
+ {
+  "i": 173,
+  "pt": "Lucia: Por que a Dorothy\\nainda esta aqui."
+ },
+ {
+  "i": 174,
+  "pt": "Lucia: A Marcia nunca esta\\nem casa... Podia ao menos\\nficar em casa aos sabados..."
+ },
+ {
+  "i": 175,
+  "pt": "Sharon: Ate meu cao Polo\\nesta de bom humor hoje!"
+ },
+ {
+  "i": 176,
+  "pt": "Jessica: Foi mal, estou\\ntrabalhando agora."
+ },
+ {
+  "i": 177,
+  "pt": "Big: Ah... Sem graca."
+ },
+ {
+  "i": 178,
+  "pt": "Bobby: Todo filho do Dr. Hope\\nso pode ser bem esperto."
+ },
+ {
+  "i": 179,
+  "pt": "Lionel: N-Nao fale comigo!\\nVao me fazer dar mais\\nvoltas!"
+ },
+ {
+  "i": 180,
+  "pt": "Max: Corra! Corra!\\nSe vacilar, te faco\\ncorrer o dobro de voltas!"
+ },
+ {
+  "i": 181,
+  "pt": "*: Iiha!"
+ },
+ {
+  "i": 182,
+  "pt": "\\nSou um gato perdido"
+ },
+ {
+  "i": 183,
+  "pt": "Diretora Rose: Mas passe pra\\nnos visitar de vez em quando.\\nSera uma experiencia\\nvaliosa pra voce."
+ },
+ {
+  "i": 184,
+  "pt": "Vanessa: Queria que as pessoas\\nsoltassem os pensamentos\\ncomo Moonlight faz na arte."
+ },
+ {
+  "i": 185,
+  "pt": "Simon: Preto...\\nPreto...\\nQuero bem preto!"
+ },
+ {
+  "i": 186,
+  "pt": "Sharon: So nao sou\\nboa com maquinas."
+ },
+ {
+  "i": 187,
+  "pt": "P.\\nVanessa da Fazenda Branch."
+ },
+ {
+  "i": 188,
+  "pt": "\\nOuca o canto!"
+ },
+ {
+  "i": 189,
+  "pt": "\\nCanto de vida!"
+ },
+ {
+  "i": 190,
+  "pt": "Sharon: Droga. Sem internet.\\nVou pedir pro Bobby ver\\nmeu computador de novo."
+ },
+ {
+  "i": 191,
+  "pt": "Sharon: Bobby sempre vem\\nquando chamo. Tem ajudado muito."
+ },
+ {
+  "i": 192,
+  "pt": "Becky: La~La~La, a magia da ciencia~\\nUm menino corre ao vento~~"
+ },
+ {
+  "i": 193,
+  "pt": "*: Gaga iiha!"
+ },
+ {
+  "i": 194,
+  "pt": "P. Bem-vindo a Escola\\nVulcao. Sou a Diretora."
+ },
+ {
+  "i": 195,
+  "pt": "Jean: Ah, entendo.\\nVoce e"
+ },
+ {
+  "i": 196,
+  "pt": "Jean: O Dr. Hope era\\num cara legal."
+ },
+ {
+  "i": 197,
+  "pt": "Liberta: Ronco... Ah sim senhor,\\num tinto seria otima escolha.\\nTalvez uma safra mais\\nrecente... Ronco..."
+ },
+ {
+  "i": 198,
+  "pt": "Liberta: Vinho de gelo...\\nTao doce... Ronco!"
+ },
+ {
+  "i": 199,
+  "pt": "Liberta: Aqui, pegue."
+ },
+ {
+  "i": 200,
+  "pt": "Liberta: Ainda nao terminei,\\nmas minhas palavras vao\\nmaturar quando o garoto ver o mundo."
+ },
+ {
+  "i": 201,
+  "pt": "Uma nova palavra entrou\\nno Dicionario de Liberta!"
+ },
+ {
+  "i": 202,
+  "pt": "P ganhou quatro Joias Negras.\\n"
+ }
+]

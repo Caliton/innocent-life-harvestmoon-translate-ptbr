@@ -5,520 +5,520 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0x92a|chars=81]
-The year 2022. Dr. Hope\nGrain's lab on a small island\nin the southern hemisphere.
+Ano 2022. O laboratorio de Dr.\nHope Grain numa pequena ilha\nno hemisferio sul.
 
 [1|off=0x9d8|chars=85]
-Gayak: Hm? That's funny. I thought\nI heard... No, I guess it's just\nmy imagination...
+Gayak: Hm? Que estranho. Achei\nque ouvi... Nao, deve ser so\nimaginacao minha...
 
 [2|off=0xa8e|chars=39]
-*: What is it? What is it?\nA new human?
+*: O que e? O que e?\nUm novo humano?
 
 [3|off=0xae8|chars=58]
-*: What is it? What is it?\nIt doesn't seem like a human...
+*: O que e? O que e?\nNao parece ser um humano...
 
 [4|off=0xb68|chars=24]
-*: We'd better tell her.
+*: Melhor contar a ela.
 
 [5|off=0xba4|chars=37]
-*: Yes, we'd better tell the Spirits.
+*: Sim, contemos aos Espiritos.
 
 [6|off=0xbfa|chars=45]
-Gayak: What is it?\nSome animals or something?
+Gayak: O que e?\nUns animais ou algo assim?
 
 [7|off=0xc60|chars=71]
-Gayak: Now that I think of it, I did\nhear some noises a bit ago, too...
+Gayak: Agora que penso, tambem\nouvi uns ruidos ha pouco...
 
 [8|off=0xcfa|chars=98]
-Gayak: It's almost spring... You don't\nsuppose a bear is out\nlooking for something to eat? Hahaha!
+Gayak: Ja e quase primavera... Sera\nque um urso saiu por ai\nprocurando algo pra comer? Hahaha!
 
 [9|off=0xdca|chars=27]
 Gayak: ....................
 
 [10|off=0xe0c|chars=37]
-Gayak: Anyway, we'd better get going!
+Gayak: Enfim, melhor irmos andando!
 
 [11|off=0xe62|chars=16]
-Gayak: Come on, 
+Gayak: Vamos,
 
 [12|off=0xe94|chars=35]
-Gayak: We're here.\nThis is my farm.
+Gayak: E minha fazenda.
 
 [13|off=0xee6|chars=76]
-Gayak: Of course, it's covered in snow\nright now, since it's still winter...
+Gayak: Claro, agora esta coberta de\nneve, ja que ainda e inverno...
 
 [14|off=0xf8a|chars=64]
-Gayak: But since I can't teach you how\nto farm without a farm...
+Gayak: Mas nao da pra ensinar\na cultivar sem uma fazenda...
 
 [15|off=0x1016|chars=13]
-Gayak: There!
+Gayak: Pronto
 
 [16|off=0x103c|chars=69]
-Gayak: This is a Virtual Farm.\nYou can farm it just like a\nreal farm.
+Gayak: E uma Fazenda Virtual.\nDa pra cultivar nela\ncomo numa real.
 
 [17|off=0x10d2|chars=90]
-Gayak: Hahaha! Did I surprise you?\nThis is another one of Dr. Hope's\ninventions, you know.
+Gayak: Hahaha! Te assustei?\nEssa e mais uma das invencoes\ndo Dr. Hope, sabia.
 
 [18|off=0x1192|chars=23]
-Gayak: Come over here, 
+Gayak: Venha ate aqui,
 
 [19|off=0x11d2|chars=92]
-Gayak: The first thing you'll need to\ndo is till the soil. Just use\nyour hoe to break it up.
+Gayak: A primeira coisa a fazer e\narar o solo. Use sua enxada\npara revira-lo.
 
 [20|off=0x1296|chars=42]
-Gayak: Here, why don't you equip\nthis hoe?
+Gayak: Tome, que tal equipar\nesta enxada?
 
 [21|off=0x12f2|chars=25]
-You received an\nIron Hoe!
+Pegou uma\nEnxada Ferro!
 
 [22|off=0x1330|chars=51]
-Gayak: Let's see now. In order to\nequip your hoe...
+Gayak: Vejamos. Para equipar\nsua enxada...
 
 [23|off=0x13a2|chars=92]
-Gayak: Oh yes, you need to press the\nL1 button! Choose the hoe with\nthe directional buttons!
+Gayak: Ah sim, aperte o botao\nL1! Escolha a enxada com\nos botoes direcionais!
 
 [24|off=0x1466|chars=17]
-Gayak: Now then, 
+Gayak: Pois bem,
 
 [25|off=0x148a|chars=76]
-P.\nPress the L1 button to look at your inventory\nand equip the hoe with the 
+P.\nAperte L1 para ver seu inventario\ne equipe a enxada com o
 
 [26|off=0x1524|chars=8]
- button!
+ botao!
 
 [27|off=0x1540|chars=17]
-Gayak: Now then, 
+Gayak: Entao,
 
 [28|off=0x1564|chars=76]
-P.\nPress the L1 button to look at your inventory\nand equip the hoe with the 
+P.\nAperte L1 para ver seu inventario\ne equipe a enxada com o
 
 [29|off=0x15fe|chars=8]
- button!
+ botao!
 
 [30|off=0x161a|chars=91]
-Gayak: Good. You equipped it.\nNow head for the field on the mat\nand swing the hoe with the 
+Gayak: Otimo. Esta equipada.\nVa ao campo no tapete e\nbalance a enxada com o
 
 [31|off=0x16d2|chars=8]
  botao.
 
 [32|off=0x16ee|chars=91]
-Gayak: Good. You equipped it.\nNow head for the field on the mat\nand swing the hoe with the 
+Gayak: Otimo. Esta equipada.\nVa ao campo no tapete e\nbalance a enxada com o
 
 [33|off=0x17a6|chars=8]
  botao.
 
 [34|off=0x17c2|chars=12]
-Gayak: Hey, 
+Gayak: Ei,
 
 [35|off=0x17dc|chars=61]
-P!\nWhere do you think you're going?\nUse the hoe in the field!
+P!\nAonde voce pensa que vai?\nUse a enxada no campo!
 
 [36|off=0x1862|chars=41]
-Gayak: Yep! That's how you\ntill the soil!
+Gayak: Isso! E assim que\nse ara o solo!
 
 [37|off=0x18c0|chars=99]
-Gayak: Oh, I see you tried tilling a\npiece of land that's already tilled.\nThat doesn't do anything.
+Gayak: Ah, vejo que tentou arar um\npedaco de terra ja arado.\nIsso nao adianta nada.
 
 [38|off=0x1992|chars=18]
-Gayak: Well done, 
+Gayak: Muito bem,
 
 [39|off=0x19b8|chars=23]
-P!\nYou've got the idea!
+P!\nVoce pegou o jeito!
 
 [40|off=0x19f2|chars=30]
-Gayak: Oh! You're doing great!
+Gayak: Oh! Voce vai muito bem!
 
 [41|off=0x1a3a|chars=50]
-Gayak: Hmm! I think you're\ncut out to be a farmer!
+Gayak: Hmm! Voce nasceu\npra ser fazendeiro!
 
 [42|off=0x1aaa|chars=80]
-Gayak: All right, that's enough.\nNext, you'll be planting seeds.\nCome over here.
+Gayak: Pronto, ja chega.\nAgora voce vai plantar sementes.\nVenha ate aqui.
 
 [43|off=0x1b56|chars=48]
-Gayak: Hmm! I think you may have\na green thumb, 
+Gayak: Hmm! Acho que voce tem\njeito pra terra,
 
 [44|off=0x1bc8|chars=60]
-Gayak: Now let's plant some seeds.\nHere, take this Seed Bag.
+Gayak: Vamos plantar.\nTome, pegue esta Bolsa de Sementes.
 
 [45|off=0x1c48|chars=24]
-You received a\nSeed Bag!
+Voce recebeu uma\nBolsa!
 
 [46|off=0x1c84|chars=110]
-Gayak: In order to plant seeds, you need\na bag with seeds in it. This bag has\n9 squares worth of potato seeds.
+Gayak: Para plantar, precisa de\numa bolsa com sementes. Esta bolsa tem\n9 quadrados de sementes de batata.
 
 [47|off=0x1d6c|chars=109]
-Gayak: Equip the Seed Bag like you did\nwith the hoe and spread the seeds on\nthe soil that you tilled earlier.
+Gayak: Equipe a Bolsa como fez com a\nenxada e espalhe as sementes no\nsolo que voce arou antes.
 
 [48|off=0x1e52|chars=109]
-Gayak: Equip the Seed Bag like you did\nwith the hoe and spread the seeds on\nthe soil that you tilled earlier.
+Gayak: Equipe a Bolsa como fez com a\nenxada e espalhe as sementes no\nsolo que voce arou antes.
 
 [49|off=0x1f38|chars=12]
-Gayak: Hey, 
+Gayak: Ei,
 
 [50|off=0x1f52|chars=65]
-P!\nWhere do you think you're going?\nPlant the seeds in the field!
+P!\nAonde voce pensa que vai?\nPlante as sementes no campo!
 
 [51|off=0x1fe0|chars=59]
-Gayak: Yes! You did a pretty good job\nplanting those seeds!
+Gayak: Isso! Voce mandou bem\nplantando essas sementes!
 
 [52|off=0x2062|chars=18]
-Gayak: Well done, 
+Gayak: Muito bem,
 
 [53|off=0x2088|chars=23]
-P!\nYou've got the idea!
+P!\nVoce pegou o jeito!
 
 [54|off=0x20c2|chars=30]
-Gayak: Oh! You're doing great!
+Gayak: Oh! Voce vai muito bem!
 
 [55|off=0x210a|chars=52]
-Gayak: Hmm! I think you were\ncut out to be a farmer!
+Gayak: Hmm! Voce nasceu\npra ser fazendeiro!
 
 [56|off=0x217e|chars=89]
-Gayak: All right then! That's enough.\nNext, you need to water your seeds.\nCome over here.
+Gayak: Muito bem! Ja chega.\nAgora voce precisa regar as sementes.\nVenha ate aqui.
 
 [57|off=0x223c|chars=53]
-Gayak: Dr. Hope was right about you.\nYou have talent!
+Gayak: O Dr. Hope tinha razao.\nVoce tem talento!
 
 [58|off=0x22b2|chars=96]
-Gayak: OK! Now let's try watering the\nseeds. Let me put some water in the\nDoctor's Watering Can.
+Gayak: OK! Vamos regar as\nsementes. Deixa eu por agua no\nRegador do Doutor.
 
 [59|off=0x237a|chars=69]
-Gayak put some water from his\nthermos into the Doctor's Watering\nCan!
+Gayak colocou agua da sua\ngarrafa termica no Regador\ndo Doutor!
 
 [60|off=0x2410|chars=108]
-Gayak: This is a one-time-only thing.\nWhen you go to the Easter Ruins,\nyou'll have to get water by yourself.
+Gayak: Isso e so desta vez.\nQuando for as Easter Ruins,\nvoce tera que pegar agua sozinho.
 
 [61|off=0x24f4|chars=81]
-Gayak: Now equip the watering can and\nwater the soil where you planted\nthe seeds.
+Gayak: Agora equipe o regador e\nregue o solo onde voce plantou\nas sementes.
 
 [62|off=0x25a2|chars=81]
-Gayak: Now equip the watering can and\nwater the soil where you planted\nthe seeds.
+Gayak: Agora equipe o regador e\nregue o solo onde voce plantou\nas sementes.
 
 [63|off=0x2650|chars=12]
-Gayak: Hey, 
+Gayak: Ei,
 
 [64|off=0x266a|chars=71]
-P!\nWhere do you think you're going?\nWater the soil where the seeds are!
+P!\nAonde voce pensa que vai?\nRegue o solo onde estao as sementes!
 
 [65|off=0x2704|chars=116]
-Gayak: Yes, good job! Your watering can\nonly holds a certain amount of water,\nso only water the places that need it.
+Gayak: Isso, bom trabalho! Seu regador\nso comporta uma certa quantidade de agua,\nentao regue so onde for preciso.
 
 [66|off=0x27f8|chars=53]
-Gayak: Hm? You didn't plant any\nseeds there, did you?
+Gayak: Hm? Voce nao plantou\nsementes ai, plantou?
 
 [67|off=0x286e|chars=109]
-Gayak: It doesn't matter which you do\nfirst, plant the seeds or water the\nplant. Just don't waste your water.
+Gayak: Tanto faz o que faz primeiro,\nplantar as sementes ou regar a\nplanta. So nao desperdice agua.
 
 [68|off=0x2954|chars=18]
-Gayak: Well done, 
+Gayak: Muito bem,
 
 [69|off=0x297a|chars=23]
-P!\nYou've got the idea!
+P!\nVoce pegou o jeito!
 
 [70|off=0x29b4|chars=30]
-Gayak: Oh! You're doing great!
+Gayak: Oh! Voce vai muito bem!
 
 [71|off=0x29fc|chars=50]
-Gayak: Hmm! I think you're\ncut out to be a farmer!
+Gayak: Hmm! Voce nasceu\npra ser fazendeiro!
 
 [72|off=0x2a6c|chars=46]
-Gayak: OK! You're finished.\nCome on back here.
+Gayak: OK! Voce terminou.\nVolte aqui.
 
 [73|off=0x2ad4|chars=79]
-Gayak: You managed to learn most of\nwhat you need to know in just a\nsingle day.
+Gayak: Voce aprendeu quase tudo\nque precisa saber em apenas\num unico dia.
 
 [74|off=0x2b7e|chars=101]
-Gayak: Now just water your crops every\nday and wait for the harvest.\nLet me just press this button...
+Gayak: Agora e so regar as plantacoes\ntodo dia e esperar a colheita.\nDeixa eu apertar este botao...
 
 [75|off=0x2c54|chars=104]
-Gayak: Haha! Surprised you, did I?\nI just used this remote control to\nadvance time on this mat by 1 day!
+Gayak: Haha! Te assustei, ne?\nUsei este controle remoto para\navancar 1 dia neste tapete!
 
 [76|off=0x2d30|chars=106]
-Gayak: Of course, these are just virtual\ncrops. Even if you harvest them, you\ncan't eat them or sell them.
+Gayak: Claro, estas sao plantacoes\nvirtuais. Mesmo que as colha, nao\nda pra comer nem vender.
 
 [77|off=0x2e10|chars=59]
-Gayak: Look! The potatoes have been\ngrowing for 3 days now!
+Gayak: Olha! As batatas ja estao\ncrescendo ha 3 dias!
 
 [78|off=0x2e92|chars=35]
-Gayak: Let's take a look at 5 days!
+Gayak: Vamos ver com 5 dias!
 
 [79|off=0x2ee4|chars=57]
-Gayak: And on the 6th day, they're\nready to be harvested!
+Gayak: E no 6o dia, ja estao\nprontas pra colheita!
 
 [80|off=0x2f62|chars=14]
-Gayak: Uh-oh!!
+Gayak: Ai-ai!!
 
 [81|off=0x2f8a|chars=64]
-Gayak: Sorry about that, Chocola!\nD-Don't worry.\nYou'll be fine.
+Gayak: Desculpa, Chocola!\nN-Nao se preocupe.\nVai ficar bem.
 
 [82|off=0x3016|chars=69]
-Gayak: We'll just keep this a secret\nfrom my wife Marlene, all right?
+Gayak: Vamos manter isso em segredo\nda minha esposa Marlene, ta bom?
 
 [83|off=0x30a8|chars=13]
 Chocola: Arf!
 
 [84|off=0x30ce|chars=41]
-Gayak: Hahaha!\nI'm glad you're all right!
+Gayak: Hahaha!\nQue bom que esta bem!
 
 [85|off=0x312c|chars=102]
-Gayak: Ahem! Anyway, this mat can be\na little dangerous, so don't touch\nthe remote control, all right?
+Gayak: Ahem! Enfim, este tapete pode\nser meio perigoso, entao nao toque\nno controle remoto, ta bom?
 
 [86|off=0x3204|chars=50]
-Gayak: Now then, it's time for the\npotato harvest!
+Gayak: Pois bem, hora da\ncolheita das batatas!
 
 [87|off=0x3274|chars=68]
-Gayak: Go to one of those plants with\na blooming flower and use the\n
+Gayak: Va ate uma das plantas com\numa flor desabrochada e use o\n
 
 [88|off=0x32fe|chars=22]
- button to harvest it.
+ botao pra colher.
 
 [89|off=0x3336|chars=68]
-Gayak: Go to one of those plants with\na blooming flower and use the\n
+Gayak: Va ate uma das plantas com\numa flor desabrochada e use o\n
 
 [90|off=0x33c0|chars=22]
- button to harvest it.
+ botao pra colher.
 
 [91|off=0x33f8|chars=12]
-Gayak: Hey, 
+Gayak: Ei,
 
 [92|off=0x3412|chars=44]
-P!\nWhere do you think you're going?\nUse the 
+P!\nAonde voce pensa que vai?\nUse o
 
 [93|off=0x346c|chars=22]
- button to harvest it!
+ botao pra colher!
 
 [94|off=0x34a4|chars=43]
-Gayak: Good! That's just fine. Now use\nthe 
+Gayak: Otimo! Perfeito. Agora use\no
 
 [95|off=0x34fc|chars=64]
- button to put it in the Shipping\nPod at the bottom of the hill.
+ botao pra por no Pod de Envio\nno pe da colina.
 
 [96|off=0x3588|chars=43]
-Gayak: Good! That's just fine. Now use\nthe 
+Gayak: Otimo! Perfeito. Agora use\no
 
 [97|off=0x35e0|chars=64]
- button to put it in the Shipping\nPod at the bottom of the hill.
+ botao pra por no Pod de Envio\nno pe da colina.
 
 [98|off=0x366c|chars=12]
-Gayak: Hey, 
+Gayak: Ei,
 
 [99|off=0x3686|chars=68]
-P!\nWhere do you think you're going?\nThe Shipping Pod isn't that way!
+P!\nAonde voce pensa que vai?\nO Pod de Envio nao e por ai!
 
 [100|off=0x371a|chars=93]
-Gayak: You're supposed to be shipping\nthose potatoes, you know. Not putting\nthem in your bag!
+Gayak: Voce devia enviar essas\nbatatas, sabia. Nao guarda-las\nna sua bolsa!
 
 [101|off=0x37e0|chars=116]
-Gayak: You'll have to press the L1 button\nto look at your inventory and take it\nout of the bag to put it in the pod.
+Gayak: Voce tera que apertar L1 para\nver o inventario e tira-la da bolsa\npara coloca-la no pod.
 
 [102|off=0x38d4|chars=69]
-Gayak: You can't just throw one of your\nprecious crops on the ground!
+Gayak: Nao da pra jogar uma das suas\npreciosas plantacoes no chao!
 
 [103|off=0x396a|chars=61]
-Gayak: If you don't pick it up quick,\nit'll disappear! Go on!
+Gayak: Se nao pegar rapido,\nvai sumir! Vai logo!
 
 [104|off=0x39ec|chars=49]
-You put the virtual potato\ninto the Shipping Pod.
+Voce colocou a batata virtual\nno Pod de Envio.
 
 [105|off=0x3a56|chars=79]
-But because it's a virtual crop,\nit disappeared as soon as it was\nput inside...
+Mas por ser uma plantacao virtual,\nela sumiu assim que foi\ncolocada dentro...
 
 [106|off=0x3b00|chars=41]
-Gayak: All right! That's enough of that,\n
+Gayak: Muito bem! Ja chega disso,\n
 
 [107|off=0x3b64|chars=79]
-Gayak: Now you've mastered everything\nfrom planting to harvesting and\nshipping.
+Gayak: Agora voce domina tudo,\ndo plantio a colheita e\nao envio.
 
 [108|off=0x3c0e|chars=26]
-*: Oh, hello!\nYou must be 
+*: Ah, ola!\nVoce deve ser
 
 [109|off=0x3c54|chars=35]
-Marlene: I'm Gayak's wife, Marlene.
+Marlene: Sou a esposa de Gayak.
 
 [110|off=0x3ca6|chars=124]
-Marlene: Our dog Chocola was so\nexcited that I figured my husband\nwas home.\nI see you were practicing\nworking in the fields.
+Marlene: Nosso cao Chocola estava tao\nanimado que achei que meu marido\nvoltou.\nVejo que praticava\no trabalho no campo.
 
 [111|off=0x3daa|chars=104]
-Marlene: It must have been chilly out\nthere. You should have had a nice cup\nof tea before you started...
+Marlene: Devia estar frio la fora.\nVoce devia ter tomado uma bela xicara\nde cha antes de comecar...
 
 [112|off=0x3e86|chars=55]
-Gayak: Hahaha! Don't worry about us,\nMarlene. Come on, 
+Gayak: Hahaha! Nao se preocupe,\nMarlene. Vamos,
 
 [113|off=0x3ef6|chars=19]
-P.\nLet's go inside.
+P.\nVamos entrar.
 
 [114|off=0x3f24|chars=82]
-You finished your training and\nenjoyed Gayak and Marlene's\ncompany at their house.
+Voce terminou o treino e\ncurtiu a companhia de Gayak\ne Marlene na casa deles.
 
 [115|off=0x3fd0|chars=73]
-Having been invited to stay the\nnight, you went to bed and\nfell asleep...
+Convidado a passar a noite,\nvoce foi pra cama e\ndormiu...
 
 [116|off=0x406e|chars=48]
-Gayak: Hey! You can't train without\nthose seeds!
+Gayak: Ei! Nao treine\nsem essas sementes!
 
 [117|off=0x40da|chars=48]
-Gayak: Hey! You can't train without\nthose seeds!
+Gayak: Ei! Nao treine\nsem essas sementes!
 
 [118|off=0x4146|chars=98]
-Gayak: Hey! What's the big idea\nthrowing away that potato?\nYou have to put it in the Shipping Pod!
+Gayak: Ei! Que ideia e essa de\njogar fora essa batata?\nTem que por no Pod de Envio!
 
 [119|off=0x4216|chars=98]
-Gayak: Hey! What's the big idea\nthrowing away that potato?\nYou have to put it in the Shipping Pod!
+Gayak: Ei! Que ideia e essa de\njogar fora essa batata?\nTem que por no Pod de Envio!
 
 [120|off=0x42e2|chars=49]
-You can't just leave without talking\nto Dr. Hope.
+Nao pode ir embora sem\nfalar com o Dr. Hope.
 
 [121|off=0x4350|chars=56]
-Franco: So you've finally started\nraising livestock, eh?
+Franco: Entao finalmente comecou\na criar gado, hein?
 
 [122|off=0x43cc|chars=109]
-Franco: Did you know that the livestock\nraising robots like the Cluck-o-Matic\nare also Dr. Hope's inventions?
+Franco: Sabia que os robos de criacao\nde animais como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?
 
 [123|off=0x44b2|chars=112]
-Franco: Nowadays everything on the farm\nis automated, but back then using robots\nwas quite a revolutionary idea.
+Franco: Hoje tudo na fazenda e\nautomatizado, mas na epoca usar robos\nera uma ideia bem revolucionaria.
 
 [124|off=0x459e|chars=61]
-Franco: I hear that they still use them\nquite a lot overseas.
+Franco: Ouvi dizer que ainda usam\nbastante eles no exterior.
 
 [125|off=0x4624|chars=74]
-Moonlight: The bleat of animals can\nonce again be heard among\nthese ruins!
+Moonlight: O balido dos animais\nvolta a ser ouvido entre\nestas ruinas!
 
 [126|off=0x46c4|chars=90]
-Moonlight: I'm sure their life force\nwill help to revitalize this land\nand the wilderness!
+Moonlight: Sua forca vital vai\najudar a revitalizar esta terra\ne a natureza!
 
 [127|off=0x4784|chars=72]
-Franco: Wow!\nYou're a lucky one!\nGetting a buggy like that as a present!
+Franco: Uau!\nVoce tem sorte!\nGanhar um buggy desses de presente!
 
 [128|off=0x4820|chars=89]
-Franco: If I had a buggy like that, I'd\ntake Rose out for a spin that\nshe'd never forget!
+Franco: Se eu tivesse um buggy assim,\nlevaria a Rose num passeio\ninesquecivel!
 
 [129|off=0x48de|chars=11]
 Moonlight: 
 
 [130|off=0x48f6|chars=52]
-P! I see you got\nquite a nice present from Dr. Hope.
+P! Vejo que ganhou\num belo presente do Dr. Hope.
 
 [131|off=0x496a|chars=63]
-Moonlight: You can go just about\nanywhere in a buggy like that!
+Moonlight: Da pra ir quase a\nqualquer lugar num buggy desses!
 
 [132|off=0x49f4|chars=60]
-Franco: I can't believe Marco could make\nsuch a big mistake.
+Franco: Nao creio que o Marco\ncometeu um erro tao grande.
 
 [133|off=0x4a78|chars=73]
-Franco: When I was young, everyone used\nto take their dates to that cave.
+Franco: Quando eu era jovem, todos\nlevavam seus pares aquela caverna.
 
 [134|off=0x4b16|chars=11]
 Moonlight: 
 
 [135|off=0x4b2e|chars=57]
-P!\nI hear they had some trouble in the\nVolcano Town cave.
+P!\nSoube de um problema na\ncaverna de Volcano Town.
 
 [136|off=0x4bac|chars=77]
-Moonlight: It'll take time and\neffort to return it to its\noriginal condition.
+Moonlight: Vai levar tempo e\nesforco pra devolve-la a\ncondicao original.
 
 [137|off=0x4c52|chars=49]
-Franco: I hear that you planted some\npoinsettias.
+Franco: Soube que voce plantou\numas poinsetias.
 
 [138|off=0x4cc0|chars=120]
-Franco: If you can manage to ship a lot\nof them by the day before Christmas Eve,\nthey can use them to decorate the town.
+Franco: Se voce conseguir enviar muitas\nate o dia antes da vespera de Natal,\npoderao usa-las pra enfeitar a cidade.
 
 [139|off=0x4dbc|chars=21]
-Franco: I can't wait!
+Franco: Mal espero!
 
 [140|off=0x4df2|chars=41]
-Franco: I hear that Dr. Hope\ncollapsed...
+Franco: Soube que o Dr. Hope\ndesmaiou...
 
 [141|off=0x4e50|chars=96]
-Franco: I know you must be worried about\nhim, but you have important work of your\nown to finish.
+Franco: Sei que voce deve estar\npreocupado com ele, mas tem um\ntrabalho importante a terminar.
 
 [142|off=0x4f1c|chars=89]
-Franco: I'm sure the best thing for Dr.\nHope right now is to see how hard\nyou're working.
+Franco: O melhor pro Dr. Hope agora\ne ver com que afinco voce\nesta trabalhando.
 
 [143|off=0x4fda|chars=52]
-Moonlight: I never knew that Dr. Hope\nwas so sick...
+Moonlight: Nao sabia que o\nDr. Hope estava tao mal.
 
 [144|off=0x504e|chars=86]
-Moonlight: I suppose that's why he was\nhurrying so much to finish his\nwork with you...
+Moonlight: Talvez por isso ele\nse apressasse pra terminar\no trabalho com voce...
 
 [145|off=0x5106|chars=42]
-Franco: I know you're sad about Dr.\nHope, 
+Franco: Sei que sofre\npelo Dr. Hope,
 
 [146|off=0x515c|chars=12]
-P. I am too.
+P. Tambem.
 
 [147|off=0x5180|chars=31]
-Franco: He was a good friend...
+Franco: Era um bom amigo...
 
 [148|off=0x51ca|chars=48]
-Moonlight: I heard the voice of the\nFire Spirit!
+Moonlight: Ouvi a voz do\nEspirito do Fogo!
 
 [149|off=0x5236|chars=74]
-Moonlight: It told me that there is\nmore to this world than meets\nthe eye!
+Moonlight: Ele me disse que ha\nmais neste mundo do que os\nolhos veem!
 
 [150|off=0x52d6|chars=91]
-Moonlight: What I'm trying to say is...\nI'm sure Dr. Hope will always be\nlooking over you, 
+Moonlight: O que tento dizer e...\nTenho certeza que o Dr. Hope sempre\nvai zelar por voce,
 
 [151|off=0x539e|chars=62]
-Franco: Who is that strange man who\nnow lives in the new room?
+Franco: Quem e o homem estranho\nque mora no quarto novo?
 
 [152|off=0x5426|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, a area ficou lacrada\npor muito tempo, entao\nninguem e dono dela...
 
 [153|off=0x54f4|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Bem, nao devemos nos\npreocupar muito com isso.
 
 [154|off=0x557a|chars=43]
-Franco: An alien is living in the new\nroom?
+Franco: Um alien morando no\nquarto novo?
 
 [155|off=0x55dc|chars=97]
-Franco: Of course, that area was sealed\noff for a long time, so it's not as if\nanyone owned it...
+Franco: Claro, a area ficou lacrada\npor muito tempo, entao\nninguem e dono dela...
 
 [156|off=0x56aa|chars=61]
-Franco: Well, I suppose we shouldn't\nworry too much about it.
+Franco: Bem, nao devemos nos\npreocupar muito com isso.
 
 [157|off=0x5730|chars=11]
 Moonlight: 
 
 [158|off=0x5748|chars=76]
-P!\nI saw a strange thing that looked like a\nstuffed animal in that new room.
+P!\nVi algo estranho parecido com\num bicho de pelucia no quarto novo.
 
 [159|off=0x57ec|chars=51]
-Moonlight: Did you make that?\nIt's very impressive!
+Moonlight: Voce fez isso?\nE muito impressionante!
 
 [160|off=0x585a|chars=66]
-Your activities from the previous\nday increased your Human\nStatus!
+Suas atividades do dia anterior\naumentaram seu Nivel\nHumano!
 
 [161|off=0x58e6|chars=37]
-The door is locked.\nYou can't get in!
+Porta trancada.\nNao da pra entrar!
 
 [162|off=0x5938|chars=75]
-Do you want to empty the contents\nof your Scale Pack into the Shipping\nPod?
+Quer esvaziar o conteudo da\nsua Mochila no Pod de\nEnvio?
 
 [163|off=0x59d6|chars=50]
-You emptied your Scale Pack into\nthe Shipping Pod.
+Voce esvaziou a Mochila no\nPod de Envio.
 
 [164|off=0x5a42|chars=65]
-Do you want to empty the crops\nin your bag into the Shipping Pod?
+Quer esvaziar as plantacoes da\nsua bolsa no Pod de Envio?
 
 [165|off=0x5acc|chars=52]
-Which crop do you want to put into\nthe Shipping Pod?
+Qual plantacao quer por no\nPod de Envio?
 
 [166|off=0x5b3c|chars=56]
-You emptied the crops in your bag\ninto the Shipping Pod!
+Voce esvaziou as plantacoes da\nbolsa no Pod de Envio!
 
 [167|off=0x5bb4|chars=84]
-This is a Shipping Pod. The items inside\nare sent to the market every day at\n5:30PM.
+Este e um Pod de Envio. Os itens\ndentro vao ao mercado todo dia\nas 17:30.
 
 [168|off=0x5c64|chars=84]
-This is a Shipping Pod. The items inside\nare sent to the market every day at\n5:30PM.
+Este e um Pod de Envio. Os itens\ndentro vao ao mercado todo dia\nas 17:30.
 
 [169|off=0x5d14|chars=102]
-This Shipping Pod is for crops and other\nfood items. Place building materials\nand ore in the blue pod.
+Este Pod e para plantacoes e\nalimentos. Ponha materiais de\nconstrucao e minerio no pod azul.
 
 [170|off=0x5de8|chars=94]
-This Shipping Pod is for stone, lumber,\nand ore. Place crops and other foods\nin the green pod.
+Este Pod e para pedra, madeira e\nminerio. Ponha plantacoes e\nalimentos no pod verde.
 
 [171|off=0x5eac|chars=61]
-You emptied the contents of the\nbasket into the Shipping Pod!
+Voce esvaziou o conteudo do\ncesto no Pod de Envio!
 
 [172|off=0x5f2e|chars=36]
 O Pod de Envio esta vazio!
@@ -530,16 +530,16 @@ O Pod de Envio esta vazio!
 O cesto esta vazio!
 
 [175|off=0x6012|chars=76]
-Do you want to put the resources\nyou have in your bag into the\nShipping Pod?
+Quer por os recursos que tem\nna sua bolsa no Pod de\nEnvio?
 
 [176|off=0x60b2|chars=56]
-Which resource do you want to\nput into the Shipping Pod?
+Qual recurso quer por\nno Pod de Envio?
 
 [177|off=0x612a|chars=58]
-You put the resources from your\nbag into the Shipping Pod!
+Voce colocou os recursos da\nbolsa no Pod de Envio!
 
 [178|off=0x61a6|chars=44]
-This is a very expensive looking\nwardrobe...
+Um guarda-roupa de\naparencia bem cara...
 
 [179|off=0x6206|chars=31]
 Ha pratos enfileirados aqui.
@@ -548,7 +548,7 @@ Ha pratos enfileirados aqui.
 Voce tenta lavar as maos.
 
 [181|off=0x628a|chars=30]
-This sink is very easy to use.
+Esta pia e bem facil de usar.
 
 [182|off=0x62ce|chars=25]
 Suas maos estao limpas.
@@ -557,13 +557,13 @@ Suas maos estao limpas.
 Mas nao havia sabao...
 
 [184|off=0x6340|chars=40]
-The water pressure seems a little\nlow...
+A pressao da agua parece\npouco baixa...
 
 [185|off=0x6398|chars=48]
-You were surprised at how dirty\nyour hands were.
+Surpreendeu-se com\nsuas maos tao sujas.
 
 [186|off=0x6400|chars=43]
-There's water splashed all around\nthe sink!
+Ha agua espirrada por toda\na pia!
 
 [187|off=0x645e|chars=24]
 Voce limpa o local.
@@ -572,19 +572,19 @@ Voce limpa o local.
 Saiu agua morna...
 
 [189|off=0x64d2|chars=49]
-The drain doesn't seem to be\nworking very well...
+O ralo nao parece estar\nfuncionando muito bem...
 
 [190|off=0x653c|chars=41]
-Hot water came out with\nincredible force!
+Agua quente saiu com uma\nforca incrivel!
 
 [191|off=0x6596|chars=44]
-A very nice smell surrounds the\nsoap here...
+Um cheiro muito bom envolve\no sabao aqui...
 
 [192|off=0x65f6|chars=55]
-You try washing your face.\nYou feel somewhat refreshed.
+Voce tenta lavar o rosto.\nSente-se meio revigorado.
 
 [193|off=0x666c|chars=42]
-There are lots of things on the\nshelves...
+Ha muitas coisas nas\nprateleiras...
 
 [194|off=0x66c8|chars=19]
 Ha vinho aqui.
@@ -593,148 +593,148 @@ Ha vinho aqui.
 Voce olha para o vaso.
 
 [196|off=0x672c|chars=32]
-It seems to have been flushed...
+Parece ter sido dada descarga...
 
 [197|off=0x6774|chars=21]
-It's sparkling clean!
+Esta reluzente!
 
 [198|off=0x67a6|chars=28]
-You push the "Flush" button.
+Voce aperta "Descarga".
 
 [199|off=0x67e6|chars=30]
 Ha um bilhete no vaso.
 
 [200|off=0x682a|chars=20]
-"Please keep clean!"
+"Mantenha limpo!"
 
 [201|off=0x685a|chars=70]
-It appears to have a toilet seat\nthat raises and lowers automatically.
+Parece ter um assento que sobe\ne desce automaticamente.
 
 [202|off=0x68ee|chars=68]
-There is a Banks Corporation\nsticker on the side of the toilet\nseat.
+Ha um adesivo da Banks\nCorporation na lateral do\nvaso sanitario.
 
 [203|off=0x697e|chars=53]
-The scent of aromatic oil floats\naround the toilet...
+O aroma de oleo aromatico paira\nao redor do vaso...
 
 [204|off=0x69f0|chars=29]
-This is an automatic bathtub.
+E uma banheira automatica.
 
 [205|off=0x6a32|chars=62]
-You opened the drawer.\nThere are many different things\ninside.
+Voce abriu a gaveta.\nHa muitas coisas diferentes\ndentro.
 
 [206|off=0x6ab6|chars=64]
-This is a wardrobe.\nThere's nothing particularly unusual\ninside.
+E um guarda-roupa.\nNao ha nada de muito incomum\ndentro.
 
 [207|off=0x6b3e|chars=38]
-There are many books in the\nbookshelf.
+Ha muitos livros na\nestante.
 
 [208|off=0x6b92|chars=45]
-But there's no reason for you to\nread them...
+Mas nao ha motivo pra voce\nle-los...
 
 [209|off=0x6bf4|chars=26]
 Voce abre a geladeira.
 
 [210|off=0x6c30|chars=65]
-But you quickly close it again\nto prevent the food from spoiling.
+Mas voce fecha logo de novo\npra evitar que a comida estrague.
 
 [211|off=0x6cba|chars=75]
-"Rainbow Serpent"\n  Does it lead you through the forest\nor into temptation?
+"Rainbow Serpent"\n  Te leva pela floresta\nou a tentacao?
 
 [212|off=0x6d58|chars=86]
-"Whispering Trees"\n  Distant voices. Nearby voices.\nSky echoes. The sound of the lake.
+"Whispering Trees"\n  Vozes distantes. Vozes proximas.\nEcos do ceu. O som do lago.
 
 [213|off=0x6e0c|chars=63]
-"Desert Moon"\n  The stars turn to sand and return\nto the earth.
+"Desert Moon"\n  As estrelas viram areia e voltam\na terra.
 
 [214|off=0x6e92|chars=50]
-"Waltz"\n  Visitors from the sea. Turn turn\nturn...
+"Waltz"\n  Visitantes do mar. Gira gira\ngira...
 
 [215|off=0x6efe|chars=71]
-"Southern Constellation"\n  Behold, the Centaur. Sculpture\nand painting.
+"Southern Constellation"\n  Eis o Centauro. Escultura\ne pintura.
 
 [216|off=0x6f94|chars=39]
-"Here and There"\n  Where on earth am I?
+"Here and There"\n  Onde diabos estou?
 
 [217|off=0x6fea|chars=39]
-"Straight Ahead: South Heartflame\nCave"
+"Em Frente: Caverna\nHeartflame Sul"
 
 [218|off=0x7040|chars=30]
 "Em Frente: Ruinas
 de Pascoa"
 
 [219|off=0x7084|chars=45]
-"Straight Ahead: Southeast Bank\nof East Lake"
+"Em Frente: Margem SE\ndo East Lake"
 
 [220|off=0x70e6|chars=23]
-"East: Mushroom Forest"
+"Leste: Mushroom For."
 
 [221|off=0x711c|chars=45]
-"Straight Ahead: Southwest Bank\nof East Lake"
+"Em Frente: Margem SO\ndo East Lake"
 
 [222|off=0x717e|chars=37]
-"Danger! Fallen Trees.\nDo Not Enter."
+"Perigo! Arvores caidas.\nNao entre."
 
 [223|off=0x71d0|chars=25]
-"East: Heartflame Desert"
+"Leste: Des. Heartflame"
 
 [224|off=0x720a|chars=18]
-"Heartflame Dunes"
+"Dunas Heartflame"
 
 [225|off=0x7236|chars=26]
-"North: Heartflame Plains"
+"Norte: Heartflame Pl."
 
 [226|off=0x7272|chars=19]
-"Heartflame Plains"
+"Plan. Heartflame"
 
 [227|off=0x72a0|chars=32]
 "Margem SE do Lago
 da Sereia"
 
 [228|off=0x72e8|chars=14]
-"Mermaid Lake"
+"Lago Sereia"
 
 [229|off=0x730c|chars=24]
-"South: Mushroom Forest"
+"Sul: Mushroom Forest"
 
 [230|off=0x7344|chars=32]
 "Margem SO do Lago
 da Sereia"
 
 [231|off=0x738c|chars=11]
-"East Lake"
+"L. Leste"
 
 [232|off=0x73aa|chars=54]
-I found a TV schedule wedged\nbetween sodden magazines.
+Achei uma grade de TV\nentre revistas encharcadas.
 
 [233|off=0x741e|chars=73]
-Mon. Wed. Fri.\n"Where's My Mommy? A Kitten's Journey,"\n"Final Z Rangers,"
+Seg. Qua. Sex.\n"Cade Mamae? A Jornada do Gatinho,"\n"Final Z Rangers,"
 
 [234|off=0x74b8|chars=70]
-Tue. Thr. "Melancholy Woods,"\nSat&Sun. "Miss Cute, Witch In Training,"
+Ter. Qui. "Bosque Melancolico,"\nSab&Dom. "Miss Fofa, Bruxa Aprendiz,"
 
 [235|off=0x754e|chars=28]
 Como jogar com Trilhos,
 
 [236|off=0x7588|chars=7]
- ~Rails
+ ~Trilh
 
 [237|off=0x759e|chars=57]
-First, lay rails and\nprepare conditions to use Pod Rails.
+Primeiro, ponha trilhos e\nprepare tudo pra usa-los.
 
 [238|off=0x7618|chars=113]
-You can let the train run in a circle,\nor back and forth between two points.\nWhere there's a rail, there's a way.
+Voce pode deixar o trem em circulo,\nou indo e voltando entre dois pontos.\nOnde ha trilho, ha um caminho.
 
 [239|off=0x7706|chars=28]
 Como jogar com Trilhos,
 
 [240|off=0x7740|chars=8]
- ~Motors
+ ~Motor
 
 [241|off=0x7758|chars=102]
-Motors work as locomotives, so to speak.\nIf you place them on rails to run,\nyou can move joined carts.
+Motores sao como locomotivas.\nSe os por nos trilhos pra correr,\nda pra mover vagoes acoplados.
 
 [242|off=0x782c|chars=96]
-You can control the motor from the\nCommand Menu, or directly control\nit on the monitor with the 
+Voce controla o motor pelo\nMenu de Comando, ou direto\nno monitor com o
 
 [243|off=0x78ee|chars=8]
  botao.
@@ -743,73 +743,73 @@ You can control the motor from the\nCommand Menu, or directly control\nit on the
 "Como jogar com Trilhos," ~ Vagoes
 
 [245|off=0x795a|chars=118]
-Carts work as Freight Cars & Passenger\nWagons. Using Motors, you can let them\nrun on Rails carrying Freight or People.
+Vagoes servem de Cargueiros e Vagoes\nde Passageiros. Com Motores, voce os faz\ncorrer nos Trilhos com Carga ou Gente.
 
 [246|off=0x7a4e|chars=62]
-You can be a driver\nif you operate Motors\nwhile riding a Cart.
+Pode ser maquinista\nse operar Motores\nandando num Vagao.
 
 [247|off=0x7ad2|chars=40]
 "Como jogar com Trilhos," ~Envio
 
 [248|off=0x7b2a|chars=95]
-If you buy Auto Units, they\nwill be automatically placed between\ntwo Shipping Bins at the Farm.
+Se comprar Unidades Auto, elas\nficam automaticamente entre\ndois Pods de Envio na Fazenda.
 
 [249|off=0x7bf0|chars=120]
-Place Cart Rails to pass Square in front\nof Auto Unit. Items in the Cart will be\nautomatically shipped. It's convenient.
+Ponha Trilhos passando o quadrado em\nfrente a Unidade Auto. Os itens do Vagao\nserao enviados sozinhos. E pratico.
 
 [250|off=0x7cea|chars=22]
 Fisiocracia e Magia,
 
 [251|off=0x7d18|chars=21]
-\n~or "Book of Spirit"
+\n~ou "Book Spirit"
 
 [252|off=0x7d4a|chars=69]
-If you pour Holy Water\nwith a Mystic Watering Can,\nyou can melt snow.
+Com Agua Sagrada\nnum Regador Mistico,\nda pra derreter a neve.
 
 [253|off=0x7ddc|chars=75]
-You can only use a Mystic Watering Can\nif you've worked hard at the Farm...
+So da pra usar um Regador Mistico\nse tiver trabalhado duro na Fazenda...
 
 [254|off=0x7e7a|chars=59]
-It's a book with Fairy Tales\nfor early childhood education.
+E um livro de Contos de Fadas\npara a educacao infantil.
 
 [255|off=0x7ef8|chars=91]
-I paused at a page with an\nillustration of a wooden puppet\nbeing swallow by a huge whale...
+Parei numa pagina com a\nilustracao de um boneco de pau\nengolido por uma baleia enorme...
 
 [256|off=0x7fb6|chars=28]
-My heart is twinging...\nWhy?
+Meu peito doi...\nPor que?
 
 [257|off=0x7ff6|chars=44]
-It's a Haiku Book\nwritten by Principle Rose.
+Um livro de Haikai\nda Diretora Rose.
 
 [258|off=0x8056|chars=68]
-There are more Haikus about love\nthan about scenery or daily life...
+Ha mais Haikais sobre amor\ndo que sobre paisagem ou cotidiano...
 
 [259|off=0x80e6|chars=69]
-It's like reading someone else's diary.\nI feel a little bit guilty...
+E como ler o diario de outra pessoa.\nMe sinto um pouco culpado...
 
 [260|off=0x817a|chars=30]
-Tale of the Love & Bow Knight,
+Conto do Cavaleiro do Arco,
 
 [261|off=0x81b8|chars=7]
  Vol. 1
 
 [262|off=0x81ce|chars=63]
-Knight: T-t-take this bow!\nPrincess: ... am I the one you want?
+Cavaleiro: P-pegue este arco!\nPrincesa: ...e a mim que quer?
 
 [263|off=0x8254|chars=108]
-There was no more hesitation.\nHe took his courage, and gave a gift.\nThe sunset turned Knight's cheeks red...
+Nao havia mais hesitacao.\nEle tomou coragem e deu um presente.\nO por do sol corou as faces dele...
 
 [264|off=0x8336|chars=30]
-Tale of the Love & Bow Knight,
+Conto do Cavaleiro do Arco,
 
 [265|off=0x8374|chars=7]
  Vol. 2
 
 [266|off=0x838a|chars=73]
-Princess: I also have something to give you,\nKnight: Th-this is...a pin!?
+Princesa: Tambem tenho algo pra voce,\nCavaleiro: I-isso e...um broche!?
 
 [267|off=0x8424|chars=106]
-They fell in love with each other.\nThey were about 100 pixels closer when\na pall of darkness covered them.
+Eles se apaixonaram.\nEstavam uns 100 pixels mais perto quando\num veu de escuridao os cobriu.
 
 [268|off=0x8500|chars=6]
 Yes\nNo
@@ -821,52 +821,52 @@ Yes\nNo
 Yes\nNo
 
 [271|off=0x853c|chars=23]
-Start.\nBack up.\nCancel.
+Iniciar.\nVoltar.\nSair.
 
 [272|off=0x8572|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [273|off=0x85b2|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [274|off=0x85f2|chars=16]
-Love increased!\n
+Amor aumentou!\n
 
 [275|off=0x8628|chars=24]
-Intelligence increased!\n
+Inteligencia subiu!\n
 
 [276|off=0x866e|chars=19]
-Cooking increased!\n
+Culinaria subiu!\n
 
 [277|off=0x86aa|chars=22]
-Creativity increased!\n
+Criatividade subiu!\n
 
 [278|off=0x86ec|chars=17]
-Humor increased!\n
+Humor aumentou!\n
 
 [279|off=0x8724|chars=51]
-Look inside the basket.\nStart the Life Arm.\nCancel.
+Ver dentro do cesto.\nIniciar o Life Arm.\nAnular.
 
 [280|off=0x8792|chars=55]
-Look inside the basket.\nCall the Life Arm back.\nCancel.
+Ver dentro do cesto.\nChamar o Life Arm.\nAnular.
 
 [281|off=0x8808|chars=31]
-Look inside the basket.\nCancel.
+Ver dentro do cesto.\nAnular.
 
 [282|off=0x884e|chars=95]
-This is not a field square, so you\ncan't start the Life Arm! Move the\nbasket to a field square.
+Isto nao e um quadrado de campo,\nnao da pra iniciar o Life Arm!\nMova o cesto pra um quadrado.
 
 [283|off=0x8914|chars=95]
-This is not a field square, so you\ncan't start the Life Arm! Move the\nbasket to a field square.
+Isto nao e um quadrado de campo,\nnao da pra iniciar o Life Arm!\nMova o cesto pra um quadrado.
 
 [284|off=0x89da|chars=75]
-This is a Shipping Pod.\nYou can only put things inside\nthat can be shipped.
+Este e um Pod de Envio.\nSo pode por dentro\ncoisas que dao pra enviar.
 
 [285|off=0x8a78|chars=75]
-This is a Shipping Pod.\nYou can only put things inside\nthat can be shipped.
+Este e um Pod de Envio.\nSo pode por dentro\ncoisas que dao pra enviar.
 
 [286|off=0x8b16|chars=37]
-Look inside the Shipping Pod.\nCancel.
+Ver dentro do Pod de Envio.\nAnular.
 
 [287|off=0x8b68|chars=37]
-Look inside the Shipping Pod.\nCancel.
+Ver dentro do Pod de Envio.\nAnular.

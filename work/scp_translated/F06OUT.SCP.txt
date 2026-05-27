@@ -8,37 +8,37 @@
 Esta e sua cama...\nMas voce nao pode dormir agora.\nFranco esta esperando.
 
 [1|off=0x646|chars=56]
-Franco: Entao voce comecou\na criar animais, hein?
+Franco: Entao finalmente\ncomecou a criar animais, hein?
 
 [2|off=0x6c2|chars=109]
-Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem\nsao invencoes do Dr. Hope?
+Franco: Sabia que os robos de criacao\ncomo o Cluck-o-Matic tambem sao\ninvencoes do Dr. Hope?
 
 [3|off=0x7a8|chars=112]
-Franco: Hoje tudo na fazenda e\nautomatico, mas na epoca usar\nrobos era ideia revolucionaria.
+Franco: Hoje tudo na fazenda e\nautomatizado, mas naquela epoca usar\nrobos era uma ideia revolucionaria.
 
 [4|off=0x894|chars=61]
-Franco: Ouvi que ainda os usam\nbastante no exterior.
+Franco: Ouvi que eles ainda sao\nbastante usados no exterior.
 
 [5|off=0x91a|chars=74]
-Moonlight: O balido dos animais\nse ouve novamente\nnestas ruinas!
+Moonlight: O balido dos animais\npode ser ouvido novamente\nentre essas
 
 [6|off=0x9ba|chars=90]
-Moonlight: Sua forca vital vai\najudar a revitalizar esta terra\ne a natureza!
+Moonlight: Tenho certeza que a\nforca vital deles ira revitalizar\nessa terra e a natureza!
 
 [7|off=0xa7a|chars=72]
-Franco: Uau!\nQue sortudo!\nGanhar um buggy desses de presente!
+Franco: Uau!\nQue sortudo voce e!\nGanhou um buggy desse como presente!
 
 [8|off=0xb16|chars=89]
 Franco: Se eu tivesse um buggy,\nlevava a Rose num passeio\nque ela nunca esqueceria!
 
 [9|off=0xbd4|chars=11]
-Moonlight: 
+Moonlight:
 
 [10|off=0xbec|chars=52]
-P! Que presente bonito\ndo Dr. Hope que voce ganhou.
+P! Vi que voce ganhou\num belo presente do Dr. Hope.
 
 [11|off=0xc60|chars=63]
-Moonlight: Com um buggy assim\nvoce vai a qualquer lugar!
+Moonlight: Num buggy desse voce\npode ir a praticamente\nqualquer
 
 [12|off=0xcea|chars=60]
 Franco: Nao acredito que Marco\ncometeu um erro tao grande.
@@ -47,31 +47,31 @@ Franco: Nao acredito que Marco\ncometeu um erro tao grande.
 Franco: Quando jovem, todos iam\ncurtir naquela caverna\ncom as namoradas.
 
 [14|off=0xe0c|chars=11]
-Moonlight: 
+Moonlight:
 
 [15|off=0xe24|chars=57]
 P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
 
 [16|off=0xea2|chars=77]
-Moonlight: Vai levar tempo e\nesforco para restaurar\nao estado original.
+Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
 
 [17|off=0xf48|chars=49]
-Franco: Ouvi que voce plantou\nbico-de-papagaio.
+Franco: Ouvi que voce plantou\nbicos-de-papagaio.
 
 [18|off=0xfb6|chars=120]
-Franco: Se mandar bastante ate\na vespera do Natal, podem usar\npra decorar a cidade.
+Franco: If you can homemage to ship muito\ndam pelo dia antes Christmas Eve,\nthey can usar them to decorate the cidade.
 
 [19|off=0x10b2|chars=21]
-Franco: Nao aguento!
+Franco: Mal posso esp
 
 [20|off=0x10e8|chars=41]
 Franco: Ouvi que o Dr. Hope\ndesmaiou...
 
 [21|off=0x1146|chars=96]
-Franco: Sei que esta preocupado,\nmas tem trabalho importante\na terminar.
+Franco: Sei que voce deve estar\npreocupado com ele, mas voce tem\num trabalho importante a fazer.
 
 [22|off=0x1212|chars=89]
-Franco: O melhor pro Dr. Hope\nagora e ver o quanto\nvoce esta se dedicando.
+Franco: Tenho certeza que a melhor\ncoisa para o Dr. Hope e ver\nvoce trabalhando duro.
 
 [23|off=0x12d0|chars=52]
 Moonlight: Nao sabia que o\nDr. Hope estava doente...
@@ -83,25 +83,25 @@ Moonlight: Suponho que por isso\nele corria para terminar\no trabalho com voce..
 Franco: Sei que esta triste\ncom Dr. Hope, 
 
 [26|off=0x1452|chars=12]
-P. Eu sinto.
+P. Eu tambem
 
 [27|off=0x1476|chars=31]
-Franco: Era um bom amigo...
+Franco: Ele era um bom amigo...
 
 [28|off=0x14c0|chars=48]
 Moonlight: Ouvi a voz do\nEspirito do Fogo!
 
 [29|off=0x152c|chars=74]
-Moonlight: Disse que ha muito\nmais neste mundo do que\nos olhos veem!
+Moonlight: Ele me disse que ha\nmais neste mundo do que\naparenta aos olhos!
 
 [30|off=0x15cc|chars=91]
-Moonlight: O que quero dizer...\nCerteza que o Dr. Hope sempre\nestara velando por voce, 
+Moonlight: O que tento dizer e...\nTenho certeza de que o Dr. Hope\nsempre velara por voce,
 
 [31|off=0x1694|chars=62]
-Franco: Quem e esse estranho\nque mora no novo quarto?
+Franco: Quem e aquele homem estranho\nque mora no novo quarto?
 
 [32|off=0x171c|chars=97]
-Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
 
 [33|off=0x17ea|chars=61]
 Franco: Acho que nao devemos\nnos preocupar tanto com isso.
@@ -110,61 +110,61 @@ Franco: Acho que nao devemos\nnos preocupar tanto com isso.
 Franco: Um alien mora\nno novo quarto?
 
 [35|off=0x18d2|chars=97]
-Franco: Bom, aquela area ficou\nfechada por muito tempo,\nninguem era dono...
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
 
 [36|off=0x19a0|chars=61]
 Franco: Acho que nao devemos\nnos preocupar tanto com isso.
 
 [37|off=0x1a26|chars=11]
-Moonlight: 
+Moonlight:
 
 [38|off=0x1a3e|chars=76]
-P!\nVi algo estranho parecendo\num bicho de pelucia no novo quarto.
+P!\nVi uma coisa estranha parecida com\num bicho de pelucia no novo quarto.
 
 [39|off=0x1ae2|chars=51]
 Moonlight: Voce fez isso?\nMuito impressionante!
 
 [40|off=0x1b50|chars=28]
-Devo ter sonhado...
+Devo ter estado sonhando...
 
 [41|off=0x1b90|chars=28]
-Devo ter sonhado...
+Devo ter estado sonhando...
 
 [42|off=0x1bd2|chars=58]
 P tentou dormir,\nmas ficou pensando que\nesqueceu algo
 
 [43|off=0x1c50|chars=32]
-Sem perceber,\namanheceu...
+Antes que perceba,\nje e manha...
 
 [44|off=0x1c9a|chars=43]
-R esta esperando!\nFale com ele.
+R esta esperando!\nTalvez voce deva falar
 
 [45|off=0x1cf8|chars=60]
-Ouviu uma voz parecida\ncom a de Max por perto...
+Voce ouviu uma voz parecida\ncom a do Max em algum lugar\npor
 
 [46|off=0x1d78|chars=66]
-Suas atividades do dia anterior\naumentaram seu Nivel\nHumano!
+Ynosso activities da previous\ndia increased seu Huhomem\nStatus!
 
 [47|off=0x1e04|chars=59]
-Quer ir para a cama e\ndormir o resto do dia?
+Quer ir para a cama e\ndormir pelo resto do dia?
 
 [48|off=0x1e82|chars=58]
-Quer acordar mais cedo\nque o normal amanha?
+Quer acordar mais cedo que\no normal amanha de manha?
 
 [49|off=0x1efe|chars=58]
-Quer acordar mais cedo\nque o normal amanha?
+Quer acordar mais cedo que\no normal amanha de manha?
 
 [50|off=0x1f7a|chars=36]
 Quer dormir aqui hoje?
 
 [51|off=0x1fca|chars=76]
-Quer usar a funcao warp da\nbarraca para voltar\nao seu quarto?
+Entao quer usar a funcao de\nteleporte da barraca para\nvoltar ao seu quarto?
 
 [52|off=0x206a|chars=44]
-Nao ha lugar para\narmar sua barraca!
+Nao ha lugar para\nmontar sua barraca aqui!
 
 [53|off=0x20ca|chars=44]
-Nao ha lugar para\narmar sua barraca!
+Nao ha lugar para\nmontar sua barraca aqui!
 
 [54|off=0x212a|chars=44]
 Este guarda-roupa parece\nmuito caro...
@@ -182,28 +182,28 @@ Esta pia e facil de usar.
 Suas maos estao limpas.
 
 [59|off=0x228c|chars=24]
-Mas sem sabonete...
+Mas nao havia sabao...
 
 [60|off=0x22c4|chars=40]
-Pressao da agua um\npouco baixa...
+A pressao da agua parece\nesta um pouco
 
 [61|off=0x231c|chars=48]
-Que maos sujas!\nSurpreendente.
+Voce se surpreendeu com o quanto\nsuas maos
 
 [62|off=0x2384|chars=43]
-Agua espirrou por\ntoda a pia!
+Tem agua pingada por\ntoda a area da pia!
 
 [63|off=0x23e2|chars=24]
-Voce limpa a area.
+Voce limpa o local.
 
 [64|off=0x241a|chars=26]
 Saiu agua morna...
 
 [65|off=0x2456|chars=49]
-O ralo parece estar\nentupido...
+O ralo parece nao estar\nfuncionando muito bem...
 
 [66|off=0x24c0|chars=41]
-Saiu agua quente\ncom forca incrivel!
+Hot agua came out with\nincredible force!
 
 [67|off=0x251a|chars=44]
 Um cheiro agradavel\nem volta do sabonete...
@@ -212,7 +212,7 @@ Um cheiro agradavel\nem volta do sabonete...
 Voce lava o rosto.\nSente-se um pouco\nrefrescado.
 
 [69|off=0x25f0|chars=42]
-Ha muitas coisas\nnas prateleiras...
+Tsuae are lots of things no\nshelves...
 
 [70|off=0x264c|chars=19]
 Ha vinho aqui.
@@ -224,7 +224,7 @@ Voce olha para o vaso.
 Parece que alguem\ndescarregou...
 
 [73|off=0x26f8|chars=21]
-Esta reluzente!
+Esta brilhando limpo!
 
 [74|off=0x272a|chars=28]
 Voce aperta\n"Descarregar".
@@ -236,40 +236,40 @@ Ha um bilhete no vaso.
 "Mantenha limpo!"
 
 [77|off=0x27de|chars=70]
-Parece ter um assento\nque sobe e desce\nautomaticamente.
+Parece ter um assento que\nlevanta e abaixa automaticamente.
 
 [78|off=0x2872|chars=68]
-Ha um adesivo da Banks\nCorporation no lado\ndo assento.
+Ha um adesivo da Banks Corporation\nna lateral do assento do vaso.
 
 [79|off=0x2902|chars=53]
-Cheiro de oleo aromatico\nflutua pelo banheiro...
+O aroma de oleo essencial\nflutua em torno do vaso...
 
 [80|off=0x2974|chars=29]
 Banheira automatica.
 
 [81|off=0x29b6|chars=62]
-Voce abriu a gaveta.\nHa muitas coisas\nla dentro.
+Voce abriu a gaveta.\nHa muitas coisas diferentes\nla dentro.
 
 [82|off=0x2a3a|chars=64]
-E um guarda-roupa.\nNada muito incomum\nla dentro.
+Este e um guarda-roupa.\nNao ha nada de particularmente\nincomum
 
 [83|off=0x2ac2|chars=38]
 Ha muitos livros\nna estante.
 
 [84|off=0x2b16|chars=45]
-Mas voce nao precisa\nler nenhum deles...
+But ha no reafilho for you to\nread them...
 
 [85|off=0x2b78|chars=26]
 Voce abre a geladeira.
 
 [86|off=0x2bb4|chars=65]
-Mas fecha rapido para\nnao estragar a comida.
+Mas logo a fecha novamente\npara os alimentos nao estragarem.
 
 [87|off=0x2c3e|chars=75]
-"Serpente Arco-iris"\n  Leva pela floresta\nou pela tentacao?
+"Serpente Arco-iris"\n  Ela te guia pela floresta\nou te leva a tentacao?
 
 [88|off=0x2cdc|chars=86]
-"Arvores Sussurrantes"\n  Vozes distantes. Vozes proximas.\nEcos do ceu. Som do lago.
+"Arvores Sussurrantes"\n  Vozes distantes. Vozes proximas.\nEcos do ceu. O som do lago.
 
 [89|off=0x2d90|chars=63]
 "Lua do Deserto"\n  As estrelas viram areia\ne voltam a terra.
@@ -278,22 +278,23 @@ Mas fecha rapido para\nnao estragar a comida.
 "Valsa"\n  Visitantes do mar. Gira gira\ngira...
 
 [91|off=0x2e82|chars=71]
-"Constelacao do Sul"\n  Veja o Centauro. Escultura\ne pintura.
+"Constelacao do Sul"\n  Veja, o Centauro. Escultura\ne pintura.
 
 [92|off=0x2f18|chars=39]
-"Aqui e Ali"\n  Onde estou neste mundo?
+"Aqui e Ali"\n  Onde diabos estou?
 
 [93|off=0x2f6e|chars=39]
-"Em Frente: Caverna Sul\nHeartflame"
+"Em Frente: Caverna Sul\nde Heartflame"
 
 [94|off=0x2fc4|chars=30]
-"Em Frente: Ruinas Easter"
+"Em Frente: Ruinas
+de Pascoa"
 
 [95|off=0x3008|chars=45]
 "Em Frente: Margem Sudeste\ndo Lago Leste"
 
 [96|off=0x306a|chars=23]
-"Leste: Fl. Cogumelo"
+"East: Cogumelo Forest"
 
 [97|off=0x30a0|chars=45]
 "Em Frente: Margem Sudoeste\ndo Lago Leste"
@@ -314,52 +315,52 @@ Mas fecha rapido para\nnao estragar a comida.
 "Plan. Heartflame"
 
 [103|off=0x3224|chars=32]
-"Margem Sudeste Lago Sereia"
+"Margem Sudeste do Lago Sereia"
 
 [104|off=0x326c|chars=14]
 "Lago Sereia"
 
 [105|off=0x3290|chars=24]
-"Sul: Fl. Cogumelo"
+"Sul: Floresta Cogumelo"
 
 [106|off=0x32c8|chars=32]
-"Margem Sudoeste Lago Sereia"
+"Margem Sudoeste do Lago Sereia"
 
 [107|off=0x3310|chars=11]
 "L. Leste"
 
 [108|off=0x332e|chars=54]
-Achei uma grade de TV\nentre revistas molhadas.
+Encontrei uma grade de TV\nenfiada entre revistas
 
 [109|off=0x33a2|chars=73]
-Seg. Qua. Sex.\n"Cade Minha Mamae? A Jornada,"\n"Final Z Rangers,"
+Seg. Qua. Sex.\n'Onde Esta Minha Mamae? A Jornada da\nGatinha,' 'Ranger
 
 [110|off=0x343c|chars=70]
-Ter. Qui. "Bosque Melancolico,"\nSab&Dom. "Srta. Cute, Bruxa,"
+Ter. Qui. 'Bosque Melancolico,'\nSab&Dom. 'Senhorita Fofinha, Bruxa
 
 [111|off=0x34d2|chars=28]
 Como jogar com Trilhos,
 
 [112|off=0x350c|chars=7]
- ~Rails
+ ~Trilh
 
 [113|off=0x3522|chars=57]
-Primeiro, coloque trilhos e\nprepare os Trilhos Pod.
+Primeiro, coloque trilhos e\nprepare as condicoes para
 
 [114|off=0x359c|chars=113]
-Pode fazer o trem circular\nou ir e voltar entre dois pontos.\nOnde ha trilho, ha caminho.
+You can let the train correr in a circle,\nor back and forth between two points.\nWsuae ha a rail, ha a caminho.
 
 [115|off=0x368a|chars=28]
 Como jogar com Trilhos,
 
 [116|off=0x36c4|chars=8]
- ~Motors
+ ~Motore
 
 [117|off=0x36dc|chars=102]
-Motores funcionam como locomotivas.\nSe colocar nos trilhos,\npode mover vagoes juntos.
+Motores funcionam como locomotivas.\nSe os colocar nos trilhos para rodar,\nvoce pode mover carrinhos
 
 [118|off=0x37b0|chars=96]
-Controle o motor pelo\nMenu de Comando, ou diretamente\nno monitor com o 
+Voce pode controlar o motor pelo\nMenu de Comando, ou diretamente\nnele no monitor com o
 
 [119|off=0x3872|chars=8]
  botao.
@@ -368,49 +369,49 @@ Controle o motor pelo\nMenu de Comando, ou diretamente\nno monitor com o
 "Como jogar com Trilhos," ~ Vagoes
 
 [121|off=0x38de|chars=118]
-Vagoes funcionam como carga e passageiros.\nCom Motores, correm nos trilhos\ncarregando carga ou pessoas.
+Carrinhos funcionam como vagoes de carga\ne passageiros. Com Motores, voce pode\ndeixar correr nos Trilhos com carga.
 
 [122|off=0x39d2|chars=62]
-Voce pode ser motorista\noperando Motores\nnum Vagao.
+Voce pode ser o motorista\nse operar os Motores\nenquanto
 
 [123|off=0x3a56|chars=40]
 "Como jogar com Trilhos," ~Envio
 
 [124|off=0x3aae|chars=95]
-Ao comprar Unidades Auto, serao\ncolocadas automaticamente entre\nduas Caixas de Envio.
+Se comprar Unidades Auto, elas\nserao colocadas automaticamente\nentre dois Bins na Fazenda.
 
 [125|off=0x3b74|chars=120]
-Coloque Trilhos pela Praca da\nUnidade Auto. Itens no Vagao\nserao enviados. Pratico.
+Place Cart Rails to pass Square in front\nof Auto Unit. Items na Cart will be\nautomaticoally shipped. It's convenient.
 
 [126|off=0x3c6e|chars=22]
-Fisiocracy e Magia,
+Fisiocracia e Magia,
 
 [127|off=0x3c9c|chars=21]
-\n~or "Book of Spirit"
+\n~ou "Livro do
 
 [128|off=0x3cce|chars=69]
 Com Agua Sagrada e\num Regador Mistico,\nvoce pode derreter neve.
 
 [129|off=0x3d60|chars=75]
-So pode usar o Regador Mistico\nse trabalhou duro na fazenda...
+So e possivel usar um Regador Mistico\nse voce trabalhou duro na Fazenda...
 
 [130|off=0x3dfe|chars=59]
 E um livro de Contos de Fadas\npara educacao infantil.
 
 [131|off=0x3e7c|chars=91]
-Parei numa pagina com\numa ilustracao de boneco de\nmadeira engolido por uma baleia...
+Parei numa pagina com a ilustracao\nde um boneco de madeira sendo\nengolidopor uma enorme
 
 [132|off=0x3f3a|chars=28]
 O coracao aperta...\nPor que?
 
 [133|off=0x3f7a|chars=44]
-Livro de Haiku\nda Diretora Rose.
+Livro de Haiku escrito pela\nDiretora Rose.
 
 [134|off=0x3fda|chars=68]
-Ha mais Haikus sobre amor\ndo que sobre paisagem ou vida...
+Ha mais Haikus sobre amor\ndo que sobre cenarios ou vida diaria...
 
 [135|off=0x406a|chars=69]
-Como ler o diario de outra pessoa.\nMe sinto um pouco culpado...
+E como ler o diario de outra pessoa.\nMe sinto um pouco culpado...
 
 [136|off=0x40fe|chars=30]
 Conto: Cavaleiro Amor & Arco,
@@ -419,10 +420,10 @@ Conto: Cavaleiro Amor & Arco,
  Vol. 1
 
 [138|off=0x4152|chars=63]
-Cavalheiro: P-pega este arco!\nPrincesa: ... sou eu que quer?
+Cav.: T-t-tome este arco!\nPrincesa: ...sou eu quem voce quer?
 
 [139|off=0x41d8|chars=108]
-Nao havia mais hesitacao.\nEle tomou coragem e deu um presente.\nO por do sol corou seu rosto...
+Nao havia mais hesitacao.\nEle reuniu coragem e fez uma oferta.\nO por do sol deixou as bochechas do Cav.
 
 [140|off=0x42ba|chars=30]
 Conto: Cavaleiro Amor & Arco,
@@ -431,10 +432,10 @@ Conto: Cavaleiro Amor & Arco,
  Vol. 2
 
 [142|off=0x430e|chars=73]
-Princesa: Tenho algo pra voce,\nCavalh.: I-isso e... um alfinete!?
+Princesa: Tambem tenho algo para voce,\nCav.: I-isso e...um broche!?
 
 [143|off=0x43a8|chars=106]
-Eles se apaixonaram.\nEstavam 100 pixels mais perto\nquando a escuridao os cobriu.
+Eles se apaixonaram um pelo outro.\nEstavam quase 100 pixels mais perto\nquando uma escuridao os encobriu.
 
 [144|off=0x4484|chars=6]
 Ok\nNao
@@ -452,25 +453,25 @@ Ok\nNao
 Salvar e dormir.\nDormir sem salvar.\nAnular.
 
 [149|off=0x454e|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [150|off=0x458e|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [151|off=0x45ce|chars=16]
-Love increased!\n
+Amor aumentou!\n
 
 [152|off=0x4604|chars=24]
-Intelligence increased!\n
+Inteligencia aumentou!\n
 
 [153|off=0x464a|chars=19]
-Cooking increased!\n
+Culinaria
 
 [154|off=0x4686|chars=22]
-Creativity increased!\n
+Criatividade
 
 [155|off=0x46c8|chars=17]
-Humor increased!\n
+Humor aumentou!\n
 
 [156|off=0x4700|chars=58]
-Voce nao foi ao Dr. Hope\npara manutencao hoje!
+Voce nao foi a casa do Dr. Hope\npara a manutencao hoje!

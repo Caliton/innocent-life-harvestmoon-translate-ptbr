@@ -29,7 +29,7 @@ Franco: Uau!\nVoce tem muita sorte!\nGanhou um buggy assim de presente!
 Franco: Se eu tivesse um buggy,\nlevaria a Rose num passeio\ninesquecivel!                 
 
 [8|off=0x7b4|chars=11]
-Moonlight: 
+Moonlight:
 
 [9|off=0x7cc|chars=52]
 P! Que belo presente\ndo Dr. Hope voce ganhou.       
@@ -44,7 +44,7 @@ Franco: Nao acredito que Marco\ncometeu um erro tao grande.
 Franco: Quando era jovem, todo mundo\nlevava seus pares a aquela caverna. 
 
 [13|off=0x9ec|chars=11]
-Moonlight: 
+Moonlight:
 
 [14|off=0xa04|chars=57]
 P!\nOuvi que tiveram problemas na\ncaverna de Volcano Town.
@@ -113,7 +113,7 @@ Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono
 Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
 
 [36|off=0x1606|chars=11]
-Moonlight: 
+Moonlight:
 
 [37|off=0x161e|chars=76]
 P!\nVi uma coisa estranha parecida\ncom bicho de pelucia no novo quarto.      

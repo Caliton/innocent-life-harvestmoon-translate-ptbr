@@ -143,7 +143,7 @@ Mas ha uma pequena chance...
 Combine meu poder com o\nCalice de Gelo que dorme\nno fundo do Lago Leste.
 
 [46|off=0x1e8c|chars=85]
-In winter, the surface of East Lake\nfreezes. You can cross it to reach\nthe Ice Grail.
+No inverno, o Lago Leste\ncongela. Cruze para\npegar o Calice de Gelo.
 
 [47|off=0x1f3e|chars=42]
 E agora e inverno...\nRecue, por favor.
@@ -152,10 +152,10 @@ E agora e inverno...\nRecue, por favor.
 Se meu poder tocasse voce,\nvocl seria destruido...
 
 [49|off=0x2016|chars=41]
-But it is not yet winter.\nYou must wait, 
+Mas nao e inverno ainda.\nDeve esperar,
 
 [50|off=0x2076|chars=41]
-But it is not yet winter.\nYou must wait, 
+Mas nao e inverno ainda.\nDeve esperar,
 
 [51|off=0x20d6|chars=73]
 Ha trabalho que voce\nprecisa terminar. Estou\nsempre velando por voce.
@@ -419,7 +419,7 @@ Coloque Trilhos pela Praca da\nUnidade Auto. Itens no Vagao\nserao enviados. Pra
 Fisiocracy e Magia,
 
 [138|off=0x42b6|chars=21]
-\n~or "Book of Spirit"
+\n~ou "Livro Espirito"
 
 [139|off=0x42e8|chars=69]
 Com Agua Sagrada e\num Regador Mistico,\nvoce pode derreter neve.
@@ -485,25 +485,25 @@ Ok\nNao
 Salvar e dormir.\nDormir sem salvar.\nAnular.
 
 [160|off=0x4b68|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [161|off=0x4ba8|chars=21]
-Challenge increased!\n
+Desafio aumentou!\n
 
 [162|off=0x4be8|chars=16]
-Love increased!\n
+Amor aumentou!\n
 
 [163|off=0x4c1e|chars=24]
-Intelligence increased!\n
+Inteligencia aumentou!\n
 
 [164|off=0x4c64|chars=19]
-Cooking increased!\n
+Culinaria subiu!\n
 
 [165|off=0x4ca0|chars=22]
-Creativity increased!\n
+Criatividade subiu!\n
 
 [166|off=0x4ce2|chars=17]
-Humor increased!\n
+Humor aumentou!\n
 
 [167|off=0x4d1a|chars=58]
 Voce nao foi ao Dr. Hope\npara manutencao hoje!

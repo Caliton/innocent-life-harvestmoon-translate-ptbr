@@ -5,118 +5,118 @@
 # SEM ACENTOS. \n literal = quebra de linha (1 char).
 
 [0|off=0x226|chars=56]
-Franco: Entao finalmente\ncomecou a criar animais, hein?
+Franco: Entao voce finalmente\ncriou animais, hein?      
 
 [1|off=0x2a2|chars=109]
-Franco: Sabia que os robos criadores\ncomo o Cluck-o-Matic tambem sao\ninvencoes do Dr. Hope?
+Franco: Voce sabia que os robos\nde criacao como o Cluck-o-Matic\ntambem sao invencoes do Dr. Hope?            
 
 [2|off=0x388|chars=112]
-Franco: Hoje tudo na fazenda e\nautomatizado, mas naquela epoca usar\nrobos era uma ideia revolucionaria.
+Franco: Hoje tudo na fazenda\ne automatizado. Mas usar robos\nera uma ideia bem revolucionaria.                   
 
 [3|off=0x474|chars=61]
-Franco: Ouvi que eles ainda os\nusam bastante no exterior.
+Franco: Ouvi que la fora\nainda os usam bastante.             
 
 [4|off=0x4fa|chars=74]
-Moonlight: O balido dos animais\npode ser ouvido novamente\nentre essas
+Moonlight: O balido dos animais\npode ser ouvido de novo\nnestas ruinas!    
 
 [5|off=0x59a|chars=90]
-Moonlight: Tenho certeza que a\nforca vital deles ira revitalizar\nessa terra e a natureza!
+Moonlight: Sua forca vital vai\najudar a revitalizar\nestas terras e a natureza!            
 
 [6|off=0x65a|chars=72]
-Franco: Uau!\nVoce tem sorte!\nGanhar um buggy assim de presente!
+Franco: Uau!\nVoce tem muita sorte!\nGanhou um buggy assim de presente!   
 
 [7|off=0x6f6|chars=89]
-Franco: Se eu tivesse um buggy\ndesses, levaria a Rose num passeio\nque ela nunca
+Franco: Se eu tivesse um buggy,\nlevaria a Rose num passeio\ninesquecivel!                 
 
 [8|off=0x7b4|chars=11]
 Moonlight:
 
 [9|off=0x7cc|chars=52]
-P! Vi que voce ganhou\num presente do Dr. Hope.
+P! Que belo presente\ndo Dr. Hope voce ganhou.       
 
 [10|off=0x840|chars=63]
-Moonlight: Num buggy desse voce\npode ir a praticamente\nqualquer
+Moonlight: Com buggy assim\nvoce pode ir a quase qualquer lugar!
 
 [11|off=0x8ca|chars=60]
-Franco: Nao acredito que o Marco\ncometeu um erro tao grande.
+Franco: Nao acredito que Marco\ncometeu um erro tao grande.  
 
 [12|off=0x94e|chars=73]
-Franco: Quando era jovem, todos\nlevavam seus namorados\naquella caverna.
+Franco: Quando era jovem, todo mundo\nlevava seus pares a aquela caverna. 
 
 [13|off=0x9ec|chars=11]
 Moonlight:
 
 [14|off=0xa04|chars=57]
-P!\nOuvi que tiveram problemas\nna caverna de Volcano Town.
+P!\nOuvi que tiveram problemas na\ncaverna de Volcano Town.
 
 [15|off=0xa82|chars=77]
-Moonlight: Vai levar tempo e\nesforco para restaura-la\nao estado original.
+Moonlight: Vai levar tempo e\nesforco para restaurar ao\nestado original disso.
 
 [16|off=0xb28|chars=49]
-Franco: Ouvi que voce plantou\nalgunas
+Franco: Ouvi que voce plantou\nbico-de-papagaio.  
 
 [17|off=0xb96|chars=120]
-Franco: Se voce conseguir enviar\nbastante ate a vespera do\nNatal, podem usar para\ndecorar a cidade!
+Franco: Se mandar bastante ate a\nvespera do Natal, podem\nusar para decorar a cidade toda.                               
 
 [18|off=0xc92|chars=21]
-Franco: Mal posso
+Franco: Que animacao!
 
 [19|off=0xcc8|chars=41]
-Franco: Ouvi que o Dr. Hope\ndesmaiou...
+Franco: Ouvi que o Dr. Hope\ndesmaiou...  
 
 [20|off=0xd26|chars=96]
-Franco: Sei que voce deve estar\npreocupado com ele, mas voce tem\num trabalho importante a fazer.
+Franco: Sei que esta preocupado,\nmas voce tem um trabalho\nimportante a terminar.                
 
 [21|off=0xdf2|chars=89]
-Franco: Tenho certeza que a melhor\ncoisa para o Dr. Hope e ver\nvoce trabalhando duro.
+Franco: Tenho certeza que a\nmelhor coisa pro Dr. Hope agora\ne ver o quanto voce trabalha.
 
 [22|off=0xeb0|chars=52]
-Moonlight: Nunca soube que o\nDr. Hope estava tao
+Moonlight: Nao sabia que\nDr. Hope estava doente...  
 
 [23|off=0xf24|chars=86]
-Moonlight: Suponho que e por isso\nque ele estava com tanta pressa\nde terminar o
+Moonlight: Imagino que por isso\nele corria tanto para terminar\no trabalho com voce... 
 
 [24|off=0xfdc|chars=42]
-Franco: Sei que voce ta triste\npelo Dr.
+Franco: Sei que esta triste\ncom Dr. Hope, 
 
 [25|off=0x1032|chars=12]
-P. Eu
+P. Eu tambem
 
 [26|off=0x1056|chars=31]
-Franco: Ele era um bom amigo...
+Franco: Era um bom amigo...    
 
 [27|off=0x10a0|chars=48]
-Moonlight: Ouvi a voz do\nEspirito do Fogo!
+Moonlight: Ouvi a voz do\nEspirito do Fogo!      
 
 [28|off=0x110c|chars=74]
-Moonlight: Ele me disse que ha\nmais neste mundo do que\naparenta!
+Moonlight: Ele me disse que ha\nmais neste mundo do\nque aparece!           
 
 [29|off=0x11ac|chars=91]
-Moonlight: O que estou tentando\ndizer e... Tenho certeza que o\nDr. Hope sempre velara por
+Moonlight: O que tento dizer e...\nTenho certeza que o Dr. Hope\nestara olhando por voce,    
 
 [30|off=0x1274|chars=62]
-Franco: Quem e aquele homem estranho\nque mora no novo quarto?
+Franco: Quem e esse estranho\nque mora no novo quarto?         
 
 [31|off=0x12fc|chars=97]
-Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
 
 [32|off=0x13ca|chars=61]
-Franco: Bom, acho que nao devemos\nnos preocupar tanto com
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
 
 [33|off=0x1450|chars=43]
-Franco: Um extraterrestre mora\nno novo
+Franco: Um alien mora\nno novo quarto?      
 
 [34|off=0x14b2|chars=97]
-Franco: Claro, aquela area ficou\nfechada por muito tempo, entao nao\ne como se alguem fosse o
+Franco: Claro, aquela area ficou\nfechada por muito tempo, entao\nnao havia dono disso...          
 
 [35|off=0x1580|chars=61]
-Franco: Bom, acho que nao devemos\nnos preocupar tanto com
+Franco: Bem, nao devemos nos\npreocupar tanto com isso.       
 
 [36|off=0x1606|chars=11]
 Moonlight:
 
 [37|off=0x161e|chars=76]
-P!\nVi uma coisa estranha parecendo\num bicho de pelucia no novo quarto.
+P!\nVi uma coisa estranha parecida\ncom bicho de pelucia no novo quarto.      
 
 [38|off=0x16c2|chars=51]
-Moonlight: Voce fez isso?\nMuito impressionante!
+Moonlight: Voce fez isso?\nMuito impressionante!    
